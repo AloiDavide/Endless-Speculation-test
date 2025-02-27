@@ -25,6 +25,19 @@
 > - The framing of the [[Bottled letters in the future\|Bottled letters in the future]] would suggest that Legend is yet another letter, but who says that any of them recount the real story?
 
 
+> [!note]+ Title
+> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
+> 
+> ---
+> Leads:
+> -  __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__ 
+>   We can beat this red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
+> - Maybe after seeing the spitting image of Beatrice the Ushiromiya parents want to keep it a secret.
+> ---
+> Obstacles:
+> - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
+
+
 
 - [ ] [[Mysteries/Rose garden storehouse\|Rose garden storehouse]]
 - [ ] [[Mysteries/Eva and Hideyoshi's room in the mansion\|Eva and Hideyoshi's room in the mansion]]

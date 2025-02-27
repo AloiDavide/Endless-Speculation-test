@@ -68,4 +68,45 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 > - Higurashi parallels.
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-rhymes-of-magic/#592946" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!note]+ Knowledge of the loops
+> Every meta character who sees and references events from multiple episodes is somebody who is aware of the bottled letters in reality.
+> 
+> This would include:
+> - Sayo as Beatrice, Kanon and Shannon
+> - X Beato as herself
+> - Genji as himself and Ronove
+> - Kumasawa as Virgilia
+> - Ange (retroactively from the future)
+> - EVA Beatrice (either retroactively or because she was there)
+> - Possibly Nanjo?
+> 
+> We notably can't make this claim about Kinzo and Maria.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]+ Kasumi Sumadera is EVA Beatrice.
+> If we absolutely must find her an identity among the known characters, it would have to be [[Characters/Kasumi\|Kasumi]].
+> 
+> ---
+> Leads:
+> - Kyrie could be said to have surrendered when faced with her family's trials.
+> - She does literally show up layered over Kasumi  to represent the [[Black Magic\|Black Witch]].
+> - There was a big deal in Banquet about the cigarette Kyrie had in her pocket that didn't actually lead anywhere, and later on Kasumi is confirmed to be a smoker.
+> 
+> Cons:
+> - It disqualifies her from being the future Eva we need for [[Characters/Eva#Theories\|this]] theory.
+> - The black witch framework is applied to Rosa and Maria as well.
+
+</div></div>
+
 If Bern represents the Reader, then Lambda is the author who will keep you hooked, never quite giving you enough of the solution to feel satisfied.

@@ -1,69 +1,53 @@
+:root {
+  --text-accent: rgb(211, 112, 18);
+}
 body {
+  :root {
+    --text-accent: rgb(211, 112, 18);
+  }
+
+  h1 {
+    color: white;
+  }
+
+  h2 {
+      color: white;
+  }
+
+  h3 {
+      color: white;
+  }
+
+  h4 {
+      color: white;
+  }
+
   --embed-border-start: none;
 	--embed-padding: 0;
 
   /*Works on all existing bold links*/
-.red-links .cm-strong a{
-	color: red !important;
-	font-size: 1.2rem;
-	font-weight: 700;
-
-	/*	background-color: ;*/
-}
+  .red-links .cm-strong a{
+    color: red !important;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
 
 
-  /*works on chapel*/
   .red-links strong .internal-link{ 
     color: red !important;
     font-size: 1.2rem;
     font-weight: 700;
-    /*	background-color: ;*/
   }
 
   .red-truth strong{
     color: red;
   }
 
+  
   .blue-truth em, .blue-truth .cm-em{
-    color: aqua;
+    color: rgb(48, 190, 247);
   }
 
-  /*Works on all existing bold links*/
-  .blue-links .cm-strong a{
-    color: aqua !important;
-    font-size: 1.2rem;
-    font-weight: 700;
-
-    /*	background-color: ;*/
-  }
-
-
-  /*works on chapel*/
-  .blue-links strong .internal-link{ 
-    color: aqua !important;
-    font-size: 1.2rem;
-    font-weight: 700;
-    /*	background-color: ;*/
-  }
-
-  .red-truth strong{
-    color: red;
-  }
-
-
-  .red-lists .HyperMD-list-line span{
-    color: red;
-  }
-
-
-
-  .red-truth .cm-strong{
-    color: red;
-  }
-
-  .red-headings .cm-header-1, .red-headings .cm-header-2, .red-headings .cm-header-3, .red-headings .cm-header-4, .red-headings :is(h1, h2, h3, h4, h5, h6){
-    color: red;
-  }
 
   [data-callout="note"] {
     color: skyblue;

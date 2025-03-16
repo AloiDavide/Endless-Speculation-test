@@ -25,6 +25,10 @@ body {
   --embed-border-start: none;
 	--embed-padding: 0;
 
+  a.is-unresolved {
+    color: rgba(211, 111, 18, 0.65);
+  }
+
   /*Works on all existing bold links*/
   .red-links .cm-strong a{
     color: red !important;

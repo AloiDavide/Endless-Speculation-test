@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","tags":["servant","furniture"]}
+{"dg-publish":true,"permalink":"/characters/shannon/","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-16T15:44:30.754+01:00"}
 ---
 
 Servant Shannon
@@ -72,7 +72,7 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 The witnesses at least realized that the stake wasn’t what killed her. 
 # Theories
-Shannon is not student Beato if we trust the marks on their legs in the sprites.
+**Shannon** is not *student* Beato if we __trust__ the _marks_ on their legs in the sprites.
 
 > [!failure]+ Miss
 > Shannon did not die on the first night in [[Legend of the Golden witch\|Legend of the Golden witch]], a different corpse was disguised as hers.
@@ -83,26 +83,54 @@ Shannon is not student Beato if we trust the marks on their legs in the sprites.
 > **Contraddiction**:
 > - Beato breaks this theory when she confirms the identities of every unidentified corpse in Legend [[Red Truth#Crime Scene of the Parlor\|Red Truth#Crime Scene of the Parlor]]
 
-> [!note]+ Hypothesis
-> Shannon and Kanon are the two identities of Sayo.
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#1e79d6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!note]+ Shannon and Kanon are the two identities of Sayo
+> It started as a meme but there is too much circumstantial evidence to ignore. It seems Shannon, who will be henceforth be called Sayo as she claimed that to be her real name, is not one servant but two.
 > 
 > ---
 > Leads:
 > - In 4 episodes they have yet to appear together in a scene where Battler is present. Even when Battler is going around examining every corpse, Kanon is missing.
-> - We get down to 16 people.
+> - We get down to 16 people this way, there's no other way that isn't extremely contrived.
 > - Being made up characters who don't really exist in reality would give sense and pathos to their struggle to be human in the meta narrative. At least for Kanon.
+> - Kanon has been working there for only the last three years.
+> - Kanon has a feminine voice.
+> - Shannon told George her real name, but Kanon couldn't do the same when asked by Jessica.
 > 
 > Cons
 > - Sometimes you need to steer around some reds to claim they always die and live at the same time.
-> - Kanon's personal dilemmas at the start of turn are weird under this perspective.
+> - Kanon's personal dilemmas at the start of turn are weird under this perspective, but the same scene can also be seen as forshadowing.
 
-> [!note]+ Hypothesis
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#619d5f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!note]+ Kinzo created Shannon and Kanon
 > Sayo is Kinzo's (not necessarily blood related) granddaughter and daughter of the Beatrice that fell off the cliff 19 years ago. Kinzo wants to hide her identity so he raised her in his Orphanage under a different name.
+> 
+> Later he made her take on another identity.
 > 
 > ---
 > Leads:
-> - Shannon is the first furniture created by Kinzo, Kanon is the second, better made furniture. 
+> - The age fits with the timeframe of Rosa's flashback.
+> - Shannon is the first furniture created only by Kinzo, Kanon is the second, better made furniture. The problem with Shannon was that she had a heart.
 > - Beatrice was raised by Virgilia and she mentions her grandfather in the flashback at the start of Banquet.
+>  - It sounds crazy to suggest that nobody would notice if two servants are never together in the same room for years on end, but it becomes a lot more believable when you add Kinzo pulling the strings. Let's also remember that what servants are at the mention often changes, so they wouldn't have to be together so often.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#3df2a4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 > [!note]+ The witch Beatrice is the stand of Sayo
 > Sayo is Beatrice in the sense that she is behind most of the murders. Some part of it might come from Kinzo, but now Sayo is on charge and she aims to make the cases appear magical to Battler. 
@@ -116,6 +144,14 @@ Shannon is not student Beato if we trust the marks on their legs in the sprites.
 > - It's very easy for her to give Maria the letters.
 > - Shannon and Kanon come up over and over as possible solutions to the murders.
 
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#93d874" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 > [!note]+ Sayo isn't X Beatrice
 > Sayo is distinct from [[Characters/X Beatrice\|X Beatrice]], they are two different people.
 > 
@@ -124,6 +160,8 @@ Shannon is not student Beato if we trust the marks on their legs in the sprites.
 > - The [[Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
 > - Beatrice is not "one individual woman" according to Bernkastel.
 > - The two of them interact in the meta layer near the end of Alliance in a way that suggests two people with similar goals.
+
+</div></div>
 
 
 > [!note]+ They've got motives

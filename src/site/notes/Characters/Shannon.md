@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-16T15:44:30.754+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-links","tags":["servant","furniture"],"created":"2025-03-06T14:24:07.786+01:00","updated":"2025-03-17T15:27:50.225+01:00"}
 ---
 
 Servant Shannon

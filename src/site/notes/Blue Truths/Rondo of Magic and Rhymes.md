@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.163+01:00","updated":"2025-03-18T18:30:07.387+01:00"}
+{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.163+01:00","updated":"2025-03-18T18:33:57.600+01:00"}
 ---
 
 A repository of every blue truth related to the mechanics of magic in Umineko.
@@ -8,7 +8,7 @@ Any scene not witnessed by a character we can trust (in the most strict cases on
 
 Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0).
 
-<iframe width="700" height="415"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://www.youtube.com/watch?v=yFqFLo_bYq0)
 
@@ -116,7 +116,7 @@ Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.yout
 > 
 > ---
 > Leads:
-> - 
+> - Justification...
 > ---
 > Obstacles:
 > - optional

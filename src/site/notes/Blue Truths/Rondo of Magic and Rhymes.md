@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-10T08:50:43.533+01:00","updated":"2025-03-18T17:33:12.149+01:00"}
+{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.163+01:00","updated":"2025-03-18T18:30:07.387+01:00"}
 ---
 
 A repository of every blue truth related to the mechanics of magic in Umineko.
 
 Any scene not witnessed by a character we can trust (in the most strict cases only Battler) is to be taken with an ocean, let alone a grain of salt, but we believe there is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events.
 
-Or as George Lucas would put it.
+Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0).
+
+<iframe width="700" height="415"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://www.youtube.com/watch?v=yFqFLo_bYq0)
 
 ---
@@ -23,9 +26,8 @@ Or as George Lucas would put it.
 
 
 
-
 > [!note]+ Knowledge of the loops
-> Every meta character who sees and references events from multiple episodes is somebody who is aware of the bottled letters in reality.
+> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Bottled letters\|bottled letters]] that have been found in the future.
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
@@ -85,7 +87,7 @@ Or as George Lucas would put it.
 > ---
 > Leads:
 > - If the truth about what transpired on Rokkenjima were to be revealed, that means Battler will have won and the black box will be broken.
-> - The framing of the [[Bottled letters in the future\|Bottled letters in the future]] would suggest that Legend is yet another letter, but who says that any of them recount the real story?
+> - The framing of the [[Bottled letters\|Bottled letters]] would suggest that Legend is yet another letter, but who says that any of them recount the real story?
 { #d60ecf}
 
 
@@ -201,3 +203,30 @@ Or as George Lucas would put it.
 { #93d874}
 
 
+> [!note]+ There is only one future
+> The future Ange lives in is the only future and it follows from the real course of events, all the different episodes are just different stories passed down as [[Bottled letters\|bottled letters]]. 
+
+{ #589b88}
+
+
+> [!note]+ Rokkenjima is in a superposition because of the letters
+> Nobody really knows what happened there, all we have are the [[Bottled letters\|bottled letters]] all giving a different account of the events, and the four episodes we see are four of such letters, out of an unknown amount. 
+> 
+> From a magical point of view, it's this uncertainty that allows the entire island to cycle through endless possibilities and be regularly populated by witches and demons. A perfect schrodinger's box.
+> 
+> ---
+> Leads:
+> - Beatrice "never lets the dice fall" according to Bernkastel. You never get to see the result so she can keep feeding you different versions of the same story. A true nightmare for someone who systematically rules out wrong approaches like Bern.
+> - [[Bernkastel's letter#Rule Y\|Bernkastel's letter#Rule Y]] : Beatrice has opened up a world in a way none of the other witches expected.
+{ #22646f}
+
+
+> [!note]+ Something consistently kills everybody at midnight on the second day
+> Claim...
+> 
+> ---
+> Leads:
+> - 
+> ---
+> Obstacles:
+> - optional

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/turn-of-the-golden-witch/"}
+{"dg-publish":true,"permalink":"/turn-of-the-golden-witch/","created":"2025-02-27T17:44:12.209+01:00","updated":"2025-02-27T18:08:15.483+01:00"}
 ---
 
 - [x] Who writes the character descriptions in turn?
@@ -87,10 +87,10 @@ Finals
 
 
 ## Tips
-- [[The Portrait Epitaph\|The Portrait Epitaph]]
--  [[The Witch's Letters\|The Witch's Letters]]
-- [[Record of Turn of the Golden Witch\|Record of Turn of the Golden Witch]]
-- [[Golden Butterfly Brooch\|Golden Butterfly Brooch]]
+- [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
+-  [[Tips/The Witch's Letters\|The Witch's Letters]]
+- [[Tips/Game Records/Record of Turn of the Golden Witch\|Record of Turn of the Golden Witch]]
+- [[Tips/Golden Butterfly Brooch\|Golden Butterfly Brooch]]
 # Axioms
 - [[Characters/Beatrice\|Beatrice]] gave envelopes to [[Characters/Rosa\|Rosa]] and [[Characters/Maria\|Maria]].
 - You can only unlock the door to the chapel with the single existing chapel's key, and if it's closed no one can enter or exit.

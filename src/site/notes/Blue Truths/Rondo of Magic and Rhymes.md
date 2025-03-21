@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.163+01:00","updated":"2025-03-18T18:33:57.600+01:00"}
+{"dg-publish":true,"permalink":"/blue-truths/rondo-of-magic-and-rhymes/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.163+01:00","updated":"2025-03-18T20:09:46.057+01:00"}
 ---
 
 A repository of every blue truth related to the mechanics of magic in Umineko.
@@ -186,7 +186,7 @@ Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.yout
 > 
 > ---
 > Leads:
-> - She is the only person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Mariage Sorcière\|Mariage Sorcière]].
+> - She is the only person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Tips/Mariage Sorcière\|Mariage Sorcière]].
 > - It's very easy for her to give Maria the letters.
 > - Shannon and Kanon come up over and over as possible solutions to the murders.
 { #3df2a4}
@@ -217,7 +217,7 @@ Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.yout
 > ---
 > Leads:
 > - Beatrice "never lets the dice fall" according to Bernkastel. You never get to see the result so she can keep feeding you different versions of the same story. A true nightmare for someone who systematically rules out wrong approaches like Bern.
-> - [[Bernkastel's letter#Rule Y\|Bernkastel's letter#Rule Y]] : Beatrice has opened up a world in a way none of the other witches expected.
+> - [[Tips/Bernkastel's letter#Rule Y\|Bernkastel's letter#Rule Y]] : Beatrice has opened up a world in a way none of the other witches expected.
 { #22646f}
 
 
@@ -230,3 +230,36 @@ Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.yout
 > ---
 > Obstacles:
 > - optional
+
+
+> [!note]+ Kinzo's magical compendium
+> It's based on arithmetic miracles, his idea of magic involves taking huge risks for huge rewards. This is probably related to how he became the head of the family apparently by dumb luck, and how he bluffed his way to becoming a millionare by making crazy investments, almost as if he had 10 tons of gold lying around.... Not that the gold ever existed though.
+> 
+{ #c64381}
+
+
+> [!note]+ Kinzo summoning Beatrice
+> Kinzo's specialty is summoning, he absolutely sucks at everything else. 
+> As said in [[Tips/Letter from a Summoner\|Letter from a Summoner]], it's a type of magic that requires a vessel, as well as a huge amount of preparation in order to manifest a miracle permanently.
+> 
+> It's possible Kinzo's idea of summoning beatrice was to spend a very long time, decades perhaps, to raise a person in isolation and mold her into his ideal of the witch. That unfortunate person would have been [[Characters/0 Beatrice\|0 Beatrice]].
+> 
+> The vessel idea is also interesting considering he probably was the first to come up with the whole furniture thing.
+{ #1827ec}
+
+
+
+> [!note]+ Beatrice's Titles
+> [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Endless Witch\|endless]] and [[Magical Concepts/Golden Witch\|golden]]) might be passed down through different unrelated means.
+> 
+> --- 
+> Leads:
+> 
+> During the coronation of Evato, Beatrice confirms she is inheriting both titles:
+> ![Pasted image 20241106234042.png](/img/user/Attachments/Pasted%20image%2020241106234042.png)
+>
+> But while according to Maria's diary the main criterion for coronating a golden witch seems to be solving the epitaph, the sequence of endless witches as described in the tip seems to be a lot older, pre-dating Virgilia by some generations.
+>  ![Pasted image 20241106234411.png](/img/user/Attachments/Pasted%20image%2020241106234411.png)
+{ #c70983}
+
+

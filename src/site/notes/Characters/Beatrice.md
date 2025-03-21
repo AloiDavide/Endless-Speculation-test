@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"]}
+{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-03-16T16:40:42.780+01:00"}
 ---
 
 Beatrice
-![Mugshots/beatrice.png|beatrice.png](/img/user/Mugshots/beatrice.png)
-
+![beatrice.png](/img/user/Mugshots/beatrice.png)
 
 # Descriptions
 
 ## Legend
 ### Rokkenjima
 #### 1
-The [[Golden Witch\|Golden Witch]], who has lived for a thousand years.
+The [[Magical Concepts/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
@@ -24,7 +23,7 @@ However, there does exist just one way to kill me. You hold that method in the p
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
 ### Tea party
 #### 1
-The [[Golden Witch\|Golden Witch]], who has lived for a thousand years.
+The [[Magical Concepts/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
@@ -38,14 +37,14 @@ Hihihihihihihihihihihi! Heheheheheheheheheheh!
 ## Turn
 ### Rokkenjima
 #### 1
-The [[Golden Witch\|Golden Witch]], who has lived for a thousand years.
+The [[Magical Concepts/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
 She likes black tea and ice cream. She hates boredom and people who deny her existence.
 #### 2
 The mysterious visitor and 19th person who appeared on the day of the family conference.  
-She goes by the same name as the [[Golden Witch\|Golden Witch]] who gave the gold to [[Characters/Kinzo\|Kinzo]].  
+She goes by the same name as the [[Magical Concepts/Golden Witch\|Golden Witch]] who gave the gold to [[Characters/Kinzo\|Kinzo]].  
 
 Her reasons for visiting are unknown.  
 
@@ -68,7 +67,7 @@ This witch is extremely powerful, but word has it that she sometimes becomes obs
 ## Banquet
 ### Rokkenjima
 #### 1
-The [[Golden Witch\|Golden Witch]], who has lived for a thousand years.
+The [[Magical Concepts/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
@@ -103,7 +102,7 @@ However, that power is meaningless. No matter how many times you multiply someth
 
 However, when she was blessed by a miracle that gave birth to 1 in that sea, her world became endless.
 
-When she was joined with the [[Titles/Witch of Origins\|Witch of Origins]] through [[Mariage Sorcière\|Mariage Sorcière]], their [[Magical Compendiums\|magical compendium]] gained an endless span, as well as endless power.
+When she was joined with the [[Magical Concepts/Witch of Origins\|Witch of Origins]] through [[Tips/Mariage Sorcière\|Mariage Sorcière]], their [[Tips/Magical Compendiums\|magical compendium]] gained an endless span, as well as endless power.
 
 
 # Notes
@@ -111,8 +110,8 @@ When she was joined with the [[Titles/Witch of Origins\|Witch of Origins]] throu
 
 [[Endless Realization\|Endless Realization]]
 [[Endless Witch\|Endless Witch]]
-[[Golden Witch\|Golden Witch]]
-[[Beatrice's Titles\|Beatrice's Titles]]
+[[Magical Concepts/Golden Witch\|Golden Witch]]
+[[Tips/Beatrice's Titles\|Beatrice's Titles]]
 [[Mysteries/Beatrice's Definitions\|Beatrice's Definitions]]
 
 We shall call the Beato that shows up in Rokkenjima X Beato because she is non actually Beatrice and she is person X.

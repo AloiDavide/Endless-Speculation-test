@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch"]}
+{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-03-16T16:50:09.360+01:00"}
 ---
 
 Ushiromiya Battler
@@ -10,7 +10,7 @@ age:: 18
 ## Legend
 ### Rokkemjima
 #### 1
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -24,7 +24,7 @@ Hopefully, even this fool will be able to see you before too long...
 ## Turn
 ### Rokkenjima
 #### 1
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -54,7 +54,7 @@ Perhaps it’s understandable that Beatrice tried to crush it as soon as possibl
 ## Banquet
 ### Rokkenjima
 #### 1
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -62,7 +62,7 @@ This family conference is a chance for him to renew his friendship with his cous
 #### 2
 Shot to death by Ushiromiya [[Characters/Eva\|Eva]] inside the mansion.  
 
-The weapon was a [[Winchester M1984 Sawed off\|Winchester]] from [[Characters/Kinzo\|Kinzo]]'s collection.  
+The weapon was a [[Tips/Winchester M1984 Sawed off\|Winchester]] from [[Characters/Kinzo\|Kinzo]]'s collection.  
 
 [[Characters/Jessica\|Jessica]] had lost her eyesight. Alone with Battler.  
 
@@ -70,7 +70,7 @@ Wolves and sheep puzzle.
 ## Alliance
 ### Rokkenjima
 #### 1
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -111,12 +111,12 @@ X beato is more personally wounded, sayo enacts revenge for her sister?
 - (Beato) __I am the golden witch Beatrice. And I opened this game in order to fight Ushiromiya Kinzo's grandchild, Ushiromiya Battler.__
 - (Battler) __Ushiromiya Battler's mother is Ushiromiya Asumu.__
 - (Battler) __My name is Ushiromiya Battler__
-- (Battler) __It was from Ushiromiya [[Ushiromiya Asumu\|Asumu]] that Ushiromiya Battler is born.__
+- (Battler) __It was from Ushiromiya [[Characters/Ushiromiya Asumu\|Asumu]] that Ushiromiya Battler is born.__
 - Battler tries to repeat "It was from Ushiromiya Asumu that I was born" but he can only say __It was from Ushiromiya__......nghu, ......?!
 - __You are not Ushiromiya Asumu's son__.
 
 > [!note]+ Deduction
-> Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and [[Ushiromiya Asumu\|Ushiromiya Asumu]]'s stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
+> Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]]'s stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.

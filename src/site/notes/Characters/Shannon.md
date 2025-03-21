@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-links","tags":["servant","furniture"],"created":"2025-03-06T14:24:07.786+01:00","updated":"2025-03-17T15:27:50.225+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-17T15:37:17.257+01:00"}
 ---
 
 Servant Shannon
@@ -140,7 +140,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > 
 > ---
 > Leads:
-> - She is the only person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Mariage Sorcière\|Mariage Sorcière]].
+> - She is the only person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Tips/Mariage Sorcière\|Mariage Sorcière]].
 > - It's very easy for her to give Maria the letters.
 > - Shannon and Kanon come up over and over as possible solutions to the murders.
 

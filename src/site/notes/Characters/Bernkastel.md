@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bernkastel/","tags":["witch"]}
+{"dg-publish":true,"permalink":"/characters/bernkastel/","tags":["witch"],"created":"2025-02-27T17:44:13.186+01:00","updated":"2025-03-08T13:18:13.631+01:00"}
 ---
 
-#### [[Bernkastel's letter\|Bernkastel's letter]]
+#### [[Tips/Bernkastel's letter\|Bernkastel's letter]]
 ![Mugshots/bernkastel.png|bernkastel.png](/img/user/Mugshots/bernkastel.png)
 # Descriptions
 
 ## Legend
 ### Tea Party
 #### 1
-The [[Titles/Witch of the Fragments\|Witch of the Fragments]], who has lived a thousand years.
+The [[Magical Concepts/Witch of the Fragments\|Witch of the Fragments]], who has lived a thousand years.
 
 It is said she lives in a world where the concepts of fate and possibilities can be visualized. She observes the fate of humans and sometimes interferes.
 
@@ -23,7 +23,7 @@ That’s why I’m fickle and whimsical. I live as I please, die as I please, an
 ## Turn
 ### Tea Party
 #### 1
-The [[Titles/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.  
+The [[Magical Concepts/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.  
 Her vast power is capable of creating all kinds of miracles, but her heart has broken a bit as a result.  
 
 Back when she was a human, [[Characters/Lambdadelta\|Lambdadelta]] once imprisoned her within a cruel fate, toying with her the whole time. As a result, it seems she’s unable to abandon others who are caught within a similar fate.  
@@ -34,7 +34,7 @@ Yet, she did fold it a hundred times.
 ## Banquet
 ### Tea Party
 #### 1
-The [[Titles/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.
+The [[Magical Concepts/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.
 Her vast power is capable of creating all kinds of miracles, but her heart has broken a bit as a result.
 
 Back when she was a human, [[Characters/Lambdadelta\|Lambdadelta]] once imprisoned her within a cruel fate, toying with her the whole time. As a result, it seems she's unable to abandon others who are caught within a similar fate.
@@ -45,9 +45,9 @@ Yet, she did fold it a hundred times.
 ## Alliance
 ### Tea Party
 #### 1
-The [[Titles/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years. To defeat [[Characters/Beatrice\|Beatrice]] in her game, she threw in a piece called [[Characters/Ange\|ANGE]].
+The [[Magical Concepts/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years. To defeat [[Characters/Beatrice\|Beatrice]] in her game, she threw in a piece called [[Characters/Ange\|ANGE]].
 
-The [[Regarding Voyagers\|Voyager]] witches who cross the [[sea of Fragments\|sea of Fragments]] are beings far superior to the witches who cannot leave their own territories.
+The [[Tips/Regarding Voyagers\|Voyager]] witches who cross the [[sea of Fragments\|sea of Fragments]] are beings far superior to the witches who cannot leave their own territories.
 
 While they may be on an even footing inside this territory, her true magical power far surpasses that of Beatrice.
 
@@ -68,12 +68,12 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 > - Higurashi parallels.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-rhymes-of-magic/#592946" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#592946" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 > [!note]+ Knowledge of the loops
-> Every meta character who sees and references events from multiple episodes is somebody who is aware of the bottled letters in reality.
+> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Bottled letters\|bottled letters]] that have been found in the future.
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
@@ -100,7 +100,7 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 > ---
 > Leads:
 > - Kyrie could be said to have surrendered when faced with her family's trials.
-> - She does literally show up layered over Kasumi  to represent the [[Black Magic\|Black Witch]].
+> - She does literally show up layered over Kasumi  to represent the [[Magical Concepts/Black Magic\|Black Witch]].
 > - There was a big deal in Banquet about the cigarette Kyrie had in her pocket that didn't actually lead anywhere, and later on Kasumi is confirmed to be a smoker.
 > 
 > Cons:

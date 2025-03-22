@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/alliance-of-the-golden-witch/"}
+{"dg-publish":true,"permalink":"/alliance-of-the-golden-witch/","created":"2025-02-27T17:44:11.764+01:00","updated":"2025-03-18T20:10:38.769+01:00"}
 ---
-
-
-Eplain the [[Bottled letters in the future\|Bottled letters in the future]]
 
 
 ---
@@ -156,16 +153,13 @@ Kinzo's corpse in the boiler room
 Godha and Kumasawa have gun wounds on the head
 
 
-
-
-
-
 - __[[Characters/Kanon\|Kanon]] is dead. Among the five people in Kyrie's group, he was the first to die. In short, he was the 9th victim.__
+
 ## Tips
-[[Mariage Sorcière\|Mariage Sorcière]]
-[[Magical Compendiums\|Magical Compendiums]]
-[[Grimoires\|Grimoires]]
-[[Beatrice's Titles\|Beatrice's Titles]]
-[[Regarding Witches\|Regarding Witches]]
-[[Regarding Voyagers\|Regarding Voyagers]]
-[[Regarding Creators\|Regarding Creators]]
+[[Tips/Mariage Sorcière\|Mariage Sorcière]]
+[[Tips/Magical Compendiums\|Magical Compendiums]]
+[[Tips/Grimoires\|Grimoires]]
+[[Tips/Beatrice's Titles\|Beatrice's Titles]]
+[[Tips/Regarding Witches\|Regarding Witches]]
+[[Tips/Regarding Voyagers\|Regarding Voyagers]]
+[[Tips/Regarding Creators\|Regarding Creators]]

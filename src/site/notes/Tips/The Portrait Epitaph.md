@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-portrait-epitaph/"}
+{"dg-publish":true,"permalink":"/tips/the-portrait-epitaph/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.156+01:00","updated":"2025-03-18T19:52:22.185+01:00"}
 ---
 
 ## Epitaph
@@ -68,16 +68,26 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 # Theory
 
 
-> [!note]+ The epitaph isn't a scam.
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/nocturne-of-human-tricks/#86493e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!note]+ The epitaph isn't a scam
 > Actually solving the epitaph will give you some reward.
 > 
 > ---
 > Leads:
-> - According to Beatrice, just after she says that <font color="#ff0000">I keep my promises</font>, By solving the Riddle of the Epitaph you should be able to reach the [[Golden Land\|Golden Land]]
+> - According to Beatrice, just after she says **I keep my promises**, by solving the Riddle of the Epitaph you should be able to reach the [[Golden Land\|Golden Land]]
+
+</div></div>
 
 
 
-> [!note]+ Secret passage in the epitaph.
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/nocturne-of-human-tricks/#32b170" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!note]+ The epitaph leads you to the portrait
 > The epitaph points to a secret passage one can find by examining the portrait of Beatrice the right way.
 > 
 > ---
@@ -90,4 +100,4 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 > 	- 羽 = feather / wing
 > - Maybe the section of the painting with the wing effigy hides a key or some kind of mechanism.
 
-
+</div></div>

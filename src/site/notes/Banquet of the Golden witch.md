@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/banquet-of-the-golden-witch/"}
+{"dg-publish":true,"permalink":"/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-18T20:01:22.834+01:00"}
 ---
 
 __There are five master keys, one for each servant.__
@@ -142,9 +142,9 @@ Nanjo says his grandchild is sick, then Jessica hears a bang
 
 
 ## Tips
-[[The Portrait Epitaph\|The Portrait Epitaph]]
-[[The Witch's Letters\|The Witch's Letters]]
-[[Record of Banquet of the Golden Witch\|Record of Banquet of the Golden Witch]]
-[[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
-[[The Chiester Golden Bows\|The Chiester Golden Bows]]
-[[Regarding the Succession of Witches\|Regarding the Succession of Witches]]
+- [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
+- [[Tips/The Witch's Letters\|The Witch's Letters]]
+- [[Tips/Game Records/Record of Banquet of the Golden Witch\|Record of Banquet of the Golden Witch]]
+- [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
+- [[Tips/The Chiester Golden Bows\|The Chiester Golden Bows]]
+- [[Tips/Regarding the Succession of Witches\|Regarding the Succession of Witches]]

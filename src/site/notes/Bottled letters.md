@@ -13,7 +13,7 @@ The legend letter has been signed with Maria's name, but it's not her handwritin
 
 
 
-> [!note]+ Rokkenjima is in a superposition because of the letters
+> [!note]- Rokkenjima is in a superposition because of the letters
 > Nobody really knows what happened there, all we have are the [[Bottled letters\|bottled letters]] all giving a different account of the events, and the four episodes we see are four of such letters, out of an unknown amount. 
 > 
 > From a magical point of view, it's this uncertainty that allows the entire island to cycle through endless possibilities and be regularly populated by witches and demons. A perfect schrodinger's box.
@@ -31,7 +31,7 @@ The legend letter has been signed with Maria's name, but it's not her handwritin
 
 
 
-> [!note]+ There is only one future
+> [!note]- There is only one future
 > The future Ange lives in is the only future and it follows from the real course of events, all the different episodes are just different stories passed down as [[Bottled letters\|bottled letters]]. 
 
 </div></div>
@@ -42,7 +42,7 @@ The legend letter has been signed with Maria's name, but it's not her handwritin
 
 
 
-> [!note]+ The "canonical" version of the events will be the one where Battler wins the game.
+> [!note]- The "canonical" version of the events will be the one where Battler wins the game.
 > We just haven't seen it yet, because the mystery hasn't been solved.
 > 
 > ---

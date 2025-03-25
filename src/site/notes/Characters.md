@@ -8,12 +8,12 @@
 - [[Characters/Virgilia\|Virgilia]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Lambdadelta\|Lambdadelta]]
-- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Kinzo\|Kinzo]]
 
 { .block-language-dataview}
 
@@ -37,7 +37,6 @@
 - [[Characters/Maria\|Maria]]
 - [[Characters/Natsuhi\|Natsuhi]]
 - [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Krauss\|Krauss]]
 - [[Characters/Jessica\|Jessica]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
@@ -46,6 +45,7 @@
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Kinzo\|Kinzo]]
 
 { .block-language-dataview}
 

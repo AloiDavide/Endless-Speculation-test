@@ -21,7 +21,7 @@ Furthermore, during the story, Beatrice inherited that name along with the posit
 
 
 
-> [!note]+ Beatrice's Titles
+> [!note]- Beatrice's Titles
 > [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Endless Witch\|endless]] and [[Speculation/Golden Witch\|golden]]) might be passed down through different unrelated means.
 > 
 > --- 

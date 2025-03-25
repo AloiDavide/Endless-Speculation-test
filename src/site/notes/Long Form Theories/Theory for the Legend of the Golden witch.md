@@ -201,7 +201,7 @@ Beatrice's profile says that there is only one way to kill her, and We hold it o
 
 
 
-> [!note]+ Sayo gives Maria the letter and Umbrella
+> [!note]- Sayo gives Maria the letter and Umbrella
 > ---
 > Leads:
 > - This is somebody she could have interacted with repeatedly every time she came to Rokkenjima, enough to create Mariage Sorcière.
@@ -236,7 +236,7 @@ We don't know when or how he kicked the bucket, but we suppose it wasn't peacefu
 
 
 
-> [!note]+ Kinzo was murdered
+> [!note]- Kinzo was murdered
 > Kinzo died before the start of the game, and it's not by old age or illness, but he was attacked and killed.
 > We're not saying Krauss did it because he wouldn't have the balls.
 > 
@@ -262,7 +262,7 @@ We can often draw parallels between them and the real events. For instance, inte
 
 
 
-> [!note]+ The Kinzo damage control squad
+> [!note]- The Kinzo damage control squad
 > It would be fair to say that only people who are aware of Kinzo's death are allowed to have fake scenes where they meet him.
 > 
 > The people in the know would have to include, at a minimum:
@@ -306,7 +306,7 @@ Afterward they lock the door and Natsuhi holds onto the key from that point forw
 
 
 
-> [!failure]+ Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
+> [!failure]- Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
 > The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
 > 
 > ---
@@ -359,7 +359,7 @@ What's relevant is that Natsuhi couldn't do anything to deny this accusation, bu
 
 
 
-> [!note]+ The receipt is not proof against Natsuhi
+> [!note]- The receipt is not proof against Natsuhi
 > Needless to say, Natsuhi wasn't really the last person to see Kinzo before he disappeared, but she had to lie about seeing him because she couldn't let anyone know Kinzo was dead from the start, despite how suspicious it made her look at that moment.
 
 </div></div>
@@ -379,7 +379,7 @@ This is a very straight forward case of a group of culprits making up alibis for
 
 
 
-> [!note]+ Eva and Hideyoshi's closed room was not a closed room
+> [!note]- Eva and Hideyoshi's closed room was not a closed room
 > No closed room existed there, it's just what [[Characters/Kanon\|Kanon]] and [[Characters/Genji\|Genji]] said.
 > 
 > ---
@@ -396,7 +396,7 @@ This is a very straight forward case of a group of culprits making up alibis for
 
 
 
-> [!note]+ Kanon and Genji made the magic signs on Eva's door.
+> [!note]- Kanon and Genji made the magic signs on Eva's door.
 > According to the narration, Kanon would have gone to featch a wire cutter with Kumasara, and upon getting back they found a magic circle that wasn't there just a few minutes earlier.
 > 
 > That is a falsehood.
@@ -425,7 +425,7 @@ He dies offscreen under the supervision of Nanjo.
 
 
 
-> [!note]+ Kanon did not die... at all!
+> [!note]- Kanon did not die... at all!
 > Why assume he died when they could just as easily have faked it.
 > 
 > ---
@@ -459,7 +459,7 @@ Kinzo, whom we know was dead from the beginning, is found charred inside the inc
 
 
 
-> [!note]+ Kinzo's burned corpse
+> [!note]- Kinzo's burned corpse
 > Kinzo's body was burned in the incinerator recently.
 > 
 > ---
@@ -480,7 +480,7 @@ We have a couple theories, the first is straight forward, but it leaves a few ga
 
 
 
-> [!note]+ Krauss burns Kinzo in the boiler room
+> [!note]- Krauss burns Kinzo in the boiler room
 > It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
 > He probably didn't think of the smell. He was never the brightest.
 > 
@@ -505,7 +505,7 @@ The second theory is a lot more sturdy... however it will take more than this ep
 
 
 
-> [!note]+ The servants burn Kinzo in the boiler room
+> [!note]- The servants burn Kinzo in the boiler room
 > The servants are trying to push the narrative of magical murders, so they slowly incinerate Kinzo so that his body will be found with a delay. 
 > 
 > ---
@@ -530,7 +530,7 @@ Genji ci da della lore su beatrice ma non serve specularci ora, la menzioniamo q
 
 
 
-> [!note]+ Maria placed the letter on the table in the study
+> [!note]- Maria placed the letter on the table in the study
 > The golden witch, that is to say Sayo, gave her the letter and told her to make it look as if the it appeared out of thin air. So that is exactly what she did. 
 > 
 > ---
@@ -562,7 +562,7 @@ After the phone call with Maria singing, Natsuhi's group goes down to the Parlor
 
 
 
-> [!note]+ The servants were betrayed in the parlor
+> [!note]- The servants were betrayed in the parlor
 > Sayo couldn't get into the study because it was locked, so she had to turn on her allies as a means to reach her goal... no, as a goal to reach her means.
 > 
 > After killing them she started the phone call, left the room, and locked it the same way she opened it. With a master key.
@@ -581,7 +581,7 @@ After the phone call with Maria singing, Natsuhi's group goes down to the Parlor
 
 
 
-> [!note]+ Genji, Kumasawa, and Nanjo are not killers
+> [!note]- Genji, Kumasawa, and Nanjo are not killers
 > - Nanjo wasn't directly involved in any killing, all he did was lie.
 > - Kumasawa likewise didn't kill anybody herself, she would have been overpowered. Even if we suppose she attacked Kanon, he didn't die.
 > - This is a problem for Genji, but maybe one person is enough to carry out the murders and he just watches?
@@ -601,7 +601,7 @@ According to maria Natsuhi finds another letter and darts out without saying a w
 
 
 
-> [!note]+ The letter Natsuhi found in the parlor was a threat
+> [!note]- The letter Natsuhi found in the parlor was a threat
 > 
 > 
 > ---
@@ -628,7 +628,7 @@ According to maria Natsuhi finds another letter and darts out without saying a w
 
 
 
-> [!note]+ Natsuhi's death in Legend
+> [!note]- Natsuhi's death in Legend
 > She was shot by Sayo, who is still alive unbeknownst to us.
 > 
 > ---
@@ -647,7 +647,7 @@ It's worth mentioning a previous theory that no longer holds much credibility.
 
 
 
-> [!failure]+ Natsuhi gets replaced in Legend
+> [!failure]- Natsuhi gets replaced in Legend
 > Natsuhi was shot at some point previously, maybe during the murder of the first twilight, and from that point forward somebody else impersonates her. At the end her actual corpse is taken out
 > 
 > ---
@@ -685,7 +685,7 @@ What is the real version of the events?
 
 
 
-> [!note]+ Legend is the "canonical" version of the events.
+> [!note]- Legend is the "canonical" version of the events.
 > We were asked on more than one occasion which episode we expected to be the "real" one.
 > We don't know how many if any more games will happen in the answer arcs, so we choose Legend as the most likely candidate from the question arcs.
 >  
@@ -703,7 +703,7 @@ What is the real version of the events?
 
 
 
-> [!note]+ The "canonical" version of the events will be the one where Battler wins the game.
+> [!note]- The "canonical" version of the events will be the one where Battler wins the game.
 > We just haven't seen it yet, because the mystery hasn't been solved.
 > 
 > ---

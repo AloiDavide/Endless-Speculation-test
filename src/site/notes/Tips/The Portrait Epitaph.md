@@ -72,7 +72,7 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 
 
 
-> [!note]+ The epitaph isn't a scam
+> [!note]- The epitaph isn't a scam
 > Actually solving the epitaph will give you some reward.
 > 
 > ---
@@ -87,7 +87,7 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 
 
 
-> [!note]+ The epitaph leads you to the portrait
+> [!note]- The epitaph leads you to the portrait
 > The epitaph points to a secret passage one can find by examining the portrait of Beatrice the right way.
 > 
 > ---

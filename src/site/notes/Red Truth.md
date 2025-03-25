@@ -10,7 +10,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 
 
 
-> [!note]+ The red truths are true
+> [!note]- The red truths are true
 > Anything anybody says in red is definitely true. You need to factor in the context it's said in, and there's some leeway due to ambiguity, but if you try to say a false statement you won't be able to finish the sentence, implying the existence of an absolute truth.
 > 
 > - Why doesn't Battler use this to his advantage to try and repeat his own theories?

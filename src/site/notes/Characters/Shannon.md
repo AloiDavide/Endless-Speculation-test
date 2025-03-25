@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-25T16:42:48.003+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-25T16:55:31.968+01:00"}
 ---
 
 Servant Shannon
@@ -78,7 +78,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 
-> [!note]+ Shannon and Kanon are the two identities of Sayo
+> [!note]- Shannon and Kanon are the two identities of Sayo
 > It started as a meme but there is too much circumstantial evidence to ignore. It seems Shannon, who will be henceforth be called Sayo as she claimed that to be her real name, is not one servant but two.
 > 
 > ---
@@ -97,12 +97,11 @@ The witnesses at least realized that the stake wasn’t what killed her.
 </div></div>
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ Kinzo created Shannon and Kanon
+> [!note]- Kinzo created Shannon and Kanon
 > Sayo is Kinzo's (not necessarily blood related) granddaughter and daughter of the Beatrice that fell off the cliff 19 years ago. Kinzo wants to hide her identity so he raised her in his orphanage under a different name.
 > 
 > Later he made her take on another identity.
@@ -116,13 +115,11 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 </div></div>
 
-
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ The witch Beatrice is Sayo's stand
+> [!note]- The witch Beatrice is Sayo's stand
 > Sayo is Beatrice in the sense that she is behind most of the murders. We aren't sure to what extent Kinzo's will is involved, but now Sayo is in charge and she aims to convince Battler that magic exists by committing inexplicable crimes. 
 > Therefore, the Beatrice we know if her spiritual equivalent, aka.... her stand.
 > ![Pasted image 20250325162423.png](/img/user/Attachments/Pasted%20image%2020250325162423.png)
@@ -140,12 +137,11 @@ The witnesses at least realized that the stake wasn’t what killed her.
 { #b88433}
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ Sayo isn't X Beatrice
+> [!note]- Sayo isn't X Beatrice
 > Sayo is distinct from [[Characters/X Beatrice\|X Beatrice]], they are two different people.
 > 
 > ---
@@ -157,7 +153,11 @@ The witnesses at least realized that the stake wasn’t what killed her.
 </div></div>
 
 
-> [!note]+ Sayo's required accomplices all have a motive to help.
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Sayo's required accomplices all have a motive to help.
 > The other servants plus Nanjo all have motivations to be accomplices of Beatrice.
 > 
 > ---
@@ -167,3 +167,6 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > - Kumasawa's family also got the money, and she has a personal attachment to Sayo.
 > - Gohda will comply if threatened, he probably isn't even in on the plan from the start.
 > - This is probably circular evidence, but Ronove Viriglia and Gaap are shown taking orders from Beatrice, implying a relationship of servitude.
+
+</div></div>
+

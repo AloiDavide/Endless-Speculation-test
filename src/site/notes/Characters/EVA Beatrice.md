@@ -18,7 +18,7 @@ Such are the trials only geniuses may endure, and if she proves successful, her 
 Will she be able to overcome the trials that forced her predecessor to surrender?
 # Theories
 
-She is the face of the [[Magical Concepts/Black Magic\|Black Witch]] when Ange faces her.
+She is the face of the [[Speculation/Black Magic\|Black Witch]] when Ange faces her.
 
 - [ ] Who is her predecessor? We don't recall Beato ever surrendering.
 
@@ -39,7 +39,7 @@ But who's this dipshit if she isn't Eva?
 > ---
 > Leads:
 > - Kyrie could be said to have surrendered when faced with her family's trials.
-> - She does literally show up layered over Kasumi  to represent the [[Magical Concepts/Black Magic\|Black Witch]].
+> - She does literally show up layered over Kasumi  to represent the [[Speculation/Black Magic\|Black Witch]].
 > - There was a big deal in Banquet about the cigarette Kyrie had in her pocket that didn't actually lead anywhere, and later on Kasumi is confirmed to be a smoker.
 > 
 > Cons:

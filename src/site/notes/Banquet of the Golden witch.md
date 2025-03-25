@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-18T20:01:22.834+01:00"}
+{"dg-publish":true,"permalink":"/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-23T17:58:48.316+01:00"}
 ---
 
 __There are five master keys, one for each servant.__
@@ -12,7 +12,9 @@ Maybe Sayo lost control of the operation. I think that Sayo is having to deal wi
 - [x] Who writes the character descriptions in banquet?
 First Beatrice, then EVA Beatrice
 - [x] Who was talking with Virgilia at the start?
-It's Sayo, that sees Kinzo as her grandparent, because he was the responsable figure for 0 Beato, her mother. Or he just adopted her and she doesn't know about this.
+- It's Sayo, that sees Kinzo as her grandparent, because he was the responsable figure for [[Characters/0 Beatrice\|0 Beatrice]], her mother. Or he just adopted her and she doesn't know about this.
+- Alternatively it's [[Characters/0 Beatrice\|0 Beatrice]], the age gap with Kinzo was probably large enough to call him grandfather. This works because the scene with Virgilia seems to take place in Kuwadorian going off of the house in the backgrounds of both flashbacks. If that isn't Kuwadorian this is a major continuity error by the adaptation team.
+- In the Meta she is both people so she can be Sayo and also reminisce about her childhood in kuwadorian.
 - [x] Who is Evato?
 Either Kasumi or someone we don't know.
 - [x] Are student Evato and Dress evato different people? Does the same person always give the letter to Maria?

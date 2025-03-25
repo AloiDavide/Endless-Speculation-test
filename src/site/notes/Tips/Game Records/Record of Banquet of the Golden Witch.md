@@ -56,7 +56,7 @@ Foot gouged by the "[[Characters/The Seven Stakes of Purgatory\|Stake]] of [[Sat
   
 [[Characters/Beatrice\|The Witch Beatrice]]
 Revived on the ninth twilight.  
-This time, she awakened as a true [[Magical Concepts/Golden Witch\|Golden Witch]].  
+This time, she awakened as a true [[Speculation/Golden Witch\|Golden Witch]].  
   
 [[Characters/George\|Ushiromiya George]]
 Died on the ninth twilight.  

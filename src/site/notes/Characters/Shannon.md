@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-17T15:37:17.257+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-25T16:42:48.003+01:00"}
 ---
 
 Servant Shannon
@@ -72,19 +72,9 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 The witnesses at least realized that the stake wasn’t what killed her. 
 # Theories
-**Shannon** is not *student* Beato if we __trust__ the _marks_ on their legs in the sprites.
-
-> [!failure]+ Miss
-> Shannon did not die on the first night in [[Legend of the Golden witch\|Legend of the Golden witch]], a different corpse was disguised as hers.
->
-> **Evidence**:
-> - Her face is not clearly shown to the children, it seems that the adults are hiding it from them.
-> 
-> **Contraddiction**:
-> - Beato breaks this theory when she confirms the identities of every unidentified corpse in Legend [[Red Truth#Crime Scene of the Parlor\|Red Truth#Crime Scene of the Parlor]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#1e79d6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -100,7 +90,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > - Kanon has a feminine voice.
 > - Shannon told George her real name, but Kanon couldn't do the same when asked by Jessica.
 > 
-> Cons
+> Obstacles
 > - Sometimes you need to steer around some reds to claim they always die and live at the same time.
 > - Kanon's personal dilemmas at the start of turn are weird under this perspective, but the same scene can also be seen as forshadowing.
 
@@ -108,19 +98,19 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#619d5f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 > [!note]+ Kinzo created Shannon and Kanon
-> Sayo is Kinzo's (not necessarily blood related) granddaughter and daughter of the Beatrice that fell off the cliff 19 years ago. Kinzo wants to hide her identity so he raised her in his Orphanage under a different name.
+> Sayo is Kinzo's (not necessarily blood related) granddaughter and daughter of the Beatrice that fell off the cliff 19 years ago. Kinzo wants to hide her identity so he raised her in his orphanage under a different name.
 > 
 > Later he made her take on another identity.
 > 
 > ---
 > Leads:
 > - The age fits with the timeframe of Rosa's flashback.
-> - Shannon is the first furniture created only by Kinzo, Kanon is the second, better made furniture. The problem with Shannon was that she had a heart.
+> - According to their magical descriptions. Shannon is the first furniture created only by Kinzo, Kanon is the second, better made furniture. The problem with Shannon was that she had a heart.
 > - Beatrice was raised by Virgilia and she mentions her grandfather in the flashback at the start of Banquet.
 >  - It sounds crazy to suggest that nobody would notice if two servants are never together in the same room for years on end, but it becomes a lot more believable when you add Kinzo pulling the strings. Let's also remember that what servants are at the mention often changes, so they wouldn't have to be together so often.
 
@@ -128,27 +118,30 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#3df2a4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ The witch Beatrice is the stand of Sayo
-> Sayo is Beatrice in the sense that she is behind most of the murders. Some part of it might come from Kinzo, but now Sayo is on charge and she aims to make the cases appear magical to Battler. 
-> - She has made of her means her ends.
-> - Shannon and Kanon have knowledge of the other loops within the magic layer.
-> - Endless realization would be a sick stand name.
+> [!note]+ The witch Beatrice is Sayo's stand
+> Sayo is Beatrice in the sense that she is behind most of the murders. We aren't sure to what extent Kinzo's will is involved, but now Sayo is in charge and she aims to convince Battler that magic exists by committing inexplicable crimes. 
+> Therefore, the Beatrice we know if her spiritual equivalent, aka.... her stand.
+> ![Pasted image 20250325162423.png](/img/user/Attachments/Pasted%20image%2020250325162423.png)
 > 
 > ---
 > Leads:
-> - She is the only person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Tips/Mariage Sorcière\|Mariage Sorcière]].
-> - It's very easy for her to give Maria the letters.
-> - Shannon and Kanon come up over and over as possible solutions to the murders.
+> - Someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitely for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
+> - Sayo is the only known person who could have interacted with Maria in Rokkenjima on repeated occasions to create [[Tips/Mariage Sorcière\|Mariage Sorcière]]. For the same reason it's very easy for her to give Maria the letters. She can claim to be Beatrice without needing a disguise.
+> - "Beatrice mistakes her means for her ends" Maybe the original plan was different, but now she only cares about making it look magical.
+> - Shannon and Kanon come up over and over as possible culprits. Additionaly, they are some of the select few characters to show knowledge of Rokkenjima time looping in the magical version of the story.
+> - Endless realization would be a sick stand name.
 
 </div></div>
 
+{ #b88433}
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#93d874" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -164,13 +157,13 @@ The witnesses at least realized that the stake wasn’t what killed her.
 </div></div>
 
 
-> [!note]+ They've got motives
-> The other servants plus nanjo all have motivations to be accomplices of Beatrice.
+> [!note]+ Sayo's required accomplices all have a motive to help.
+> The other servants plus Nanjo all have motivations to be accomplices of Beatrice.
 > 
 > ---
 > Leads:
-> - The magic doubles of the servants serve Beatrice.
-> - Genji would do anything related to Kinzo's will. Alternatively he's following as his new whoever Kinzo appointed as Beatrice after his death.
-> - Nanjo wants money for his sick grand daughter.
-> - Kumasawa gets the money and she has a personal attachment to Sayo.
-> - Gohda gets threatened, he probably isn't even in on the plan.
+> - Genji would do anything related to Kinzo's will. Or alternatively he's following Sayo as his new master after Kinzo died because he sees her, Beatrice, as the true heir.
+> - Nanjo wants money for his sick grand daughter and Ange shows us that's exactly what his family received.
+> - Kumasawa's family also got the money, and she has a personal attachment to Sayo.
+> - Gohda will comply if threatened, he probably isn't even in on the plan from the start.
+> - This is probably circular evidence, but Ronove Viriglia and Gaap are shown taking orders from Beatrice, implying a relationship of servitude.

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-17T16:11:30.007+01:00"}
+{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-22T17:28:21.038+01:00"}
 ---
 
 
 Let's begin our comprehensive account of every red truth in the question arcs... with a blue truth.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#a82232" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -62,6 +62,8 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __* cackle * cackle * cackle * hihihihihihihihihihihyahyahahhahahahahhahahahhahhahhahhahhahhahha__!!!
 - __There are only five master keys__. __There are only five master keys__.
 - __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the [[Golden Land\|Golden Land]]. When you do, the ceremony will end. No more people will die.
+{ #4cf967}
+
 ## Crime Scene of [[Mysteries/Natsuhi's room\|Natsuhi's room]]
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T18:16:43.146+01:00"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T19:34:22.234+01:00"}
 ---
 
 
@@ -74,7 +74,7 @@ When it comes to motives there isn't much concrete, but maybe she suffers from a
 ![Pasted image 20250325162702.png|400](/img/user/Attachments/Pasted%20image%2020250325162702.png)
 
 Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
-Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting his sin has contributed to Sayo wanting to perform the murders according to the epitaph, or as Beatrice says __Because of your sin, people die.__
+Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting his sin has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we \*definitely\* solved) or as Beatrice says __Because of your sin, people die.__
 Additionally, through the [[Bottled letters\|Bottled letters]] she ultimately wants to propagate the legend of the witch into the world.
 
 In [[Tips/Memoirs by lady Lambdadelta\|Memoirs by Lady Lambdadelta]] the translator makes a point of writing down that the narrations starts using She to refer to the witch after [[Lamdadelta\|Lamdadelta]] grants her desire. We think that witch is Beatrice (and also her alter ego, of course), and it's on the table that the reason she's committing the crimes has something to do with her identity, possibly her crafting multiple identities. 
@@ -85,6 +85,7 @@ Let's briefly touch on Sayo's accomplices. They include at a minimum [[Character
 Genji helps her because he sees her as the heir of the Ushiromiya family, as she is the daughter of the Beatrice who died 19 years ago, whom Kinzo loved more that any of his children. 
 Kumasawa and Nanjo were promised a large sum of money, which will actually make its way to their families in the form of the combination to a bank vault.
 Maria believes the narrative of [[Endless Witch\|Endless Magic]], she is unaware of any plans, but she will do something if "Beatrice" asks her to.
+
 We're not exactly sure of who killed Kinzo. It's certainly possible Sayo did it to jumpstart her plan, or she took advantage of the situation. 
 She took the ring seal. She prepared everything she needs for the events of the fatidic day on Rokkenjima, including among other things the seven stakes.
 
@@ -100,41 +101,45 @@ For now you can find a more detailed account of our reasonings grouped under [[C
 
 
 ---
-## Part 3 : 
+## Part 3 : When the seagulls cry
 
 
 Let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.
 
-<center><font color="#00b0f0" size="5">Krauss</font></center>
-<center><font color="#00b0f0" size="5">Natsuhi</font></center>
-<center><font color="#00b0f0" size="5">Jessica</font></center>
-<center><font color="#00b0f0" size="5">Eva</font></center>
-<center><font color="#00b0f0" size="5">Hideyoshi</font></center>
-<center><font color="#00b0f0" size="5">George</font></center>
-<center><font color="#00b0f0" size="5">Rosa</font></center>
-<center><font color="#00b0f0" size="5">Maria</font></center>
-<center><font color="#00b0f0" size="5">Rudolph</font></center>
-<center><font color="#00b0f0" size="5">Kyrie</font></center>
 <center><font color="#00b0f0" size="5">Battler</font></center>
+<center><font color="#00b0f0" size="5">Eva</font></center>
 <center><font color="#00b0f0" size="5">Genji</font></center>
-<center><font color="#00b0f0" size="5">Sayo</font></center>
-<center><font color="#00b0f0" size="5">Kumasawa</font></center>
+<center><font color="#00b0f0" size="5">George</font></center>
 <center><font color="#00b0f0" size="5">Godha</font></center>
+<center><font color="#00b0f0" size="5">Hideyoshi</font></center>
+<center><font color="#00b0f0" size="5">Jessica</font></center>
+<center><font color="#00b0f0" size="5">Krauss</font></center>
+<center><font color="#00b0f0" size="5">Kumasawa</font></center>
+<center><font color="#00b0f0" size="5">Kyrie</font></center>
+<center><font color="#00b0f0" size="5">Maria</font></center>
 <center><font color="#00b0f0" size="5">Nanjo</font></center>
+<center><font color="#00b0f0" size="5">Natsuhi</font></center>
+<center><font color="#00b0f0" size="5">Rosa</font></center>
+<center><font color="#00b0f0" size="5">Rudolph</font></center>
+<center><font color="#00b0f0" size="5">Sayo</font></center>
 
 
-As established, Kanon and Shannon are both Sayo. They are the only two characters to have zero scenes together with Battler also present.
-Kinzo is dead. Besides what we know from following games, it could have been theorized from the fact that he never shares a scene with Battler.
 
-During the scene at the beach, the cousins and Sayo take a glance at Maria's diary. Some things in the diary are part of the murders happening in Rokkenjima. They are elements from Maria's imagination that Sayo implemented to the endless magic narrative, since as it's said in some places, the [[Endless Witch\|Endless Magic]] compendium wasn't completed until Maria added to it the "ability to create 1 from 0"
+As established, [[Characters/Kanon\|Kanon]] and [[Characters/Shannon\|Shannon]] are both [[Characters/Sayo\|Sayo]]. They are the only two characters to have zero scenes together with Battler also present.
+[[Characters/Kinzo\|Kinzo]] is dead. Besides what we know from following games, it could have been theorized from the fact that he never shares a scene with [[Characters/Battler\|Battler]].
 
-The epitaph, which we \*definitely\* solved, was written by Kinzo, and Sayo, for some reason, means to commit the murders in Rokkenjima in a way that resemble it.
+During the scene at the beach, the cousins and Sayo take a glance at [[Characters/Maria\|Maria]]'s diary. Some things mentioned in the diary are part of the murders happening in Rokkenjima. They are elements from Maria's imagination that Sayo injected into the [[Endless Witch\|Endless Magic]] narrative, aka. the ability to create 1 from 0.
 
-When Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready, she stops to give Maria the letter and the umbrella. It's not clear if Maria is complicit to the events of Rokkenjima or if she's just a bystander that goes with Sayo's magical narrative, we tend to believe the second, although the line between the two is for sure really blurry. Like, it's very plausible that Sayo could tell to perform some act for her that will lead to "the magic of the epitaph succeeding", and she might go along with it.
+Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While doing so she stops to give Maria the letter and the umbrella. It's not clear up to what extend Maria is aware of her position and the meaning of actions. We tend to think she's just going along with the witch narrative because she completely believes it, and she has interacted with Sayo many times, by now she has internalized that this person IS [[Characters/Beatrice\|Beatrice]], so she will gladly do her the favor of delivering a letter, or closing her eyes during a gruesom murder.
 
-The letter that Maria reads is possibly written by Sayo to put a foot in the mind of the people having dinner to the narrative that magic is real. It's weird because it doesn't strictly talk about magic inside of it, but Sayo delivers it. It's certainly possible that the letter was written by someone else but delivered by Sayo, or something like that, but Occam's razor tells us that she started easy and wrote a letter that would, first and foremost, convince the family that there was someone else in the family dinner, called Beatrice, with a claim to the inheritance, and set asides, at least initially, the magic elements so that it would be easier to believe. We believe that she doesn't think that the gold exists, but she's furthering the narrative about Kinzo having found 1000 ingots. That, to us, is the golden magic, illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. We believe that Endless realization is Sayo incorporating the narrative about gold into the narrative of the endless witch.
+We think the letters are written by Sayo to prime the perception of the people there with the magical narrative. It's weird because the first letter doesn't strictly talk about magic inside of it (Beatrice signs herself a the family alchemist, not a witch), but it's hard to deny [[Characters/Sayo\|Sayo]] is the one who delivers it. It's certainly possible that the letter was written by someone else but delivered by Sayo, or something like that, but this is something we're willing to Occam's razor away. 
+Instead it's more likely that that she started easy and used the first letter to, first and foremost, clue the family in on the existence of a 19th person called Beatrice with a claim to the inheritance, while setting aside the magic elements so that it would be easier to believe. 
+
+She doesn't think the gold exists, but she's furthering the narrative about Kinzo's 10 tons of gold. That, to us, is the true meaning of Golden Magic and is what makes her the [[Speculation/Golden Witch\|Golden Witch]], the creation of illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. Thus, [[Endless Realization\|Endless Realization]] is simply Sayo incorporating the narrative about gold into the narrative of the endless witch.
 
 Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's also possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
+
+## Part 4 : The First Twilight
 
 Rudolph tells Kyrie and Battler that he thinks he'll die, we believe it to be a sign that Rudolph is into Sayo's plan to a degree. After all, Ange receives the same letter that Nanjo's and Kumasawa's sons receive, which to me signals that at least one of Ange's parents were in on it. Despite this, we believe that he was used as a possible ally that wasn't necessary to the ceremony, and he ended up playing no role at all, dying immediately on the first twilight. To be precise, we believe that Sayo contacted as many of the adults as possible accomplices for her crimes, with promises of wealth, which they all needed, and didn't tell any of the others about anyone else. Precisely, in this game we believe that Sayo intended to only spare after the first twilight Eva, Hideyoshi, and Natsuhi. Eva and Hideyoshi accepted the collaboration because they desperately needed the gold, with Natsuhi a motif is more difficult. It's very possible that she felt very betrayed about Krauss not telling her anything and not trusting her with the information about the gold he found, it's also very possible that she's very defensive about Jessica's claim to the headship and believes that Krauss wasn't capable of securing a future for her family. It's also possible to say that Natsuhi wasn't ever actually in on the plan. It doesn't really change a lot of our solution otherwise, so we'll go for this one, since, even if it creates some problems in the last beats of the game, makes more sense with motivations.
 
@@ -195,16 +200,21 @@ Purgatory AKA the tea party is some kind of dimension in which  Beato is trying 
 After the scuffle in the tea Party, Beato and Battler start their game.
 
 ---
-## Tea party of those who are not human
+## Part 𝑖 : The tea party of those who are not human
 
-The tea party of those who aren't humans, is  not a golden land, but a dimension above the tea party.
-There, Bernkastel was playing a game against Beato. What we saw was Bernkastel seeing the magical framing device with which Beato was trying to convince her of her narrative. Nominally, Beato was just showing her "Something cool". They both act like they aren't playing against each other, but even at this point both know they are. The POV characters, at least initially, are Battler and Bernkastel. After all, her charachter profile directed to us the reader tells us: "Sometimes she is you, and sometimes she is your greatest friend".
+The tea party of those who aren't human is not a golden land, but a dimension above the tea party where [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]].  At this layer of abstraction there's no Sayo anymore, it's just the endless witch with her framing device and the witch of fragments trying to see through it. 
+Nominally, [[Characters/Beatrice\|Beato]] was just showing her "Something cool" and they both act like they aren't fighting against each other, but even at this point they both know that they are. 
 
-Beato talks with Bern, her "not even letting the dice fall" might mean that she literally min-maxes every aspect of the game to fit her narrative, but it could also mean that she plays scenarios that are already resolved, and is only playing with stories. Maybe it refers to her not letting the events on Rokkenjima resolve truly, on the magic framing.
+There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth to the reader, even in Legend where meta battler doesn't even exist yet. 
+Those scenes can be explained as being instead directed to Bernkastel as well as us the reader. 
+ 
+The POV characters, at least initially, are Battler and Bernkastel. After all, her character profile tells us: "Sometimes she is you, and sometimes she is your greatest friend", so overall, we think the figure of Bernkastel is meant to [[Characters/Bernkastel#^f44b17\|represent a reader of umineko]] and she has no alter egos inside the story so far, although we expect this to change as soon as episode 5 because of the name of a certain character...
+When she breaks the 4th was she is simultaneously talking to us and to Battler.
 
-When Bernkastel breaks the 4th wall, she could either refer to the reader or to Battler in that higher plane, or to both. Let's say, for the sake of simplicity, that she's referring to Battler.
-Beatrice is not "One individual woman" refers to the whole Sayo thing.
-"Her existence is the personification of the rules of this world" refers to "Endless realization", which sets up the whole magical compendium on Rokkenjima.
+Beato "not even letting the dice fall" might mean that she literally min-maxes every aspect of the game to fit her narrative, but it could also mean that she plays scenarios that are already resolved, and is only playing with stories. It also probably refers to her not letting the events on Rokkenjima truly resolve, if the outcome is unknown, your imagination is free to fill it however you like.
+
+Beatrice is not "one individual woman" and "her existence is the personification of the rules of this world". 
+This refers to her being an amalgamation of the concepts that make Rokkenjima magical and mysterious (see [[Tips/Bernkastel's letter#The three rules\|Bernkastel's letter#The three rules]]), plus it can be read as a clever foreshadowing for the whole Sayo situation.
 
 Beatrice's profile says that there is only one way to kill her, and We hold it on the palm of our hands. This might mean a lot of things. Is it about Battler having an easy out, ignoring Beatrice? Is it about her having one glaring weakness that we couldn't identify? Is it the reader closing the game and not playing anymore? Please tell me it's not the reader closing the game and not playing anymore, it's so cliche! Although, it probably wasn't when Umineko came out.
 
@@ -214,33 +224,6 @@ Beatrice's profile says that there is only one way to kill her, and We hold it o
 # Actual theory
 
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Sayo gives Maria the letter and Umbrella
-> ---
-> Leads:
-> - This is somebody she could have interacted with repeatedly every time she came to Rokkenjima, enough to create Mariage Sorcière.
-> - If Maria has internalized that this person is Beatrice, there's no longer even a need for the dress disguise.
-
-</div></div>
-
-
-
-### Rudolf will be killed
-Wtf does he mean?
-
-### Krauss finds the gold
-We can't take the scene for granted so idk if it's real
-
-### The scoprion charm
-
-We have to explain the red liquid on the door
-Maybe the servants saw the charm get into Natsuhi's hands? 
-apparently no
 
 ---
 ### Schrodinger's grandfather

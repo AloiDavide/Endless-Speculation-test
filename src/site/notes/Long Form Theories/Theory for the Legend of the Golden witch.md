@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-25T16:46:25.750+01:00"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T18:03:22.451+01:00"}
 ---
 
 
-## Preface
+## Part 1: Preface
 
 First of all, it's important to establish that, most likely, by reading again one more time the first 4 chapters, we would be able to come up with something better. We had to resist the urge to go back to check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth to invest more time in this project than we already did.
 Second, some theories will be more developed than others. We believe our Legend and Banquet theories are really good, our Turn theory is ok with a lot of "and then this happens", which probably happened, or at least something like that happened. And our Alliance theory, at the time of writing, is pretty garbage (but it functions! from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in between the games, which we would, again, need to read back to understand better, which we aren't going to do.
@@ -28,12 +28,9 @@ However, calling a scene fake doesn't make it useless. There is still value in e
 Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
 <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-So now, let's start.
-
+<center>So then, let's start.</center>
 
 ---
-
-
 
 The initial scene with [[Characters/Kinzo\|Kinzo]] happens long before the main events of the game, it's Kinzo interacting with [[Characters/Nanjo\|Nanjo]] and [[Characters/Genji\|Genji]] before dying, possibly months before the family conference.
 Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss\|Krauss]] and every other person that lives in Rokkenjima with the exception of [[Characters/Jessica\|Jessica]] and [[Characters/Gohda\|Gohda]] know it. Everyone is pretending that he's alive per the instructions of Krauss, which is worried about the discovery process of splitting his inheritance.
@@ -48,8 +45,12 @@ Based on certain events later the [[Characters/Kasumi\|Sumadera]] family is also
 
 It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima while being the only one that Godha didn't move the baggage to. Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
 
-Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse.
-This is the time to introduce one of the major cornerstones of our theories, we believe that Kanon, and Shannon for that matter, are two identities of a single person, whom will be referred to as [[Characters/Sayo\|Sayo]] going forward, for that is the "real" name Shannon told George.
+Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse. This is the time to introduce one of the major cornerstones of our theories.
+
+---
+## Part 2 : The Sayo Conjecture
+
+, we believe that Kanon, and Shannon for that matter, are two identities of a single person, whom will be referred to as [[Characters/Sayo\|Sayo]] going forward, for that is the "real" name Shannon told George.
 Sayo lives in the orphan house owned by Kinzo, and she fullfils the roles of two different servants in Rokkenjima. Kinzo is aware of this, and so are all the other servants, but no one else is.
 
 We have no clue about their gender, but going off of their depictions and who we believe to be the original person, we'll use feminine pronouns for now.
@@ -61,49 +62,64 @@ The next Beatrice in our timeline is the one from [[Mysteries/Rosa's flashback\|
 As stated in the [[Red Truth\|Red Truth]], she also died. That was 19 years before the two days when the bulk of every episode takes place in.
 For reasons we will explain, again, in later games, we believe that Sayo is a daughter of this second Beatrice. She was sent to the Fukuin house after the death of her mother and raised as a servant instead, but she would frequently visit Kuwadorian, and she would refer to Kinzo as grandfather.
 
-Someone on Rokkenjima has the explicit objective to commit murders in circumstances that will appear magical to any onlookers. Specifically Battler, and possibly including Maria. It would be fairSuch a person We believe Sayo to be that person.
+
+
+But why go on a tangent about a character who may or may not exist? 
+Simple! It's because Sayo, together with a series of accomplices, is the culprit behind the murders in Legend of the Golden Witch!
+
+You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitely for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
 In other words, [[Characters/Shannon#^b88433\|the witch Beatrice is Sayo's stand]].
 
-When it comes to motives there isn't much concrete, maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
+When it comes to motives there isn't much concrete, but maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. After all Beatrice is supposed to have mistaken her means for her ends.
 ![Pasted image 20250325162702.png|400](/img/user/Attachments/Pasted%20image%2020250325162702.png)
 
+Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
+Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting his sin has contributed to Sayo wanting to perform the murders according to the epitaph, or as Beatrice says __Because of your sin, people die.__
+Additionally, through the [[Bottled letters\|Bottled letters]] she ultimately wants to propagate the legend of the witch into the world.
 
-We believe that Sayo is planning to kill everyone in Rokkenjima during a ceremony which she means to make look like the epitaph of the portrait, and we aren't really sure about the motive.
+In [[Tips/Memoirs by lady Lambdadelta\|Memoirs by Lady Lambdadelta]] the translator makes a point of writing down that the narrations starts using She to refer to the witch after [[Lamdadelta\|Lamdadelta]] grants her desire. We think that witch is Beatrice (and also her alter ego, of course), and it's on the table that the reason she's committing the crimes has something to do with her identity, possibly her crafting multiple identities. 
+We floated some ideas about Sayo possibly being split between a male and female identity, her being a trans woman, or a trans man since Kanon was the later addition. Ultimately we couldn't coalesce this part of the theory into something of substance, so it doesn't play a role for now.
 
 
+Let's briefly touch on Sayo's accomplices. They include at a minimum [[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], [[Characters/Nanjo\|Nanjo]] and in a way [[Characters/Maria\|Maria]] too.
+Genji helps her because he sees her as the heir of the Ushiromiya family, as she is the daughter of the Beatrice who died 19 years ago, whom Kinzo loved more that any of his children. 
+Kumasawa and Nanjo were promised a large sum of money, which will actually make its way to their families in the form of the combination to a bank vault.
+Maria believes the narrative of [[Endless Witch\|Endless Magic]], she is unaware of any plans, but she will do something if "Beatrice" asks her to.
+We're not exactly sure of who killed Kinzo. It's certainly possible Sayo did it to jumpstart her plan, or she took advantage of the situation. 
+She took the ring seal. She prepared everything she needs for the events of the fatidic day on Rokkenjima, including among other things the seven stakes.
 
+Lastly, let's mention the largest gaping problem with all of this... 
+Why is Sayo so nonchalant with Battler potentially touching her boobs in that initial scene in legend? Of course, if Sayo is Kanon, the boobs would need to be fake, right? We believe that the answer to this is that Ryukishi 07 is a bit of a goofy goober who just can't help himself. Something like this happens in Higurashi too, where a character takes a pointless risk that could have exposed their identity, just to use it as a  red herring. And well, after all, Battler was \*probably\* never touching her boobs. And the boobs were possibly very well made, right? 
 
-We believe that Battler's sin is something that has to do with Sayo's sister, and that Battler forgetting his sin trough a domino effect brought to Sayo wanting to perform the events of epitaph. Ultimatelly, she wantes to disseminate the legend of the witch on the rest of the world, by committing the events of Rokkenjima and letting out the bottled letters.
-Since in "Memoirs by Lady Lambdadelta" The translator makes a point of writing down that the narrations starts using She to refer to the witch after Lamdadelta grants her desire, and we believe the witch to be Beatrice (and also her alter ego, of course), we believe it's on the table that the reason she's commiting the crimes has something to do with her identity, possibly her crafting multiple identities. We thought about Sayo possibly being split between a male and female identity, Sayo being a trans woman, or Sayo being a trans men since Kanon as a servants appears later. Utimately we abbandoned this theory because we couldn't coalesce it in something of substance.
-Sayo has some accomplices, Genji, Kumasawa, Nanjo and in a way Maria too.
-Genji helps her because he sees her as the heir of the Ushiromiya family, as she is the daughter of the Beatrice that died 19 years ago in Kuwadorian, which Kinzo loved more that any other son, Kumasawa and Nanjo were promised an incredible amount of money by her, Maria bought the narrative of the endless magic, and it's very possible she doesn't even understand that she's helping her.
-Sayo killed Kinzo some months ago to jumpstart her plan. She took the ring seal. She prepared everything she needs for the events of the fatidic day on Rokkenjima, including among other things the stakes.
+We'll touch (no pun intended) on this in later episodes, but there really is a large amount of sunstantiation for the fact that Sayo is all three of Shannon, Kanon and Beatrice, so we're willing to say that it's a minor thing.
 
+For now you can find a more detailed account of our reasonings grouped under [[Characters/Shannon#Theories\|Shannon#Theories]]
+
+<center>Ok so, back to the events for real.
+</center>
 
 
 ---
+## Part 3 : 
 
-Ok so, back to the events.
 
-We know that there's a problem with all of this. Why is Sayo so nonchalant with Battler potentially touching her boobs in that initial scene in legend? Of course, if Sayo is Kanon, the boobs would need to be fake, right? We believe that the answer to this is that Ryukishi 07 is a bit of a goofy goober that just can't help himself. Something like this happens in higurashi too, where a charachter takes a pointless risk, just because it would work as a great red herring. And well, after all, Battler was \*probably\* never touching her boobs. And the boobs were possibly very well made, right? We'll touch on this on later chapters, but we believe there's an obscene amount of sunstantiation for the fact that Sayo is Shannon, Kanon and Beatrice, so we're willing to say that it's a minor thing.
-
-Now, let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.
-Krauss
-Natsuhi
-Jessica
-Eva
-Hideyoshi
-George
-Rosa
-Maria
-Rudolph
-Kyrie
-Battler
-Genji
-Sayo
-Kumasawa
-Godha
-Nanjo
+Let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.
+<center><font color="#ffc000">Krauss</font>
+<font color="#ffc000">Natsuhi</font>
+<font color="#ffc000">Jessica</font>
+<font color="#ffc000">Eva</font>
+<font color="#ffc000">Hideyoshi</font>
+<font color="#ffc000">George</font>
+<font color="#ffc000">Rosa</font>
+<font color="#ffc000">Maria</font>
+<font color="#ffc000">Rudolph</font>
+<font color="#ffc000">Kyrie</font>
+<font color="#ffc000">Battler</font>
+<font color="#ffc000">Genji</font>
+<font color="#ffc000">Sayo</font>
+<font color="#ffc000">Kumasawa</font>
+<font color="#ffc000">Godha</font>
+<font color="#ffc000">Nanjo</font></center>
 Kanon and Shannon are different identities of Sayo. They are the only two people that never appear together in a scene with Battler.
 Kinzo is dead. Besides what we know from following games, he is never present in a scene with Battler.
 

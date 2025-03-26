@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T18:12:57.280+01:00"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T18:16:43.146+01:00"}
 ---
 
 
@@ -103,7 +103,9 @@ For now you can find a more detailed account of our reasonings grouped under [[C
 ## Part 3 : 
 
 
-Let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.<center><font color="#00b0f0" size="5">Krauss</font></center>
+Let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.
+
+<center><font color="#00b0f0" size="5">Krauss</font></center>
 <center><font color="#00b0f0" size="5">Natsuhi</font></center>
 <center><font color="#00b0f0" size="5">Jessica</font></center>
 <center><font color="#00b0f0" size="5">Eva</font></center>
@@ -121,12 +123,8 @@ Let's state this; In the context of Legend of the Golden witch, there are 16 peo
 <center><font color="#00b0f0" size="5">Nanjo</font></center>
 
 
-
-
-
-
-As established Kanon and Shannon are both Sayo. They are the only two characters to have zero scenes together with Battler also present.
-Kinzo is dead. Besides what we know from following games, he is never present in a scene with Battler.
+As established, Kanon and Shannon are both Sayo. They are the only two characters to have zero scenes together with Battler also present.
+Kinzo is dead. Besides what we know from following games, it could have been theorized from the fact that he never shares a scene with Battler.
 
 During the scene at the beach, the cousins and Sayo take a glance at Maria's diary. Some things in the diary are part of the murders happening in Rokkenjima. They are elements from Maria's imagination that Sayo implemented to the endless magic narrative, since as it's said in some places, the [[Endless Witch\|Endless Magic]] compendium wasn't completed until Maria added to it the "ability to create 1 from 0"
 

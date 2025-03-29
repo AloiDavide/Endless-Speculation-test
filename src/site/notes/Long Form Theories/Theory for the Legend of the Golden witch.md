@@ -1,20 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-26T19:34:22.234+01:00"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images center-italics","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-29T15:02:23.961+01:00"}
 ---
 
 
 ## Part 1: Preface
 
-First of all, it's important to establish that, most likely, by reading again one more time the first 4 chapters, we would be able to come up with something better. We had to resist the urge to go back to check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth to invest more time in this project than we already did.
-Second, some theories will be more developed than others. We believe our Legend and Banquet theories are really good, our Turn theory is ok with a lot of "and then this happens", which probably happened, or at least something like that happened. And our Alliance theory, at the time of writing, is pretty garbage (but it functions! from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in between the games, which we would, again, need to read back to understand better, which we aren't going to do.
+First of all, it's important to establish that, most likely, we would be able to come up with something better by reading the first 4 episodes once again. We had to resist the urge to go back and check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth the time investment, and as much as we had fun combing through all the fine details of this mystery, we are also eager to put it behind us at this point.
 
-Second, our theories, in some parts, have multiple solutions that both work. When that happens we will mention them. Sometimes, there are some really clever and appropriate solutions that we weren't able to make fit with a complete solution. Those will be mentioned, as we feel like they probably have some role in the story. Sometimes, one of us feels like a theory functions, the other doesn't. Sometimes, theories might branch up future matters in different directions.
-When something like that happens, we will mention it and branch our theories. I'd like to think about this as, unlike a single precise sniper shot, 6 revolver bullets, all very powerful, that are meant to give us some wiggle room in our attack.
-We might mention some theories which we don't think are good enough, but that we used to believe in, if they're interesting enough.
+Second, some theories will be more developed than others. 
+We are fairly confident that our Legend and Banquet theories are good and make sense, our Turn theory is ok, but it has a bunch of "this probably happened", or "something like that must have happened" moments. 
+However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in between the games, which we would, again, need to read back to understand better, which we aren't going to do.
+
+Third sometimes, there are some really clever and appropriate solutions that we weren't able to make fit with a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
+
+Second, our theories, in some parts, have multiple solutions that both work. When that happens we will mention them. Those will be mentioned, as we feel like they probably have some role in the story. Sometimes, one of us feels like a theory functions, the other doesn't.
+When something like that happens, we will mention it, and if the  and branch the theory if they lead to wildly different implications.
+This isn't like firing a single precise sniper shot, but it also isn't casting a wide net like Battler's shotgun strategy. We like to think of it like a 6 bullet revolver, all shots are quite powerful, but they give us some wiggle room in our attack.
+
+![tenor.gif](/img/user/Attachments/tenor.gif)
 
 
-Now it's time to showcase the two weapons we're using to zero in on this theory. 
-#### [[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]
+
+
+Let's also take a minute showcase the two weapons we're using to zero in on this theory. 
+### *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*
 
 Those 2 are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
@@ -26,7 +35,9 @@ As will become more and more obvious the more we advance, any scene not witnesse
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
 Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
+```
 <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 <center>So then, let's start.</center>
 
@@ -120,7 +131,7 @@ Let's state this; In the context of Legend of the Golden witch, there are 16 peo
 <center><font color="#00b0f0" size="5">Nanjo</font></center>
 <center><font color="#00b0f0" size="5">Natsuhi</font></center>
 <center><font color="#00b0f0" size="5">Rosa</font></center>
-<center><font color="#00b0f0" size="5">Rudolph</font></center>
+<center><font color="#00b0f0" size="5">Rudolf</font></center>
 <center><font color="#00b0f0" size="5">Sayo</font></center>
 
 
@@ -139,15 +150,49 @@ She doesn't think the gold exists, but she's furthering the narrative about Kinz
 
 Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's also possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
 
+---
 ## Part 4 : The First Twilight
 
-Rudolph tells Kyrie and Battler that he thinks he'll die, we believe it to be a sign that Rudolph is into Sayo's plan to a degree. After all, Ange receives the same letter that Nanjo's and Kumasawa's sons receive, which to me signals that at least one of Ange's parents were in on it. Despite this, we believe that he was used as a possible ally that wasn't necessary to the ceremony, and he ended up playing no role at all, dying immediately on the first twilight. To be precise, we believe that Sayo contacted as many of the adults as possible accomplices for her crimes, with promises of wealth, which they all needed, and didn't tell any of the others about anyone else. Precisely, in this game we believe that Sayo intended to only spare after the first twilight Eva, Hideyoshi, and Natsuhi. Eva and Hideyoshi accepted the collaboration because they desperately needed the gold, with Natsuhi a motif is more difficult. It's very possible that she felt very betrayed about Krauss not telling her anything and not trusting her with the information about the gold he found, it's also very possible that she's very defensive about Jessica's claim to the headship and believes that Krauss wasn't capable of securing a future for her family. It's also possible to say that Natsuhi wasn't ever actually in on the plan. It doesn't really change a lot of our solution otherwise, so we'll go for this one, since, even if it creates some problems in the last beats of the game, makes more sense with motivations.
+[[Characters/Rudolf\|Rudolf]] tells [[Characters/Kyrie\|Kyrie]] and Battler that he thinks he'll die that night, we believe it to be a sign that Rudolf was clued in on Sayo's plan to a degree. After all, Ange receives the same letter with the combination that Nanjo's and Kumasawa's families receive, which to me signals that at least one of Ange's parents have accepted the money in exchange for help with the plan. 
+Despite this, the way things played out in Legend he ended up playing no role at all, dying immediately on the first twilight.
 
-So.
-Eva and Hideyoshi leave the room because they know that Sayo is going to kill everyone. She told them earlier in the day, during a moment where they weren't wit anyone else. Natsuhi either knew too, was lucky to get away, or was informed of the plan while she was away.
-Shannon tells Genji, Kumasawa and Nanjo to lie and say the the night shift was moved the following day. She leaves the guesthouse and goes in the mansion, and her following the golden butterflies is a framing device to say that she's following trough with "Beatrice's" plan.
+To be precise, we believe [[Characters/Sayo\|Sayo]] tries to strike a deal with several of the adults individually, with promises of wealth which they all needed. This is part of the uncertainty that makes each of the games begin slightly differently, leading to different first twilights and their different consequences.
 
-Sayo rushes into the dining room, where the adults are talking, and kills all the remaining adults, plus Godha that just happened to be in the mansion and could hear the sound of the shots, with a winchester with 4+1 bullets. With the help of Genji and Kumasawa they spend the whole night cleaning the dining room and setting up the scene in the shed, which is meant to evoke themes of occult. They have a lot of red liquid that resembles blood, which they use to paint the door of the shed. They set up the five corpses in the shed... but there's another one, isn't it? There are multiple directions we can go to explain it. We can say that what was in the shed wasn't a corpse at all, and was just some kind of mannequin that can be dressed and disguised to look like a corpse. In this way we evade the red. We can say that, since Shannon isn't a person, but an identity assumed by Sayo, anyone disguising with Shannon's clothes is considered "Shannon". In this way we evade the red ||and save us a lot of headhackes for a certain scene in Banquet||. We can also say that Shannon, as an identity, isn't originally Sayo's, but the aforementioned Sayo's sister, and she's the corpse that we find in the shed. It's somewhat strange, but we could say it's Kinzo's body. If we really wanted to, we could easly claim that the corpse in the shed wasn't a corpse at all, but someone alive pretending to be a corpse! After all, we don't \*really\* need to lower the number of people on Rokkenjima to 16, but to 17.
+In this version of the game, the adults who survive the first twilight are [[Characters/Eva\|Eva]], [[Characters/Hideyoshi\|Hideyoshi]], and [[Characters/Natsuhi\|Natsuhi]]. 
+Eva and Hideyoshi accept the collaboration because they desperately need cash, but with Natsuhi a motive is more difficult to find. 
+It's very possible that she felt very betrayed about Krauss not telling her anything and not trusting her with the information about the gold he found, it's also very possible that she's very defensive about [[Characters/Jessica\|Jessica]]'s claim to the headship and believes that Krauss wasn't capable of securing a future for her family. 
+We could also say Natsuhi is completely innocent and was never clued in on anything, it doesn't strongly impact most of our solutions, so we'll go for this explanation for now, even though we will slightly regret it later. Another of our goals is also to minimize the number of wolves, it just wouldn't be fun if we said everybody except [[Characters/Battler\|Battler]] was a bad guy while disregarding their motivations.
+
+---
+
+That night, it's remarked that all the servants except [[Characters/Gohda\|Gohda]] have been assigned to spend the night in the guesthouse because [[Characters/Krauss\|Krauss]] suspected them for giving the letter to [[Characters/Maria\|Maria]] and didn't want them present while they discussed the inheritance.
+As much as we like to say a scene is fake when it has Kanon and Shannon in it, there is no good reason to think this isn't exactly what happened.
+
+[[Characters/George\|George]] has his confession scene with [[Characters/Shannon\|Shannon]] soon after. Let's skip over the implications this has for the [[Characters/Sayo\|Sayo]] conjecture for now, we'll circle back to them in the [[Turn of the Golden witch\|turn]] theory.
+What really matters right now is that this scene is used as justification for why Shannon was in the mansion that night. She was too embarrassed to go back to the guesthouse with George after receiving the ring.
+
+![Pasted image 20250327120630.png|500](/img/user/Attachments/Pasted%20image%2020250327120630.png)
+
+
+
+[[Characters/Eva\|Eva]] and [[Characters/Hideyoshi\|Hideyoshi]] leave the room in the mansion where all the adults are arguing because they know that otherwise they would die. Sayo told them earlier in the day, during a moment where they weren't with anyone else. [[Characters/Natsuhi\|Natsuhi]] was lucky to get away because of her headache.
+
+[[Characters/Sayo\|Sayo]] rushes in and kills all the remaining adults, plus Godha who was unlucky enough to be there to pad the number of victims, and would have heard the gun shots. The murder weapon was one of the [[Tips/Winchester M1984 Sawed off\|winchesters]], with 4+1 bullets for a total of five dead people. 
+With the help of [[Characters/Genji\|Genji]] and [[Characters/Kumasawa\|Kumasawa]], (who didn't kill anyone directly because [[Characters/Lambdadelta\|Lambdadelta]] said __Genji, Kumasawa, and Nanjo are not killers__) they spend the night cleaning the dining room and preparing the scene in the [[Mysteries/Rose garden storehouse\|rose garden storehouse]] shed.
+
+They have a lot of red liquid that resembles blood which they use to paint the door of the shed, this is something they could have easily smuggled in with the help of captain [[Characters/Kawabata\|Kawabata]]. 
+They set up the five corpses in the shed and paint the door with occult symbols... but wait, there were six corpses, weren't there? 
+
+There are multiple approaches we can take to explain it. We can't let Sayo die here, so we need a way for her to be alive, but one of the red truths gets in our way.
+
+<font color="#ff0000" size="4"><center>I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!</center></font>
+
+We can claim that what was in the shed wasn't a corpse at all, but it was some kind of mannequin dressed with Shannon's clothes. Alternatively, this is someone alive pretending to be a corpse.
+
+It can't be Sayo herself because [[Characters/Kanon\|Kanon]] is present when they discover the corpses, and "__No one else can go by Kanon's name! A different person can't claim that as their name!__".
+
+ ==??==
+ Since Shannon isn't a person, but an identity assumed by Sayo, anyone disguising with Shannon's clothes is considered "Shannon". In this way we evade the red ||and save us a lot of headhackes for a certain scene in Banquet||. We can also say that Shannon, as an identity, isn't originally Sayo's, but the aforementioned Sayo's sister, and she's the corpse that we find in the shed. It's somewhat strange, but we could say it's Kinzo's body. If we really wanted to, we could easly claim that the corpse in the shed wasn't a corpse at all, but someone alive pretending to be a corpse! After all, we don't \*really\* need to lower the number of people on Rokkenjima to 16, but to 17.
 A lot of these options require Nanjo and the adults to lie about the state of the bodies, which we fully expect them to do.
 For some details in the following games, we would prefer the number to be 16, se we'll go with the option that it's a mannequin posing as Shannon, and since it's not a corpse, it doesn't count for the red.
 
@@ -156,7 +201,7 @@ In addition to all of this, they also fabricate the scratches on the door of Nat
 When It's morning, it's not all clean, there is still some to clean in the dining room. Genji and Sayo keep the adults busy by presenting the lack of people, and Genji makes sure that Natsuhi goes in Kinzo's room. Of course both Genji and Natsuhi know that Kinzo isn't there, but to Natsuhi it's a way to explain him out, and to Genji it's a way to fabricate conflict later on that can be used to frame her as a possible culprit.
 Then they push the adults to find the scene of the crime in the garden shed, all of this while gaining some time for Kumasawa to finish cleaning the dining room.
 
-When they find the corpses, everything happens as it's shown in the story. The important element here is that Eva and Hideyoshi, and partially Natsuhi too, are very adamant that the children don't come in the shed, and especially don't see Shannon. I believe that there may be many explanations for why that's the case, but first let's establish this; It's very possible that Hideyoshi could have guessed what was supposed to be on Shannon's ring by the way George asked the question, it's possible that Hideyoshi heard it from Rudolph, which was present near the bathroom stall when George was practicing proposing, It's possible that Sayo just told him for some reason, and It's possible that they wanted to keep him away to not reveal that the corpse wasn't actually Shannon. Nanjo's word is worth nothing, and we can only guess.
+When they find the corpses, everything happens as it's shown in the story. The important element here is that Eva and Hideyoshi, and partially Natsuhi too, are very adamant that the children don't come in the shed, and especially don't see Shannon. I believe that there may be many explanations for why that's the case, but first let's establish this; It's very possible that Hideyoshi could have guessed what was supposed to be on Shannon's ring by the way George asked the question, it's possible that Hideyoshi heard it from Rudolf, which was present near the bathroom stall when George was practicing proposing, It's possible that Sayo just told him for some reason, and It's possible that they wanted to keep him away to not reveal that the corpse wasn't actually Shannon. Nanjo's word is worth nothing, and we can only guess.
 
 Let's go with this; It's a mannequin wearing Shannon's clothes. Natsuhi sees it but doesn't get closer, Hideyoshi and Eva tell her that the police should make it so they don't tamper the scene or something. Then Eva and Hideyoshi make sure that no one else can see anything to keep the secret while Nanjo lies, and the only person that is able to get closer at all is Battler, but he doesn't see anything.
 
@@ -166,7 +211,15 @@ Maria doesn't freak out when she hears that deaths are happening, because she's 
 
 In the scene when everyone in the room sees Beatrice but Battler, the explanation is easy. Everyone there is in Sayo's narrative. Genji and Kumasawa are there lying for Sayo, and Maria is just telling the truth, since Sayo, Beatrice, is there after all.
 
-During the events, Eva is intentionally trying to seed conflict, to frame anyone else which isn't her, initially the servants, and finally Natsuhi, which she attacks with the receipt trick. When it doesn't work out, she retires to her room, because, knowing that Sayo is the culprit, she feels safe.
+---
+
+
+
+What Eva says here makes perfect sense, she i
+![Pasted image 20250327110457.png](/img/user/Attachments/Pasted%20image%2020250327110457.png)
+
+All along, [[Characters/Eva\|Eva]] is intentionally trying to seed conflict and frame anyone else. She initially points to the the servants, a low hanging fruit, but purposefully doesn't expose them. Later she attacks [[Characters/Natsuhi\|Natsuhi]] with the receipt bluff, she probably never put a receipt in the door, she just picked up on Natsuhi's dodgy attitude and tried poking at her. Part of this is of course Eva's unpleasant personality, but it's a weird way to act in a situation of danger. 
+When bullying Natsuhi isn't funny anymore, she retires to her room, she knows she has a deal with Sayo so she feels safe, otherwise you would never leave on your own with potentially a murderer around.
 
 Now, there are two direction we could go towards. We could say that Eva and Hideyoshi murders were legitimate or that they were faked, and Nanjo is lying about the fact that they are dead.
 

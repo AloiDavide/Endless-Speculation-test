@@ -92,7 +92,7 @@ body {
     max-width: 3rem;
   }
 
-  .markdown-embed:has(svg .lucide-flame){
+  .internal-embed:has([data-callout="tip"]){
     display: none !important;
   }
     /***

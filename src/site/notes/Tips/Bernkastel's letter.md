@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.803+01:00","updated":"2025-03-18T17:59:27.457+01:00"}
+{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.803+01:00","updated":"2025-03-26T19:26:00.537+01:00"}
 ---
 
 
@@ -101,7 +101,8 @@ We believe the recipient of the letter is the character who shows up in the sea 
 Whoever it is, it's the highest ranking witch ever mentioned.
 The disease that affects high ranking voyager witches is boredom, after all it's the only way to really kill them. Bern is grateful to Lambda for setting up this whole Umineko business because it lets her stave off boredom a bit longer.
 
-### Rule X
+## The three rules
+#### Rule X
 - This is the core of the witch beatrice.
 - She compares it to how higurashi always started on july 20th.
 - Seems related to [[Endless Witch\|Endless Magic]] and its idle repetition, aka. the reason why everyone on the island will die at midnight, in particular [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]].
@@ -109,15 +110,15 @@ The disease that affects high ranking voyager witches is boredom, after all it's
 	- Is it some checkmate scenario with incredibly high chances of happening, akin to Takano's plan?
 	- Is it actually absolute this time because everything resets before a winner can be truly decided? Unlike Higurashi which did have real win conditions.
 - Let's keep in mind that Lambdadelta has absolutely nothing to do with the time loops in Higurashi. That was all Hanyuu... who has the same voice actress as Maria, the one who completed endless magic... Coincidence?
-### Rule Y
+#### Rule Y
 - Is both the source of Beatrice's magic and her very existence.
 - She has "opened up a world" the three voyagers didn't know about, to an extent that Lambdadelta only slightly approached.
 - Perhaps this refers to the superposition of uncertainty that Rokkenjima is stuck in while the rest of the world keeps going, fueled by all the different notes in the bottles. 
 	- Hinamizawa was sort of like this as a result of Takano's actions, but not nearly to the same extent.
-	- If so it would be related to [[Magical Concepts/Golden Witch\|Golden Magic]], aka. the mystery Kinzo has created around the witch who gave him the gold, which can also be said to be the origin of Beatrice.
+	- If so it would be related to [[Speculation/Golden Witch\|Golden Magic]], aka. the mystery Kinzo has created around the witch who gave him the gold, which can also be said to be the origin of Beatrice.
 - From the remark about her creating her own magic system, the entirety of [[Endless Realization\|Endless Realization]] could be associated with this rule, but that means we need something else for rule X.
-### Rule Z
+#### Rule Z
 - Despite being a rule it's indeterminate. Both liquid and solid like mercury.
 - It's the reason this is such a bad matchup for Bernkastel.
 - Does this imply that the starting conditions of each loop are variable? Wouldn't this still fall within rule Y.
-- Might be related to how the concept of the [[Magical Concepts/Black Magic\|Black Magic]] mimics the Himanizawa syndrome. But perhaps this time there isn't a physical phenomenon behind it.
+- Might be related to how the concept of the [[Speculation/Black Magic\|Black Magic]] mimics the Himanizawa syndrome. But perhaps this time there isn't a physical phenomenon behind it.

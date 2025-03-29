@@ -9,11 +9,11 @@ The legend letter has been signed with Maria's name, but it's not her handwritin
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#22646f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ Rokkenjima is in a superposition because of the letters
+> [!note]- Rokkenjima is in a superposition because of the letters
 > Nobody really knows what happened there, all we have are the [[Bottled letters\|bottled letters]] all giving a different account of the events, and the four episodes we see are four of such letters, out of an unknown amount. 
 > 
 > From a magical point of view, it's this uncertainty that allows the entire island to cycle through endless possibilities and be regularly populated by witches and demons. A perfect schrodinger's box.
@@ -27,22 +27,22 @@ The legend letter has been signed with Maria's name, but it's not her handwritin
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#589b88" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ There is only one future
+> [!note]- There is only one future
 > The future Ange lives in is the only future and it follows from the real course of events, all the different episodes are just different stories passed down as [[Bottled letters\|bottled letters]]. 
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blue-truths/rondo-of-magic-and-rhymes/#d60ecf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]+ The "canonical" version of the events will be the one where Battler wins the game.
+> [!note]- The "canonical" version of the events will be the one where Battler wins the game.
 > We just haven't seen it yet, because the mystery hasn't been solved.
 > 
 > ---

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.956+01:00","updated":"2025-03-21T19:10:30.339+01:00"}
+{"dg-publish":true,"permalink":"/legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.956+01:00","updated":"2025-03-21T21:59:35.364+01:00"}
 ---
 
 
-## [[Long Form Theories/The Legend Theory\|The Legend Theory]]
+## [[Long Form Theories/Theory for the Legend of the Golden witch\|Theory for the Legend of the Golden witch]]
 
 
 ## Episode one mysteries (to be organized)

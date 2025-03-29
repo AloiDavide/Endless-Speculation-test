@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-02-27T17:44:13.194+01:00","updated":"2025-02-27T22:03:54.628+01:00"}
+{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-02-27T17:44:13.194+01:00","updated":"2025-03-29T15:21:39.515+01:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 # Descriptions
 
 ## Banquet
-### Tea Party
-#### 1
+#### Tea Party
+
 Solved the riddle of [[Tips/The Portrait Epitaph\|the witch's epitaph]] and was welcomed as the new [[Endless Witch\|Endless Witch]].
 She was gifted with an aptitude for magic and is expected to grow into an extraordinary Great Witch.
 
@@ -18,7 +18,7 @@ Such are the trials only geniuses may endure, and if she proves successful, her 
 Will she be able to overcome the trials that forced her predecessor to surrender?
 # Theories
 
-She is the face of the [[Magical Concepts/Black Magic\|Black Witch]] when Ange faces her.
+She is the face of the [[Speculation/Black Magic\|Black Witch]] when Ange faces her.
 
 - [ ] Who is her predecessor? We don't recall Beato ever surrendering.
 
@@ -39,7 +39,7 @@ But who's this dipshit if she isn't Eva?
 > ---
 > Leads:
 > - Kyrie could be said to have surrendered when faced with her family's trials.
-> - She does literally show up layered over Kasumi  to represent the [[Magical Concepts/Black Magic\|Black Witch]].
+> - She does literally show up layered over Kasumi  to represent the [[Speculation/Black Magic\|Black Witch]].
 > - There was a big deal in Banquet about the cigarette Kyrie had in her pocket that didn't actually lead anywhere, and later on Kasumi is confirmed to be a smoker.
 > 
 > Cons:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-02-27T17:44:13.194+01:00","updated":"2025-02-27T22:03:54.628+01:00"}
+{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-02-27T17:44:13.194+01:00","updated":"2025-03-29T15:21:39.515+01:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 # Descriptions
 
 ## Banquet
-### Tea Party
-#### 1
+#### Tea Party
+
 Solved the riddle of [[Tips/The Portrait Epitaph\|the witch's epitaph]] and was welcomed as the new [[Endless Witch\|Endless Witch]].
 She was gifted with an aptitude for magic and is expected to grow into an extraordinary Great Witch.
 

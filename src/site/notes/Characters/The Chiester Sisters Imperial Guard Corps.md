@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-chiester-sisters-imperial-guard-corps/","contentClasses":"center-headings red-links red-truth","tags":["furniture"],"created":"2025-02-27T17:44:13.479+01:00","updated":"2025-03-25T17:01:01.353+01:00"}
+{"dg-publish":true,"permalink":"/characters/the-chiester-sisters-imperial-guard-corps/","contentClasses":"center-headings red-links red-truth center-images","tags":["furniture"],"created":"2025-02-27T17:44:13.479+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
 ---
 
 
@@ -21,7 +21,7 @@ For that reason, they are often summoned as honor guards to serve during special
 
 # Descriptions
 ## Banquet
-### Tea Party
+#### Tea Party
 #### Chiester 45
 A weapon in a contract with [[Characters/Beatrice\|Beatrice]].
 
@@ -42,7 +42,7 @@ She gets depressed if there isn't someone talking with her constantly.
 
 410 is particularly skilled when it comes to firing control, and she can wield unparalleled combative force even in close-range fighting.
 ## Alliance
-### Tea Party
+#### Tea Party
 #### Chiester 00
 A weapon of the Sister’s Cavalry, which serves Pendragon.
 
@@ -73,11 +73,12 @@ Her choice of words may be coarse, but she loves company and gets lonely easily.
 410 is particularly skilled when it comes to firing control, and she can wield unparalleled combative force even in close-range fighting.
 #### Chiester 556
 ![Pasted image 20240828235053.png|400](/img/user/Attachments/Pasted%20image%2020240828235053.png)
-##### 1
+#
 A quiet girl who's always teased by everybody. But that's because everyone loves her.
 
 The trumpet is her specialty. Everyone skips to her lively tune.
-##### 2
+#
+---
 A weapon of the Sisters' Cavalry, which serves Pendragon.
 
 556 was quiet and often teased, but she was loved by everyone. However, her luck was always bad, and she met a tragic end in battle against the [[Speculation/Black Magic\|Black Witch]].

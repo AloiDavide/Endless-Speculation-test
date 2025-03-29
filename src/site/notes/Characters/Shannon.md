@@ -1,41 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-25T16:55:31.968+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-29T15:24:18.559+01:00"}
 ---
 
-Servant Shannon
-Shannon
+
 ![Mugshots/shannon.png|shannon.png](/img/user/Mugshots/shannon.png)
 
 # Descriptions
 
 ## Legend
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 A young but experienced servant.
 
 She’s normally calm and performs her job efficiently, but she messes up when she gets nervous.
 
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
-#### 2
+
+---
 Her corpse was found inside the [[Mysteries/Rose garden storehouse\|Rose garden storehouse]]. It seems the side of her head was smashed after her death.
 
 Don’t worry. Everyone will be revived in the [[Golden Land\|Golden Land]].
 ## Turn
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 A young but experienced servant.
 
 She’s normally calm and performs her job efficiently, but she messes up when she gets nervous.
 
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
-#### 2
+
+---
 Died in [[Mysteries/Natsuhi's room\|Natsuhi's room]], with her forehead pierced by a weapon shaped like a stake.  
 
 At the fourth twilight, gouge the head and kill.  
 
 She spent her last moments with her beloved.
-### Tea Party
-#### 1
+#### Tea Party
+
 Shannon is, in the truest sense, [[Characters/Kinzo\|Kinzo]]’s handmade furniture, which he created without borrowing the power of demons.  
 
 Though there were a few problems with her initial specifications, she was given a very rare and precious thing: a heart.  
@@ -45,27 +46,29 @@ In the lengthy span of time following that, she began to mature, becoming except
 
 Because of this, in the realm of barriers alone, she possesses immense, magician-class power.
 ## Banquet
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 A young but experienced servant.
 
 She’s normally calm and performs her job efficiently, but she messes up when she gets nervous.
 
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
-#### 2
+
+---
 Her corpse was found in the [[Mysteries/Parlor\|Parlor]] on the first floor.  
 The weapon used on her is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
 
 Let Shannon have the parlor, with its wonderful view of the rose garden on sunny days.
 ## Alliance
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 A young but experienced servant.
 
 She’s normally calm and performs her job efficiently, but she messes up when she gets nervous.
 
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
-#### 2
+
+---
 Her corpse was found behind the mansion.  
 About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a [[powerful gun\|powerful gun]] or something similar.  
 A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the body.  
@@ -170,3 +173,21 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 </div></div>
 
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Shannon isn't dead in Legend
+> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is only just a fake. Sayo is right there in the room reacting to the scene, but she's playing the role of Kanon.
+>  
+> ---
+> Leads:
+> -  We mainly just  need a way to get around the definition of unidentified corpse. We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
+> ---
+> Obstacles:
+> - 
+
+</div></div>

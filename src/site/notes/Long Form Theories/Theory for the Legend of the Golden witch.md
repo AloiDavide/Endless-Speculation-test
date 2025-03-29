@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images center-italics","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-29T15:02:23.961+01:00"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images center-italics","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-29T15:08:19.989+01:00"}
 ---
 
 
-## Part 1: Preface
+# Part 1: Preface
 
 First of all, it's important to establish that, most likely, we would be able to come up with something better by reading the first 4 episodes once again. We had to resist the urge to go back and check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth the time investment, and as much as we had fun combing through all the fine details of this mystery, we are also eager to put it behind us at this point.
 
@@ -23,7 +23,7 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 
 Let's also take a minute showcase the two weapons we're using to zero in on this theory. 
-### *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*
+## [[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]
 
 Those 2 are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
@@ -39,9 +39,11 @@ Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.yout
 <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-<center>So then, let's start.</center>
+
+So then, let's start examining the events in order and we'll comment on anything interesting.
 
 ---
+# Part 2 : The Sayo Conjecture
 
 The initial scene with [[Characters/Kinzo\|Kinzo]] happens long before the main events of the game, it's Kinzo interacting with [[Characters/Nanjo\|Nanjo]] and [[Characters/Genji\|Genji]] before dying, possibly months before the family conference.
 Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss\|Krauss]] and every other person that lives in Rokkenjima with the exception of [[Characters/Jessica\|Jessica]] and [[Characters/Gohda\|Gohda]] know it. Everyone is pretending that he's alive per the instructions of Krauss, which is worried about the discovery process of splitting his inheritance.
@@ -53,13 +55,12 @@ We believe that Kawabata is involved in a larger, as-yet-unidentified scheme, wi
 There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from either the Ushiromiya group. 
 Based on certain events later the [[Characters/Kasumi\|Sumadera]] family is also suspect, but for now we'll go with the Ushiromiya group.
 
-
 It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima while being the only one that Godha didn't move the baggage to. Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
 
 Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse. This is the time to introduce one of the major cornerstones of our theories.
 
 ---
-## Part 2 : The Sayo Conjecture
+
 
 , we believe that Kanon, and Shannon for that matter, are two identities of a single person, whom will be referred to as [[Characters/Sayo\|Sayo]] going forward, for that is the "real" name Shannon told George.
 Sayo lives in the orphan house owned by Kinzo, and she fullfils the roles of two different servants in Rokkenjima. Kinzo is aware of this, and so are all the other servants, but no one else is.
@@ -107,8 +108,7 @@ We'll touch (no pun intended) on this in later episodes, but there really is a l
 
 For now you can find a more detailed account of our reasonings grouped under [[Characters/Shannon#Theories\|Shannon#Theories]]
 
-<center>Ok so, back to the events for real.
-</center>
+Ok so, back to the events for real this time.
 
 
 ---

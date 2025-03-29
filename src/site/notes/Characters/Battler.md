@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-03-16T16:50:09.360+01:00"}
+{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-03-29T15:24:18.552+01:00"}
 ---
 
 Ushiromiya Battler
@@ -9,27 +9,29 @@ age:: 18
 
 ## Legend
 ### Rokkemjima
-#### 1
+
 The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
 This family conference is a chance for him to renew his friendship with his cousins after a six-year gap.
-#### 2
+
+---
 This fool made the world where everyone could be happy all come to nothing.
 
 Though [[Characters/Beatrice\|Beatrice]] is extremely angry, she also seems to be enjoying herself immensely. It’s almost as though she’s waited a thousand years to get her hands on a toy as fun as this one.
 
 Hopefully, even this fool will be able to see you before too long...
 ## Turn
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
 This family conference is a chance for him to renew his friendship with his cousins after a six-year gap.
-#### 2
+
+---
 Missing.  
 
 He did surrender to the witch at one point, but he pulled himself together and regained his will to fight.  
@@ -39,8 +41,8 @@ That explains why she's always breaking him, fixing him, and breaking him again.
 
 Torture is meaningless if you kill the subject.  
 You've gotta alternate between causing pain and letting them rest.
-### Tea Party
-#### 1
+#### Tea Party
+
 An unfortunate young man whom Beatrice has taken a liking to.  
 A human who inherited the black blood from [[Characters/Kinzo\|Kinzo]].  
 
@@ -52,14 +54,15 @@ Kinzo has begun to lose this power with age, but young Battler’s power is stil
 
 Perhaps it’s understandable that Beatrice tried to crush it as soon as possible.
 ## Banquet
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
 This family conference is a chance for him to renew his friendship with his cousins after a six-year gap.
-#### 2
+
+---
 Shot to death by Ushiromiya [[Characters/Eva\|Eva]] inside the mansion.  
 
 The weapon was a [[Tips/Winchester M1984 Sawed off\|Winchester]] from [[Characters/Kinzo\|Kinzo]]'s collection.  
@@ -68,14 +71,15 @@ The weapon was a [[Tips/Winchester M1984 Sawed off\|Winchester]] from [[Characte
 
 Wolves and sheep puzzle.
 ## Alliance
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
 This family conference is a chance for him to renew his friendship with his cousins after a six-year gap.
-#### 2
+
+---
 Missing.  
 
 Went to hell embraced by the witch.  

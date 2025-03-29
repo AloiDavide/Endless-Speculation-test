@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-03-16T16:40:42.780+01:00"}
+{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-03-29T15:25:40.577+01:00"}
 ---
 
 Beatrice
@@ -8,55 +8,59 @@ Beatrice
 # Descriptions
 
 ## Legend
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The [[Speculation/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
 She likes black tea and ice cream. She hates boredom and people who deny her existence.
-#### 2
+
+---
 What a useless dream, to try and kill me despite being a mere human. Fire your bullets, and they will merely reflect back towards you like light off a mirror.
 
 However, there does exist just one way to kill me. You hold that method in the palm of your hand. Though I doubt one as mediocre as you could ever pull it off.
 
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
-### Tea party
-#### 1
+#### Tea Party
+
 The [[Speculation/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
 She likes black tea and ice cream. She hates boredom and people who deny her existence.
-#### 2
+
+---
 What a useless dream, to try and kill me despite being a mere human. Fire your bullets, and they will merely reflect back towards you like light off a mirror.
 
 However, there does exist just one way to kill me. You hold that method in the palm of your hand. Though I doubt one as mediocre as you could ever pull it off.
 
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
 ## Turn
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The [[Speculation/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
 She likes black tea and ice cream. She hates boredom and people who deny her existence.
-#### 2
+
+---
 The mysterious visitor and 19th person who appeared on the day of the family conference.  
 She goes by the same name as the [[Speculation/Golden Witch\|Golden Witch]] who gave the gold to [[Characters/Kinzo\|Kinzo]].  
 
 Her reasons for visiting are unknown.  
 
 She was ushered into the VIP room, which no one has been allowed to use in the past.
-#### 3
+
+---
 What a useless dream, to try and kill me despite being a mere human. Fire your bullets, and they will merely reflect back towards you like light off a mirror.
 
 However, there does exist just one way to kill me. You hold that method in the palm of your hand. Though I doubt one as mediocre as you could ever pull it off.
 
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
-### Tea Party
-### 1
+#### Tea Party
+
 The [[Endless Witch\|Endless Witch]], who has lived for a thousand years.  
 She is known for being exceptionally cruel, even among witches.  
 
@@ -65,21 +69,22 @@ And she toys with her victims even further by piling on one after another.
 
 This witch is extremely powerful, but word has it that she sometimes becomes obsessed with creating certain patterns, so that her means end up becoming her goals.
 ## Banquet
-### Rokkenjima
-#### 1
+#### Rokkenjima
+
 The [[Speculation/Golden Witch\|Golden Witch]], who has lived for a thousand years.
 
 She has surpassed the limits of humans and, like demons, will sometimes appear in response to the summons made by humans, to offer her power in exchange for a price.
 
 She likes black tea and ice cream. She hates boredom and people who deny her existence.
-#### 2
+
+---
 What a useless dream, to try and kill me despite being a mere human. Fire your bullets, and they will merely reflect back towards you like light off a mirror.
 
 However, there does exist just one way to kill me. You hold that method in the palm of your hand. Though I doubt one as mediocre as you could ever pull it off.
 
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
-### Tea Party
-#### 1
+#### Tea Party
+
 The [[Endless Witch\|Endless Witch]], who has lived for a thousand years.
 She is known for being exceptionally cruel, even among witches.
 
@@ -88,14 +93,15 @@ And she toys with her victims even further by piling on one after another.
 
 This witch is extremely powerful, but word has it that she sometimes becomes obsessed with creating certain patterns, so that her means end up becoming her goals.
 ## Alliance
-### Tea Party
-#### 1
+#### Tea Party
+
 The [[Endless Witch\|Endless Witch]], who has lived for a thousand years. She is known for being exceptionally cruel, even among witches.
 
 She loves bullying the weak and is capable of using trial-and-error endlessly to find the cruelest fate they can possibly be given. And she toys with her victims even further by piling on one after another.
 
 This witch is extremely powerful, but word has it that she sometimes becomes obsessed with creating certain patterns, so that her means end up becoming her goals.
-#### 2
+
+---
 The [[Endless Witch\|Endless Witch]], who has lived for a thousand years. She holds the fatherly magical power that is the source of endless evolution in the sea.
 
 However, that power is meaningless. No matter how many times you multiply something in the sea of 0, it will never be more than 0.

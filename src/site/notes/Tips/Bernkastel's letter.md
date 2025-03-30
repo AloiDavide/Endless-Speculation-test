@@ -105,7 +105,7 @@ The disease that affects high ranking voyager witches is boredom, after all it's
 #### Rule X
 - This is the core of the witch beatrice.
 - She compares it to how higurashi always started on july 20th.
-- Seems related to [[Endless Witch\|Endless Magic]] and its idle repetition, aka. the reason why everyone on the island will die at midnight, in particular [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]].
+- Seems related to [[Speculation/Endless Witch\|Endless Magic]] and its idle repetition, aka. the reason why everyone on the island will die at midnight, in particular [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]].
 - Bern figured it out from Lambda boasting that she would 'absolutely' be unable to win.
 	- Is it some checkmate scenario with incredibly high chances of happening, akin to Takano's plan?
 	- Is it actually absolute this time because everything resets before a winner can be truly decided? Unlike Higurashi which did have real win conditions.
@@ -116,7 +116,7 @@ The disease that affects high ranking voyager witches is boredom, after all it's
 - Perhaps this refers to the superposition of uncertainty that Rokkenjima is stuck in while the rest of the world keeps going, fueled by all the different notes in the bottles. 
 	- Hinamizawa was sort of like this as a result of Takano's actions, but not nearly to the same extent.
 	- If so it would be related to [[Speculation/Golden Witch\|Golden Magic]], aka. the mystery Kinzo has created around the witch who gave him the gold, which can also be said to be the origin of Beatrice.
-- From the remark about her creating her own magic system, the entirety of [[Endless Realization\|Endless Realization]] could be associated with this rule, but that means we need something else for rule X.
+- From the remark about her creating her own magic system, the entirety of [[Speculation/Endless Realization\|Endless Realization]] could be associated with this rule, but that means we need something else for rule X.
 #### Rule Z
 - Despite being a rule it's indeterminate. Both liquid and solid like mercury.
 - It's the reason this is such a bad matchup for Bernkastel.

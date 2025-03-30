@@ -9,7 +9,7 @@
 ## Banquet
 #### Tea Party
 
-Solved the riddle of [[Tips/The Portrait Epitaph\|the witch's epitaph]] and was welcomed as the new [[Endless Witch\|Endless Witch]].
+Solved the riddle of [[Tips/The Portrait Epitaph\|the witch's epitaph]] and was welcomed as the new [[Speculation/Endless Witch\|Endless Witch]].
 She was gifted with an aptitude for magic and is expected to grow into an extraordinary Great Witch.
 
 This genius of a witch often overindulged in her own power during her younger days.

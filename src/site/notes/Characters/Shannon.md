@@ -19,7 +19,7 @@ Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty
 ---
 Her corpse was found inside the [[Mysteries/Rose garden storehouse\|Rose garden storehouse]]. It seems the side of her head was smashed after her death.
 
-Don’t worry. Everyone will be revived in the [[Golden Land\|Golden Land]].
+Don’t worry. Everyone will be revived in the [[Speculation/Golden Land\|Golden Land]].
 ## Turn
 #### Rokkenjima
 
@@ -149,7 +149,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > 
 > ---
 > Leads:
-> - The [[Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
+> - The [[Speculation/Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
 > - Beatrice is not "one individual woman" according to Bernkastel.
 > - The two of them interact in the meta layer near the end of Alliance in a way that suggests two people with similar goals.
 

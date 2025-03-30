@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-03-29T15:21:17.806+01:00"}
+{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-03-30T15:28:32.132+02:00"}
 ---
 
 
@@ -39,7 +39,7 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-He finally reached the [[Golden Land\|Golden Land]] he so desired to see.  
+He finally reached the [[Speculation/Golden Land\|Golden Land]] he so desired to see.  
 However, since a fool was unwilling to accept it, the magic was wasted once again.  
 
 Even so, he was probably happy. After all, he managed to be reunited with the [[Speculation/Golden Witch\|Golden Witch]], if only for a brief time.  
@@ -101,6 +101,7 @@ Magic with enough power to reheat a cup of black tea may be beyond him, but he's
 The source of his magic is found in arithmetic miracles, and his [[Tips/Magical Compendiums\|magical compendium]] is unique. Later on, even Beatrice took note of this and rearranged her own compendium accordingly.
 
 # Theories
+Kinzo has very high magic resistance and is unable to see Beatrice's witch form in the magical interpretation. Are they trying to tell us what he feels for her isn't love?
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -173,6 +174,8 @@ The source of his magic is found in arithmetic miracles, and his [[Tips/Magical 
 </div></div>
 
 
+#### Kinzo's corpse
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -205,8 +208,8 @@ The source of his magic is found in arithmetic miracles, and his [[Tips/Magical 
 > ---
 > Obstacles:
 > - What reason was there to incinerate the body? Did he think nobody would notice the fingers?
-> - The body was never found in [[Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
-> 	- No it wasn't, after all she is also there in [[Alliance of the Golden witch\|Alliance]].
+> - The body was never found in [[Episodes/Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
+> 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
 
 </div></div>
 
@@ -231,4 +234,3 @@ The source of his magic is found in arithmetic miracles, and his [[Tips/Magical 
 
 
 
-Kinzo has very high magic resistance and is unable to see Beatrice's witch form in the magical interpretation. Is it a lack of love?

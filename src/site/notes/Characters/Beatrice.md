@@ -61,7 +61,7 @@ However, there does exist just one way to kill me. You hold that method in the p
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
 #### Tea Party
 
-The [[Endless Witch\|Endless Witch]], who has lived for a thousand years.  
+The [[Speculation/Endless Witch\|Endless Witch]], who has lived for a thousand years.  
 She is known for being exceptionally cruel, even among witches.  
 
 She loves bullying the weak and is capable of using trial-and-error endlessly to find the cruelest fate they can possibly be given.  
@@ -85,7 +85,7 @@ However, there does exist just one way to kill me. You hold that method in the p
 Hihihihihihihihihihihi! Heheheheheheheheheheh!
 #### Tea Party
 
-The [[Endless Witch\|Endless Witch]], who has lived for a thousand years.
+The [[Speculation/Endless Witch\|Endless Witch]], who has lived for a thousand years.
 She is known for being exceptionally cruel, even among witches.
 
 She loves bullying the weak and is capable of using trial-and-error endlessly to find the cruelest fate they can possibly be given.
@@ -95,14 +95,14 @@ This witch is extremely powerful, but word has it that she sometimes becomes obs
 ## Alliance
 #### Tea Party
 
-The [[Endless Witch\|Endless Witch]], who has lived for a thousand years. She is known for being exceptionally cruel, even among witches.
+The [[Speculation/Endless Witch\|Endless Witch]], who has lived for a thousand years. She is known for being exceptionally cruel, even among witches.
 
 She loves bullying the weak and is capable of using trial-and-error endlessly to find the cruelest fate they can possibly be given. And she toys with her victims even further by piling on one after another.
 
 This witch is extremely powerful, but word has it that she sometimes becomes obsessed with creating certain patterns, so that her means end up becoming her goals.
 
 ---
-The [[Endless Witch\|Endless Witch]], who has lived for a thousand years. She holds the fatherly magical power that is the source of endless evolution in the sea.
+The [[Speculation/Endless Witch\|Endless Witch]], who has lived for a thousand years. She holds the fatherly magical power that is the source of endless evolution in the sea.
 
 However, that power is meaningless. No matter how many times you multiply something in the sea of 0, it will never be more than 0.
 
@@ -114,8 +114,8 @@ When she was joined with the [[Speculation/Witch of Origins\|Witch of Origins]] 
 # Notes
 # Theories
 
-[[Endless Realization\|Endless Realization]]
-[[Endless Witch\|Endless Witch]]
+[[Speculation/Endless Realization\|Endless Realization]]
+[[Speculation/Endless Witch\|Endless Witch]]
 [[Speculation/Golden Witch\|Golden Witch]]
 [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 [[Mysteries/Beatrice's Definitions\|Beatrice's Definitions]]

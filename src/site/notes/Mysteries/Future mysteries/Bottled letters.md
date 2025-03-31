@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/bottled-letters/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["future"],"created":"2025-03-18T18:21:57.433+01:00","updated":"2025-03-30T19:31:46.977+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/future-mysteries/bottled-letters/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["future"],"created":"2025-03-18T18:21:57.433+01:00","updated":"2025-03-31T18:55:50.215+02:00"}
 ---
 
 In the future where half of Alliance takes place, accounts of at least the first three games have been recovered inside different bottles in the sea near Rokkenjima.
@@ -17,7 +17,7 @@ Hilariously, when compared to Higurashi the game Beatrice plays against Bernkast
 
 
 > [!note]- Rokkenjima is in a superposition because of the letters
-> Nobody really knows what happened there, all we have are the [[Mysteries/Bottled letters\|Bottled letters]] all giving a different account of the events, and the four episodes we see are four of such letters, out of an unknown amount. 
+> Nobody really knows what happened there, all we have are the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] all giving a different account of the events, and the four episodes we see are four of such letters, out of an unknown amount. 
 > 
 > From a magical point of view, it's this uncertainty that allows the entire island to cycle through endless possibilities and be regularly populated by witches and demons. A perfect schrodinger's box.
 > 
@@ -34,7 +34,7 @@ Hilariously, when compared to Higurashi the game Beatrice plays against Bernkast
 
 
 > [!note]- There is only one future
-> The future Ange lives in is the only future and it follows from the real course of events, all the different episodes are just different stories passed down as [[Mysteries/Bottled letters\|Bottled letters]]. 
+> The future Ange lives in is the only future and it follows from the real course of events, all the different episodes are just different stories passed down as [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]]. 
 
 </div></div>
 
@@ -70,7 +70,7 @@ Two theories:
 > ---
 > Leads:
 > - If the truth about what transpired on Rokkenjima were to be revealed, that means Battler will have won and the black box will be broken.
-> - The framing of the [[Mysteries/Bottled letters\|Bottled letters]] would suggest that Legend is yet another letter, but who says that any of them recount the real story?
+> - The framing of the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] would suggest that Legend is yet another letter, but who says that any of them recount the real story?
 
 </div></div>
 

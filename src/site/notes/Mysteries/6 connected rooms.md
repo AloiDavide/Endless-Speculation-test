@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/6-connected-rooms/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["banquet"],"created":"2025-02-27T17:44:13.903+01:00","updated":"2025-03-17T18:22:45.873+01:00"}
+{"dg-publish":true,"permalink":"/mysteries/6-connected-rooms/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["banquet"],"created":"2025-02-27T17:44:13.903+01:00","updated":"2025-03-31T18:33:39.628+02:00"}
 ---
 
 Shannon(?) : Parlor
@@ -28,7 +28,7 @@ Alliance
 - Even if we suppose __"the linked closed rooms"__ only include five rooms out of the six, and we collapse Shannon and Kanon into Sayo, she still must have died in one of the 5 rooms.
 
 
-If there is a way of dying that is neither a trap or accident, nor a murder nor a suicide, it would solve both this and the [[Mysteries/Boiler room\|Boiler room]] in Legend
+If there is a way of dying that is neither a trap or accident, nor a murder nor a suicide, it would solve both this and the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]] in Legend
 
 
 A 7th dead person solves it. They are close to Sayo pretending to be dead.

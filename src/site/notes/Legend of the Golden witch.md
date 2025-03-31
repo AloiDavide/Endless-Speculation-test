@@ -30,7 +30,7 @@
 >  
 > ---
 > Leads:
-> - The first tea party is a direct continuation of Legend, and every following interaction between Battler and Beatrice is framed as a continuation of that one.
+> - The first tea party is a direct continuation of Legend, and every following interaction between Battler and Beatrice is framed as a continuation of that one. A discrepancy in the [[Speculation/Character Description Colors\|character description colors]] further supports this reading.
 > - Beatrice, Shannon and Kanon claim to have seen countless loops already, but this is merely the same magic fluff as the witch killing and reviving someone 100 times.
 > - It's not really a question you would ask unless you knew there is an answer.
 

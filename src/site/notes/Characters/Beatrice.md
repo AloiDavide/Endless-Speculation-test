@@ -118,7 +118,7 @@ When she was joined with the [[Speculation/Witch of Origins\|Witch of Origins]] 
 [[Speculation/Endless Witch\|Endless Witch]]
 [[Speculation/Golden Witch\|Golden Witch]]
 [[Tips/Beatrice's Titles\|Beatrice's Titles]]
-[[Mysteries/Beatrice's Definitions\|Beatrice's Definitions]]
+[[Speculation/Beatrice's Definitions\|Beatrice's Definitions]]
 
 We shall call the Beato that shows up in Rokkenjima X Beato because she is non actually Beatrice and she is person X.
 

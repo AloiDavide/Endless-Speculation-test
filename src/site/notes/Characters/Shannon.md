@@ -55,7 +55,7 @@ She’s normally calm and performs her job efficiently, but she messes up when s
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
 
 ---
-Her corpse was found in the [[Mysteries/Parlor\|Parlor]] on the first floor.  
+Her corpse was found in the parlor on the first floor.  
 The weapon used on her is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
 
 Let Shannon have the parlor, with its wonderful view of the rose garden on sunny days.
@@ -160,6 +160,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 
+
 > [!note]- Sayo's required accomplices all have a motive to help.
 > The other servants plus Nanjo all have motivations to be accomplices of Beatrice.
 > 
@@ -169,7 +170,6 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > - Nanjo wants money for his sick grand daughter and Ange shows us that's exactly what his family received.
 > - Kumasawa's family also got the money, and she has a personal attachment to Sayo.
 > - Gohda will comply if threatened, he probably isn't even in on the plan from the start.
-> - This is probably circular evidence, but Ronove Viriglia and Gaap are shown taking orders from Beatrice, implying a relationship of servitude.
 
 </div></div>
 
@@ -177,6 +177,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -188,6 +189,5 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > -  We mainly just  need a way to get around the definition of unidentified corpse. We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
 > ---
 > Obstacles:
-> - 
 
 </div></div>

@@ -18,13 +18,13 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-Disappeared from his [[Mysteries/study\|study]] unnoticed.
+Disappeared from his [[Mysteries/Episode 1 mysteries/Kinzo's study\|study]] unnoticed.
 Kinzo’s study has everything from a bed to a toilet to a bathtub, so it is extremely rare for him to go outside.
 
 However, he does occasionally go out for a walk on a whim without telling anybody, and his disappearance invariably leads to a huge uproar throughout the house. He usually comes back as soon as he gets hungry... usually...
 
 ---
-Burned in the [[Mysteries/Boiler room\|incinerator]], with a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of his forehead.
+Burned in the incinerator, with a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of his forehead.
 
 The old sorcerer’s wish vanished before it could be granted. He always knew that this was one possible result of his risky gamble.
 
@@ -66,7 +66,7 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-His body was found as a burnt corpse in the underground [[Mysteries/Boiler room\|Boiler room]]'s incinerator.  
+His body was found as a burnt corpse in the underground boiler room's incinerator.  
 
 No evidence of a struggle was found inside the incinerator, so it's probably reasonable to assume that he was burned after his murder.  
 
@@ -83,7 +83,7 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-His body was found as a burnt corpse in the underground [[Mysteries/Boiler room\|Boiler room]]’s incinerator.  
+His body was found as a burnt corpse in the underground boiler room's incinerator.  
 
 No evidence of a struggle was found inside the incinerator, so it’s probably reasonable to assume that he was burned after his murder.  
 

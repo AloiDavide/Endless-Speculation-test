@@ -179,19 +179,19 @@ Second part
 - __Both deaths were homicides! It is not the case that, after the construction of the closed room, one of them committed suicide after committing murder! Furthermore, the murder was carried out with both the victim and the perpetrator in the same room! No method exists for the perpetrator to commit murder from outside the room!__
 Third part
 - ([[Characters/Lambdadelta\|Lambdadelta]] says about [[Characters/Beatrice\|Beatrice]] in the first game) __she guaranteed the identities of all unidentified corpses__!
-### Crime Scene of the [[Mysteries/Boiler room\|Boiler room]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
 Second part
 - __All of the survivors have alibis! Let us include the dead as well!! In short, no kind of human or dead person on the island could have killed [[Characters/Kanon\|Kanon]]!__
 - __Kanon did not commit suicide__
 Third part
 - __Kanon did not die in an accident__!
-###  Crime Scene of the [[Mysteries/Parlor\|Parlor]]
+###  Crime Scene of the [[Servants deaths in the parlor\|Servants deaths in the parlor]]
 Second part
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
 Third part
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
-### Crime Scene of [[Characters/Natsuhi\|Natsuhi]]'s death in the [[Mysteries/Portrait room\|Portrait room]]
+### Crime Scene of [[Natsuhi's death in Legend\|Natsuhi's death in Legend]]
 Second part
 - __Natsuhi's death was a homicide! There were no unidentified corpses, and all of the survivors have alibis!__
 - __The bullet buried into Natsuhi's forehead was not fired from her gun!__

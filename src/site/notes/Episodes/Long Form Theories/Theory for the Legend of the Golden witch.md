@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T00:09:10.177+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T00:26:23.462+02:00"}
 ---
 
 
 ## Part 1: Preface
-_Every team needs an editor, someone that is able to say "let's downscale the project" we learned this the hard way_ _-Two madmen that couldn't bring themselves to downscale_
+<center><i>Every team needs an editor, someone that is able to say "let's downscale the project" we learned this the hard way.</i></center>
+<p align="right">- Two madmen who couldn't bring themselves to downscale.</p>
 
 First of all. It's important to establish that, most likely, we would be able to come up with something better by reading the first 4 episodes once again. We had to resist the urge to go back and check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth the time investment, and as much as we had fun combing through all the fine details of this mystery, we are also eager to put it behind us at this point.
 
 Second. Some theories will be more developed than others. 
 We are fairly confident that our Legend and Banquet theories are good and make sense, our Turn theory is ok, but it has a bunch of "this probably happened", or "something like that must have happened" moments. 
-However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in between the games, which we would, again, need to read back to understand better, which we aren't going to do.
+However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in the games, which we would, again, need to read back to understand better, which we aren't going to do.
 
 Third. Sometimes, there are some really clever and appropriate solutions that we weren't able to fit within a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
 
@@ -24,8 +25,8 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 Let's take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
 
 > [!grid] 
-> ![Pasted image 20250401234536.png](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 > ![occam.png](/img/user/Attachments/occam.png)
+> ![Pasted image 20250401234536.png](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
 
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
@@ -48,15 +49,16 @@ So then, let's start examining the events in order and we'll comment on anything
 
 ---
 ## Part 2 : The Sayo Conjecture
+<center><i>When two characters collapse into one, so do the theories form one main branch.</i></center>
 
 The initial scene with [[Characters/Kinzo\|Kinzo]] happens long before the main events of the game, it's Kinzo interacting with [[Characters/Nanjo\|Nanjo]] and [[Characters/Genji\|Genji]] before dying, possibly months before the family conference.
 Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss\|Krauss]] and every other person that lives in Rokkenjima with the exception of [[Characters/Jessica\|Jessica]] and [[Characters/Gohda\|Gohda]] know it. Everyone is pretending that he's alive per the instructions of Krauss, which is worried about the discovery process of splitting his inheritance.
 
 
-When the family boards a plane at the airport, we see that for some reason, the pilot of the plane (not a ship) is captain [[Characters/Kawabata\|Kawabata]].
+When the family boards a plane at the airport, we see that for some reason, the pilot of the plane (not a ship!) is captain [[Characters/Kawabata\|Kawabata]].
 We believe that Kawabata is involved in a larger, as-yet-unidentified scheme, with its primary benefactor being the Ushiromiya group. The goal of this plot appears to be placing "Eva Ushiromiya" in control of the group, and we suspect that Kawabata may be receiving orders from a higher-ranking member within the group, potentially [[Characters/Okonogi\|Okonogi]]. But we will come back to this eventually.
 
-There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from either the Ushiromiya group. 
+There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from the Ushiromiya group. 
 Based on certain events later the [[Characters/Kasumi\|Sumadera]] family is also suspect, but for now we'll go with the Ushiromiya group.
 
 It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima while being the only one that Godha didn't move the baggage to. Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
@@ -80,8 +82,8 @@ For reasons we will explain, again, in later games, we believe that Sayo is a da
 But why go on a tangent about a character who may or may not exist? 
 Simple! It's because Sayo, together with a series of accomplices, is the culprit behind the murders in Legend of the Golden Witch!
 
-You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitely for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
-In other words, [[Characters/Shannon#^b88433\|the witch Beatrice is Sayo's stand]].
+You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitly for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
+One might say, [[Characters/Shannon#^b88433\|the witch Beatrice is Sayo's stand]].
 
 When it comes to motives there isn't much concrete, but maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. After all Beatrice is supposed to have mistaken her means for her ends.
 ![Pasted image 20250325162702.png|400](/img/user/Attachments/Pasted%20image%2020250325162702.png)

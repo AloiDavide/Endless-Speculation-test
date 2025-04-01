@@ -83,7 +83,7 @@ This family conference is a chance for him to renew his friendship with his cous
 Missing.  
 
 Went to hell embraced by the witch.  
-But to the witch, that hell was the [[Golden Land\|Golden Land]].
+But to the witch, that hell was the [[Speculation/Golden Land\|Golden Land]].
 # Theories
 
 

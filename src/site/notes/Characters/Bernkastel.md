@@ -84,7 +84,7 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 
 
 > [!note]- Knowledge of the loops
-> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Bottled letters\|bottled letters]] that have been found in the future.
+> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] that have been found in the future.
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon

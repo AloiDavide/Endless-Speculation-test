@@ -15,7 +15,7 @@
 
 
 > [!note]+ The Golden Witch is Kinzo's version of Beatrice
-> This is the [[Characters/Beatrice\|Beatrice]] made up by [[Characters/Kinzo\|Kinzo]] to convince everyone that he possessed 10 tons of gold. Even to this day the modern incarnation of beatrice is supporting this claim and identifying with the image and narrative Kinzo has created because it's a valuable addition to her own narrative ([[Endless Realization\|Endless Realization]]), making her and her successors the [[Speculation/Golden Witch\|Golden Witch]].
+> This is the [[Characters/Beatrice\|Beatrice]] made up by [[Characters/Kinzo\|Kinzo]] to convince everyone that he possessed 10 tons of gold. Even to this day the modern incarnation of beatrice is supporting this claim and identifying with the image and narrative Kinzo has created because it's a valuable addition to her own narrative ([[Speculation/Endless Realization\|Endless Realization]]), making her and her successors the [[Speculation/Golden Witch\|Golden Witch]].
 > 
 > ---
 > From [[Tips/Beatrice's Titles\|Beatrice's Titles]]:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alliance-of-the-golden-witch/","created":"2025-02-27T17:44:11.764+01:00","updated":"2025-03-18T20:10:38.769+01:00"}
+{"dg-publish":true,"permalink":"/episodes/alliance-of-the-golden-witch/","created":"2025-02-27T17:44:11.764+01:00","updated":"2025-03-18T20:10:38.769+01:00"}
 ---
 
 

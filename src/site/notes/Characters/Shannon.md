@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-29T15:24:18.559+01:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-31T18:26:16.779+02:00"}
 ---
 
 
@@ -17,9 +17,9 @@ She’s normally calm and performs her job efficiently, but she messes up when s
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
 
 ---
-Her corpse was found inside the [[Mysteries/Rose garden storehouse\|Rose garden storehouse]]. It seems the side of her head was smashed after her death.
+Her corpse was found inside the [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]]. It seems the side of her head was smashed after her death.
 
-Don’t worry. Everyone will be revived in the [[Golden Land\|Golden Land]].
+Don’t worry. Everyone will be revived in the [[Speculation/Golden Land\|Golden Land]].
 ## Turn
 #### Rokkenjima
 
@@ -55,7 +55,7 @@ She’s normally calm and performs her job efficiently, but she messes up when s
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
 
 ---
-Her corpse was found in the [[Mysteries/Parlor\|Parlor]] on the first floor.  
+Her corpse was found in the parlor on the first floor.  
 The weapon used on her is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
 
 Let Shannon have the parlor, with its wonderful view of the rose garden on sunny days.
@@ -149,7 +149,7 @@ The witnesses at least realized that the stake wasn’t what killed her.
 > 
 > ---
 > Leads:
-> - The [[Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
+> - The [[Speculation/Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
 > - Beatrice is not "one individual woman" according to Bernkastel.
 > - The two of them interact in the meta layer near the end of Alliance in a way that suggests two people with similar goals.
 

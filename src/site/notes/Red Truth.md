@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-22T17:28:21.038+01:00"}
+{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-31T18:32:25.661+02:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 
 
 ---
-# [[Turn of the Golden witch\|Turn of the Golden witch]]
+# [[Episodes/Turn of the Golden witch\|Turn of the Golden witch]]
 
 ## Crime Scene of the [[Mysteries/Chapel\|Chapel]]
 - __When I speak the truth, I will use red__
@@ -37,7 +37,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __The envelope I handed over to Maria and the one Rosa opened are the same thing__!!
 
 ## Crime Scene of [[Mysteries/Jessica's Room\|Jessica's Room]]
-- __The only [[Master keys\|Master keys]] are the ones held by the servants, one key each__.
+- __The only master keys are the ones held by the servants, one key each__.
 - __There are absolutely no types of hidden doors. This door is the only way in or out__. __The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant__. It is on the second floor, but it is probably possible to enter or leave trough the window. However, __the window is locked from the inside__.
 - __[[Characters/Kanon\|Kanon]] was killed in this room__.
 - Of course, this door is the same as the chapel. __When locked, it does not permit any form of entry__. I'll say more. __No trick could have the effect of locking the door from the outside without using a key__.
@@ -61,14 +61,14 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __I'll make you my favourite furniture__. __I'll love you so much and make you my toy untill you turn into ashes__...
 - __* cackle * cackle * cackle * hihihihihihihihihihihyahyahahhahahahahhahahahhahhahhahhahhahhahha__!!!
 - __There are only five master keys__. __There are only five master keys__.
-- __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the [[Golden Land\|Golden Land]]. When you do, the ceremony will end. No more people will die.
+- __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the [[Speculation/Golden Land\|Golden Land]]. When you do, the ceremony will end. No more people will die.
 { #4cf967}
 
 ## Crime Scene of [[Mysteries/Natsuhi's room\|Natsuhi's room]]
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 
 ---
-# [[Banquet of the Golden witch\|Banquet of the Golden witch]]
+# [[Episodes/Banquet of the Golden witch\|Banquet of the Golden witch]]
 ## Before the game starts
 - ([[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]) __Of all the doors that exist on Rokkenjima, none has a crack trough which a key can slip__.
  __I have the power to speak the truth in red__!!!
@@ -139,7 +139,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __A human, with their feet on the ground, held up a weapon and killed with it! Right before his eyes!__
 
 ---
-# [[Alliance of the Golden witch\|Alliance of the Golden witch]]
+# [[Episodes/Alliance of the Golden witch\|Alliance of the Golden witch]]
 ## [[Characters/Battler\|Battler]]'s sin
 - Battler says __Six years ago, no person called [[Characters/Beatrice\|Beatrice]] existed for me.__
 - __The sin I am now demanding that you remember is not between Ushiromiya Battler and Beatrice.__
@@ -174,24 +174,24 @@ Says [[Characters/Ange\|Ange]]
 # Final showdown at the end of Alliance
 
 ## Final Legend red
-### Crime Scene of [[Mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
 Second part
 - __Both deaths were homicides! It is not the case that, after the construction of the closed room, one of them committed suicide after committing murder! Furthermore, the murder was carried out with both the victim and the perpetrator in the same room! No method exists for the perpetrator to commit murder from outside the room!__
 Third part
 - ([[Characters/Lambdadelta\|Lambdadelta]] says about [[Characters/Beatrice\|Beatrice]] in the first game) __she guaranteed the identities of all unidentified corpses__!
-### Crime Scene of the [[Mysteries/Boiler room\|Boiler room]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
 Second part
 - __All of the survivors have alibis! Let us include the dead as well!! In short, no kind of human or dead person on the island could have killed [[Characters/Kanon\|Kanon]]!__
 - __Kanon did not commit suicide__
 Third part
 - __Kanon did not die in an accident__!
-###  Crime Scene of the [[Mysteries/Parlor\|Parlor]]
+###  Crime Scene of the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
 Second part
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
 Third part
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
-### Crime Scene of [[Characters/Natsuhi\|Natsuhi]]'s death in the [[Mysteries/Portrait room\|Portrait room]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
 Second part
 - __Natsuhi's death was a homicide! There were no unidentified corpses, and all of the survivors have alibis!__
 - __The bullet buried into Natsuhi's forehead was not fired from her gun!__

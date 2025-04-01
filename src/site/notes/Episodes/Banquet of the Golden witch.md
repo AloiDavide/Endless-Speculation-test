@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-23T17:58:48.316+01:00"}
+{"dg-publish":true,"permalink":"/episodes/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-23T17:58:48.316+01:00"}
 ---
 
 __There are five master keys, one for each servant.__

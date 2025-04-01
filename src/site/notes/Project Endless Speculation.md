@@ -15,7 +15,7 @@ Behold our vast array of facilities.
 - A comprehensive list of every single [[Red Truth\|Red Truth]].
 - Long-form theories tackling each of the [[Episodes\|Episodes]] in order.
 - Notes for every relevant [[Characters\|Character]] with all of their descriptions in each episode and in each plane of existence, as well as all the theories regarding each of them.
-- Notes for all the [[Mysteries\|Mysteries]] we aim to solve and our solutions.
+- Notes for all the [[Mysteries/Mysteries\|Mysteries]] we aim to solve and our solutions.
 - Transcriptions of the important information found in the [[extra tips\|extra tips]], such as the Epitaph and the monologues.
 - Many [[Blue Truths/Blue Truths Hub\|blue truths]] holding a claim and our reasoning for it.
 

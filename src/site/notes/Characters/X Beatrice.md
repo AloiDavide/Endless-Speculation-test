@@ -49,7 +49,6 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 
 
 
-
 > [!failure]- Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
 > The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
 > 
@@ -60,6 +59,7 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
+> - We would rather X Beatrice not be in Legend because it breaks another theory.
 
 </div></div>
 
@@ -68,7 +68,6 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 
 
 
-
 > [!failure]- Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
 > The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
 > 
@@ -79,5 +78,6 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
+> - We would rather X Beatrice not be in Legend because it breaks another theory.
 
 </div></div>

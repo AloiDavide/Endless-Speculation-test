@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/turn-of-the-golden-witch/","created":"2025-02-27T17:44:12.209+01:00","updated":"2025-02-27T18:08:15.483+01:00"}
+{"dg-publish":true,"permalink":"/episodes/turn-of-the-golden-witch/","created":"2025-02-27T17:44:12.209+01:00","updated":"2025-03-31T17:42:45.516+02:00"}
 ---
+
+
+ ==legend theory cut content==
+ Since Shannon isn't a person, but an identity assumed by Sayo, anyone disguising with Shannon's clothes is considered "Shannon". In this way we evade the red ||and save us a lot of headhackes for a certain scene in Banquet||. We can also say that Shannon, as an identity, isn't originally Sayo's, but the aforementioned Sayo's sister, and she's the corpse that we find in the shed. It's somewhat strange, but we could say it's Kinzo's body. If we really wanted to, we could easly claim that the corpse in the shed wasn't a corpse at all, but someone alive pretending to be a corpse! After all, we don't *really* need 16 people.
+ ==legend theory cut content==
+
 
 - [x] Who writes the character descriptions in turn?
 Maria and Beato

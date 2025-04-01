@@ -72,19 +72,18 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 
 
 
-
 > [!note]- The epitaph isn't a scam
 > Actually solving the epitaph will give you some reward.
 > 
 > ---
 > Leads:
+> - According to Beatrice, just after she says **I keep my promises**, by solving the Riddle of the Epitaph you should be able to reach the [[Speculation/Golden Land\|Golden Land]]
 
 </div></div>
 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
 
 
 
@@ -99,5 +98,6 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 > - The oldest sister is Eva(絵羽)
 > 	- 絵 = picture / drawing / painting 
 > 	- 羽 = feather / wing
+> - Maybe the section of the painting with the wing effigy hides a key or some kind of mechanism.
 
 </div></div>

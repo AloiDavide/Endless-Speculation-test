@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-30T18:59:08.443+02:00"}
+{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-31T18:32:25.661+02:00"}
 ---
 
 
@@ -174,7 +174,7 @@ Says [[Characters/Ange\|Ange]]
 # Final showdown at the end of Alliance
 
 ## Final Legend red
-### Crime Scene of [[Mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
 Second part
 - __Both deaths were homicides! It is not the case that, after the construction of the closed room, one of them committed suicide after committing murder! Furthermore, the murder was carried out with both the victim and the perpetrator in the same room! No method exists for the perpetrator to commit murder from outside the room!__
 Third part
@@ -185,13 +185,13 @@ Second part
 - __Kanon did not commit suicide__
 Third part
 - __Kanon did not die in an accident__!
-###  Crime Scene of the [[Servants deaths in the parlor\|Servants deaths in the parlor]]
+###  Crime Scene of the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
 Second part
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
 Third part
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
-### Crime Scene of [[Natsuhi's death in Legend\|Natsuhi's death in Legend]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
 Second part
 - __Natsuhi's death was a homicide! There were no unidentified corpses, and all of the survivors have alibis!__
 - __The bullet buried into Natsuhi's forehead was not fired from her gun!__

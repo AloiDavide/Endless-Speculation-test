@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-03-31T18:56:49.016+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-01T23:48:29.281+02:00"}
 ---
 
 
 ## Part 1: Preface
+_Every team needs an editor, someone that is able to say "let's downscale the project" we learned this the hard way_ _-Two madmen that couldn't bring themselves to downscale_
 
 First of all. It's important to establish that, most likely, we would be able to come up with something better by reading the first 4 episodes once again. We had to resist the urge to go back and check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth the time investment, and as much as we had fun combing through all the fine details of this mystery, we are also eager to put it behind us at this point.
 
@@ -22,6 +23,8 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 Let's take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
 
+![Pasted image 20250401234536.png|400](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
 Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
@@ -32,9 +35,9 @@ As will become more and more obvious the more we advance, any scene not witnesse
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
 Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
-```
+
 <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
 
 
 So then, let's start examining the events in order and we'll comment on anything interesting.
@@ -81,7 +84,7 @@ When it comes to motives there isn't much concrete, but maybe she suffers from a
 
 Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
 Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting his sin has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we *definitely* solved) or as Beatrice says __Because of your sin, people die.__
-Additionally, through the [[Mysteries/Bottled letters\|Bottled letters]] she ultimately wants to propagate the legend of the witch into the world.
+Additionally, through the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] she ultimately wants to propagate the legend of the witch into the world.
 
 In [[Tips/Memoirs by lady Lambdadelta\|Memoirs by Lady Lambdadelta]] the translator makes a point of writing down that the narrations starts using She to refer to the witch after [[Characters/Lambdadelta\|Lambdadelta]] grants her desire. We think that witch is Beatrice (and also her alter ego, of course), and it's on the table that the reason she's committing the crimes has something to do with her identity, possibly her crafting multiple identities. 
 We floated some ideas about Sayo possibly being split between a male and female identity, her being a trans woman, or a trans man since Kanon was the later addition. Ultimately we couldn't coalesce this part of the theory into something of substance, so it doesn't play a role for now.
@@ -98,7 +101,7 @@ She took the ring seal. She prepared everything she needs for the events of the 
 Lastly, let's mention the largest gaping problem with all of this... 
 Why is Sayo so nonchalant with Battler potentially touching her boobs in that initial scene in legend? Of course, if Sayo is Kanon, the boobs would need to be fake, right? We believe that the answer to this is that Ryukishi 07 is a bit of a goofy goober who just can't help himself. Something like this happens in Higurashi too, where a character takes a pointless risk that could have exposed their identity, just to use it as a  red herring. And well, after all, Battler was *probably* never touching her boobs. And the boobs were possibly very well made, right? 
 
-We'll touch (no pun intended) on this in later episodes, but there really is a large amount of sunstantiation for the fact that Sayo is all three of Shannon, Kanon and Beatrice, so we're willing to say that it's a minor thing.
+We'll touch (no pun intended) on this in later episodes, but there really is a large amount of substantiation for the fact that Sayo is all three of Shannon, Kanon and Beatrice, so we're willing to say that it's a minor thing.
 
 For now you can find a more detailed account of our reasonings grouped under [[Characters/Shannon#Theories\|Shannon#Theories]]
 
@@ -172,7 +175,7 @@ What really matters right now is that this scene is used as justification for wh
 [[Characters/Eva\|Eva]] and [[Characters/Hideyoshi\|Hideyoshi]] leave the room in the mansion where all the adults are arguing because they know that otherwise they would die. Sayo told them earlier in the day, during a moment where they weren't with anyone else. [[Characters/Natsuhi\|Natsuhi]] was lucky to get away because of her headache.
 
 [[Characters/Sayo\|Sayo]] rushes in and kills all the remaining adults, plus Godha who was unlucky enough to be there to pad the number of victims, and would have heard the gun shots. The murder weapon was one of the [[Tips/Winchester M1984 Sawed off\|winchesters]], with 4+1 bullets for a total of five dead people. 
-With the help of [[Characters/Genji\|Genji]] and [[Characters/Kumasawa\|Kumasawa]], (who didn't kill anyone directly because [[Characters/Lambdadelta\|Lambdadelta]] said __Genji, Kumasawa, and Nanjo are not killers__) they spend the night cleaning the dining room and preparing the scene in the [[Mysteries/Rose garden storehouse\|Rose garden storehouse]] shed. Despite their best efforts, some blood stains will stay visible the day after and be commented on by the story.
+With the help of [[Characters/Genji\|Genji]] and [[Characters/Kumasawa\|Kumasawa]], (who didn't kill anyone directly because [[Characters/Lambdadelta\|Lambdadelta]] said __Genji, Kumasawa, and Nanjo are not killers__) they spend the night cleaning the dining room and preparing the scene in the [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]] shed. Despite their best efforts, some blood stains will stay visible the day after and be commented on by the story.
 
 They have a lot of red liquid that resembles blood which they use to paint the door of the shed, this is something they could have easily smuggled in with the help of captain [[Characters/Kawabata\|Kawabata]]. 
 They set up the five corpses in the shed and paint the door with occult symbols... but wait, there were six corpses, weren't there? 
@@ -218,7 +221,7 @@ In the scene later when everyone in the room sees [[Characters/Beatrice\|Beatric
 
 ---
 
-Now we get to the murders in [[Mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]. Genji and Kanon are sent by Natsuhi to notify Eva and Hideyoshi that dinner is ready, but they supposedly find the door closed with a chain, and when they break it open the guests are found murdered.
+Now we get to the murders in [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]. Genji and Kanon are sent by Natsuhi to notify Eva and Hideyoshi that dinner is ready, but they supposedly find the door closed with a chain, and when they break it open the guests are found murdered.
 
 There are two directions we could take. We could say that the murders were legitimate or that they were faked, and Nanjo is lying about the fact that they are dead.
 
@@ -258,7 +261,7 @@ Genji proposes hiding in Kinzo's study. This was already planned, and He has a l
 They go in, at the opportune moment He pulls out a letter which Maria notices, which makes Natsuhi kick out everyone that she knew not to be safe.
 
 
-They go back to the parlor, thinking they're safe, but [[Servants deaths in the parlor\|they didn't expect Sayo to show up with a gun!]]
+They go back to the parlor, thinking they're safe, but [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|they didn't expect Sayo to show up with a gun!]]
 ![Pasted image 20250331174820.png|500](/img/user/Attachments/Pasted%20image%2020250331174820.png)
 
 
@@ -278,7 +281,7 @@ Maybe, she too was one of Sayo's allies all along.
 Maybe, she was threatened at gunpoint, and Maria is lying about her reading a letter. 
 The most realistic answer is that whatever she read in that letter was some kind of threat or blackmail, or some kind of deal. It ideally should be something that works no matter who finds it first, something to the effect of "The final showdown, just you and me in front of the painting, if you come I'll spare everyone else". We really have no clue about what it was exactly.
 
-Either way, [[Natsuhi's death in Legend\|she is lured and killed in front of the portrait room]], by a bullet from Sayo's gun. It's possible that they both shot each other at the same time, from this point onward we don't need Sayo to be alive anymore.
+Either way, [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|she is lured and killed in front of the portrait room]], by a bullet from Sayo's gun. It's possible that they both shot each other at the same time, from this point onward we don't need Sayo to be alive anymore.
 The children rush in front of the painting, and they find Natsuhi dead, maybe they have an interaction with Sayo, maybe they find both bodies, and Maria acts creepy as usual. 
 
 Shortly after, the bomb that Sayo set up explodes killing every remaining human in the house.
@@ -290,7 +293,7 @@ Nope... it's still not the right time to explain this.
 
 After the explosion, Kawabata secretly comes to Rokkenjima to place a fake Eva Ushiromiya in Kuwadorian, who will become the survivor in Ange's future. She has to be a different person because **no one escapes, all die.** This was set up by whoever is collaborating with Sayo from outside Rokkenjima, probably the Ushiromiya group.
 
-Then, the [[Mysteries/Bottled letters\|Bottled letters]] written by Sayo are disseminated by Kawabata shortly after the events.
+Then, the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] written by Sayo are disseminated by Kawabata shortly after the events.
 The credits say that the author of this account signed herself as Maria Ushiromiya, but she didn't write it. Not only is it out of character but it's also disproved in Legend.
 
 The captain will also end up owning a new / repaired version of the Sakutarou plush that had been made by Rosa. That's what Ange sees in the display case in his nephew's room at his house. We assume he found it on the island when he visited it after everyone died.

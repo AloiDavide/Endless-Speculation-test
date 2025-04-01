@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-01T23:48:29.281+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T00:09:10.177+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Second. Some theories will be more developed than others.
 We are fairly confident that our Legend and Banquet theories are good and make sense, our Turn theory is ok, but it has a bunch of "this probably happened", or "something like that must have happened" moments. 
 However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in between the games, which we would, again, need to read back to understand better, which we aren't going to do.
 
-Third. Sometimes, there are some really clever and appropriate solutions that we weren't able to make fit with a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
+Third. Sometimes, there are some really clever and appropriate solutions that we weren't able to fit within a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
 
 Fourth. Our theories, in some parts, have multiple solutions that both work. When that happens we will mention them. Those will be mentioned, as we feel like they probably have some role in the story. Sometimes, one of us feels like a theory functions, the other doesn't.
 When something like that happens, we will mention it, and if the  and branch the theory if they lead to wildly different implications.
@@ -23,21 +23,25 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 Let's take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
 
-![Pasted image 20250401234536.png|400](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+> [!grid] 
+> ![Pasted image 20250401234536.png](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+> ![occam.png](/img/user/Attachments/occam.png)
+
 
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
-Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
+Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, in future games,  we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
 
 
 Finally, let's talk about our approach to the credibility of any given scene.
 As will become more and more obvious the more we advance, any scene not witnessed by a character we can trust (which in most cases boils down to only [[Characters/Battler\|Battler]]) is to be taken with an ocean, let alone a grain of salt, and we reserve the right to call bullshit if we believe the story is trying to trick us.
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
-Or as George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
+Or as our lord and savior George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
 
 <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Hopefully it will work
 
 
 So then, let's start examining the events in order and we'll comment on anything interesting.

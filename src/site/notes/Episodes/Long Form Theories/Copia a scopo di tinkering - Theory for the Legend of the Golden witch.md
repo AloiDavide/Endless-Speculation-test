@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/copia-a-scopo-di-tinkering-theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-04-02T00:27:06.216+02:00","updated":"2025-04-02T00:45:55.462+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/copia-a-scopo-di-tinkering-theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-04-02T00:27:06.216+02:00","updated":"2025-04-02T01:03:28.964+02:00"}
 ---
 
 
@@ -21,19 +21,11 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 ![tenor.gif](/img/user/Attachments/tenor.gif)
 
+---
 
 Let's take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
 
-> [!grid] 
-> ![occam.png](/img/user/Attachments/occam.png)
-> ![Pasted image 20250401234536.png](/img/user/Attachments/Pasted%20image%2020250401234536.png)
-
-
-![occam.png|left](/img/user/Attachments/occam.png)
-
----
-
-![occam.png|ws-med left](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|ws-med right](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+![occam.png|350](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|350](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
@@ -150,7 +142,7 @@ As established, [[Characters/Kanon\|Kanon]] and [[Characters/Shannon\|Shannon]] 
 
 During the scene at the beach, the cousins and Sayo take a glance at [[Characters/Maria\|Maria]]'s diary. Some things mentioned in the diary are part of the murders happening in Rokkenjima. They are elements from Maria's imagination that Sayo injected into the [[Speculation/Endless Witch\|Endless Magic]] narrative, aka. the ability to create 1 from 0.
 
-Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While doing so she stops to give Maria the letter and the umbrella. It's not clear up to what extend Maria is aware of her position and the meaning of actions. We tend to think she's just going along with the witch narrative because she completely believes it, and she has interacted with Sayo many times, by now she has internalized that this person IS [[Characters/Beatrice\|Beatrice]], so she will gladly do her the favor of delivering a letter, or closing her eyes during a gruesom murder.
+Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While doing so she stops to give Maria the letter and the umbrella. It's not clear up to what extend Maria is aware of her position and the meaning of actions. We tend to think she's just going along with the witch narrative because she completely believes it, and she has interacted with Sayo many times, by now she has internalized that this person IS [[Characters/Beatrice\|Beatrice]], so she will gladly do her the favor of delivering a letter, or closing her eyes during a gruesome murder.
 
 We think the letters are written by Sayo to prime the perception of the people there with the magical narrative. It's weird because the first letter doesn't strictly talk about magic inside of it (Beatrice signs herself a the family alchemist, not a witch), but it's hard to deny [[Characters/Sayo\|Sayo]] is the one who delivers it. It's certainly possible that the letter was written by someone else but delivered by Sayo, or something like that, but this is something we're willing to Occam's razor away. 
 Instead it's more likely that that she started easy and used the first letter to, first and foremost, clue the family in on the existence of a 19th person called Beatrice with a claim to the inheritance, while setting aside the magic elements so that it would be easier to believe. 

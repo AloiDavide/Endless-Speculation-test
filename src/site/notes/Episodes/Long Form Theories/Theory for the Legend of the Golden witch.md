@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T02:04:00.129+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T02:00:44.861+02:00"}
 ---
 
 
@@ -262,9 +262,6 @@ The golden butterflies signify are a framing device to kick Kanon out of the equ
 
 
 ---
-
-
-==It's hard to find a reason why genji would suggest the study and then use the letter in order to get kicked out, isn't it a more effective theory if we say sayo has maria place the letter in order to draw out the next victims?==
 
 Genji proposes hiding in Kinzo's study. This was already planned, and He has a letter to set up.
 They go in, at the opportune moment He pulls out a letter which Maria notices, which makes Natsuhi kick out everyone that she knew not to be safe.

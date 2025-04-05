@@ -108,52 +108,30 @@ body {
     //  }
 
 
-  /*Image Grid*/
-  .callout.callout[data-callout=grid] {
-    --callout-padding: 0;
-    --callout-content-padding: 0;
-    background: transparent;
-    border: 0;
-    margin: 0;
-    box-shadow: none;
-  }
-  .callout.callout[data-callout=grid] .callout-content {
+  /*Image Locations*/
+  /*Center Image*/
+  .img-adj-center.img-adj-center img,
+  img:is([alt*=ctr], [alt*=center]) {
     display: block;
-    width: 100%;
-    border: 0;
-    box-shadow: unset;
-    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .callout.callout[data-callout=grid] .callout-title {
-    display: none;
+
+  .img-adj-center.img-adj-center .is-live-preview img {
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
-  .callout.callout[data-callout=grid] .callout-content p {
-    display: flex;
-    margin-block-start: 0;
-    margin-block-end: 0;
-    justify-content: center;
+
+  /*Left & Right*/
+  .markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
+    float: left;
+    margin-right: 2%;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
-  .callout.callout[data-callout=grid] .callout-content img {
-    display: table-cell;
-    vertical-align: middle;
-    padding: 3px;
-    max-height: 35vh;
-  }
-  .callout.callout[data-callout=grid] .callout-content img[alt=wfull] {
-    max-height: unset;
-  }
-  .callout.callout[data-callout=grid][data-callout-metadata~=masonry] .callout-content p {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(0, auto));
-    grid-gap: 0;
-    margin: 0;
-    margin-top: 1px;
-  }
-  .callout.callout[data-callout=grid][data-callout-metadata~=masonry] .callout-content img {
-    display: flex;
-    flex: 1;
-    align-self: stretch;
-    object-fit: cover;
-    max-height: unset;
+  .markdown-rendered img:is([alt*=right], [alt*=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+    float: right;
+    margin-left: 2%;
+    margin-bottom: 0px;
   }
 }

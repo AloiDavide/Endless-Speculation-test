@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-02T02:00:44.861+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-05T11:23:09.113+02:00"}
 ---
 
 
 ## Part 1: Preface
-<center><i>Every team needs an editor, someone that is able to say "let's downscale the project" we learned this the hard way.</i></center>
+<center><i>Every team needs an editor, someone who is able to say "let's downscale the project", we learned this the hard way.</i></center>
 <p align="right">- Two madmen who couldn't bring themselves to downscale.</p>
 
 First of all. It's important to establish that, most likely, we would be able to come up with something better by reading the first 4 episodes once again. We had to resist the urge to go back and check some stuff, such as compiling all of Beatrice's promises which apparently she keeps, as she says in red [[Red Truth#^4cf967\|here]], but we concluded that it wouldn't be worth the time investment, and as much as we had fun combing through all the fine details of this mystery, we are also eager to put it behind us at this point.
@@ -21,13 +21,21 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 ![tenor.gif](/img/user/Attachments/tenor.gif)
 
+---
 
-Let's take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
-![occam.png|350](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|350](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+Let's also take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
+
+![occam.png|left|335](/img/user/Attachments/occam.png)![Pasted image 20250401234536.png|right|335](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
-Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
+
+
+ Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
+
 Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, in future games,  we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
+
+
+
 
 
 Finally, let's talk about our approach to the credibility of any given scene.
@@ -35,11 +43,7 @@ As will become more and more obvious the more we advance, any scene not witnesse
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
 Or as our lord and savior George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
-
-<iframe width="560" height="315"  src="https://www.youtube.com/watch?v=yFqFLo_bYq0" title="It's like poetry, they rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Hopefully it will work
-
+Hopefully it works.
 
 So then, let's start examining the events in order and we'll comment on anything interesting.
 
@@ -113,7 +117,7 @@ Ok so, back to the events for real this time.
 
 ---
 ## Part 3 : When the seagulls cry
-<center><i>No one was left alive</i></center>
+<center><i>No one will be left alive.</i></center>
 
 <font color="#00b0f0">Let's state this; In the context of Legend of the Golden witch, there are 16 people in Rokkenjima.</font>
 
@@ -152,6 +156,7 @@ Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount 
 
 ---
 ## Part 4 : The First Twilight
+<center><i>Offer the six chosen by the key as sacrifices.</i></center>
 
 [[Characters/Rudolf\|Rudolf]] tells [[Characters/Kyrie\|Kyrie]] and Battler that he thinks he'll die that night, we believe it to be a sign that Rudolf was clued in on Sayo's plan to a degree. After all, Ange receives the same letter with the combination that Nanjo's and Kumasawa's families receive, which to me signals that at least one of Ange's parents have accepted the money in exchange for help with the plan. 
 Despite this, the way things played out in Legend he ended up playing no role at all, dying immediately on the first twilight.
@@ -212,6 +217,7 @@ Yes. Yes it was.
 
 ---
 ## Part 5 : The Second Twilight
+<center><i>Those who remain shall tear apart the two who are close.</i></center>
 
 Let's rewind a little bit. In the morning, before finding the corpses, [[Characters/Genji\|Genji]] made sure that [[Characters/Natsuhi\|Natsuhi]] went to check [[Characters/Kinzo\|Kinzo]]'s study. Of course both Genji and Natsuhi know that Kinzo isn't there, but she has to play the role. Her testimony will be used later on to create a locked room mystery around Kinzo's study, while Eva will use it to try and frame her as a possible culprit.
 
@@ -251,25 +257,24 @@ Then they simply lie about the fact that the chain was intact, after they finish
 ---
 
 ## Part 6 : They got tired of counting twilights
+<center><i>Just kill them all and shove a stake on in some body part, trust me the ritual still works. </i></center>
+<p align="right"><i>- Beatrice, the approximative witch</i></p>
 
 By this point the smell of [[Characters/Kinzo#Kinzo's body\|Kinzo's corpse]] burning in the incinerator has filled the mansion.
-Our best theory about it is that ever since his death he was stored in the incinerator, and Sayo's group started the fire earlier in the day so that it would be discovered as one of the sacrifices. This happens in every game except Turn, where due to different circumstances the body was never burned and stayed hidden the entire time.
+Our best theory about it is that ever since his death he was stored in the incinerator, and [[Characters/Sayo\|Sayo]]'s group started the fire earlier in the day so that it would be discovered as one of the sacrifices. This happens in every game except Turn, where due to different circumstances the body was never burned and stayed hidden the entire time.
 
-After noticing the smell coming from the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]], Sayo and Kumasawa run there to stage a fake homicide. The only reasonable solution we could find to the red concerning this mystery is for Kanon to survive and Nanjo to lie about it. That's what forced our hand on including Nanjo among the culprits.
+After noticing the smell coming from the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]], Sayo and [[Characters/Kumasawa\|Kumasawa]] run there to stage a fake homicide. The only reasonable solution we could find to the red concerning this mystery is for [[Characters/Kanon\|Kanon]] to survive and [[Characters/Nanjo\|Nanjo]] to lie about it. That's what forced our hand on including Nanjo among the culprits.
 Sayo, currently dressed as Kanon, had a bag of fake blood in her clothes, she just pretended to have been stabbed by the stake, and Nanjo lies to help convince the others of his death. 
 Battler didn't see Kanon die first hand, and although it's implied Jessica did, it can be explained with good acting from the victim and the doctor. Plus, what they did with Kanon's body afterward is never addressed, so we believe this is all a ploy for Sayo to roam free after both Shannon and Kanon are out of the picture. 
-The golden butterflies signify are a framing device to kick Kanon out of the equation. Him rebelling against Beatrice could have all kinds of meanings, but we will explore those once we get to some later examples.
+The golden butterflies signify are a framing device to kick Kanon out of the equation. Him rebelling against [[Characters/Beatrice\|Beatrice]] could have all kinds of meanings, but we will explore those once we get to some later examples.
 
 
 ---
 
-Genji proposes hiding in Kinzo's study. This was already planned, and He has a letter to set up.
+[[Characters/Genji\|Genji]] proposes hiding in Kinzo's study. This was already planned, and He has a letter to set up.
 They go in, at the opportune moment He pulls out a letter which Maria notices, which makes Natsuhi kick out everyone that she knew not to be safe.
 
-
-They go back to the parlor, thinking they're safe, but [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|they didn't expect Sayo to show up with a gun!]]
-![Pasted image 20250331174820.png|500](/img/user/Attachments/Pasted%20image%2020250331174820.png)
-
+They go back to the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]], thinking they're safe, but [they didn't expect the Sayo inquisition](https://www.youtube.com/watch?v=yKQ_sQKBASM) to show up with a gun!
 
 It's very easy to imagine how the scene must have played out by stripping the magical elements from Maria's testimony.
 
@@ -305,7 +310,8 @@ The credits say that the author of this account signed herself as Maria Ushiromi
 The captain will also end up owning a new / repaired version of the Sakutarou plush that had been made by Rosa. That's what Ange sees in the display case in his nephew's room at his house. We assume he found it on the island when he visited it after everyone died.
 
 Captain Kuwabara may or may not have the power to shoot lightning.
-![metal-gear-solid-metal-gear-solid3.gif](/img/user/Attachments/metal-gear-solid-metal-gear-solid3.gif)
+![tenor (1).gif](/img/user/Attachments/tenor%20(1).gif)
+
 We might have started calling him Kuwabara Kuwabara, and we might have kept calling him that to the point that while writing parts of the theory I (Crunter) had to double check multiple times not only what the name actually was, but if it was ever accidentally written as Kuwabara (It was).
 Captain Kuwabara 
 Kuwabara Kuwabara

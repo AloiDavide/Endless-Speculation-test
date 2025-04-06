@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-05T11:23:09.113+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-06T11:24:55.625+02:00"}
 ---
 
 
@@ -25,12 +25,11 @@ This isn't like firing a single precise sniper shot, but it also isn't casting a
 
 Let's also take a minute to showcase the weapons we're using to zero in on this theory.  *[[Occam's Razor\|Occam's Razor]]  and [[Chekhov's Gun\|Chekhov's gun]]*.
 
-![occam.png|left|335](/img/user/Attachments/occam.png)![Pasted image 20250401234536.png|right|335](/img/user/Attachments/Pasted%20image%2020250401234536.png)
+![occam.png|left|335](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|right|335](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
 The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 
-
- Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
+Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
 
 Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, in future games,  we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
 
@@ -85,8 +84,10 @@ Simple! It's because Sayo, together with a series of accomplices, is the culprit
 You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitly for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
 One might say, [[Characters/Shannon#^b88433\|the witch Beatrice is Sayo's stand]].
 
+![Pasted image 20250325162702.png|right|200](/img/user/Attachments/Pasted%20image%2020250325162702.png)
 When it comes to motives there isn't much concrete, but maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. After all Beatrice is supposed to have mistaken her means for her ends.
-![Pasted image 20250325162702.png|400](/img/user/Attachments/Pasted%20image%2020250325162702.png)
+
+
 
 Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
 Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting about it has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we *definitely* solved) or as Beatrice says __Because of your sin, people die.__
@@ -301,6 +302,7 @@ Nope... it's still not the right time to explain this.
 ---
 
 ## Part 7 :  Purgatorio
+<center><i>The best part about Umineko was when Beatrice said "It's cackling time!" and started cackling all over those losers.</i></center>
 
 After the explosion, [[Characters/Kawabata\|Kawabata]] secretly comes to Rokkenjima to place a fake Eva Ushiromiya in Kuwadorian, who will become the survivor in Ange's future. She has to be a different person because **no one escapes, all die.** This was set up by whoever is collaborating with Sayo from outside Rokkenjima, probably the Ushiromiya group.
 

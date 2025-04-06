@@ -123,17 +123,17 @@ body {
   }
 
   /*Left & Right*/
-  .markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
-    float: left;
-    margin-right: 2%;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
-  .markdown-rendered img:is([alt*=right], [alt*=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
-    float: right;
-    margin-left: 2%;
-    margin-bottom: 0px;
-  }
+  // .markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
+  //   float: left!important;
+  //   margin-right: 2%;
+  //   margin-top: 0px;
+  //   margin-bottom: 0px;
+  // }
+  // .markdown-rendered img:is([alt*=right], [alt*=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+  //   float: right!important;
+  //   margin-left: 2%;
+  //   margin-bottom: 0px;
+  // }
 
 
 
@@ -371,13 +371,13 @@ body {
   
   /*Left & Right*/
   .markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
-    float: left;
+    float: left !important;
     margin-right: 2%;
     margin-top: 0px;
     margin-bottom: 0px;
   }
   .markdown-rendered img:is([alt*=right], [alt*=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
-    float: right;
+    float: right !important;
     margin-left: 2%;
     margin-bottom: 0px;
   }

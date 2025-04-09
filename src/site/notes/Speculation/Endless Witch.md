@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.010+01:00","updated":"2025-04-09T17:49:39.666+02:00"}
+{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.010+01:00","updated":"2025-04-09T17:52:31.869+02:00"}
 ---
 
 
@@ -32,7 +32,7 @@ Passed from a Beatrice to the next as described in [[Tips/Regarding the Successi
 
 
 > [!note]- Endless magic is a folk tale
-> The origin of the endless magic narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]], who was raised in part by both of them.
+> The origin of the [[Speculation/Endless Witch\|endless magic]] narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]], who was raised in part by both of them.
 > 
 > Maria has contributed her imagination and occult hyperfixation, but she didn't come up with the whole thing like we initially theorized.
 > 

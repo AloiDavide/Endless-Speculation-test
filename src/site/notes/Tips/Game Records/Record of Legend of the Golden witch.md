@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/game-records/record-of-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.072+01:00","updated":"2025-03-18T19:57:52.887+01:00"}
+{"dg-publish":true,"permalink":"/tips/game-records/record-of-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-19T09:06:59.964+01:00","updated":"2025-03-18T19:57:52.887+01:00"}
 ---
 
 [[Characters/Krauss\|Ushiromiya Krauss]]

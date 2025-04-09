@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/the-portrait-epitaph/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.156+01:00","updated":"2025-03-18T19:52:22.185+01:00"}
+{"dg-publish":true,"permalink":"/tips/the-portrait-epitaph/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-19T09:07:00.006+01:00","updated":"2025-03-18T19:52:22.185+01:00"}
 ---
 
 ## Epitaph

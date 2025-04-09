@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/regarding-the-succession-of-witches/","created":"2025-02-27T17:44:12.110+01:00","updated":"2025-03-18T20:09:12.269+01:00"}
+{"dg-publish":true,"permalink":"/tips/regarding-the-succession-of-witches/","created":"2025-03-19T09:07:00.841+01:00","updated":"2025-04-09T17:29:28.897+02:00"}
 ---
 
 In the noble families of witches, family secrets are often inherited by a single child to prevent a propagation of hidden arts and a subsequent decline in their quality.

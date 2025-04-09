@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-02-27T17:44:13.472+01:00","updated":"2025-03-31T18:26:16.779+02:00"}
+{"dg-publish":true,"permalink":"/characters/shannon/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["servant","furniture"],"created":"2025-03-06T14:24:07.786+01:00","updated":"2025-03-31T18:26:16.779+02:00"}
 ---
 
 
@@ -181,13 +181,13 @@ The witnesses at least realized that the stake wasn’t what killed her.
 
 
 > [!note]- Shannon isn't dead in Legend
-> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is only just a fake. Sayo is right there in the room reacting to the scene, but she's playing the role of Kanon.
+> The supposed corpse of [[Characters/Shannon\|Shannon]] isn't hers and it also isn't a corpse. That is only her dress on some dummy shover in a dark corner of the shed so nobody would see it clearly. 
+> [[Characters/Sayo\|Sayo]] is right there in the room reacting to the scene, but she's playing the role of [[Characters/Kanon\|Kanon]]. Eva, Hideyoshi and Nanjo are actively trying to hide this fact and don't allow the kids to get closer to her.
 >  
 > ---
 > Leads:
-> -  We mainly just  need a way to get around the definition of unidentified corpse. We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
-> ---
-> Obstacles:
-> - 
+> - One seemingly dead person working with the other servants is the most straight forward answer to most mysteries Legend throws at you, and Shannon's corpse is the only one where you could pull a stunt like this. 
+> - Not only that, but looking at the narration and circumstances of the body, it's like the whole scene is screaming: "Look out! There's some deception going on here!"
+> -  We mainly just need a way to get around the definition of unidentified corpse. We can beat the red by simply claiming that there was never any corpse to identify.
 
 </div></div>

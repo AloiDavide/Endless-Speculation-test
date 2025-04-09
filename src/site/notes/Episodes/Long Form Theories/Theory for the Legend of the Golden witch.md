@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-06T11:24:55.625+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-31T08:53:22.599+02:00","updated":"2025-04-09T17:21:36.511+02:00"}
 ---
 
 
@@ -27,7 +27,7 @@ Let's also take a minute to showcase the weapons we're using to zero in on this 
 
 ![occam.png|left|335](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|right|335](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
-The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build some really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
+The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build a really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 
 Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
 
@@ -51,7 +51,7 @@ So then, let's start examining the events in order and we'll comment on anything
 <center><i>When two characters collapse into one, so do the theories form one main branch.</i></center>
 
 The initial scene with [[Characters/Kinzo\|Kinzo]] happens long before the main events of the game, it's Kinzo interacting with [[Characters/Nanjo\|Nanjo]] and [[Characters/Genji\|Genji]] before dying, possibly months before the family conference.
-Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss\|Krauss]] and every other person that lives in Rokkenjima with the exception of [[Characters/Jessica\|Jessica]] and [[Characters/Gohda\|Gohda]] know it. Everyone is pretending that he's alive per the instructions of Krauss, which is worried about the discovery process of splitting his inheritance.
+Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss\|Krauss]] and every other person that lives in Rokkenjima with the exception of [[Characters/Jessica\|Jessica]] and [[Characters/Gohda\|Gohda]] know it. Everyone is pretending that he's alive per the instructions of Krauss, who is worried about the discovery process of splitting his inheritance.
 
 
 When the family boards a plane at the airport, we see that for some reason, the pilot of the plane (not a ship!) is captain [[Characters/Kawabata\|Kawabata]].
@@ -151,7 +151,7 @@ Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While
 We think the letters are written by Sayo to prime the perception of the people there with the magical narrative. It's weird because the first letter doesn't strictly talk about magic inside of it (Beatrice signs herself a the family alchemist, not a witch), but it's hard to deny [[Characters/Sayo\|Sayo]] is the one who delivers it. It's certainly possible that the letter was written by someone else but delivered by Sayo, or something like that, but this is something we're willing to Occam's razor away. 
 Instead it's more likely that that she started easy and used the first letter to, first and foremost, clue the family in on the existence of a 19th person called Beatrice with a claim to the inheritance, while setting aside the magic elements so that it would be easier to believe. 
 
-She doesn't think the gold exists, but she's furthering the narrative about Kinzo's 10 tons of gold. That, to us, is the true meaning of Golden Magic and is what makes her the [[Speculation/Golden Witch\|Golden Witch]], the creation of illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. Thus, [[Speculation/Endless Realization\|Endless Realization]] is simply Sayo incorporating the narrative about gold into the narrative of the endless witch.
+She doesn't think the gold exists, but she's furthering the narrative about Kinzo's 10 tons of gold. That, to us, is the true meaning of Golden Magic and what makes her the [[Speculation/Golden Witch\|Golden Witch]], the creation of illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. Thus, [[Speculation/Endless Realization\|Endless Realization]] is simply Sayo incorporating the narrative about gold into the narrative of the [[Speculation/Endless Witch\|endless witch]].
 
 Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's also possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
 
@@ -159,7 +159,7 @@ Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount 
 ## Part 4 : The First Twilight
 <center><i>Offer the six chosen by the key as sacrifices.</i></center>
 
-[[Characters/Rudolf\|Rudolf]] tells [[Characters/Kyrie\|Kyrie]] and Battler that he thinks he'll die that night, we believe it to be a sign that Rudolf was clued in on Sayo's plan to a degree. After all, Ange receives the same letter with the combination that Nanjo's and Kumasawa's families receive, which to me signals that at least one of Ange's parents have accepted the money in exchange for help with the plan. 
+[[Characters/Rudolf\|Rudolf]] tells [[Characters/Kyrie\|Kyrie]] and Battler that he thinks he'll die that night, we believe it to be a sign that Rudolf was clued in on Sayo's plan to a degree. After all, Ange receives the same letter with the combination that Nanjo's and Kumasawa's families receive, which to us signals that at least one of Ange's parents have accepted the money in exchange for help with the plan. 
 Despite this, the way things played out in Legend he ended up playing no role at all, dying immediately on the first twilight.
 
 To be precise, we believe [[Characters/Sayo\|Sayo]] tries to strike a deal with several of the adults individually, with promises of wealth which they all needed. This is part of the uncertainty that makes each of the games begin slightly differently, leading to different first twilights and their different consequences.
@@ -197,7 +197,7 @@ Alright, so if the thing in the shed wasn't another corpse, then we can claim th
 Alternatively, that was someone alive pretending to be a corpse, after all we don't *really* need to lower the number of humans to 16, we can fit 17.
 But wait... Doesn't the red corner us? Don't we literally already have a functioning solution that we plan to use anyway?
 Well, yes, but we have not one, but *two top secret secret solutions*, that we would prefer to keep secret right now to create suspence for both our turn and banquet theory.
-For reasons that will be disclosed in the following games, we would prefer the number to be 16 at this point because our 17th person doesn't fit well in this version of the story. For that reason we'll go with the mannequin option, and since it's not a body, it doesn't count as a body double for the red.
+For reasons that will be disclosed in the following games, we would prefer the number to be 16 at this point because our 17th person doesn't fit well in this version of the story. For that reason we'll go with the dummy option, and since it's not a body, it doesn't count as a body double for the red.
 It should also be noted that it can't be Sayo herself, because [[Characters/Kanon\|Kanon]] is present when they discover the corpses and "__No one else can go by Kanon's name! A different person can't claim that as their name!__".
 
 Of course all of the solutions given require some of the adults to lie.
@@ -205,7 +205,7 @@ Of course all of the solutions given require some of the adults to lie.
 - [[Characters/Eva\|Eva]] and [[Characters/Hideyoshi\|Hideyoshi]] are very adamant that the children don't come in the shed, and especially don't see Shannon. The explanation given is that it would be a traumatic experience, and also they need to keep the scene intact for the police.
 - [[Characters/Natsuhi\|Natsuhi]] does the same thing, but she's otherwise not as suspicious as the other two so we'll let it pass as a normal reaction. She also doesn't seem to get close to Shannon's fake.
 
-We do need to explain why Hideyoshi knew about the ring and what it looks like. It's very possible he could have guessed it by the way George asked the question, it's also possible that Hideyoshi heard it from Rudolf, who was present near the bathroom stall when George was practicing proposing, finally it's possible that Sayo just told him for some reason. We can only guess.
+We do need to explain why Hideyoshi knew about the ring and what it looks like. It's very possible he could have guessed by the way George asked the question, it's also possible that Hideyoshi heard it from Rudolf, who was present near the bathroom stall when George was practicing proposing, finally it's possible that Sayo just told him for some reason. We can only guess.
 
 Outside of the main crime, someone fabricated the scratches on the door of Natsuhi's room using the same fake blood, and the cuprits disabled the phone lines connecting the island to the outside. 
 
@@ -340,10 +340,10 @@ So to recap, if everything in Legend  happens before Battler in the tea party st
 ---
 ## Part 𝑖 : The tea party of those who are not human
 
-The tea party of those who aren't human is not a golden land, but a dimension above the tea party where [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]].  At this layer of abstraction there's no Sayo anymore, it's just the endless witch with her framing device and the witch of fragments trying to see through it. 
+The tea party of those who aren't human is not a golden land, but a dimension above the tea party where [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]].  At this layer of abstraction there's no Sayo anymore, it's just the [[Speculation/Endless Witch\|endless witch]] with her framing device and the witch of fragments trying to see through it. 
 Nominally, [[Characters/Beatrice\|Beato]] was just showing her "Something cool" and they both act like they aren't fighting against each other, but even at this point they both know that they are. 
 
-There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth to the reader, even in Legend where meta battler doesn't even exist yet. 
+There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth for the reader, even in Legend where meta battler doesn't even exist yet. 
 Those scenes can be explained as being instead directed to Bernkastel as well as us the reader. 
  
 The POV characters, at least initially, are Battler and Bernkastel, and when she breaks the 4th wall she is simultaneously talking to us and to Battler. 

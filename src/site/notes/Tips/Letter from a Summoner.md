@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/letter-from-a-summoner/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-18T19:16:41.264+01:00","updated":"2025-03-18T19:19:41.232+01:00"}
+{"dg-publish":true,"permalink":"/tips/letter-from-a-summoner/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-19T09:06:59.275+01:00","updated":"2025-03-18T19:19:41.232+01:00"}
 ---
 
 

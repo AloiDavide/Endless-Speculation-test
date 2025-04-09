@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-03-31T18:39:50.681+02:00"}
+{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-03-06T14:24:07.350+01:00","updated":"2025-04-06T14:18:02.610+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-Disappeared from his [[Mysteries/Episode 1 mysteries/Kinzo's study\|study]] unnoticed.
+Disappeared from his study unnoticed.
 Kinzo’s study has everything from a bed to a toilet to a bathtub, so it is extremely rare for him to go outside.
 
 However, he does occasionally go out for a walk on a whim without telling anybody, and his disappearance invariably leads to a huge uproar throughout the house. He usually comes back as soon as he gets hungry... usually...

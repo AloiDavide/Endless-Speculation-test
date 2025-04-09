@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/future-mysteries/bottled-letters/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["future"],"created":"2025-03-18T18:21:57.433+01:00","updated":"2025-03-31T18:55:50.215+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/future-mysteries/bottled-letters/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["future"],"created":"2025-03-31T08:53:22.280+02:00","updated":"2025-03-31T18:55:50.215+02:00"}
 ---
 
 In the future where half of Alliance takes place, accounts of at least the first three games have been recovered inside different bottles in the sea near Rokkenjima.

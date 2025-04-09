@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","created":"2025-02-27T17:44:13.503+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
+{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","created":"2025-03-06T14:24:07.389+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
 ---
 
 
@@ -49,17 +49,19 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 
 
 
-> [!failure]- Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
-> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
+> [!failure]- Shannon 's corpse in legend is \[REDACTED\]
+> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply \[REDACTED\] trying to hide herself with the help of the adults.
 > 
 > ---
 > Leads:
 > -  We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
-> - Maybe after seeing the spitting image of Beatrice the Ushiromiya parents want to keep it a secret.
+> - Maybe after seeing \[REDACTED\] the Ushiromiya parents want to keep it a secret.
+> - There's room for a 17th person in Legend.
+> 
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
-> - We would rather X Beatrice not be in Legend because it breaks another theory.
+> - We would rather \[REDACTED\] not be in Legend because it breaks another theory.
 
 </div></div>
 
@@ -68,16 +70,18 @@ She is the one who hols regrets about Battler not remembering his sin in the tea
 
 
 
-> [!failure]- Shannon 's corpse in legend is [[Characters/X Beatrice\|X Beatrice]]
-> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
+> [!failure]- Shannon 's corpse in legend is \[REDACTED\]
+> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply \[REDACTED\] trying to hide herself with the help of the adults.
 > 
 > ---
 > Leads:
 > -  We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
-> - Maybe after seeing the spitting image of Beatrice the Ushiromiya parents want to keep it a secret.
+> - Maybe after seeing \[REDACTED\] the Ushiromiya parents want to keep it a secret.
+> - There's room for a 17th person in Legend.
+> 
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
-> - We would rather X Beatrice not be in Legend because it breaks another theory.
+> - We would rather \[REDACTED\] not be in Legend because it breaks another theory.
 
 </div></div>

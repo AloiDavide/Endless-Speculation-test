@@ -1,22 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.956+01:00","updated":"2025-03-30T13:10:45.062+02:00"}
+{"dg-publish":true,"permalink":"/legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.256+01:00","updated":"2025-04-06T14:17:05.913+02:00"}
 ---
 
 
 ## [[Episodes/Long Form Theories/Theory for the Legend of the Golden witch\|Theory for the Legend of the Golden witch]]
 
-
-## Episode one mysteries (to be organized)
+### Episode one mysteries
+- [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
+- [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
+- [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
+- [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]]
+- [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
 
 { .block-language-dataview}
-
-## Episode one tips
+### Episode one tips
 - [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
 - [[Tips/The Witch's Letters\|The Witch's Letters]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Tips/Winchester M1984 Sawed off\|Winchester M1984 Sawed off]]
 - [[Tips/Game Records/Record of Legend of the Golden witch\|Record of Legend of the Golden witch]]
-
 
 
 
@@ -36,10 +38,3 @@
 
 </div></div>
 
-
-
-==Do we include these in the pubished part of the vault?==
-
-[[Crunter's notes - Legend\|Crunter's notes - Legend]]
-[[Legend Q&A and timeline\|Legend Q&A and timeline]]
-[[Scaletta di crunter\|Scaletta di crunter]]

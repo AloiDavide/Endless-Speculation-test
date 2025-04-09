@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.908+01:00","updated":"2025-03-26T18:55:31.781+01:00"}
+{"dg-publish":true,"permalink":"/speculation/golden-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.520+01:00","updated":"2025-03-26T18:55:31.781+01:00"}
 ---
 
 #### Title held by:

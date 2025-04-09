@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-chiester-sisters-imperial-guard-corps/","contentClasses":"center-headings red-links red-truth center-images","tags":["furniture"],"created":"2025-02-27T17:44:13.479+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
+{"dg-publish":true,"permalink":"/characters/the-chiester-sisters-imperial-guard-corps/","contentClasses":"center-headings red-links red-truth center-images","tags":["furniture"],"created":"2025-03-06T14:24:08.484+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
 ---
 
 

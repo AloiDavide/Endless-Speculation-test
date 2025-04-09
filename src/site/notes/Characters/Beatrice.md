@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-03-29T15:25:40.577+01:00"}
+{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-03-06T14:24:06.917+01:00","updated":"2025-03-29T15:25:40.577+01:00"}
 ---
 
 Beatrice

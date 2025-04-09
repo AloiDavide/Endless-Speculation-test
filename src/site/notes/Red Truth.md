@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-03-31T18:32:25.661+02:00"}
+{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-03-06T14:24:06.577+01:00","updated":"2025-04-06T13:25:38.886+02:00"}
 ---
 
 
@@ -90,7 +90,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - Battler dice __There are no more then 18 people on this island__
 ## On the iron door that leads to the gold
 - __On the tenth twilight, at journey's end, you shall attain to the power of the golden Land's treasures, once and for the last time__
-## Crime Scene of the [[Mysteries/Rose garden\|Rose garden]]
+## Crime Scene of the [[Mysteries/Rose garden (Banquet)\|Rose garden (Banquet)]]
 - __Rosa and Maria died__. __The causes of death were as Nanjo diagnosed__.
 - __Rosa's and Maria's deaths were homicides__.
 ## Final confrontation with [[Characters/EVA Beatrice\|Evato]]

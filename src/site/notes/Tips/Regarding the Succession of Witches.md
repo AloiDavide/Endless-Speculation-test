@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/regarding-the-succession-of-witches/","created":"2025-02-27T17:44:12.110+01:00","updated":"2025-04-10T14:30:13.522+02:00"}
+{"dg-publish":true,"permalink":"/tips/regarding-the-succession-of-witches/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.110+01:00","updated":"2025-04-10T14:58:12.691+02:00"}
 ---
 
 In the noble families of witches, family secrets are often inherited by a single child to prevent a propagation of hidden arts and a subsequent decline in their quality.
@@ -20,10 +20,7 @@ Furthermore, during the story, Beatrice inherited that name along with the posit
 
 
 > [!note]- Beatrice's Titles
-> [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Speculation/Endless Witch\|endless]] and [[Speculation/Golden Witch\|golden]]) are passed down through different unrelated means. One involves solving the epitaph
-> 
-> --- 
-> Leads:
+> [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Speculation/Golden Witch\|golden]] and [[Speculation/Endless Witch\|endless]]) are passed down through different unrelated means. The former involves solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]] while the latter is a long
 > 
 > During the coronation of Evato, Beatrice confirms she is inheriting both titles.
 > ![Pasted image 20241106234042.png](/img/user/Attachments/Pasted%20image%2020241106234042.png)
@@ -31,7 +28,7 @@ Furthermore, during the story, Beatrice inherited that name along with the posit
 > According to Maria's diary the main criterion for coronating a golden witch seems to be solving the epitaph.
 > ![Pasted image 20241106234411.png](/img/user/Attachments/Pasted%20image%2020241106234411.png) 
 > 
-> But unless we write off [[Tips/Regarding the Succession of Witches\|Regarding the Succession of Witches]] as nonsense magical b [[Tips/Regarding the Succession of Witches\|sequence of endless witches]] seems to be recommendation based, and it pre-dates Virgilia by some generations if we don't write off everything .
+> But unless we completely write off the tips as magical nonsense, we know the [[Tips/Regarding the Succession of Witches\|sequence of endless witches]] is recommendation based and it pre-dates Virgilia by some generations, hinting at a different real world parallel.
 >  
 
 </div></div>

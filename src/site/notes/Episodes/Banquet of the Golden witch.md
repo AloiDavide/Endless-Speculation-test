@@ -145,7 +145,7 @@ Nanjo says his grandchild is sick, then Jessica hears a bang
 
 ## Tips
 - [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
-- [[Tips/The Witch's Letters\|The Witch's Letters]]
+- [[Tips/Beatrice's Letters/The Witch's Letters\|The Witch's Letters]]
 - [[Tips/Game Records/Record of Banquet of the Golden Witch\|Record of Banquet of the Golden Witch]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Tips/The Chiester Golden Bows\|The Chiester Golden Bows]]

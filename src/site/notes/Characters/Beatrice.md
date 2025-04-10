@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-04-10T14:35:54.803+02:00"}
+{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-04-10T14:37:46.118+02:00"}
 ---
 
 
@@ -137,8 +137,6 @@ We shall call the Beato that shows up in Rokkenjima X Beato because she is non a
 Known exclusively as the Golden with on the human side and exclusively as the Endless witch on the witch side.
 
 It seems that simply getting Battler to say he gives up is not enough, he has to actually believe in witches for Beatrice to win.
-
-Beato era un merdone senza Maria e mariage sorciere.
 
 
 

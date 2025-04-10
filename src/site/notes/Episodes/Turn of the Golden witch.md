@@ -94,7 +94,7 @@ Finals
 
 ## Tips
 - [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
--  [[Tips/The Witch's Letters\|The Witch's Letters]]
+-  [[Tips/Beatrice's Letters/The Witch's Letters\|The Witch's Letters]]
 - [[Tips/Game Records/Record of Turn of the Golden Witch\|Record of Turn of the Golden Witch]]
 - [[Tips/Golden Butterfly Brooch\|Golden Butterfly Brooch]]
 # Axioms

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T14:17:49.090+02:00"}
+{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T14:40:26.567+02:00"}
 ---
 
 
@@ -15,6 +15,8 @@ Passed from a Beatrice to the next as described in [[Tips/Regarding the Successi
 > unmatched, eldless magical power.
 > ~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
+When she was joined with the [[Speculation/Witch of Origins\|Witch of Origins]] through [[Tips/Mariage Sorcière\|Mariage Sorcière]], their [[Tips/Magical Compendiums\|magical compendium]] gained an endless span, as well as endless power.
+~ [[Characters/Beatrice#Alliance\|Beatrice#Alliance]]
 
 >It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless power in its truest sense. 
 >~ [[Tips/Mariage Sorcière\|Mariage Sorcière]]

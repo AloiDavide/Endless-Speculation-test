@@ -15,7 +15,7 @@
 { .block-language-dataview}
 ### Episode one tips
 - [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]
-- [[Tips/The Witch's Letters\|The Witch's Letters]]
+- [[Tips/Beatrice's Letters/The Witch's Letters\|The Witch's Letters]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Tips/Winchester M1984 Sawed off\|Winchester M1984 Sawed off]]
 - [[Tips/Game Records/Record of Legend of the Golden witch\|Record of Legend of the Golden witch]]

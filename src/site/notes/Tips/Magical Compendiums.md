@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/magical-compendiums/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.026+01:00","updated":"2025-03-18T19:12:09.889+01:00"}
+{"dg-publish":true,"permalink":"/tips/magical-compendiums/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.026+01:00","updated":"2025-04-10T14:57:35.040+02:00"}
 ---
 
 
@@ -15,4 +15,14 @@ The essence of sorcery is maintaining a balance between these two outcomes when 
 
 ---
 
-A magical compendium is a narrative that validates a series of beliefs.
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Magical compendiums are narratives
+> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. They gain more power the more people buy into them but they can also belong to just one person.
+> 
+> The example given by the author for a [[Tips/Grimoires\|grimoire]], aka a written magic compendium is very clearly the bible, so massive religions and ideologies fit the definition, but so does Maria's coping mechanism to deal with family issues, to name one.
+
+</div></div>

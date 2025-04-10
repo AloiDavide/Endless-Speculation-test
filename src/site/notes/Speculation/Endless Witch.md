@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T15:11:55.590+02:00"}
+{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T18:20:26.187+02:00"}
 ---
 
 
@@ -11,8 +11,7 @@ Title held by:
 
 Passed from a Beatrice to the next as described in [[Tips/Regarding the Succession of Witches\|Regarding the Succession of Witches]].
 
->The title of [[Speculation/Endless Witch\|Endless Witch]] has its fundation in "Endless Creation" and is the root of her
-> unmatched, eldless magical power.
+>The title of [[Speculation/Endless Witch\|Endless Witch]] has its fundation in "Endless Creation" and is the root of her unmatched, eldless magical power.
 > ~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
 >When she was joined with the [[Speculation/Witch of Origins\|Witch of Origins]] through [[Tips/Mariage Sorcière\|Mariage Sorcière]], their [[Tips/Magical Compendiums\|magical compendium]] gained an endless span, as well as endless power.

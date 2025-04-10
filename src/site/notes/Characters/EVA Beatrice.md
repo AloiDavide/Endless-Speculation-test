@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-03-06T14:24:08.622+01:00","updated":"2025-03-29T15:21:39.515+01:00"}
+{"dg-publish":true,"permalink":"/characters/eva-beatrice/","tags":["witch","ushiromiya"],"created":"2025-02-27T17:44:13.194+01:00","updated":"2025-03-29T15:21:39.515+01:00"}
 ---
 
 

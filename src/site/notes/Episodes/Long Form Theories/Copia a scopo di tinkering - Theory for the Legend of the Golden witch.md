@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/copia-a-scopo-di-tinkering-theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-04-02T08:58:31.861+02:00","updated":"2025-04-02T01:03:28.964+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/copia-a-scopo-di-tinkering-theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-04-02T00:27:06.216+02:00","updated":"2025-04-02T01:03:28.964+02:00"}
 ---
 
 

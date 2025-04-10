@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-03-06T14:24:07.054+01:00","updated":"2025-03-29T15:24:18.552+01:00"}
+{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-03-29T15:24:18.552+01:00"}
 ---
 
 Ushiromiya Battler

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.162+01:00","updated":"2025-03-26T19:26:00.537+01:00"}
+{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.803+01:00","updated":"2025-03-26T19:26:00.537+01:00"}
 ---
 
 

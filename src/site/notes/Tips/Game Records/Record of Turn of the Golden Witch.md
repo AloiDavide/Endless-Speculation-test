@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/game-records/record-of-turn-of-the-golden-witch/","created":"2025-03-19T09:07:00.623+01:00","updated":"2025-03-18T20:00:14.504+01:00"}
+{"dg-publish":true,"permalink":"/tips/game-records/record-of-turn-of-the-golden-witch/","created":"2025-02-27T17:44:12.079+01:00","updated":"2025-03-18T20:00:14.504+01:00"}
 ---
 
 [[Characters/Krauss\|Ushiromiya Krauss]]  

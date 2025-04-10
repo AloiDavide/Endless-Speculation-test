@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-03/","created":"2025-03-19T09:06:59.214+01:00","updated":"2025-03-18T19:58:33.293+01:00"}
+{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-03/","created":"2025-02-27T17:44:12.003+01:00","updated":"2025-03-18T19:58:33.293+01:00"}
 ---
 
 Members of the [[Ushiromiya\|Ushiromiya]] Family and its household, have you now reached the climax of the riddle of the gold's epitaph?

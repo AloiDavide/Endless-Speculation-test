@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e3-01/","created":"2025-03-19T09:07:00.004+01:00","updated":"2025-03-18T19:58:39.707+01:00"}
+{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e3-01/","created":"2025-02-27T17:44:12.018+01:00","updated":"2025-03-18T19:58:39.707+01:00"}
 ---
 
 So that there will be no misunderstandings...

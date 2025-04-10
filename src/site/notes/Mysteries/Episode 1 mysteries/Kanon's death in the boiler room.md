@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/kanon-s-death-in-the-boiler-room/","contentClasses":"red-links red-truth center-headings","created":"2025-03-06T14:24:07.230+01:00","updated":"2025-04-06T13:25:06.575+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/kanon-s-death-in-the-boiler-room/","contentClasses":"red-links red-truth center-headings","created":"2025-03-31T18:55:49.586+02:00","updated":"2025-04-06T13:25:06.575+02:00"}
 ---
 
 ## Axioms

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/project-endless-speculation/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["gardenEntry"],"created":"2025-03-06T14:24:06.832+01:00","updated":"2025-03-23T17:26:33.917+01:00"}
+{"dg-publish":true,"permalink":"/project-endless-speculation/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["gardenEntry"],"created":"2025-02-27T17:44:11.788+01:00","updated":"2025-03-23T17:26:33.917+01:00"}
 ---
 
 

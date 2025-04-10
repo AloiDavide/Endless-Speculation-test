@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","created":"2025-03-06T14:24:07.389+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
+{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","created":"2025-02-27T17:44:13.503+01:00","updated":"2025-03-29T15:24:18.558+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/rose-garden-storehouse/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.653+01:00","updated":"2025-04-06T13:55:22.566+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/rose-garden-storehouse/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:14.043+01:00","updated":"2025-04-06T13:55:22.566+02:00"}
 ---
 
 

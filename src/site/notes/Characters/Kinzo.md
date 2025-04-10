@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-03-06T14:24:07.350+01:00","updated":"2025-04-06T14:18:02.610+02:00"}
+{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-04-09T18:01:21.329+02:00"}
 ---
 
 
@@ -111,6 +111,21 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > [!note]- Kinzo's magical compendium
 > It's based on arithmetic miracles, his idea of magic involves taking huge risks for huge rewards. This is probably related to how he became the head of the family apparently by dumb luck, and how he bluffed his way to becoming a millionare by making crazy investments, almost as if he had 10 tons of gold lying around.... Not that the gold ever existed though.
 > 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]+ The Golden Witch is Kinzo's version of Beatrice
+> This is the [[Characters/Beatrice\|Beatrice]] made up by [[Characters/Kinzo\|Kinzo]] to convince everyone that he possessed 10 tons of gold. Even to this day the modern incarnation of beatrice is supporting this claim and identifying with the image and narrative Kinzo has created because it's a valuable addition to her own narrative ([[Speculation/Endless Realization\|Endless Realization]]).
+> 
+> ---
+> Leads:
+> - It's the title inherited by solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]. 
+> - The description of golden magic from [[Tips/Beatrice's Titles\|Beatrice's Titles]] literally says it can "materialize imaginary precious metals".
 
 </div></div>
 

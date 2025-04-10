@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/gohda-flashback/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.524+01:00","updated":"2025-04-06T13:32:10.309+02:00"}
+{"dg-publish":true,"permalink":"/tips/gohda-flashback/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.940+01:00","updated":"2025-04-06T13:32:10.309+02:00"}
 ---
 
 ![Pasted image 20241206224238.png](/img/user/Attachments/Pasted%20image%2020241206224238.png)

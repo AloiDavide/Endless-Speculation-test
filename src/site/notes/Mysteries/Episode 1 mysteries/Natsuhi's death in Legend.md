@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/natsuhi-s-death-in-legend/","contentClasses":"red-links red-truth center-headings","created":"2025-03-06T14:24:07.658+01:00","updated":"2025-04-06T13:24:55.686+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/natsuhi-s-death-in-legend/","contentClasses":"red-links red-truth center-headings","created":"2025-03-31T18:55:49.558+02:00","updated":"2025-04-06T13:24:55.686+02:00"}
 ---
 
 

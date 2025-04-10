@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e1-03/","created":"2025-03-19T09:07:00.057+01:00","updated":"2025-03-18T19:58:25.094+01:00"}
+{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e1-03/","created":"2025-02-27T17:44:11.979+01:00","updated":"2025-03-18T19:58:25.094+01:00"}
 ---
 
 Are you enjoying the riddle of [[Characters/Kinzo\|Ushiromiya Kinzo]]-sama's epitaph?

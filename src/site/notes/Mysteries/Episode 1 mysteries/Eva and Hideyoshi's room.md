@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/eva-and-hideyoshi-s-room/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-10T08:50:42.771+01:00","updated":"2025-04-06T13:24:42.140+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/eva-and-hideyoshi-s-room/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:13.960+01:00","updated":"2025-04-06T13:24:42.140+02:00"}
 ---
 
 Genji and Kanon are sent by Natsuhi to notify Eva and Hideyoshi that dinner is ready, but they supposedly find the door closed with a chain...

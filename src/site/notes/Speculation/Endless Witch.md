@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-06T14:24:07.010+01:00","updated":"2025-04-09T17:52:31.869+02:00"}
+{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T14:17:49.090+02:00"}
 ---
 
 
@@ -16,8 +16,7 @@ Passed from a Beatrice to the next as described in [[Tips/Regarding the Successi
 > ~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
 
->It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless
->power in its truest sense. 
+>It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless power in its truest sense. 
 >~ [[Tips/Mariage Sorcière\|Mariage Sorcière]]
 
 
@@ -34,7 +33,7 @@ Passed from a Beatrice to the next as described in [[Tips/Regarding the Successi
 > [!note]- Endless magic is a folk tale
 > The origin of the [[Speculation/Endless Witch\|endless magic]] narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]], who was raised in part by both of them.
 > 
-> Maria has contributed her imagination and occult hyperfixation, but she didn't come up with the whole thing like we initially theorized.
+> Maria has contributed her imagination and occult hyper fixation, but she didn't come up with the whole thing like we initially theorized. Maybe "gaining endless power" means entering the public consciousness, and the rokkenjima case was instrumental for that to happen with [[Characters/Beatrice\|Beatrice]].
 > 
 > ---
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-02/","created":"2025-03-19T09:07:00.525+01:00","updated":"2025-03-18T19:58:30.720+01:00"}
+{"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-02/","created":"2025-02-27T17:44:11.995+01:00","updated":"2025-03-18T19:58:30.720+01:00"}
 ---
 
 Did you think I'd be that senile, to just sit around here waiting for you to come back barging in?

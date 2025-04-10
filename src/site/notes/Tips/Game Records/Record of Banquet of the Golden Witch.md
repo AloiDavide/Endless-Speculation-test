@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/game-records/record-of-banquet-of-the-golden-witch/","created":"2025-03-19T09:06:59.268+01:00","updated":"2025-03-18T20:01:28.497+01:00"}
+{"dg-publish":true,"permalink":"/tips/game-records/record-of-banquet-of-the-golden-witch/","created":"2025-02-27T17:44:12.064+01:00","updated":"2025-03-18T20:01:28.497+01:00"}
 ---
 
 [[Characters/Kinzo\|Ushiromiya Kinzo]]

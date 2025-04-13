@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-09T17:21:36.511+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-13T12:36:23.152+02:00"}
 ---
 
 
@@ -90,7 +90,7 @@ When it comes to motives there isn't much concrete, but maybe she suffers from a
 
 
 Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
-Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although not necessarily her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting about it has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we *definitely* solved) or as Beatrice says __Because of your sin, people die.__
+Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although it wasn't done to her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting about it has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we *definitely* solved) or as Beatrice says __Because of your sin, people die.__
 Additionally, through the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] she ultimately wants to propagate the legend of the witch into the world.
 
 In [[Tips/Memoirs by lady Lambdadelta\|Memoirs by Lady Lambdadelta]] the translator makes a point of writing down that the narrations starts using She to refer to the witch after [[Characters/Lambdadelta\|Lambdadelta]] grants her desire. We think that witch is Beatrice (and also her alter ego, of course), and it's on the table that the reason she's committing the crimes has something to do with her identity, possibly her crafting multiple identities. 

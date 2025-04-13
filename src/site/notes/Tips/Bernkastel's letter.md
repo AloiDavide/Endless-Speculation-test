@@ -105,7 +105,7 @@ The disease that affects high ranking voyager witches is boredom, after all it's
 #### Rule X
 - This is the core of the witch beatrice.
 - She compares it to how higurashi always started on july 20th.
-- Seems related to [[Speculation/Endless Witch\|Endless Magic]] and its idle repetition, aka. the reason why everyone on the island will die at midnight, in particular [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]].
+- Seems related to [[Speculation/Endless Witch\|Endless Magic]] and its idle repetition, aka. the reason why everyone on the island will die at midnight, in particular [[Battler's death in Alliance\|Battler's death in Alliance]].
 - Bern figured it out from Lambda boasting that she would 'absolutely' be unable to win.
 	- Is it some checkmate scenario with incredibly high chances of happening, akin to Takano's plan?
 	- Is it actually absolute this time because everything resets before a winner can be truly decided? Unlike Higurashi which did have real win conditions.

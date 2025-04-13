@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-04-13T13:08:22.769+02:00"}
+{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-04-13T13:13:06.391+02:00"}
 ---
 
 
@@ -142,17 +142,25 @@ age:: 18
 
 
 
-> [!note]- \[REDACTED THEORY\]
+> [!note]- REDACTED THEORY
 > This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>
 
-> [!tip]+ Battler is Kyrie's biological son
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- Battler is Kyrie's biological son
 > Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]]'s stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.
 > ![Pasted image 20240829020559.png](/img/user/Attachments/Pasted%20image%2020240829020559.png)
+
+</div></div>
+
 
 
 ### Battler's death in Alliance
@@ -167,7 +175,7 @@ age:: 18
 
 
 
-> [!note]- \[REDACTED THEORY\]
+> [!note]- REDACTED THEORY
 > This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>

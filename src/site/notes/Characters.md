@@ -6,22 +6,22 @@
 
 ### Witches
 - [[Characters/Virgilia\|Virgilia]]
+- [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
+- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
 - [[Characters/Kinzo\|Kinzo]]
-- [[Characters/Lambdadelta\|Lambdadelta]]
-- [[Characters/Beatrice\|Beatrice]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 
 ### Furniture
-- [[Characters/Shannon\|Shannon]]
-- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
+- [[Characters/Shannon\|Shannon]]
+- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
 - [[Characters/Genji\|Genji]]
@@ -39,13 +39,13 @@
 - [[Characters/Kyrie\|Kyrie]]
 - [[Characters/Krauss\|Krauss]]
 - [[Characters/George\|George]]
-- [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Jessica\|Jessica]]
+- [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
 - [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 
@@ -53,8 +53,8 @@
 
 - [[Characters/Shannon\|Shannon]]
 - [[Characters/Kanon\|Kanon]]
-- [[Characters/Genji\|Genji]]
 - [[Characters/Kumasawa\|Kumasawa]]
+- [[Characters/Genji\|Genji]]
 - [[Characters/Gohda\|Gohda]]
 
 { .block-language-dataview}

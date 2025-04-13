@@ -236,7 +236,7 @@ Second part
 - __Kinzo is already dead at the starting time for all games!__
 - __Before now, I have proclaimed that no more then 18 humans exist on this island. I will now lower that by one for Kinzo!!__
 - __No more then 17 humans exist on this island!! That excludes any 18th person. In short, this 18th person X does not exist!! This applies to all games!!!__
-### [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
+### [[Battler's death in Alliance\|Battler's death in Alliance]]
 Second part
 - __Ushiromiya Battler. I will now... kill you.__
 - __And right now, there is no one other than you on this island. The only one alive on this island is you. Nothing outside the island can interfere.__

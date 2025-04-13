@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-04-09T18:01:21.329+02:00"}
+{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-04-13T13:09:26.771+02:00"}
 ---
 
 
@@ -126,6 +126,16 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > Leads:
 > - It's the title inherited by solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]. 
 > - The description of golden magic from [[Tips/Beatrice's Titles\|Beatrice's Titles]] literally says it can "materialize imaginary precious metals".
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- REDACTED THEORY
+> This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>
 

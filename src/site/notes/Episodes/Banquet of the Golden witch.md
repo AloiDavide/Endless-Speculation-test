@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-03-23T17:58:48.316+01:00"}
+{"dg-publish":true,"permalink":"/episodes/banquet-of-the-golden-witch/","created":"2025-02-27T17:44:11.771+01:00","updated":"2025-04-13T15:54:49.925+02:00"}
 ---
 
 __There are five master keys, one for each servant.__
@@ -150,3 +150,39 @@ Nanjo says his grandchild is sick, then Jessica hears a bang
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Tips/The Chiester Golden Bows\|The Chiester Golden Bows]]
 - [[Tips/Regarding the Succession of Witches\|Regarding the Succession of Witches]]
+
+
+==Hound note: Ho fatto in modo che i blocchi verde acqua risultano invisibili nel sito, così nascondiamo le blue truths spoiler==
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- The little girl in the prologue of Banquet is [[Characters/Sayo\|Sayo]]
+> The [[Chekhov's Gun\|Chekhov's Gun]] version of this theory. 
+> 
+> ---
+> Leads:
+> - Since the meta Beatrice is Sayo, her reminiscing about her childhood in this scene means it's something Sayo experienced.
+> - Kinzo here was definitely old enough to be called grandfather.
+> - It's possible the ps3 adaptation made a mistake by showing Kuwadorian in this scene instead of drawing a new background for Fukuin house.
+> - Alternatively it's possible Sayo was raised, or frequently visited Kuwadorian. After all, that is also where she meets with Virgilia and Maria in some flashbacks from alliance, so she was at least familiar with the place.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- The little girl in the prologue of Banquet is [[Characters/0 Beatrice\|0 Beatrice]]
+> The [[Occam's Razor\|Occam's Razor]] version of this theory.
+> 
+> ---
+> Leads:
+> - We are told Sayo was raised in Kinzo's orphanage, and we already have a Beatrice raised in Kuwadorian. Do we need another one?
+> - Kumasawa would have looked closer to Virgilia at the time, and it makes sense for her to act that way in front of a child who Kinzo wants to convince that witches exist.
+> - Although she would have been older than Rosa, Kinzo was probably old enough by that point to be called grandfather, but it's iffy.
+> - We would have to accept that meta beatrice is pulling experiences from multiple real Beatrices.
+
+</div></div>

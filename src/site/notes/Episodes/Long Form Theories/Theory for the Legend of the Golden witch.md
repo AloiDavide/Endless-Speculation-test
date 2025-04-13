@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-13T12:36:23.152+02:00"}
+{"dg-publish":true,"permalink":"/episodes/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images","created":"2025-03-18T09:05:52.144+01:00","updated":"2025-04-13T13:38:19.091+02:00"}
 ---
 
 
@@ -309,7 +309,7 @@ After the explosion, [[Characters/Kawabata\|Kawabata]] secretly comes to Rokkenj
 Then, the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] written by Sayo are disseminated by Kawabata shortly after the events.
 The credits say that the author of this account signed herself as Maria Ushiromiya, but she didn't write it. Not only is it out of character but it's also disproved in Legend.
 
-The captain will also end up owning a new / repaired version of the Sakutarou plush that had been made by Rosa. That's what Ange sees in the display case in his nephew's room at his house. We assume he found it on the island when he visited it after everyone died.
+The captain will also end up owning a new / repaired version of the [[Characters/Sakutarou\|Sakutarou]] plush that had been made by Rosa. That's what Ange sees in the display case in his nephew's room at his house. We assume he found it on the island when he visited it after everyone died.
 
 Captain Kuwabara may or may not have the power to shoot lightning.
 ![tenor (1).gif](/img/user/Attachments/tenor%20(1).gif)

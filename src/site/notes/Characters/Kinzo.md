@@ -222,7 +222,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 
 
 
-> [!note]- Krauss burns Kinzo in the boiler room
+> [!tip]- Krauss burns Kinzo in the boiler room
 > It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
 > He probably didn't think of the smell. He was never the brightest.
 > 
@@ -250,7 +250,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > Leads:
 > - The gross smell is always going to lead to someone discovering the body eventually. Burning the corpse is something you should only do if you plan for it to pop up at some point.
 > - Either they move it, or maybe it really was placed there by Krauss to hide it, and all they do is turn on the heat.
-> - In Turn, Kinzo was simply never designated as a victim, perhaps due to the interference of [[Characters/X Beatrice\|X Beatrice]] on Sayo's plan.
+> - In Turn, Kinzo was simply never designated as a victim, perhaps due to the interference of \[REDACTED\] on Sayo's plan.
 > ---
 > Obstacles:
 > - It's hard to believe Genji would do something like that to his former master... unless he believes his new master to be someone with equal or higher authority, someone like Beatrice.

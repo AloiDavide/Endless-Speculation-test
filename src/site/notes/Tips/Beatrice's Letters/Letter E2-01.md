@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-01/","created":"2025-02-27T17:44:11.988+01:00","updated":"2025-03-18T19:58:28.039+01:00"}
 ---
 
-Welcome to [[Mysteries/Rokkenjima\|Rokkenjima]], members of the [[Ushiromiya\|Ushiromiya]] family.
+Welcome to [[Rokkenjima\|Rokkenjima]], members of the [[Ushiromiya\|Ushiromiya]] family.
 I am [[Characters/Beatrice\|Beatrice]], the alchemist for this family employed by [[Characters/Kinzo\|Kinzo]]-sama himself.
 I have served him for many years in accordance with our contract, but on this day, Kinzo-sama has announced the final suspension of that contract.
 Therefore, I ask that you acknowledge my resignation from the position of family alchemist from this day forth.

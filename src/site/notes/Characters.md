@@ -5,28 +5,28 @@
 ## Meta
 
 ### Witches
-- [[Characters/Virgilia\|Virgilia]]
-- [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Maria\|Maria]]
-- [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Beatrice\|Beatrice]]
-- [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Ange\|Ange]]
+- [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Kinzo\|Kinzo]]
+- [[Characters/EVA Beatrice\|EVA Beatrice]]
+- [[Characters/Bernkastel\|Bernkastel]]
+- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
+- [[Characters/Virgilia\|Virgilia]]
 
 { .block-language-dataview}
 
 ### Furniture
-- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/Shannon\|Shannon]]
+- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/Sakutarou\|Sakutarou]]
-- [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
-- [[Characters/Genji\|Genji]]
-- [[Characters/Gaap\|Gaap]]
 - [[Characters/Goats\|Goats]]
+- [[Characters/Genji\|Genji]]
+- [[Characters/Ronove\|Ronove]]
+- [[Characters/Gaap\|Gaap]]
 
 { .block-language-dataview}
 
@@ -34,18 +34,18 @@
 ### Ushiromiya
 - [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Rosa\|Rosa]]
-- [[Characters/Natsuhi\|Natsuhi]]
 - [[Characters/Maria\|Maria]]
+- [[Characters/Natsuhi\|Natsuhi]]
 - [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Krauss\|Krauss]]
-- [[Characters/George\|George]]
-- [[Characters/Jessica\|Jessica]]
+- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
+- [[Characters/George\|George]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
-- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
+- [[Characters/Jessica\|Jessica]]
+- [[Characters/Krauss\|Krauss]]
 
 { .block-language-dataview}
 
@@ -53,19 +53,19 @@
 
 - [[Characters/Shannon\|Shannon]]
 - [[Characters/Kanon\|Kanon]]
-- [[Characters/Kumasawa\|Kumasawa]]
-- [[Characters/Genji\|Genji]]
 - [[Characters/Gohda\|Gohda]]
+- [[Characters/Genji\|Genji]]
+- [[Characters/Kumasawa\|Kumasawa]]
 
 { .block-language-dataview}
 
 ### Others
-- [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
-- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
+- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Amakusa\|Amakusa]]
+- [[Characters/Nanjo\|Nanjo]]
 
 { .block-language-dataview}

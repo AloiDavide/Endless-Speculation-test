@@ -88,12 +88,12 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
-> - X Beato as herself
-> - Genji as himself and Ronove
+> - \[REDACTED\] as herself
+> - Genji as himself and as Ronove
 > - Kumasawa as Virgilia
 > - Ange (retroactively from the future)
-> - EVA Beatrice (either retroactively or because she was there)
-> - Possibly Nanjo?
+> - EVA Beatrice (either retroactively or because she was actually present there)
+> - Possibly Nanjo as Gaap (Gaanjo)
 > 
 > We notably can't make this claim about Kinzo and Maria.
 

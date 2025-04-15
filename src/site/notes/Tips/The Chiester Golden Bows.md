@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/the-chiester-golden-bows/","created":"2025-02-27T17:44:12.148+01:00","updated":"2025-03-18T20:03:00.445+01:00"}
+{"dg-publish":true,"permalink":"/tips/the-chiester-golden-bows/"}
 ---
 
 One of the articles of sniping equipment used by [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]].

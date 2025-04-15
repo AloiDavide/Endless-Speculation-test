@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/servants-deaths-in-the-parlor/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-03-31T18:55:49.563+02:00","updated":"2025-04-06T14:16:08.835+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/servants-deaths-in-the-parlor/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 ## Legend

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"],"created":"2025-02-27T17:44:13.170+01:00","updated":"2025-04-13T13:13:06.391+02:00"}
+{"dg-publish":true,"permalink":"/characters/battler/","tags":["ushiromiya","witch","human"]}
 ---
 
 

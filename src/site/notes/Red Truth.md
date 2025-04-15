@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth","created":"2025-02-27T17:44:12.094+01:00","updated":"2025-04-13T13:36:15.598+02:00"}
+{"dg-publish":true,"permalink":"/red-truth/","contentClasses":"red-truth red-links blue-truth"}
 ---
 
 

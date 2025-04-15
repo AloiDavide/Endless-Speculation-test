@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/magical-compendiums/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.026+01:00","updated":"2025-04-10T14:57:35.040+02:00"}
+{"dg-publish":true,"permalink":"/tips/magical-compendiums/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 

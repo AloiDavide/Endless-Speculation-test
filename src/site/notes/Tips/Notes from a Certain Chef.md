@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/notes-from-a-certain-chef/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.940+01:00","updated":"2025-04-13T15:09:30.706+02:00"}
+{"dg-publish":true,"permalink":"/tips/notes-from-a-certain-chef/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 ![Pasted image 20241206224238.png](/img/user/Attachments/Pasted%20image%2020241206224238.png)

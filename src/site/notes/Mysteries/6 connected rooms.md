@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/6-connected-rooms/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["banquet"],"created":"2025-02-27T17:44:13.903+01:00","updated":"2025-03-31T18:33:39.628+02:00"}
+{"dg-publish":true,"permalink":"/mysteries/6-connected-rooms/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["banquet"]}
 ---
 
 Shannon(?) : Parlor

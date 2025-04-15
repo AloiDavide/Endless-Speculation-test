@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kawabata/","contentClasses":"center-headings center-images","tags":["other"],"created":"2025-02-27T17:44:13.299+01:00","updated":"2025-04-13T13:43:38.688+02:00"}
+{"dg-publish":true,"permalink":"/characters/kawabata/","contentClasses":"center-headings center-images","tags":["other"]}
 ---
 
 ![[Kawabata.png\|Kawabata.png]]

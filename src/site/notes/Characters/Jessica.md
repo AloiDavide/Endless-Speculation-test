@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/jessica/","contentClasses":"center-headings","tags":["ushiromiya"],"created":"2025-02-27T17:44:13.265+01:00","updated":"2025-04-13T15:20:38.157+02:00"}
+{"dg-publish":true,"permalink":"/characters/jessica/","contentClasses":"center-headings","tags":["ushiromiya"]}
 ---
 
 ![Mugshots/jessica.png|jessica.png](/img/user/Mugshots/jessica.png)

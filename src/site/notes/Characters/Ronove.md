@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ronove/","contentClasses":"center-headings","tags":["furniture"],"created":"2025-02-27T17:44:13.441+01:00","updated":"2025-04-13T15:46:23.907+02:00"}
+{"dg-publish":true,"permalink":"/characters/ronove/","contentClasses":"center-headings","tags":["furniture"]}
 ---
 
-Ronove
+
 ![Mugshots/ronove.png|ronove.png](/img/user/Mugshots/ronove.png)
 # Descriptions
 

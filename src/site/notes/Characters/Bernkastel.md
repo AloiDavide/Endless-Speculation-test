@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bernkastel/","tags":["witch"],"created":"2025-02-27T17:44:13.186+01:00","updated":"2025-03-29T15:24:18.567+01:00"}
+{"dg-publish":true,"permalink":"/characters/bernkastel/","tags":["witch"]}
 ---
 
 #### [[Tips/Bernkastel's letter\|Bernkastel's letter]]

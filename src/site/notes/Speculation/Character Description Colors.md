@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/character-description-colors/","contentClasses":"center-headings red-truth red-links blue-truth center-images","created":"2025-02-27T17:44:11.923+01:00","updated":"2025-03-30T19:26:59.046+02:00"}
+{"dg-publish":true,"permalink":"/speculation/character-description-colors/","contentClasses":"center-headings red-truth red-links blue-truth center-images"}
 ---
 
 As we know, the character descriptions in the pause menu are divided in three areas.

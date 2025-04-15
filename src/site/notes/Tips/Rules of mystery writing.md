@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/rules-of-mystery-writing/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.140+01:00","updated":"2025-04-06T13:06:22.912+02:00"}
+{"dg-publish":true,"permalink":"/tips/rules-of-mystery-writing/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 Bets are open, how many did Ryukishi manage to break?

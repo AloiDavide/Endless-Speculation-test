@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.860+01:00","updated":"2025-04-10T18:20:26.187+02:00"}
+{"dg-publish":true,"permalink":"/speculation/endless-witch/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 

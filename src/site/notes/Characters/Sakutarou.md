@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/sakutarou/","contentClasses":"center-headings","tags":["furniture"],"created":"2025-02-27T17:44:13.464+01:00","updated":"2025-04-13T13:43:09.511+02:00"}
+{"dg-publish":true,"permalink":"/characters/sakutarou/","contentClasses":"center-headings","tags":["furniture"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"],"created":"2025-02-27T17:44:13.325+01:00","updated":"2025-04-13T13:09:26.771+02:00"}
+{"dg-publish":true,"permalink":"/characters/kinzo/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["ushiromiya","witch"]}
 ---
 
 

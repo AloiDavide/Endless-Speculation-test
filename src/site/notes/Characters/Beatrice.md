@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"],"created":"2025-02-27T17:44:13.179+01:00","updated":"2025-04-10T14:37:46.118+02:00"}
+{"dg-publish":true,"permalink":"/characters/beatrice/","tags":["witch"]}
 ---
 
 
 
-
-![beatrice.png](/img/user/Mugshots/beatrice.png)
+![Mugshots/beatrice.png|beatrice.png](/img/user/Mugshots/beatrice.png)
 
 
 ### Disambiguation

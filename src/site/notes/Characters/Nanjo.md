@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/nanjo/","contentClasses":"center-headings","tags":["other"],"created":"2025-02-27T17:44:13.411+01:00","updated":"2025-04-13T16:08:38.585+02:00"}
+{"dg-publish":true,"permalink":"/characters/nanjo/","contentClasses":"center-headings","tags":["other"]}
 ---
 
 

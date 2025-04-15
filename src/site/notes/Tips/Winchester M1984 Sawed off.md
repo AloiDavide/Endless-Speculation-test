@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/winchester-m1984-sawed-off/","created":"2025-02-27T17:44:12.224+01:00","updated":"2025-03-18T19:59:11.886+01:00"}
+{"dg-publish":true,"permalink":"/tips/winchester-m1984-sawed-off/"}
 ---
 
 A sawed-off custom version of a rifle manufactured during the golden age of Winchesters.

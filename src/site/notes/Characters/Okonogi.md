@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/okonogi/","contentClasses":"center-headings","created":"2025-02-27T17:44:13.426+01:00","updated":"2025-04-13T13:21:41.571+02:00"}
+{"dg-publish":true,"permalink":"/characters/okonogi/","contentClasses":"center-headings"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/grimoires/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.916+01:00","updated":"2025-04-10T14:57:26.079+02:00"}
+{"dg-publish":true,"permalink":"/tips/grimoires/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 Simply put, any time a [[Tips/Magical Compendiums\|magical compendium]] is written down to be passed on to later generations, the result is a grimoire.

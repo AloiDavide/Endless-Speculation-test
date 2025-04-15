@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/golden-butterfly-brooch/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.891+01:00","updated":"2025-04-10T14:41:27.812+02:00"}
+{"dg-publish":true,"permalink":"/tips/golden-butterfly-brooch/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 This object arranges all fate variables in a favorable manner to form relationships between the sexes.

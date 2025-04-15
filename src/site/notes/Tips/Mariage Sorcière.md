@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/mariage-sorciere/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.034+01:00","updated":"2025-04-10T14:27:29.017+02:00"}
+{"dg-publish":true,"permalink":"/tips/mariage-sorciere/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 

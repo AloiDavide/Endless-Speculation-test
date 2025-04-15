@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/beatrice-s-titles/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:11.780+01:00","updated":"2025-04-10T14:41:05.424+02:00"}
+{"dg-publish":true,"permalink":"/tips/beatrice-s-titles/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 As a witch, [[Characters/Beatrice\|Beatrice]] holds two titles: "[[Speculation/Golden Witch\|Golden]]" and "[[Speculation/Endless Witch\|Endless]]".

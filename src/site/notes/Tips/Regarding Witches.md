@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/regarding-witches/","contentClasses":"center-headings red-truth red-links blue-truth","created":"2025-02-27T17:44:12.125+01:00","updated":"2025-04-10T15:05:09.645+02:00"}
+{"dg-publish":true,"permalink":"/tips/regarding-witches/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
 The definition of a witch is vague, but according to the generally accepted theory, one becomes a witch at the moment they gain possession of a power surpassing the boundaries of Humans that they can use at will.

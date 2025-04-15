@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gohda/","contentClasses":"center-headings","tags":["servant"],"created":"2025-02-27T17:44:13.242+01:00","updated":"2025-04-13T15:13:28.505+02:00"}
+{"dg-publish":true,"permalink":"/characters/gohda/","contentClasses":"center-headings","tags":["servant"]}
 ---
 
 

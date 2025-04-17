@@ -4,27 +4,27 @@
 
 [[Characters/Kinzo\|Ushiromiya Kinzo]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Genji\|Servant Genji]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Shannon\|Servant Shannon]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Kanon\|Servant Kanon]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Gohda\|Servant Gohda]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Kumasawa\|Servant Kumasawa]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]], offered up as a sacrifice.  
+Chosen by the key of the Golden Land, offered up as a sacrifice.  
   
 [[Characters/Rosa\|Ushiromiya Rosa]]
 Died on the second twilight.  
@@ -72,7 +72,7 @@ The new witch will not let anyone survive.
   
 [[Characters/Jessica\|Ushiromiya Jessica]]
 Missing on the tenth twilight
-After she acknowledged the existence of the witch and prostrated herself, the witch invited her to the [[Speculation/Golden Land\|Golden Land]].
+After she acknowledged the existence of the witch and prostrated herself, the witch invited her to the Golden Land.
   
 [[Characters/Eva\|Ushiromiya Eva]]
 Solved the riddle of the epitaph. Returned from Rokkenjima alive.  

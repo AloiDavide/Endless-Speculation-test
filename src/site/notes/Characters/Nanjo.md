@@ -17,7 +17,7 @@ He once ran a hospital on Niijima, but he turned it over to his son and now enjo
 Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo is one of the very few people he trusts. Thanks to Nanjo’s big-hearted nature, he has been able to continue his friendship with Kinzo despite the latter’s tendency to fly into a rage at the slightest provocation.
 
 ---
-Found in the parlor. His thigh had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and his face had been smashed.
+Found in the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]]. His thigh had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and his face had been smashed.
 
 At the seventh twilight, gouge the knee and kill.
 ## Turn
@@ -35,7 +35,7 @@ Died in the [[Mysteries/Servant Room\|Servant Room]], his throat sliced open by 
 However, this alone isn't enough.
 
 ---
-His corpse, which had gone missing, was later found in the [[courtyard\|courtyard]].  
+His corpse, which had gone missing, was later found in the courtyard.  
 At that time, it had a weapon shaped like a [[Characters/The Seven Stakes of Purgatory\|stake]] rammed into its knee.  
 
 With this, the seventh twilight is finished.
@@ -50,7 +50,7 @@ Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo i
 
 ---
 His corpse was found in the hallway in front of the mansion's [[Mysteries/Servant Room\|Servant Room]].  
-The weapon used on him is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
+The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.  
 
 Just a little longer, and he'd probably have managed to return alive. However, in the very end, the witch did not permit that.
 ## Alliance
@@ -63,8 +63,8 @@ He once ran a hospital on Niijima, but he turned it over to his son and now enjo
 Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo is one of the very few people he trusts. Thanks to Nanjo’s big-hearted nature, he has been able to continue his friendship with Kinzo despite the latter’s tendency to fly into a rage at the slightest provocation.
 
 ---
-His corpse was found [[behind the mansion\|behind the mansion]].  
-About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a [[powerful gun\|powerful gun]] or something similar.  
+His corpse was found behind the mansion.  
+About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
 
 A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the body.
 # Theories
@@ -90,7 +90,7 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 
 
-> [!note]- Sayo's required accomplices all have a motive to help.
+> [!note]- Sayo's required accomplices all have a motive to help
 > The other servants plus Nanjo all have motivations to be accomplices of Beatrice.
 > 
 > ---

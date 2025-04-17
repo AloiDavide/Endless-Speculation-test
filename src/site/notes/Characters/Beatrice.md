@@ -7,7 +7,7 @@
 ![Mugshots/beatrice.png|beatrice.png](/img/user/Mugshots/beatrice.png)
 
 
-### Disambiguation
+## Disambiguation
 This note refers to the meta character in the tea party who calls herself the Golden and Endless Witch, and was challenged by [[Characters/Battler\|Ushiromiya Battler]].
 
 You instead might be looking for:
@@ -15,7 +15,8 @@ You instead might be looking for:
 - \[REDACTED\]
 - \[REDACTED\]
 - \[REDACTED\]
-
+ 
+ ---
 # Descriptions
 
 ## Legend

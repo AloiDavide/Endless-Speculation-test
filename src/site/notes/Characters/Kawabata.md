@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/characters/kawabata/","contentClasses":"center-headings center-images","tags":["other"]}
 ---
 
-![[Kawabata.png\|Kawabata.png]]
+
+![Mugshots/kawabata.png|kawabata.png](/img/user/Mugshots/kawabata.png)
 
 # Descriptions
 

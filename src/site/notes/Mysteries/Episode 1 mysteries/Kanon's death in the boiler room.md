@@ -32,7 +32,7 @@
 
 
 > [!note]- Kanon did not die... at all!
-> Why assume he died when they could just as easily have faked it.
+> No need to assume he died in the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]] in legend, they could just as easily have faked it.
 > 
 > ---
 > Leads:
@@ -48,8 +48,7 @@
 </div></div>
 
 
-
-SUPER obsolete theory from before we ironed out the details of our Sayo conjecture, and Kanon was still a separate person.
+Here's a super obsolete theory from before we ironed out the details of our Sayo conjecture, and Kanon was still a separate person.
 > [!failure]- Kanon wasn't in Rokkenjima
 > Shannon survived the first twilight. She took on Kanon's identity who by that point was no longer in Rokkenjima, and was the person killed in the boiler room.
 > 
@@ -64,3 +63,41 @@ SUPER obsolete theory from before we ironed out the details of our Sayo conjectu
 > - If we claim Kanon is already dead like Kinzo this needs to hold for every episode, but it at least is definitely false in Alliance.
 > - "No one escapes, all die." Gets in the way of him leaving the island after being there.
 
+
+Oh and let's not forget [[Characters/Kinzo\|Kinzo]] was here too.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Kinzo's burned corpse
+> Kinzo's body was burned in the incinerator recently.
+> 
+> ---
+> Leads:
+> - First things first, because the identity of all unidentified corpses in Legend has been guaranteed in red, that is indeed Kinzo's body.
+> - The body couldn't have been burning for longer than several hours or a day at most, or they would have noticed the smell a lot sooner.
+> - It's unlikely they left it to rot in the studio it must have been stored somewhere such as a coffin in the chapel.
+>- Or maybe it was in the boiler room but it was only incinerated later.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- The servants burn Kinzo in the boiler room
+> The servants are trying to push the narrative of magical murders, so they slowly incinerate Kinzo so that his body will be found with a delay. 
+> 
+> ---
+> Leads:
+> - The gross smell is always going to lead to someone discovering the body eventually. Burning the corpse is something you should only do if you plan for it to pop up at some point.
+> - Either they move it, or maybe it really was placed there by Krauss to hide it, and all they do is turn on the heat.
+> - In Turn, Kinzo was simply never designated as a victim, perhaps due to the interference of \[REDACTED\] on Sayo's plan.
+> ---
+> Obstacles:
+> - It's hard to believe Genji would do something like that to his former master... unless he believes his new master to be someone with equal or higher authority, someone like Beatrice.
+
+</div></div>

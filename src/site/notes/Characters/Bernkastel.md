@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/bernkastel/","tags":["witch"]}
 ---
 
-#### [[Tips/Bernkastel's letter\|Bernkastel's letter]]
+
 ![Mugshots/bernkastel.png|bernkastel.png](/img/user/Mugshots/bernkastel.png)
 # Descriptions
 
@@ -24,7 +24,7 @@ That’s why I’m fickle and whimsical. I live as I please, die as I please, an
 ## Turn
 #### Tea Party
 
-The [[Speculation/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.  
+The Witch of Miracles, who has lived for a thousand years.  
 Her vast power is capable of creating all kinds of miracles, but her heart has broken a bit as a result.  
 
 Back when she was a human, [[Characters/Lambdadelta\|Lambdadelta]] once imprisoned her within a cruel fate, toying with her the whole time. As a result, it seems she’s unable to abandon others who are caught within a similar fate.  
@@ -35,7 +35,7 @@ Yet, she did fold it a hundred times.
 ## Banquet
 #### Tea Party
 
-The [[Speculation/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years.
+The Witch of Miracles, who has lived for a thousand years.
 Her vast power is capable of creating all kinds of miracles, but her heart has broken a bit as a result.
 
 Back when she was a human, [[Characters/Lambdadelta\|Lambdadelta]] once imprisoned her within a cruel fate, toying with her the whole time. As a result, it seems she's unable to abandon others who are caught within a similar fate.
@@ -46,16 +46,21 @@ Yet, she did fold it a hundred times.
 ## Alliance
 #### Tea Party
 
-The [[Speculation/Witch of Miracles\|Witch of Miracles]], who has lived for a thousand years. To defeat [[Characters/Beatrice\|Beatrice]] in her game, she threw in a piece called [[Characters/Ange\|ANGE]].
+The Witch of Miracles, who has lived for a thousand years. To defeat [[Characters/Beatrice\|Beatrice]] in her game, she threw in a piece called [[Characters/Ange\|ANGE]].
 
-The [[Tips/Regarding Voyagers\|Voyager]] witches who cross the [[sea of Fragments\|sea of Fragments]] are beings far superior to the witches who cannot leave their own territories.
+The [[Tips/Regarding Voyagers\|Voyager]] witches who cross the sea of Fragments are beings far superior to the witches who cannot leave their own territories.
 
 While they may be on an even footing inside this territory, her true magical power far surpasses that of Beatrice.
 
 What is sought by those witches who repeatedly voyage in an attempt to escape boredom...?
+
+---
+
 # Theories
-What did it mean for her to add a piece to the board?
-Will she go down to the actual Rokkenjima as Erika Furudo?
+
+- She's our best candidate for the twist villain of Umineko
+- Will she personally join the game in episode 5 as Erika Furudo?
+- See [[Tips/Bernkastel's letter\|Bernkastel's letter]] for more metaphysical theories
 
 
 
@@ -64,7 +69,7 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 
 
 > [!note]- Bernkastel is a reader
-> [[Characters/Bernkastel\|Bernkastel]] acts as an aid to the reader of Umineko and a reader herself. She represents the will to solve the mystery as a game (which makes her our patron witch).
+> [[Characters/Bernkastel\|Bernkastel]] is portrayed as an aid to the reader of Umineko and a reader herself. She represents the will to solve the mystery as a game, making her our patron witch.
 > 
 > ---
 > Evidence:
@@ -78,46 +83,3 @@ Will she go down to the actual Rokkenjima as Erika Furudo?
 { #f44b17}
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Knowledge of the loops
-> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] that have been found in the future.
-> 
-> This would include:
-> - Sayo as Beatrice, Kanon and Shannon
-> - \[REDACTED\] as herself
-> - Genji as himself and as Ronove
-> - Kumasawa as Virgilia
-> - Ange (retroactively from the future)
-> - EVA Beatrice (either retroactively or because she was actually present there)
-> - Possibly Nanjo as Gaap (Gaanjo)
-> 
-> We notably can't make this claim about Kinzo and Maria.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/characters/eva-beatrice/#4c8d5a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-> [!note]+ Kasumi Sumadera is EVA Beatrice.
-> If we absolutely must find her an identity among the known characters, it would have to be [[Characters/Kasumi\|Kasumi]].
-> 
-> ---
-> Leads:
-> - Kyrie could be said to have surrendered when faced with her family's trials.
-> - She does literally show up layered over Kasumi  to represent the [[Speculation/Black Magic\|Black Witch]].
-> - There was a big deal in Banquet about the cigarette Kyrie had in her pocket that didn't actually lead anywhere, and later on Kasumi is confirmed to be a smoker.
-> 
-> Cons:
-> - It disqualifies her from being the future Eva we need for [[Characters/Eva#Theories\|this]] theory.
-> - The black witch framework is applied to Rosa and Maria as well.
-
-</div></div>
-
-If Bern represents the Reader, then Lambda is the author who will keep you hooked, never quite giving you enough of the solution to feel satisfied.

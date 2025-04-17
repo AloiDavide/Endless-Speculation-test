@@ -5,7 +5,7 @@
 ## Epitaph
 
 Behold the sweetfish river running through my beloved hometown.  
-You who seek the [[Speculation/Golden Land\|Golden Land]], follow its path downstream in search of the key.
+You who seek the Golden Land, follow its path downstream in search of the key.
 
 As you travel down it, you will see a village.  
 In that village, look for the shore the two will tell you of.  
@@ -77,7 +77,7 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 > 
 > ---
 > Leads:
-> - According to Beatrice, just after she says **I keep my promises**, by solving the Riddle of the Epitaph you should be able to reach the [[Speculation/Golden Land\|Golden Land]]
+> - According to Beatrice, just after she says **I keep my promises**, by solving the Riddle of the Epitaph you should be able to reach the Golden Land
 
 </div></div>
 

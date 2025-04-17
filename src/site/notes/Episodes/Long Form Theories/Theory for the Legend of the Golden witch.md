@@ -58,7 +58,7 @@ When the family boards a plane at the airport, we see that for some reason, the 
 We believe that Kawabata is involved in a larger, as-yet-unidentified scheme, with its primary benefactor being the Ushiromiya group. The goal of this plot appears to be placing "Eva Ushiromiya" in control of the group, and we suspect that Kawabata may be receiving orders from a higher-ranking member within the group, potentially [[Characters/Okonogi\|Okonogi]]. But we will come back to this eventually.
 
 There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from the Ushiromiya group. 
-Based on certain events later the [[Characters/Kasumi\|Sumadera]] family is also suspect, but for now we'll go with the Ushiromiya group.
+Based on certain events later the Sumadera family is also suspect, but for now we'll go with the Ushiromiya group.
 
 It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima while being the only one that Godha didn't move the baggage to. Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
 
@@ -72,7 +72,7 @@ That's not all the names we will give this character though, because we also bel
 
 Let's expand on this. We believe that originally, [[Characters/Kinzo\|Kinzo]] was able to further his career by pretending to have an incredible amount of gold, and the original Beatrice, the golden witch, is the person that helped him pull that off. It's very possible that she was also Kinzo's concubine or lover, but the fact of the matter is that this person died and Kinzo couldn't quite get over her. 
 
-The next Beatrice in our timeline is the one from [[Mysteries/Rosa's flashback\|Rosa's flashback]], who was kept in Kuwadorian by Kinzo for many years, and probably even raised there. More about her in the Banquet theory, but Kinzo might have considered her his daughter.
+The next Beatrice in our timeline is the one from Rosa's flashback, who was kept in Kuwadorian by Kinzo for many years, and probably even raised there. More about her in the Banquet theory, but Kinzo might have considered her his daughter.
 As stated in the [[Red Truth\|Red Truth]], she also died. That was 19 years before the two days when the bulk of every episode takes place in.
 For reasons we will explain, again, in later games, we believe that Sayo is a daughter of this second Beatrice. She was sent to the Fukuin house after the death of her mother and raised as a servant instead, but she would frequently visit Kuwadorian, and she would refer to Kinzo as grandfather.
 
@@ -82,7 +82,7 @@ But why go on a tangent about a character who may or may not exist?
 Simple! It's because Sayo, together with a series of accomplices, is the culprit behind the murders in Legend of the Golden Witch!
 
 You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitly for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
-One might say, [[Characters/Shannon#^b88433\|the witch Beatrice is Sayo's stand]].
+One might say, the witch Beatrice is Sayo's stand.
 
 ![Pasted image 20250325162702.png|right|200](/img/user/Attachments/Pasted%20image%2020250325162702.png)
 When it comes to motives there isn't much concrete, but maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. After all Beatrice is supposed to have mistaken her means for her ends.
@@ -106,12 +106,12 @@ We're not exactly sure of who killed Kinzo. It's certainly possible Sayo did it 
 She took the ring seal. She prepared everything she needs for the events of the fatidic day on Rokkenjima, including among other things the seven stakes.
 
 Lastly, let's mention the largest gaping problem with all of this... 
-Why is Sayo so nonchalant with Battler potentially touching her boobs in that initial scene in legend? Of course, if Sayo is Kanon, the boobs would need to be fake, right? We believe that the answer to this is that Ryukishi 07 is a bit of a goofy goober who just can't help himself. Something like this happens in Higurashi too, where a character takes a pointless risk that could have exposed their identity, just to use it as a  red herring. And well, after all, Battler was *probably* never touching her boobs. And the boobs were possibly very well made, right?
+Why is Sayo so nonchalant with Battler potentially touching her boobs in that initial scene in legend? Of course, if Sayo is Kanon, the boobs would need to be fake, right? We believe that the answer to this is that Ryukishi 07 is a bit of a goofy goober who just can't help himself. Without getting into spoilers, something like this happens in Higurashi too, where a character takes a pointless risk that could have exposed their identity just so the story could have a red herring. And well, after all, Battler was *probably* never touching her boobs. And the boobs were possibly very well made, right?
 See? It's NOT weird now that it's plot relevant! Trust.
 
 We'll touch on this (no pun intended) in later episodes, but there really is a large amount of substantiation for the fact that Sayo is all three of Shannon, Kanon and Beatrice, so we're willing to say that it's a minor thing.
 
-For now you can find a more detailed account of our reasonings grouped under [[Characters/Shannon#Theories\|Shannon#Theories]]
+For now you can find a more detailed account of our reasonings grouped under [[Characters/Sayo#Theories\|Sayo#Theories]]
 
 Ok so, back to the events for real this time.
 
@@ -349,8 +349,7 @@ Those scenes can be explained as being instead directed to Bernkastel as well as
 The POV characters, at least initially, are Battler and Bernkastel, and when she breaks the 4th wall she is simultaneously talking to us and to Battler. 
 After all, her character profile tells us: "Sometimes she is you, and sometimes she is your greatest friend", so overall, we think the figure of Bernkastel is meant to [[Characters/Bernkastel#^f44b17\|represent a reader of umineko]] and she has no alter egos inside the story so far, although we expect this to change as soon as episode 5 because of the name of a certain character...
 
-Incidentally, there's a point where Maria implies she knows or has heard of the witch of miracles. She doesn't say it explicitly, but some Higurashi context about miracles helps bridge the gap for us.
-It's possible Bernkastel is a part of the endless witch narrative to some extent, possibly picked up from Higurashi, after all it's actually a book that exists in the world of Umineko and Battler has read it, maybe so has Maria.
+Incidentally, there's a point where Maria implies she knows or has heard of the witch of miracles. She doesn't say it explicitly, so maybe it's just a meta reference, but let's keep in mind the possibility that Bernkastel is already a part of the endless witch narrative to some extent. Maybe it was picked up from Higurashi directly, after all it's actually a book that exists in the world of Umineko and Battler has read it, maybe so has Maria.
 
 
 Beato "not even letting the dice fall" might mean that she literally min-maxes every aspect of the game to fit her narrative, but it could also mean that she plays scenarios that are already resolved, and is only playing with stories. It also probably refers to her not letting the events on Rokkenjima truly resolve, if the outcome is unknown, your imagination is free to fill it however you like.

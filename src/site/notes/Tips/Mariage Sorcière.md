@@ -13,4 +13,4 @@ Young [[Characters/Ange\|Ange]] did receive an invitation to join this alliance 
 
 ---
 
-We Ange got in a fight with Maria because she didn't believe in the witch games.
+We think Ange got in a fight with Maria because she didn't believe in the witch games.

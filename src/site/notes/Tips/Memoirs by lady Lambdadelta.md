@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/memoirs-by-lady-lambdadelta/","contentClasses":"center-headings red-truth red-links blue-truth"}
+{"dg-publish":true,"permalink":"/tips/memoirs-by-lady-lambdadelta/","contentClasses":"center-headings red-truth"}
 ---
 
 
@@ -283,7 +283,7 @@ I have to surprise them with a wonderful tea party.
 
 ## Corollaries
 
-The first girl is 99% Takano
-The second girl is 99% beatrice, but who is Beatrice ACTUALLY?
--
-Does Lambda tell Beato that as long as Rule X exists she'll keep helping her?
+The first girl is 99% that character from Higurashi we don't want to spoil.
+The second girl is 99% Beatrice, so Sayo in our version of the story.
+
+She basically told Beato that as long as [[Tips/Bernkastel's letter#The three rules\|Rule X]] exists she'll stay on her side.

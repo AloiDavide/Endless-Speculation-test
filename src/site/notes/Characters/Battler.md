@@ -9,7 +9,7 @@
 ## Legend
 ### Rokkemjima
 
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, Ushiromiya Asumu.
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -24,7 +24,7 @@ Hopefully, even this fool will be able to see you before too long...
 ## Turn
 #### Rokkenjima
 
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, Ushiromiya Asumu.
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -55,7 +55,7 @@ Perhaps it’s understandable that Beatrice tried to crush it as soon as possibl
 ## Banquet
 #### Rokkenjima
 
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, Ushiromiya Asumu.
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -72,7 +72,7 @@ Wolves and sheep puzzle.
 ## Alliance
 #### Rokkenjima
 
-The son of [[Characters/Rudolf\|Rudolf]] and his first wife, [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]].
+The son of [[Characters/Rudolf\|Rudolf]] and his first wife, Ushiromiya Asumu.
 
 When his father married a second wife shortly after Asumu’s death, Battler rebelled and went to live with his grandparents on his mother’s side. However, both of these grandparents passed away, and he has now returned to the Ushiromiya family after six years.
 
@@ -82,7 +82,7 @@ This family conference is a chance for him to renew his friendship with his cous
 Missing.  
 
 Went to hell embraced by the witch.  
-But to the witch, that hell was the [[Speculation/Golden Land\|Golden Land]].
+But to the witch, that hell was the Golden Land.
 # Theories
 age:: 18
 
@@ -143,7 +143,7 @@ age:: 18
 
 
 > [!note]- REDACTED THEORY
-> This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>
 
@@ -153,7 +153,7 @@ age:: 18
 
 
 > [!tip]- Battler is Kyrie's biological son
-> Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and [[Characters/Ushiromiya Asumu\|Ushiromiya Asumu]]'s stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
+> Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and Ushiromiya Asumu's stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.
@@ -176,7 +176,7 @@ age:: 18
 
 
 > [!note]- REDACTED THEORY
-> This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>
 

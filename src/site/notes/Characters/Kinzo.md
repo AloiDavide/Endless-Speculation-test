@@ -10,7 +10,7 @@
 ## Legend
 #### Rokkenjima
 
-The aged head of the [[Ushiromiya\|Ushiromiya]] family.
+The aged head of the Ushiromiya family.
 
 Even though it has already been announced that he has just a few months to live, he is brimming with energy. Though he amassed a vast fortune in the past, he never made any announcements regarding the inheritance, which worries his children.
 
@@ -39,7 +39,7 @@ He is strongly influenced by the West and is a rabid fan of the occult.
 His study is packed with mysterious grimoires.
 
 ---
-He finally reached the [[Speculation/Golden Land\|Golden Land]] he so desired to see.  
+He finally reached the Golden Land he so desired to see.  
 However, since a fool was unwilling to accept it, the magic was wasted once again.  
 
 Even so, he was probably happy. After all, he managed to be reunited with the [[Speculation/Golden Witch\|Golden Witch]], if only for a brief time.  
@@ -135,7 +135,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 
 
 > [!note]- REDACTED THEORY
-> This blue truth has been hidden for the purpose of not spoiling future long form theories, please come back later.
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
 
 </div></div>
 

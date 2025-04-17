@@ -4,27 +4,27 @@
 
 [[Characters/Krauss\|Ushiromiya Krauss]]  
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Natsuhi\|Ushiromiya Natsuhi]] 
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Eva\|Ushiromiya Eva]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Hideyoshi\|Ushiromiya Hideyoshi]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Rudolf\|Ushiromiya Rudolf]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Kyrie\|Ushiromiya Kyrie]]
 Died on the first twilight.  
-Chosen by the key of the [[Speculation/Golden Land\|Golden Land]] and offered up as a sacrifice.  
+Chosen by the key of the Golden Land and offered up as a sacrifice.  
   
 [[Characters/Jessica\|Ushiromiya Jessica]]
 Died on the second twilight.  
@@ -56,24 +56,24 @@ Leg gouged by the "[[Characters/The Seven Stakes of Purgatory\|Stake]] of [[Levi
   
 [[Characters/Beatrice\|The Witch Beatrice]] 
 Revived on the ninth twilight.  
-Finally opens the door to the [[Speculation/Golden Land\|Golden Land]].  
+Finally opens the door to the Golden Land.  
   
 [[Characters/Kinzo\|Ushiromiya Kinzo]]
 Missing on the tenth twilight.
-After he acknowledged the existence of the witch and prostrated himself, the witch invited him to the [[Speculation/Golden Land\|Golden Land]].
+After he acknowledged the existence of the witch and prostrated himself, the witch invited him to the Golden Land.
   
 [[Characters/Rosa\|Ushiromiya Rosa]]
 Missing on the tenth twilight.  
-The witch did not invite this woman, who denied the witch's existence, to the [[Speculation/Golden Land\|Golden Land]].  
+The witch did not invite this woman, who denied the witch's existence, to the Golden Land.  
   
 [[Characters/Maria\|Ushiromiya Maria]]
 Missing on the tenth twilight.
-After she acknowledged the existence of the witch and prostrated herself, the witch invited her to the [[Speculation/Golden Land\|Golden Land]].
+After she acknowledged the existence of the witch and prostrated herself, the witch invited her to the Golden Land.
   
 [[Characters/Genji\|Servant Genji]]
 Missing on the tenth twilight.  
-After he acknowledged the existence of the witch and prostrated himself, the witch invited him to the [[Speculation/Golden Land\|Golden Land]]. 
+After he acknowledged the existence of the witch and prostrated himself, the witch invited him to the Golden Land. 
   
 [[Characters/Battler\|Ushiromiya Battler]]
 Missing on the tenth twilight.  
-Will he acknowledge the witch's existence and be invited to the [[Speculation/Golden Land\|Golden Land]]?
+Will he acknowledge the witch's existence and be invited to the Golden Land?

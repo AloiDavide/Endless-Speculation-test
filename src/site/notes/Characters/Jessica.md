@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/jessica/","contentClasses":"center-headings","tags":["ushiromiya"]}
 ---
 
+
 ![Mugshots/jessica.png|jessica.png](/img/user/Mugshots/jessica.png)
 
 # Descriptions
@@ -18,7 +19,7 @@ She was born with weak bronchi and is sometimes assailed by sudden asthma attack
 ---
 Missing.
 
-Even though she was given a precious invitation to the [[Speculation/Golden Land\|Golden Land]], a single fool refused to believe in the witch, and all of the magic disappeared.
+Even though she was given a precious invitation to the Golden Land, a single fool refused to believe in the witch, and all of the magic disappeared.
 
 She was then chewed to bits by demons and went to hell.
 ## Turn
@@ -47,7 +48,7 @@ She was born with weak bronchi and is sometimes assailed by sudden asthma attack
 ---
 Missing.  
 
-She certainly was joined with [[Characters/Kanon\|Kanon]] in the [[Speculation/Golden Land\|Golden Land]]. They both apologized for their own cowardice, communicating their true and honest feelings. And, they hugged each other until their final moments.  
+She certainly was joined with [[Characters/Kanon\|Kanon]] in the Golden Land. They both apologized for their own cowardice, communicating their true and honest feelings. And, they hugged each other until their final moments.  
 
 Afterwards, she was chewed to pieces by demons and went to hell.  
 It's all right. Kanon is with her.

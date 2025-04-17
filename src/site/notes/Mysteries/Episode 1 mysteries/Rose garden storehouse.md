@@ -31,8 +31,9 @@ This is not red but there isn't much of a reason to doubt it.
 
 </div></div>
 
+\
 
-An older theory requiring the presence of a 17th person whose information has been expunged from the records until the release of Turn theory.
+Here's an older theory requiring the presence of a 17th person whose information has been expunged from the records until the release of Turn theory.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -54,3 +55,17 @@ An older theory requiring the presence of a 17th person whose information has be
 
 </div></div>
 
+
+
+
+This is a fun alternative solution for the doorknob outside of just saying "Sayo did it"
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Eva made the scratches on Natsuhi's door
+> [[Characters/Eva\|Eva]] was in on [[Characters/Sayo\|Sayo]]'s plan, she knew there would be murders and she wanted to avoid being suspected by the police, so she took some of the fake blood and made the marks on the doorknob with the scoprion charm hanging from it.
+> 
+
+</div></div>

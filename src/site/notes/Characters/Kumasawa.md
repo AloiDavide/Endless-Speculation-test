@@ -16,7 +16,7 @@ She is crafty and more than competent when it comes to performing her duties, bu
 
 ---
 
-Found in the parlor. Her calf had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and her face had been smashed.
+Found in the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]]. Her calf had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and her face had been smashed.
 
 At the eighth twilight, gouge the leg and kill.
 ## Turn
@@ -86,7 +86,7 @@ As long as I could construct a closed room murder, nothing else mattered.
 
 
 
-> [!note]- Sayo's required accomplices all have a motive to help.
+> [!note]- Sayo's required accomplices all have a motive to help
 > The other servants plus Nanjo all have motivations to be accomplices of Beatrice.
 > 
 > ---

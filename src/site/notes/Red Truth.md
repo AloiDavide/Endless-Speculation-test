@@ -61,7 +61,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __I'll make you my favourite furniture__. __I'll love you so much and make you my toy untill you turn into ashes__...
 - __* cackle * cackle * cackle * hihihihihihihihihihihyahyahahhahahahahhahahahhahhahhahhahhahhahha__!!!
 - __There are only five master keys__. __There are only five master keys__.
-- __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the [[Speculation/Golden Land\|Golden Land]]. When you do, the ceremony will end. No more people will die.
+- __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the Golden Land. When you do, the ceremony will end. No more people will die.
 { #4cf967}
 
 ## Crime Scene of [[Mysteries/Natsuhi's room\|Natsuhi's room]]
@@ -151,7 +151,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __I am the golden witch Beatrice. And I opened this game in order to fight Ushiromiya Kinzo's grandchild, Ushiromiya Battler.__
 - __Ushiromiya Battler's mother is Ushiromiya Asumu.__
 - __My name is Ushiromiya Battler__
-- __It was from Ushiromiya [[Characters/Ushiromiya Asumu\|Asumu]] that Ushiromiya Battler is born.__
+- __It was from Ushiromiya Asumu that Ushiromiya Battler is born.__
 - Battler prova a dire "It was from Ushiromiya Asumu that I was born" ma gli esce __It was from Ushiromiya__......nghu, ......?!
 - __You are not Ushiromiya Asumu's son__.
 ## [[Characters/Beatrice\|Beatrice]]'s and [[Characters/Ange\|Ange]]'s golden land

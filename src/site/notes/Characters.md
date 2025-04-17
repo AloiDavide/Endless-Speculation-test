@@ -8,12 +8,12 @@
 - [[Characters/Virgilia\|Virgilia]]
 - [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Beatrice\|Beatrice]]
 
 { .block-language-dataview}
 

@@ -123,27 +123,11 @@ However, when she was blessed by a miracle that gave birth to 1 in that sea, her
 When she was joined with the [[Speculation/Witch of Origins\|Witch of Origins]] through [[Tips/Mariage Sorcière\|Mariage Sorcière]], their [[Tips/Magical Compendiums\|magical compendium]] gained an endless span, as well as endless power.
 
 
-# Notes
 # Theories
+Relevant to:
+- [[Speculation/Endless Realization\|Endless Realization]]
+- [[Speculation/Endless Witch\|Endless Witch]]
+- [[Speculation/Golden Witch\|Golden Witch]]
+- [[Tips/Beatrice's Titles\|Beatrice's Titles]]
+- [[Speculation/Beatrice's Definitions\|Beatrice's Definitions]]
 
-[[Speculation/Endless Realization\|Endless Realization]]
-[[Speculation/Endless Witch\|Endless Witch]]
-[[Speculation/Golden Witch\|Golden Witch]]
-[[Tips/Beatrice's Titles\|Beatrice's Titles]]
-[[Speculation/Beatrice's Definitions\|Beatrice's Definitions]]
-
-We shall call the Beato that shows up in Rokkenjima X Beato because she is non actually Beatrice and she is person X.
-
-Known exclusively as the Golden with on the human side and exclusively as the Endless witch on the witch side.
-
-It seems that simply getting Battler to say he gives up is not enough, he has to actually believe in witches for Beatrice to win.
-
-
-
-The following red sentences flash on screen at the end of alliance
-- Please kill me quickly 
-- Try and stop me 
-- If you aren't coming back I'd rather never have been born 
-- Why am I unable to love anyone? 
-- So I'm begging you, no matter how it ends, kill me in my tale 
-- If you don't You will die

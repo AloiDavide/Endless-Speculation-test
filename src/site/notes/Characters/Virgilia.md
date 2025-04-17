@@ -72,7 +72,7 @@ Though she was Beatrice's teacher, she was also a magician employed by Beatrice'
 
 
 
-> [!note]- Knowledge of the loops
+> [!tip]- Knowledge of the loops
 > Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] that have been found in the future.
 > 
 > This would include:

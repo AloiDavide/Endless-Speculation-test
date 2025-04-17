@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/sayo/","contentClasses":"center-headings"}
+{"dg-publish":true,"permalink":"/characters/sayo/","contentClasses":"center-headings","tags":["human"]}
 ---
 
 
 ![Mugshots/sayo.png|sayo.png](/img/user/Mugshots/sayo.png)
 
-If you are confused by this note, we suggest you read [[Episodes/Long Form Theories/Theory for the Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]] as well as the following blue truths. 
-
-But in short, the character we call Sayo is composed from the trinity of [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]] and [[Characters/Beatrice\|Beatrice]], and is for all intents and purposes the main culprit of the murders in Rokkenjima.
+If you are confused by this note, we suggest you read [[Episodes/Long Form Theories/Theory for the Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]] as well as the following blue truths.
+In short though, the character we call Sayo is composed from the trinity of [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]] and [[Characters/Beatrice\|Beatrice]], and is for all intents and purposes the main culprit of the murders in Rokkenjima.
 # Theories
 
 

@@ -16,7 +16,7 @@ However our Alliance theory, at the time of writing, is pretty garbage (but it t
 Third. Sometimes, there are some really clever and appropriate solutions that we weren't able to fit within a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
 
 Fourth. Our theories, in some parts, have multiple solutions that both work. When that happens we will mention them. Those will be mentioned, as we feel like they probably have some role in the story. Sometimes, one of us feels like a theory functions, the other doesn't.
-When something like that happens, we will mention it, and if the  and branch the theory if they lead to wildly different implications.
+When something like that happens, we will mention it, and branch the theory if they lead to wildly different implications.
 This isn't like firing a single precise sniper shot, but it also isn't casting a wide net like Battler's shotgun strategy. We like to think of it like a 6 bullet revolver, all shots are quite powerful, but they give us some wiggle room in our attack.
 
 ![tenor.gif](/img/user/Attachments/tenor.gif)

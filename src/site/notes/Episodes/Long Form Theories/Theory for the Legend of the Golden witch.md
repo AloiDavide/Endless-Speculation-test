@@ -84,10 +84,9 @@ Simple! It's because Sayo, together with a series of accomplices, is the culprit
 You see, someone on Rokkenjima isn't just killing people, they are specifically doing so in ways that will appear magical. Explicitly for the sake of Battler (see the phone calls in Alliance) and maybe for Maria, who at certain points are the only people to be both alive and not in on the plan. This directly parallels the existence of a meta Beatrice fighting Battler in a battle of deduction.
 One might say, the witch Beatrice is Sayo's stand.
 
-![Pasted image 20250325162702.png|right|200](/img/user/Attachments/Pasted%20image%2020250325162702.png)
+
 When it comes to motives there isn't much concrete, but maybe she suffers from a sort of "Simulation Complex" that makes her think she's only a character in a broader narrative. After all Beatrice is supposed to have mistaken her means for her ends.
-
-
+![Pasted image 20250325162702.png|right|200](/img/user/Attachments/Pasted%20image%2020250325162702.png)
 
 Maybe growing up her life was so horrible that, much like Maria, she started believing in her own cope, or 'magic', which she later expanded to include the characters [[Characters/Maria\|Maria]] crafted for her (see [[Speculation/Witch of Origins\|Witch of Origins]]).
 Either way [[Characters/Battler\|Battler]]'s sin is something related to Sayo (although it wasn't done to her directly... more on this in the next episode), and through some kind of butterfly effect, him forgetting about it has contributed to Sayo wanting to perform the murders according to Kinzo's [[Tips/The Portrait Epitaph\|epitaph]] (which we *definitely* solved) or as Beatrice says __Because of your sin, people die.__

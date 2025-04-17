@@ -45,16 +45,6 @@ To understand witches, and yet deny them. Only this contradictory power gives he
 
 
 
-What is the relationship between tea party ange and future ange?
-
-
-What happened to Ange on the island at the end?
-1. She gets saved by something or someone
-2. She dies and goes to purgatorio.
-3. The trip didn't happen in the actual reality.
-
-Why is ange back on the skyscraper after the scene on rokkenjima? Was the whole trip she took somehow fabricated by Bern?
-
 
 
 

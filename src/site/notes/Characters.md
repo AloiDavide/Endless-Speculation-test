@@ -10,10 +10,10 @@
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Ange\|Ange]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
@@ -34,7 +34,6 @@
 ### Ushiromiya
 - [[Characters/Krauss\|Krauss]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/George\|George]]
@@ -46,6 +45,7 @@
 - [[Characters/Rosa\|Rosa]]
 - [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 

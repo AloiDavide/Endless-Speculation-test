@@ -31,7 +31,6 @@ This is not red but there isn't much of a reason to doubt it.
 
 </div></div>
 
-\
 
 Here's an older theory requiring the presence of a 17th person whose information has been expunged from the records until the release of Turn theory.
 

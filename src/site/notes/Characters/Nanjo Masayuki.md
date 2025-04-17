@@ -17,4 +17,3 @@ After the rampage surrounding Rokkenjima, he grew to completely despise the pres
 
 He once had a daughter afflicted with an incurable disease, but unfortunately, she wasn't able to live out her natural lifespan.
 
-# Theories

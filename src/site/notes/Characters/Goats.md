@@ -24,5 +24,3 @@ Low-level furniture in service to [[Characters/Beatrice\|Beatrice]]. They are gr
 Their senses are closer to those of animals than humans, and they're surprisingly dull-witted, which sometimes leads them to misunderstand their orders. They have by nature a massive build like a minotaur's and fearsome superhuman strength.
 
 They may be low-level furniture, but the ability to summon an inexhaustible supply of them makes them extremely convenient.
-# Theories
-It would be funny if they turned out to be the mountain dogs, but there aren't supposed to be extra humans on the island.

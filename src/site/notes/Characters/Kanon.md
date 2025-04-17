@@ -91,8 +91,16 @@ Refer to [[Characters/Shannon\|Sayo]] and [[Episodes/Long Form Theories/Theory f
 
 __No one else can go by Kanon's name! A different person can't claim that as their name!__ 
 
-> [!note]+ Sayo can use the name Kanon
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Sayo can use the name Kanon
 > Sayo can freely go by either name because she is both of them. There never was a Kanon, he is the fake identity of a fake identity.
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

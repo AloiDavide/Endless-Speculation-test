@@ -68,4 +68,3 @@ His corpse was found in the rose garden arbor.
 There was a single hole right in the center of his forehead. It's probably reasonable to assume he was shot with a gun or something similar.  
 
 It’s a brand of humiliation, marking his defeat to [[Characters/Gaap\|Gaap]].
-# Theories

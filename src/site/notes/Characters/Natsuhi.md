@@ -129,9 +129,8 @@ However, the witnesses don’t believe she was killed with a gun...
 
 
 > [!note]- The letter Natsuhi found in the parlor was a threat
+> She was 
 > 
-> 
-> ---
 > Leads:
 > - The only reason she would leave without telling anybody is that she was forced to.
 > ---

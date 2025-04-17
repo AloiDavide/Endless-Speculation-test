@@ -3,7 +3,7 @@
 ---
 
 
-![Kumasawa Sabakichi.png|Kumasawa Sabakichi.png](/img/user/Mugshots/kumasawa%20sabakichi.png)
+![Mugshots/kumasawa sabakichi.png|kumasawa sabakichi.png](/img/user/Mugshots/kumasawa%20sabakichi.png)
 # Descriptions
 
 
@@ -18,4 +18,3 @@ This one happens to work at the harbor, so it was only coincidence that I manage
 
 Kumasawa loved to talk, so I did hope he might've heard her let something slip, but...
 
-# Theories

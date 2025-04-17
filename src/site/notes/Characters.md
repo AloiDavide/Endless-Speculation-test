@@ -6,7 +6,6 @@
 
 ### Witches
 - [[Characters/Virgilia\|Virgilia]]
-- [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Kinzo\|Kinzo]]
@@ -14,6 +13,7 @@
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
 - [[Characters/Beatrice\|Beatrice]]
+- [[Characters/Lambdadelta\|Lambdadelta]]
 
 { .block-language-dataview}
 
@@ -21,11 +21,11 @@
 - [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Gaap\|Gaap]]
-- [[Characters/Goats\|Goats]]
 - [[Characters/Genji\|Genji]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/Shannon\|Shannon]]
+- [[Characters/Goats\|Goats]]
 - [[Characters/Kanon\|Kanon]]
 
 { .block-language-dataview}
@@ -36,16 +36,16 @@
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Eva\|Eva]]
-- [[Characters/George\|George]]
-- [[Characters/Jessica\|Jessica]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Kyrie\|Kyrie]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Natsuhi\|Natsuhi]]
 - [[Characters/Rosa\|Rosa]]
-- [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/George\|George]]
+- [[Characters/Jessica\|Jessica]]
+- [[Characters/Rudolf\|Rudolf]]
 
 { .block-language-dataview}
 
@@ -63,9 +63,9 @@
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Amakusa\|Amakusa]]
 - [[Characters/Kawabata\|Kawabata]]
-- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Nanjo\|Nanjo]]
-- [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
+- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
+- [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 
 { .block-language-dataview}

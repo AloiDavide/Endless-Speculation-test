@@ -42,6 +42,6 @@ She'll ally with Beatrice as a general rule, but she'll support [[Characters/Bat
 The willpower of Certainty is far stronger than the [[Speculation/Endless Witch\|Endless]], which just repeats over and over idly... 
 # Theories
 
-If Bern represents the Reader, then Lambda is the author who will keep you hooked, never quite giving you enough of the solution to feel satisfied.
+
 
 See [[Tips/Memoirs by lady Lambdadelta\|Memoirs by lady Lambdadelta]]

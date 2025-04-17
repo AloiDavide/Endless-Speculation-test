@@ -24,9 +24,9 @@
 - [[Characters/Genji\|Genji]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
-- [[Characters/Shannon\|Shannon]]
 - [[Characters/Goats\|Goats]]
 - [[Characters/Kanon\|Kanon]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 
@@ -54,8 +54,8 @@
 - [[Characters/Gohda\|Gohda]]
 - [[Characters/Kumasawa\|Kumasawa]]
 - [[Characters/Genji\|Genji]]
-- [[Characters/Shannon\|Shannon]]
 - [[Characters/Kanon\|Kanon]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 

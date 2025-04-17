@@ -85,7 +85,7 @@ Now that’s definitely anti-fantasy.
 
 Now that’s definitely anti-mystery...! 
 # Theories
-Refer to [[Characters/Shannon\|Sayo]] and [[Episodes/Long Form Theories/Theory for the Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Shannon\|Sayo]] and [[Long Form Theories/Theory for the Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 
 

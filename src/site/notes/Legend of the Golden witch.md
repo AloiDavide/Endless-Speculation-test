@@ -3,7 +3,7 @@
 ---
 
 
-## [[Episodes/Long Form Theories/Theory for the Legend of the Golden witch\|Theory for the Legend of the Golden witch]]
+## [[Long Form Theories/Theory for the Legend of the Golden witch\|Theory for the Legend of the Golden witch]]
 
 ### Episode one mysteries
 - [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]

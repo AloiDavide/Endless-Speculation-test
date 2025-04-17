@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/long-form-theories/theory-for-the-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
 ---
 
+This is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
 
+This will be impossible to follow without having read Umineko that far, and here we won't retread most of what happens in the original story.
 ## Part 1: Preface
 <center><i>Every team needs an editor, someone who is able to say "let's downscale the project", we learned this the hard way.</i></center>
 <p align="right">- Two madmen who couldn't bring themselves to downscale.</p>
@@ -38,7 +40,7 @@ Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically
 
 
 Finally, let's talk about our approach to the credibility of any given scene.
-As will become more and more obvious the more we advance, any scene not witnessed by a character we can trust (which in most cases boils down to only [[Characters/Battler\|Battler]]) is to be taken with an ocean, let alone a grain of salt, and we reserve the right to call bullshit if we believe the story is trying to trick us.
+As it will become more and more obvious the more we advance, any scene not witnessed by a character we can trust (which in most cases boils down to only [[Characters/Battler\|Battler]]) is to be taken with an ocean, let alone a grain of salt, and we reserve the right to call bullshit if we believe the story is trying to trick us.
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
 Or as our lord and savior George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)

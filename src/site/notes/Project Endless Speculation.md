@@ -5,7 +5,7 @@
 
 This place you stumbled upon is a golden land born from the efforts of Crunter and HoundDogs.
 Through our research, our obsession, and of course a fair amount of copium, we have created our own magic compendium by the name of...
-# [[Project Endless Speculation\|Endless Speculation]]
+<center><h2>Endless Speculation</h2></center>
 
 It's painfully obvious that [[Characters/Battler\|Ushiromiya Battler]] has shown himself to be completely INCOMPETENT and INADEQUATE at his task. This is nothing short of unacceptable, so it now our duty to succeed where he failed.
 Armed with our finest weapons: [[Chekhov's Gun\|Chekhov's Gun]] and [[Occam's Razor\|Occam's Razor]]. We shall defeat the [[Characters/Beatrice\|Golden Witch Beatrice]] at her own game and tear apart her narrative.

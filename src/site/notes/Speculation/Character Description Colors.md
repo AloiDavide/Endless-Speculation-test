@@ -14,7 +14,7 @@ Each character sprite always has behind it the same flower pattern, but the colo
 
 
 An exception to this rule are the [[Legend of the Golden witch\|Legend of the Golden witch]] descriptions. It lacks witch descriptions because they aren't featured in the story until the end, and instead of the red pattern we would expect, we see a golden yellow pattern, as if the world of legend is more closely tied to the tea party than it is to all subsequent games. 
-(See [[Long Form Theories/Theory for the Legend of the Golden witch#Part 7 Purgatorio\|Theory for the Legend of the Golden witch#Part 7 Purgatorio]])
+(See [[Long Form Theories/Theory for Legend of the Golden witch#Part 7 Purgatorio\|Theory for Legend of the Golden witch#Part 7 Purgatorio]])
 
 ![Pasted image 20250330185121.png|600](/img/user/Attachments/Pasted%20image%2020250330185121.png)
 

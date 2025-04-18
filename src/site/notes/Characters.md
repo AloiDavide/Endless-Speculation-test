@@ -6,66 +6,66 @@
 
 ### Witches
 - [[Characters/Virgilia\|Virgilia]]
-- [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Maria\|Maria]]
-- [[Characters/Battler\|Battler]]
-- [[Characters/Ange\|Ange]]
-- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Lambdadelta\|Lambdadelta]]
+- [[Characters/Kinzo\|Kinzo]]
+- [[Characters/EVA Beatrice\|EVA Beatrice]]
+- [[Characters/Beatrice\|Beatrice]]
+- [[Characters/Ange\|Ange]]
+- [[Characters/Battler\|Battler]]
+- [[Characters/Bernkastel\|Bernkastel]]
 
 { .block-language-dataview}
 
 ### Furniture
+- [[Characters/Shannon\|Shannon]]
+- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
+- [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
-- [[Characters/Gaap\|Gaap]]
-- [[Characters/Genji\|Genji]]
-- [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
-- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
-- [[Characters/Goats\|Goats]]
 - [[Characters/Kanon\|Kanon]]
-- [[Characters/Shannon\|Shannon]]
+- [[Characters/Goats\|Goats]]
+- [[Characters/Genji\|Genji]]
+- [[Characters/Gaap\|Gaap]]
 
 { .block-language-dataview}
 
 ## Humans
 ### Ushiromiya
-- [[Characters/Krauss\|Krauss]]
-- [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Hideyoshi\|Hideyoshi]]
-- [[Characters/Eva\|Eva]]
-- [[Characters/Kinzo\|Kinzo]]
-- [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Maria\|Maria]]
-- [[Characters/Natsuhi\|Natsuhi]]
-- [[Characters/Rosa\|Rosa]]
-- [[Characters/Battler\|Battler]]
-- [[Characters/Ange\|Ange]]
-- [[Characters/George\|George]]
-- [[Characters/Jessica\|Jessica]]
 - [[Characters/Rudolf\|Rudolf]]
+- [[Characters/Rosa\|Rosa]]
+- [[Characters/Natsuhi\|Natsuhi]]
+- [[Characters/Maria\|Maria]]
+- [[Characters/Kyrie\|Kyrie]]
+- [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Krauss\|Krauss]]
+- [[Characters/Jessica\|Jessica]]
+- [[Characters/Hideyoshi\|Hideyoshi]]
+- [[Characters/George\|George]]
+- [[Characters/Eva\|Eva]]
+- [[Characters/EVA Beatrice\|EVA Beatrice]]
+- [[Characters/Ange\|Ange]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 
 ### Servants
 
-- [[Characters/Gohda\|Gohda]]
-- [[Characters/Kumasawa\|Kumasawa]]
-- [[Characters/Genji\|Genji]]
-- [[Characters/Kanon\|Kanon]]
 - [[Characters/Shannon\|Shannon]]
+- [[Characters/Kanon\|Kanon]]
+- [[Characters/Gohda\|Gohda]]
+- [[Characters/Genji\|Genji]]
+- [[Characters/Kumasawa\|Kumasawa]]
 
 { .block-language-dataview}
 
 ### Others
+- [[Characters/Professor Ootsuki\|Professor Ootsuki]]
+- [[Characters/Nanjo\|Nanjo]]
+- [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
+- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
+- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Amakusa\|Amakusa]]
-- [[Characters/Kawabata\|Kawabata]]
-- [[Characters/Nanjo\|Nanjo]]
-- [[Characters/Professor Ootsuki\|Professor Ootsuki]]
-- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
-- [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 
 { .block-language-dataview}

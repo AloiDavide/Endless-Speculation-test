@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kumasawa/","contentClasses":"center-headings","tags":["servant"]}
+{"dg-publish":true,"permalink":"/characters/kumasawa/","contentClasses":"center-headings center-images","tags":["servant"]}
 ---
 
 

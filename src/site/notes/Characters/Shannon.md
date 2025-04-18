@@ -75,7 +75,7 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 The witnesses at least realized that the stake wasn’t what killed her. 
 # Theories
-Refer to [[Characters/Shannon\|Sayo]] and [[Long Form Theories/Theory for the Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Shannon\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

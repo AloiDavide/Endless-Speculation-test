@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/sakutarou/","contentClasses":"center-headings","tags":["furniture"]}
+{"dg-publish":true,"permalink":"/characters/sakutarou/","contentClasses":"center-headings center-images","tags":["furniture"]}
 ---
 
 
@@ -41,7 +41,7 @@ Even the [[Speculation/Endless Witch\|Endless Witch]], [[Characters/Beatrice\|Be
 
 
 > [!note]- There is a second Sakutarou
-> Rosa has created a second stuffed lion, or perhaps she repaired the original, and she had it with her in Rokkenjima during the familu conference.
+> Rosa has created a second stuffed lion, or perhaps she repaired the original, and she had it with her in Rokkenjima during the family conference.
 >
 >Leads: 
 >- Beatrice is unable to say in red that Sakutaro is unique.

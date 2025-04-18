@@ -10,10 +10,10 @@
 - [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Ange\|Ange]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Bernkastel\|Bernkastel]]
+- [[Characters/Beatrice\|Beatrice]]
 
 { .block-language-dataview}
 
@@ -21,12 +21,12 @@
 - [[Characters/Shannon\|Shannon]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
-- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
 - [[Characters/Goats\|Goats]]
 - [[Characters/Genji\|Genji]]
 - [[Characters/Gaap\|Gaap]]
+- [[Characters/Sakutarou\|Sakutarou]]
 
 { .block-language-dataview}
 

@@ -75,7 +75,7 @@ Crunter is convinced Rosa smuggled some gold ingots into Rokkenjima because she 
 
 
 > [!note]- There is a second Sakutarou
-> Rosa has created a second stuffed lion, or perhaps she repaired the original, and she had it with her in Rokkenjima during the familu conference.
+> Rosa has created a second stuffed lion, or perhaps she repaired the original, and she had it with her in Rokkenjima during the family conference.
 >
 >Leads: 
 >- Beatrice is unable to say in red that Sakutaro is unique.

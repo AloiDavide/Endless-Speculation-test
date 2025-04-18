@@ -308,7 +308,7 @@ Nope... it's still not the right time to explain this.
 After the explosion, [[Characters/Kawabata\|Kawabata]] secretly comes to Rokkenjima to place a fake Eva Ushiromiya in Kuwadorian, who will become the survivor in Ange's future. She has to be a different person because **no one escapes, all die.** This was set up by whoever is collaborating with Sayo from outside Rokkenjima, probably the Ushiromiya group.
 
 Then, the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] written by Sayo are disseminated by Kawabata shortly after the events.
-The credits say that the author of this account signed herself as Maria Ushiromiya, but she didn't write it. Not only is it out of character but it's also disproved in Legend.
+The credits say that the author of this account signed herself as [[Characters/Maria\|Ushiromiya Maria]], but she didn't write it. Not only is it out of character but it's also disproved in Alliance.
 
 The captain will also end up owning a new / repaired version of the [[Characters/Sakutarou\|Sakutarou]] plush that had been made by Rosa. That's what Ange sees in the display case in his nephew's room at his house. We assume he found it on the island when he visited it after everyone died.
 

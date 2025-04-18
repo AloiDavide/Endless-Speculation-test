@@ -23,10 +23,10 @@ In that sense, she technically shouldn't be referred as either the Endless Witch
 > [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Speculation/Golden Witch\|golden]] and [[Speculation/Endless Witch\|endless]]) are passed down through different unrelated means. The former involves solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]] while the latter is a long
 > 
 > During the coronation of Evato, Beatrice confirms she is inheriting both titles.
-> ![Pasted image 20241106234042.png](/img/user/Attachments/Pasted%20image%2020241106234042.png)
+> - ![Pasted image 20241106234042.png|750](/img/user/Attachments/Pasted%20image%2020241106234042.png)
 >
 > According to Maria's diary the main criterion for coronating a golden witch seems to be solving the epitaph.
-> ![Pasted image 20241106234411.png](/img/user/Attachments/Pasted%20image%2020241106234411.png) 
+> - ![Pasted image 20241106234411.png|750](/img/user/Attachments/Pasted%20image%2020241106234411.png) 
 > 
 > But unless we completely write off the tips as magical nonsense, we know the [[Tips/Regarding the Succession of Witches\|sequence of endless witches]] is recommendation based and it pre-dates Virgilia by some generations, hinting at a different real world parallel.
 >  

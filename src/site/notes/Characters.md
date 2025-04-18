@@ -63,9 +63,9 @@
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
 - [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
-- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Amakusa\|Amakusa]]
+- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 
 { .block-language-dataview}

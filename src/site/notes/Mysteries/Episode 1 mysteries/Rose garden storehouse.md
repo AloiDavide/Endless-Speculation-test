@@ -38,7 +38,7 @@ Here's an older theory requiring the presence of a 17th person whose information
 
 
 
-> [!failure]- Shannon 's corpse in legend is --REDACTED--
+> [!failure]- Shannon 's corpse in legend is \[REDACTED\]
 > The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply \[REDACTED\] trying to hide herself with the help of the adults.
 > 
 > ---

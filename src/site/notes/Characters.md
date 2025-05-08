@@ -10,23 +10,23 @@
 - [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Beatrice\|Beatrice]]
+- [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
 ### Furniture
-- [[Characters/Shannon\|Shannon]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
+- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
-- [[Characters/Kanon\|Kanon]]
 - [[Characters/Goats\|Goats]]
 - [[Characters/Genji\|Genji]]
 - [[Characters/Gaap\|Gaap]]
-- [[Characters/Sakutarou\|Sakutarou]]
+- [[Characters/Kanon\|Kanon]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 
@@ -44,18 +44,18 @@
 - [[Characters/George\|George]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
 ### Servants
 
-- [[Characters/Shannon\|Shannon]]
-- [[Characters/Kanon\|Kanon]]
+- [[Characters/Kumasawa\|Kumasawa]]
 - [[Characters/Gohda\|Gohda]]
 - [[Characters/Genji\|Genji]]
-- [[Characters/Kumasawa\|Kumasawa]]
+- [[Characters/Kanon\|Kanon]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 
@@ -63,9 +63,9 @@
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
 - [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
+- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Amakusa\|Amakusa]]
-- [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 
 { .block-language-dataview}

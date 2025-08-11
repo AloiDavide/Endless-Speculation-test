@@ -77,7 +77,7 @@ Though she was Beatrice's teacher, she was also a magician employed by Beatrice'
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
-> - \[REDACTED\] as herself
+> - [[Characters/X Beatrice\|X Beatrice]] as herself
 > - Genji as himself and as Ronove
 > - Kumasawa as Virgilia
 > - Ange (retroactively from the future)

@@ -25,7 +25,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 ---
 # [[Episodes/Turn of the Golden witch\|Turn of the Golden witch]]
 
-## Crime Scene of the [[Mysteries/Chapel\|Chapel]]
+## Crime Scene of the [[Mysteries/Crime scene of the Chapel\|Chapel]]
 - __When I speak the truth, I will use red__
 - __Regardless of whether they were alive or dead, the six definitely entered trough the door__!
 - __Only one key to the chapel exists__!
@@ -64,7 +64,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the Golden Land. When you do, the ceremony will end. No more people will die.
 { #4cf967}
 
-## Crime Scene of [[Mysteries/Natsuhi's room\|Natsuhi's room]]
+## Crime Scene of [[Mysteries/Natsuhi's room\|Mysteries/Natsuhi's room]]
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 
 ---
@@ -198,7 +198,7 @@ Second part
 Third part
 - __The thing that shot Natsuhi wasn't a trap, it was a real shooting murder with a gun raised and trigger pulled!__
 ## Final Turn red
-### Crime Scene of the [[Mysteries/Chapel\|Chapel]]
+### Crime Scene of the [[Mysteries/Crime scene of the Chapel\|Chapel]]
 Second part
 - __From the time Maria received her key to the instant Rosa unsealed the envelope the next day, the key passed through no one's hands!!__
 - __There were no doors with auto-locks other than [[Characters/Kinzo\|Kinzo]]'s study!__

@@ -31,7 +31,7 @@
 
 
 
-> [!note]- Kanon did not die... at all!
+> [!note]- Kanon did not die in the boiler room... at all!
 > No need to assume he died in the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]] in legend, they could just as easily have faked it.
 > 
 > ---
@@ -95,7 +95,7 @@ Oh and let's not forget [[Characters/Kinzo\|Kinzo]] was here too.
 > Leads:
 > - The gross smell is always going to lead to someone discovering the body eventually. Burning the corpse is something you should only do if you plan for it to pop up at some point.
 > - Either they move it, or maybe it really was placed there by Krauss to hide it, and all they do is turn on the heat.
-> - In Turn, Kinzo was simply never designated as a victim, perhaps due to  \[REDACTED\].
+> - In Turn, Kinzo was simply never designated as a victim, perhaps due to the presence of [[Characters/X Beatrice\|X Beatrice]].
 > ---
 > Obstacles:
 > - It's hard to believe Genji would do something like that to his former master... unless he believes his new master to be someone with equal or higher authority, someone like Beatrice.

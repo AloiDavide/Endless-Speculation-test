@@ -31,7 +31,7 @@ As the oldest of the four siblings, he leads the family conference. However, the
 He is a real estate investor and has put a lot of money into the development of a resort. However, his results have been harshly criticized.
 
 ---
-His corpse was found in the [[Mysteries/Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems his stomach was cut open and his intestines pulled out after his death.  
 On top of that, sweets and candies were packed into his stomach.  
 

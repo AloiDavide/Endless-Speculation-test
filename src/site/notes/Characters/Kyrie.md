@@ -30,7 +30,7 @@ She had already worked alongside him for some time before the death of his first
 She has served as Rudolf’s right hand in several shady pieces of business, guiding them to success. She is quick-thinking and well-trusted by her husband.
 
 ---
-Her corpse was found in the [[Mysteries/Chapel\|Chapel]].  
+Her corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems her stomach was cut open and her intestines pulled out after her death.  
 On top of that, sweets and candies were packed into her stomach.  
 

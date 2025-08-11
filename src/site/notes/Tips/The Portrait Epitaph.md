@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/tips/the-portrait-epitaph/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
+The epitaph was written 2 years prior to the murders (allegedly) by Kinzo.
+Battler has never seen the portrait so it has been there for less that 6 years.
 ## Epitaph
 
 Behold the sweetfish river running through my beloved hometown.  
@@ -101,3 +103,5 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 > - Maybe the section of the painting with the wing effigy hides a key or some kind of mechanism.
 
 </div></div>
+
+

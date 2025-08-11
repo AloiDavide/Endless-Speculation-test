@@ -41,7 +41,7 @@ However, in the context of closed room mysteries, this power becomes an ultimate
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
-> - \[REDACTED\] as herself
+> - [[Characters/X Beatrice\|X Beatrice]] as herself
 > - Genji as himself and as Ronove
 > - Kumasawa as Virgilia
 > - Ange (retroactively from the future)

@@ -57,7 +57,7 @@ He must possess tremendous magical power, but since he always stays out of the s
 > 
 > This would include:
 > - Sayo as Beatrice, Kanon and Shannon
-> - \[REDACTED\] as herself
+> - [[Characters/X Beatrice\|X Beatrice]] as herself
 > - Genji as himself and as Ronove
 > - Kumasawa as Virgilia
 > - Ange (retroactively from the future)

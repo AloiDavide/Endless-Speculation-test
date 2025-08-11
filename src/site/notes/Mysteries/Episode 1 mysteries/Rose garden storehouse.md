@@ -38,19 +38,19 @@ Here's an older theory requiring the presence of a 17th person whose information
 
 
 
-> [!failure]- Shannon 's corpse in legend is \[REDACTED\]
-> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply \[REDACTED\] trying to hide herself with the help of the adults.
+> [!failure]- Shannon 's corpse in legend is X Beatrice
+> The supposed corpse of Shannon isn't hers and it also isn't a corpse. That is simply [[Characters/X Beatrice\|X Beatrice]] trying to hide herself with the help of the adults.
 > 
 > ---
 > Leads:
 > -  We can beat the red by simply claiming that the person there wasn't dead and thus not an unidentified corpse.
-> - Maybe after seeing \[REDACTED\] the Ushiromiya parents want to keep it a secret.
+> - Maybe after seeing the girl from the portrait show up the Ushiromiya parents want to keep it a secret in fear for the inheritance.
 > - There's room for a 17th person in Legend.
 > 
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
-> - We would rather \[REDACTED\] not be in Legend because it breaks another theory.
+> - Her presence isn't required for any Legend solution, and her being here would break an interesting pattern with the episodes.
 
 </div></div>
 

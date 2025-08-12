@@ -103,7 +103,7 @@ age:: 18
 > 
 > ---
 > Leads:
-> - The sin is not between him and Beatrice. This could mean Sayo didn't yet identify as Beatrice, but there is a better way of making this fit by saying the sin was actually against \[REDACTED\].
+> - The sin is not between him and Beatrice. This could mean Sayo didn't yet identify as Beatrice, but there is a better way of making this fit by saying the sin was actually against [[Characters/X Beatrice\|X Beatrice]].
 
 </div></div>
 
@@ -113,7 +113,7 @@ age:: 18
 
 
 
->[!tip]- Battler's sin was against [[Characters/X Beatrice\|X Beatrice]]
+>[!note]- Battler's sin was against [[Characters/X Beatrice\|X Beatrice]]
 > It was [[Characters/X Beatrice\|X beato]], not [[Characters/Sayo\|Sayo]], who had a coping mechanism that Battler destroyed.
 > 
 > ---

@@ -62,7 +62,7 @@ We believe that Kawabata is involved in a larger, as-yet-unidentified scheme, wi
 There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from the Ushiromiya group. 
 Based on certain events later the Sumadera family is also suspect, but for now we'll go with the Ushiromiya group.
 
-It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima while being the only one that Godha didn't move the baggage to. Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
+It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima (she wouldn't let Gohda touch her luggage). Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
 
 Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse. This is the time to introduce one of the major cornerstones of our theories.
 
@@ -154,7 +154,9 @@ Instead it's more likely that that she started easy and used the first letter to
 
 She doesn't think the gold exists, but she's furthering the narrative about Kinzo's 10 tons of gold. That, to us, is the true meaning of Golden Magic and what makes her the [[Speculation/Golden Witch\|Golden Witch]], the creation of illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. Thus, [[Speculation/Endless Realization\|Endless Realization]] is simply Sayo incorporating the narrative about gold into the narrative of the [[Speculation/Endless Witch\|endless witch]].
 
-Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's also possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
+Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's alo possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
+{ #96ea6a}
+
 
 ---
 ## Part 4 : The First Twilight
@@ -235,6 +237,8 @@ One of our theories claims that Eva made the scratches on Natsuhi's door as yet 
 
 Maria doesn't freak out at the news that deaths are happening, because she's already been conditioned by Sayo to think this is only the magic of the epitaph, and everyone will come back alive at the end of the day.
 In the scene later when everyone in the room sees [[Characters/Beatrice\|Beatrice]] except [[Characters/Battler\|Battler]], the explanation is easy. [[Characters/Genji\|Genji]] and [[Characters/Kumasawa\|Kumasawa]] are lying for Sayo, and Maria is just telling the truth, since Sayo, Beatrice, is there after all.
+{ #c4c8d6}
+
 
 ---
 
@@ -341,7 +345,8 @@ So to recap, if everything in Legend  happens before Battler in the tea party st
 ---
 ## Part 𝑖 : The tea party of those who are not human
 
-The tea party of those who aren't human is not a golden land, but a dimension above the tea party where [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]].  At this layer of abstraction there's no Sayo anymore, it's just the [[Speculation/Endless Witch\|endless witch]] with her framing device and the witch of fragments trying to see through it. 
+The tea party of those who aren't human is not a golden land, but a dimension above the tea party. 
+Here [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]],  At this layer of abstraction there's no Sayo anymore, it's just the [[Speculation/Endless Witch\|endless witch]] with her framing device and the witch of fragments trying to see through it. 
 Nominally, [[Characters/Beatrice\|Beato]] was just showing her "Something cool" and they both act like they aren't fighting against each other, but even at this point they both know that they are. 
 
 There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth for the reader, even in Legend where meta battler doesn't even exist yet. 

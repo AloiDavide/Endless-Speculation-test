@@ -22,7 +22,6 @@ In short though, the character we call Sayo is composed from the trinity of [[Ch
 > - In 4 episodes they have yet to appear together in a scene where Battler is present. Even when Battler is going around examining every corpse, Kanon is missing.
 > - We get down to 16 people this way, there's no other way that isn't extremely contrived.
 > - Being made up characters who don't really exist in reality would give sense and pathos to their struggle to be human in the meta narrative. At least for Kanon.
-> - Kanon has been working there for only the last three years.
 > - Kanon has a feminine voice.
 > - Shannon told George her real name, but Kanon couldn't do the same when asked by Jessica.
 > 
@@ -47,7 +46,8 @@ In short though, the character we call Sayo is composed from the trinity of [[Ch
 > - The age fits with the timeframe of Rosa's flashback.
 > - According to their magical descriptions. Shannon is the first furniture created only by Kinzo, Kanon is the second, better made furniture. The problem with Shannon was that she had a heart.
 > - Beatrice was raised by Virgilia and she mentions her grandfather in the flashback at the start of Banquet.
->  - It sounds crazy to suggest that nobody would notice if two servants are never together in the same room for years on end, but it becomes a lot more believable when you add Kinzo pulling the strings. Let's also remember that what servants are at the mention often changes, so they wouldn't have to be together so often.
+>  - It sounds crazy to suggest that nobody would notice if two servants are never together in the same room for years on end, but it becomes a lot more believable when you add Kinzo pulling the strings. 
+>  - Let's also remember that what servants are at the mention often changes, so they wouldn't have to be together so often.
 
 </div></div>
 
@@ -107,7 +107,7 @@ In short though, the character we call Sayo is composed from the trinity of [[Ch
 
 
 
-> [!tip]- Sayo isn't X Beatrice
+> [!Note]- Sayo isn't X Beatrice
 > Sayo is distinct from [[Characters/X Beatrice\|X Beatrice]], they are two different people.
 > 
 > ---

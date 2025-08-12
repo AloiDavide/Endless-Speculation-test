@@ -3,7 +3,7 @@
 ---
 
 
-[[Characters/Beatrice\|Beato]] defines hidden doors during the [[Mysteries/Chapel\|Chapel]] debate
+[[Characters/Beatrice\|Beato]] defines hidden doors during the [[Mysteries/Crime scene of the Chapel\|Chapel]] debate
 > [!NOTE] Hidden door
 > "A hidden door refers to an entrance that cannot be recognized by those who do not know of it. Even children knows that."
 

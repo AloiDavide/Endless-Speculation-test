@@ -30,7 +30,7 @@ She’s normally calm and performs her job efficiently, but she messes up when s
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
 
 ---
-Died in [[Mysteries/Natsuhi's room\|Natsuhi's room]], with her forehead pierced by a weapon shaped like a stake.  
+Died in [[Mysteries/Natsuhi's room\|Mysteries/Natsuhi's room]], with her forehead pierced by a weapon shaped like a stake.  
 
 At the fourth twilight, gouge the head and kill.  
 
@@ -75,7 +75,7 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 The witnesses at least realized that the stake wasn’t what killed her. 
 # Theories
-Refer to [[Characters/Shannon\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

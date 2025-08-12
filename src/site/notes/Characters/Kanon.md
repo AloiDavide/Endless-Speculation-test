@@ -62,7 +62,7 @@ He performs his duties silently and diligently, but is not so highly regarded as
 There are multiple other servants with the “on” (音) character in their pseudonyms. He and [[Characters/Shannon\|Shannon]] just happened to be the ones on duty that day.
 
 ---
-His corpse was found in the [[Mysteries/Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
 The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.
 
 For Kanon, the chapel. Let him continue to protect the Lord's precious place, even after death.
@@ -85,11 +85,26 @@ Now that’s definitely anti-fantasy.
 
 Now that’s definitely anti-mystery...! 
 # Theories
-Refer to [[Characters/Shannon\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 
 
 __No one else can go by Kanon's name! A different person can't claim that as their name!__ 
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- Kanon showed up around 3 to 5 years ago.
+> - He has been around longer than [[Characters/Gohda\|Gohda]], so at least two years.
+> - He was present during the flashback in [[Episodes/Turn of the Golden witch\|turn]] which takes place with [[Characters/Shannon\|Shannon]] in middle school and [[Characters/George\|George]] only barely an adult.
+> - He is the second furniture "made" by [[Characters/Kinzo\|Kinzo]]  after Shannon.
+> - Battler didn't know him, so that puts the limit at 6 years.
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -107,7 +122,7 @@ __No one else can go by Kanon's name! A different person can't claim that as the
 
 
 
-> [!note]- Kanon did not die... at all!
+> [!note]- Kanon did not die in the boiler room... at all!
 > No need to assume he died in the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]] in legend, they could just as easily have faked it.
 > 
 > ---

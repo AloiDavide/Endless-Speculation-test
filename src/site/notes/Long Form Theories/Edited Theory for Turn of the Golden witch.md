@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings"}
+{"dg-publish":true,"permalink":"/long-form-theories/edited-theory-for-turn-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
 ---
 
 
@@ -12,7 +12,7 @@ There might be parts in which we helped each other here and there, and others wh
 
 ---
 ## Part 1: A very unfortunate triangle
-<center>Poor George got the short end of the stick</center>
+<center>One of these things is not like the others, one of these things just doesn't belong</center>
 
 
 #### 1.1
@@ -37,7 +37,7 @@ Let's say that Sayo, for some reason, is really invested in the fantasy of being
 ---
 #### 1.2
 
-We're on the small shrine that is supposedly struck by lightning during the 2 days on Rokkenjima. 
+Cut! We're on the small shrine that is supposedly struck by lightning during the 2 days on Rokkenjima. 
 We see someone, probably Sayo, smashing the mirror in the shrine. It's worth noting that she never mentions George or anything like that, she talks about becoming a person, discovering love and the suffering that comes from it. 
 
 For example, she could be talking about how after breaking out of some sort of metaphorical shell, she opens herself to love, but she realizes that she likes Jessica instead of George, and that comes with a whole baggage of internalized homophobia, especially if she was raised around Kinzo and his, mmmh, well, let's say less then optimal view of gendered expectations and traditional family values.
@@ -65,16 +65,16 @@ Jessica sets up Shannon and George, while Eva is, uuuh, let's say discouraging t
 A short amount of time later, Sayo gets scolded by Natsuhi for not being able to properly clean in time the places assigned to her, which is perfectly natural given that she is now doing the job of two people, Shannon and Kanon.
 
 After that, a whole scene where she meets Beato in front of the portrait happens. 
-Shannon is given the [[Tips/Golden Butterfly Brooch\|Golden Butterfly Brooch]], the ultimate placebo, then Kanon and Shannon are marked with a burning sign and they are moved around like puppets.
+Shannon is given the [[Tips/Golden Butterfly Brooch\|Golden Butterfly Brooch]], the ultimate placebo, then Kanon and Shannon are marked with a burning signs and they are moved around like puppets.
 
 We believe this scene is to be understood as an internal conflict in Sayo. She's struggling between the cynical and pragmatic Kanon and the "longing for something more" Shannon.
 The part about Beato being able to give Shannon endless gold is obviously referencing the already established golden witch lore.
 Meanwhile, as already mentioned, Sayo breaking the mirror is an allegory to her starting to push the magic narrative that culminates in the family conference of 1986, where the witch will take the blame for everything at the end.
 
-What we see on screen is an extremely magical retelling of what actually happened. As mentioned in [[Long Form Theories/Theory for Legend of the Golden witch#Part 𝑖 The tea party of those who are not human\|The tea party of those who are not human]], this is how the unreliable narrator (the witch [[Characters/Beatrice\|Beatrice]]) is presenting it to us ([[Characters/Bernkastel\|Bernkastel]]).
+What we see on screen is an extremely magical retelling of what actually happened. As mentioned in [[Long Form Theories/Theory for Legend of the Golden witch#Part 𝑖 The tea party of those who are not human\|The tea party of those who are not human]], this is how the unreliable narrator (the witch [[Characters/Beatrice\|Beatrice]]) is presenting it to us ([[Characters/Bernkastel\|Bernkastel]]). 
 
 ![Pasted image 20250622132932.png](/img/user/Attachments/Pasted%20image%2020250622132932.png)
-<center>I mean, she's literally quoting Bern from the non human tea party.</center>
+<center>I mean, she's literally quoting herself from the non human tea party.</center>
 
 This prologue as a whole is, in fact Beato's first real move in this game. She's on the offensive, creating a reason for her existence that Bern wouldn't be able to attack.
 
@@ -87,12 +87,12 @@ Yes, we're saying that magic in Umineko is a little bit like pro wrestling
 ![Pasted image 20250527200628.png](/img/user/Attachments/Pasted%20image%2020250527200628.png)
 <center>It's still real to me dammit!</center>
 
-So with that established, going forward only the scenes where someone other than Kanon, Shannon or Beatrice are present, are to be trusted without a grain, or a massive bag, of salt.
+So with that established, going forward only the scenes where someone other than Kanon, Shannon or Beatrice are present, are to be believed without a grain of salt.
 
 ---
 #### 1.4
-Jessica's school is having a culture festival! Hurray!
-Yes, Sayo is, in fact, trying to set herself up with Jessica by using her two identities. It's actually really funny once you notice it, she's not being remotely subtle, she forces it so hard, it's adorable. 
+Jessica's school is having a culture festival!
+Yes, Sayo is, in fact, trying to set herself up with Jessica by using her two identities. It's actually really funny once you notice it, she's not being remotely subtle, she forces it so hard it's adorable. 
 
 I think this is her actually listening to her heart for once, as signified by Shannon giving the golden brooch to Kanon. After all, the brooch works if it involves blind love, and ironically this fits Sayo-Jessica better compared to Sayo-George. 
 Maybe it also works a potential hint for Sayo being a man and not a woman? Since the brooch strengthens relationships between the sexes.
@@ -134,7 +134,7 @@ We spent a lot of time and words on this prologue because reading it back really
 
 This screen pretty much sums up our state of mind before that.
 ![Pasted image 20250527205435.png](/img/user/Attachments/Pasted%20image%2020250527205435.png)
-<center>Average Umineko reader</center>
+<center>>Average confused Umineko reader</center>
 
 
 Let's actually get started setting up the board for the next game now.
@@ -161,7 +161,7 @@ Whenever a meta scene needs to be overlayed over images from the game they will 
 This all makes perfect sense, but as you'll surely remember, the tea party of [[Legend\|Legend]] didn't have a purple filter! So we need to ask ourselves, is Battler and Beatrice arguing about the existence of witches also a parallel to something happening in the real world?
 
 It could go something like "Sayo and Battler survived the events of Rokkenjima but Battler was imprisoned and forced to witness all of this", or maybe, "Sayo survived the games and is fantasizing about alternative versions of the story, writing them down, and distributing them as [[Mysteries/Future mysteries/Bottled letters\|bottled letters]]". 
-This question will become relevant once we get to Alliance.
+This question will really become relevant once we get to Alliance.
 
 Lastly, when Battler tells Beato that he'll play with her until she loses patience, Beato asks if a certain witch planted this idea in his mind. She's referring to Bernkastel, given the conversation they had in the first tea party of those who are not human.
 
@@ -250,7 +250,7 @@ Well, to start, she looks exactly like the girl in the portrait, so it's possibl
 There will be another candidate for that role later on, but that person died long before the portrait was hung in the hall (six years ago at most, since Battler has never seen it), so it would have been based on old photos.
 There's also another version of the same painting in Kinzo's study and we have no idea when that one was painted, so it's better not to focus on this too much.
 
-It's possible that she is a servant, this would make her able to own a master key without going against any red truth. Maybe she is one of the other orphans with the On kanji in their name, the ones mentioned in Legend.
+It's possible that she is a servant, this would make her able to own a master key without going against any red truth. Maybe she is one of the other servant orphans with the On kanji in their name, there was a mention of that at some point in Legend.
 
 Genji talks about her multiple times, even if it's largely in scenes that we can't trust I think it's enough to suggest that they know each other to some degree. 
 
@@ -268,18 +268,18 @@ That's as far as our evidence goes, but while we can't 100% say who she is, here
 We'll soon argue that she disguises herself as Shannon at various points in the game, which suggests that she would have some experience in doing so,  as well as a physical predisposition.
 
 Hound will quickly point out the amount of assumptions that go into this conjecture, but I believe that she's the twin sister of Sayo, both daughters of the Beatrice who died 19 years prior near Kuwadorian.
-They were both raised at the Fukuin house, and learned how to swap between each others. The details of their upbringing are unknown, but the general idea is that they were often in contact with Kinzo and the older servants. 
-Maybe while Sayo was getting used to impersonating two servants she would have needed someone else from the orphanage to fill the shoes of Shannon from time to time?
+They were both raised at the Fukuin house, and learned how to swap between each others. The details of their upbringing are unknown, but the general idea is that they were often in contact with Kinzo and the older servans. 
+Maybe while sayo was getting used to impersonating two servants she would have needed someone else from the orphanage to fill the shoes of Shannon from time to time?
 
 Ok but. Why does she need to be a twin sister when Shannon doesn't even look like Beatrice? Why does she need to be a sister at all? Can't she just be someone else with a similar body type and some make up?
 Well yes, it wouldn't change any of the solution but... How can I put it without going out of topic..... 
 
-I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other.
+I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other, and if he did he would probably make their names end with the On (音) kanji.
 
 That, combined with the fact that she knows some servants, she's able to act as Shannon, and she wears her clothes well, is enough of a proof to me. 
 
-![tumblr_ns5tmd34E61tg07vxo1_500.gif](/img/user/Attachments/tumblr_ns5tmd34E61tg07vxo1_500.gif)
-<center>Chekhov's Gun bitches</center>
+![Pasted image 20250714210103.png|500](/img/user/Attachments/Pasted%20image%2020250714210103.png)
+<center>Chekhov's gun strikes again</center>
 
 ---
 
@@ -303,7 +303,7 @@ When Rosa sees X Beatrice, she is instead quite shaken.
 ![Pasted image 20250622183255.png](/img/user/Attachments/Pasted%20image%2020250622183255.png)
 Contrary to what the narration says, she is not shocked because Beatrice appeared out of thin air, nor because she repaired Maria's candy with magic, but it's because she is facing the girl in the portrait, the same person who died in front of her 19 years ago.
 
-Or at least, that's what it looks like to her, Rosa's memories of that event aren't perfect, and if they are indeed related a mother would look similar to her child. It's not a far reach to say she saw the portrait that many years later and assumed that must have been exactly what the girl in Kuwadorian looked like. After all, the portrait wears the same dress as the Beatrice of 19 years ago did.
+Or at least, that's what it looks like to her, Rosa's memories of that event aren't perfect, and if they are indeed related a mother would look similar to her child. It's not a far reach to say she saw the portrait that many years later and assumed that must have been exactly what the girl in Kuwadorian looked like.
 
 X delivers two envelopes to Maria and Rosa. 
 Maria's envelope contains the key to the chapel, making it clear that X will be involved in creating the illusion of the closed rooms. Rosa instead receives a different envelope, it contains the usual letter to read at the family conference, but also possibly something else.
@@ -330,10 +330,9 @@ This is where we first see the portrait change to X Beatrice. Let's come back to
 She burns her hand trying to open the door to Kinzo's study, what does this mean? Of course this didn't happen, but it might be hinting at her not knowing that Kinzo is dead, although we don't ever need this to be true.
 
 
-![Pasted image 20250722120907.png](/img/user/Attachments/Pasted%20image%2020250722120907.png)
-
-Rosa insists that Godha shouldn't carry her bag to her room, which is relevant because Godha not feeling the weight of any gold ingots in the luggage is brought up later on as evidence that no one smuggled in the gold. 
-I say that, but I have no idea how to make this whole "Rosa brought in the gold" hunch fit in with anything else. I'll still mention it here because it looks important.
+==Devo ritrovarlo per fare uno screenshot==
+Rosa really insists that Godha shouldn't carry her bag to her room, which is relevant because Godha not feeling the weight of any gold ingots in the luggage is brought up later on as evidence that no one smuggled in the gold. 
+I say that, but I have no idea how to make this whole "Rosa brough in the gold" hunch fit in with anything else. I'll still mention it here because it looks important.
 Meanwhile, we know Godha isn't allowed to interact with X Beatrice, since he complains about not being able to carry the food to her room.
 
 Later in the day, both Kanon and Shannon meet X Beatrice in the VIP room, and this time they are both hostile towards her.
@@ -349,7 +348,7 @@ Kanon and Shannon take for granted that they will be put to rest and likely die 
 ---
 #### 2.5
 
-During the family dinner, the existence of Beatrice is revealed to everyone. 
+We arrive to the family dinner, and the existence of Beatrice is revealed to everyone. 
 
 Kyrie and Rosa corroborate by offering their testimony, however Rosa doesn't read out loud the letter given to her, so we can't say for certain that it was the same as the one Maria received last round. In Legend, the first letter was meant to set up the presence of Beatrice, but this time the supposed witch is a person they can physically meet, with far more evidence than "Somebody handed Maria an umbrella".
 
@@ -376,9 +375,9 @@ George, proposes to Shannon just like in Legend. That time she seemed very unsur
 
 We have fairly contrasting interpretations of this scene so we'll briefly undo our fusion and you'll get to hear from both of us separately.
 
+==Argomenta la tua parte==
 On the one hand <font color="#00b050">I</font> {<font color="#00b050">Crunter</font>} think that at this point X Beatrice is already dressed as Shannon and is the one accepting George's proposal. This would imply she either likes George or is out to deceive him for some reason.
 I'm just not buying that it's Sayo because I can't see what the manipulation is for, so I'll say that here Shannon is X.
-That being said... It's really weird that she'd be this much into specifically marriage, and there's definitely something I'm missing. But what I'm not missing is that Sayo would NEVER act this way. She didn't shy away from being uncommitted towards George, not only earlier in this game, but in legend too.
 
 On the other hand, <font color="#e36c09">I</font> {<font color="#e36c09">Hound</font>} don't see enough signs of a switch up, instead this change in attitude could be explained as: 
 - A narration trick to make Shannon the character seem far more proactive.
@@ -406,6 +405,10 @@ On a lower level of abstraction, it could mean both Sayo and X at this point are
 ![Pasted image 20250531163717.png](/img/user/Attachments/Pasted%20image%2020250531163717.png)
 
 Cut to the siblings talking to X Beatrice in the chapel, we don't see what led up to it but now suddenly everyone is acknowledging her as a witch, or at least the narrator says so.
+
+Just as the clock strikes midnight, we transition to the next chapter with a roll call of all the characters. 
+Interestingly, Shannon is the only one who doesn't show up. We could count it as yet more evidence towards her being the same person as Kanon, but to be fair, when the same happened in Legend Natsuhi and Maria were the missing ones, and we're pretty sure *they* exist. 
+They even show Kinzo both times, so this argument was doomed from the start.
 ## Part 3: The first twilight
 <center><i>Happy halloween MARIA</i></center>
 
@@ -457,7 +460,6 @@ Of course, this alone doesn't explain why they all end up dead. Maybe from X's p
 ---
 #### 3.3
 
-
 We've handled the whodunnit, now how do we solve the glaring closed room case? After all... 
 __From the time Maria received her key to the instant Rosa unsealed the envelope the next day, the key passed through no one's hands!!__
 
@@ -500,16 +502,18 @@ Here's a recap of what they find at the crime scene.
 - Battler examined the corpses personally and he didn't find any bullet holes, but we could easily argue that during the "post processing" of the bodies they were cut over the gun wounds.
 - Alongside the magic circle outside the door there's some english text reading "HAPPY HALLOWEEN FOR... MARIA".
 
-Nanjo proposes locking the door of the chapel, but later it will be implied to be unlocked during the murder in Natsuhi's room. We must assume they faked locking it for whatever reason, maybe as a possible setup, although it will end up backfiring and letting the last group of victims escape.
+
+==Non mi é chiara questa frase==
+Nanjo proposes sealing it, which is a way to set up Natsuhi's room later on, of course They only pretend to close it.
+
 
 Rosa strongly claims that the chapel was a closed room, which is really easy to doubt as from the point of view of a character in the story without access to the red truth.
 This could suggest that the original plan failed in some way, and what they're going with right now is some kind of contingency.
 
-
 ---
 #### 3.4
 
-Up in the tea party layer we have the first introduction of the [[Red Truth\|red truth]] as a mechanic, and it reads more as a tutorial round for Battler.
+Up in the tea party layer we have the first introduction of the red truth as a mechanic, and it reads more as a tutorial round for Battler.
 
 ![Pasted image 20250718141559.png](/img/user/Attachments/Pasted%20image%2020250718141559.png)
 
@@ -523,294 +527,109 @@ He needs to learn the rules before they can play, and the fact that Beatrice wan
 ## Part 4: The second twilight
 <center>(Teleports behind you) "Nothin personnel kid"</center>
 
+Here comes the part where Jessica and "Kanon" "dies"
+If you take all the magic literally, the plot of this episode is about Kanon and Shannon defying Beatrice, getting relentlessly toyed with, and eventually being tragically killed alongside their crushes.
+It makes for a nice compelling story just like Beato's redemption arc in Banquet, but if we work under the assumption that the witch and human sides rhyme with each other, then this narrative has to function as an allegory of some sort for the real course of events.
 
-#### 4.1
+Because we believe in rhymes, we want to find a second reading that fits into our version of reality.
+- Ideally the same reading covers all the events and we don't need to mix them up, making her motivations impossible to pin down.
+- Ideally only Sayo is Kanon.
+- Ideally Kanon dies early, but it's really difficult to justify.
+
+Reading 1) - Heel turn of the golden witch.
+- Sayo has second thoughts about her plan when it comes to Killing Jessica and george.
+- This causes her to turn against X beatricel.
+
+Reading 2) - Turn of the black witch
+- cringe ma funziona
+- Uccide le personalità di kanon e shannon
+- 
+
+
+It's worth mentioning that this is the only episode where the smell of Kinzo's body being burned doesn't fill the mansion. We think the body was in the incinerator as usual, but they never turned it on for some reason, which leads to the body not being found and Kinzo not being counted among the sacrifices. 
+
+---
+
 Jessica, Sayo (Kanon) and Gohda rush to the VIP room and find a bed that has been slept on. Either X Beatrice actually slept there, or she was busy helping with the corpses that night, so they made it look like she did, it hardly changes anything. 
 
-![Pasted image 20250726110352.png](/img/user/Attachments/Pasted%20image%2020250726110352.png)
-<center><i>Maybe</i> this door was actually locked.</center>
+Then Sayo finds a letter, which he actually secretly had on her person. The language of it was vague enough that we think it was prepared so that any of the siblings would see it if they ran to the room.
+Jessica runs to her room, and Sayo sends Godha away, so that no one is left on the mansion.
 
-Sayo pretends to find a letter, which she actually secretly had on her person. 
-The contents are mocking Jessica's parents, but the language is was vague enough that it would have worked no matter which of the cousins read it first, she just happened to get there before anyone else.
+Then Sayo accompanies Jessica to her room... and here we split.
+We believe there are two possible solutions to Jessica's room, and one of them won't make too much sense right now. It basically involves us speculating that whenever the red truth says that either Kanon and Shannon are dead we can't trust it. This is based on Kanon and Shannon not being actual people... but we won't lie, we can't come up with a reason for why this would make sense logically, we can only argue that given some events in Banquet of the golden witch (and even something later on in turn) it becomes very tempting to argue that Kanon and/or Shannon aren't dead, because it makes some elements of that game square better. for now we'll split the theory in 2 directions.
+1) Sayo meets X Beatrice outside of Jessica's room, has a change of mind and attempts to defend her, but she fails due to her being unarmed. X kills first Sayo and then Jessica, mirroring the fight scene. Jessica dies of Asthma and gets shoot in the back after she's dead, and then impaled with the steak.
+2) Sayo enters Jessica's room and shoots her in the back in cold blood. This squares well with the fact that normal Beato is the one killing Jessica, not X.
+Sayo is either dead or goes in "hiding".
 
-The letter triggers Jessica's asthma and she heads stumbling to her room. Sayo sends Godha away before helping her reach the destination, and then...
+---
 
-![Pasted image 20250803194953.png](/img/user/Attachments/Pasted%20image%2020250803194953.png)
+Shortly after these events, Shannon and Genji are on Kinzo's study copying something. We believe that this means that X has been busy writing something down, and given what Kinzo talks about in that scene we believe it's possible that she's writing the bottled letter (Kinzo talks about writing the records of his past games). We believe this scene happened because Shannon references it later ("the master ordered me to copy down something"). From here forward for a while, Shannon is simply X disguised as Shannon.
 
-Look! There are goats, demons and magic, and Kanon's hand became a sword! I guess that settles it then, witches exist.......
+When Rosa goes in the study, X and Genji tell her something, we are not sure what, but she has a huge change in attitude from here forward, which suggests us that it's something big. This is signified by a butterfly stopping on Rosa's shoulder. Among other things, X gives her a master key.
 
-![b2d0e0b218f71d0f273ff2cfea28ed38.gif](/img/user/Attachments/b2d0e0b218f71d0f273ff2cfea28ed38.gif)
-<center>Of course not!!!</center>
-
-This just the most blatant example yet of narrator Beatrice twisting the story to fit the narrative, and she can do that because, yet again, there are no reliable witnesses to contradict her!
-Jessica is innocent according to our interpretation, sure, but she is dead and dead people can't testify.
-You can probably see the irony in Beatrice summoning her and Kanon as ghosts later on and having them testify as a way to lean into tea party Battler's moral dilemma.  Since they exited the scene the narrator can do whatever she wants with their characters as long as it doesn't have any repercussions on reality.
-
-But while it would be tempting to ignore the magic battle entirely, its interpretation actually has a very large impact on the rest of the episode.
-
-If we were to take all the magic literally, the plot of this episode would be about Kanon and Shannon defying Beatrice, getting relentlessly toyed with, and eventually being tragically killed alongside their crushes. It makes for a nice compelling story, but if we work under the assumption that the witch and human sides rhyme with each other, then this narrative has to function as an allegory of some sort for the real course of events.
-
-Furthermore, each interpretations has to fulfill a few conditions to be satisfactory.
-- A reading has to accomodate all events shown one way or another, we don't want to mix them up.
-- It can't contradict any red truth without at least giving a reasonable alternative interpretation. In particular, Kanon is not and has never been impersonated by anyone other than Sayo, that red is too hard to circumvent with a loophole.
--  It has to be a direction that makes the story have thematic sense.
-
-As of now we have two working readings, both with pros and cons.
-
-| <h3>Reading A:<br>Heel turn of the golden witch</h3>                                                                  | <h3>Reading B:<br>Turn of the black witch</h3>                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sayo has second thoughts about killing Jessica, and tries to defend her from X Beatrice, but she fails and is killed. | Sayo gets over it, and she shoots or stabs Jessica in the back in cold blood.                                                                            |
-| The scene represents an internal conflict between the two perpetrators.                                               | The scene represents Sayo letting the black witch win and killing the identities of Kanon now and Shannon later, when she will have to also kill George. |
-| Every appearance of Shannon from here on is X Beatrice, and every appearance of Kanon is fake.                        | X Beatrice may or may not use the identity of Shannon at some point, but there is no definitive evidence.                                                |
-| "**[[Characters/Kanon\|Kanon]] was killed in this room**" simply refers to Sayo's death.                                                | "**[[Characters/Kanon\|Kanon]] was killed in this room**" is more metaphorical, after all what does it mean for a false identity to be killed? (This is cope btw.)         |
-| Jessica could have suffocated from an asthma attack caused by shock, and the wound in her back was inflicted later.   | It's backed up by Rosa's deduction that Jessica wouldn't show her back if someone she didn't trust was in the room.                                      |
-| The dress is wrong, but that is as fake as the suits wearing goats.                                                   | It squares well with the fact that the Beato in the scene is wearing her regular dress, unlike X in all her scenes.                                      |
-| The death of the original leader could explain some discrepancies in the plan from Legend.                            | It doesn't look like the sacrifices were predetermined anyway.                                                                                           |
-
-Now... Why would we split our theories? More importantly, why would we choose to consider one for which the red truth "**[[Characters/Kanon\|Kanon]] was killed in this room**" *clearly just doesn't work*?
-Chekhov's gun.
-The rest of the theory just works really really well if we make that simple assumption that we're missing something about that red. This isn't even going into how much we'd like that to be true for Banquet of the golden witch.
-
-TLDR; We have some amazing interpretations that rely on Sayo being alive. But we'll keep, as a contingency plan, another functioning interpretation.
-From now on both scenarios will be taken into consideration when coming up with solutions, but for obvious reasons, they cannot both be true. 
-This is ok, and it's to be expected, the very concept of Battler's blue truth suggests that the goal of the reader shouldn't be to narrow everything down to a single killer solution, but to cast a broader net. That is what we're doing here, and at the end we will pass the burden of denying each theory over to the witch side in the answer arcs.
-
-![bea_hanbesoa2.png|600](/img/user/Attachments/bea_hanbesoa2.png)
-<center style="max-width: 400px; margin: 0 auto;">One has to wonder how a witch could possibly win this game.... Surely that won't become a major theme.</center>
+When Rosa arrives in front of the door to Jessica's room, before anyone else gets there, she closes it with a master key. That's why the door was found locked. of course, It's possible that X and/or Genji simply did a detour to close it, and the key passed trough no one's hands.
 
 
-Lastly before moving on, we almost forgot to mention them because of how secondary they are to everything, but [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]] make an appearance here for the first time. They are furniture, so like the goats they don't correspond to real people, instead they're the magic side personification of the piercing weapons found stuck in most of the corpses.
+
+This is the first time [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]] make an appearance. They are furniture, so they don't correspond to real people, instead they're the magic side personification of the weapons found stuck in the corpses.
 No, they can't actually fly at high speeds on their own and bounce on walls.
 
 
----
 
-#### 4.2
+Beatrice the narrator doesn't 
+The whole interrogation happens in Jessica's room, we see Beato and the ghost of Kanon and Jessica. we believe that's a plot device shown to Bernkastel to sell the whole "everyone is innocent" narrative. In general, Beato's narrative seems very invested with removing culpability from everyone except the general concept of "Beatrice". This is very reminiscent of Maria talking about the 20th kid in the classroom taking the blame to keep the other 19 kids safe.
 
-Rosa leaves Battler and the rest in the guest room to head to Kinzo's study, where she meets Genji and Shannon, who supposedly stayed there during both the chapel debate and Jessica's murder, but only Rosa backs up that claim.
+Rosa whispers something to Nanjo, and when that happens Nanjo gives her the master key he found on Jessica's body.
 
-According to reading A, the Shannon here is of course X Beatrice, however in the case of Reading B this isn't 100% necessary, as long as Sayo had the time to change identity after Killing Jessica and before meeting up with Rosa.
-
-Kinzo asks Shannon to write down his will and autobiography, or in his words, a records of his past games.
-![Pasted image 20250726112538.png](/img/user/Attachments/Pasted%20image%2020250726112538.png)
-
-
-If this scene has some foundation in reality, it could imply X was busy writing down the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]], which are records of the games. At the very least though, it's an alibi they agreed on, since Shannon references it later ("the master ordered me to copy down something").
-
-It's worth mentioning that this is the only episode where the smell of Kinzo's body being burned doesn't fill the mansion. We think the body was in the incinerator as usual, but they never turned it on for some reason, which leads to the body not being found and Kinzo not being counted among the sacrifices. 
-This potentially supports reading A, where X Beatrice has decided to override the sacrifice list in Sayo's original plan, if such a predetermined list even exists.
-
-As for what happened after Rosa arrived, we can't know what they talked about exactly, but it's probably important because from here on Rosa has a pretty big change in attitude. This is signified by a butterfly stopping on Rosa's shoulder. 
-Maybe they told her about how they just killed Sayo, or maybe she still didn't know that Kinzo was dead and is finding it out like this.
-
-Regardless of the reason, she's a lot more resolute now, and she's convinced that working with the culprits is in her and Maria's best interest now. They must have made a very solid deal, especially considering the fact that she's being trusted with a rifle. 
-
-![Pasted image 20250726114234.png](/img/user/Attachments/Pasted%20image%2020250726114234.png)
-
----
-#### 4.3
-
-Onward to the investigation of Jessica's room. 
-Rosa is once again the first person to interact with the door of a closed room, except now we have reliable witnesses. Of course, this is easily explained by claiming that they took a detour and closed it on their way back from the study.
-That being said, Rosa arrives there before anyone else, which gives her a chance to close the room herself. Maybe she was on a time crunch and she only now got the opportunity to create the closed room, or maybe it means nothing and the door was already closed.
-
-Because Jessica's own key was inside the room, the suspicion quickly turns to the people who had master keys with them. 
-Rosa fabricates an alibi for Genji and Shannon, and she lets Gohda and Kumasawa off the hook with some fairly weak logic. Their goal is of course to blame Kanon, who very conveniently went missing.
-
-![Pasted image 20250726121356.png](/img/user/Attachments/Pasted%20image%2020250726121356.png)
-<center>By acting as each other's alibi, Rosa Genji and X can claim that only Kanon would have been able to close the door using a master key.</center>
-
-In the tea party layer we see Beato with the ghosts of Kanon and Jessica. As already mentioned it's a plot device to sell the whole "everyone is innocent" story to Bernkaster, which is the only person that sees it. 
-In general, Beato's narrative seems very invested in removing culpability from everyone except the general concept of "Beatrice". This is very reminiscent of the passage in Maria's diary in Alliance, when she talks about the 20th kid in the classroom taking the blame to keep the other 19 kids safe.
-
-If we want to keep claiming that Beatrice's goals and ideals reflect Sayo's goals and ideas, this implies that framing Kanon and the other servants is either a set up for a magical explanation later, when it turns out no human could have done it after all, or it's something Sayo wouldn't approve of, adding credibility to the theory that she is dead. Or maybe, it's a clever setup to make Battler want to believe that no one could be the culprit later on, Rosa is told to aggressively frame everyone else as Guilty to trigger a reaction from Battler when he sees everyone being treated that unjustly.
-We're not really sure which one of these works best, or if we missed a better reading.
-
-Be as it may, Rosa has taken on the role of casting suspicion on everybody, including her accomplices as soon as they leave. Regardless of the reason, Rosa, who is in a position of power, is doubting everybody.
-
-![Pasted image 20250810152638.png](/img/user/Attachments/Pasted%20image%2020250810152638.png)
-<center>She is disregarding the existence of Kinzo in this argument after she lied about seeing him alive. She's just throwing out accusations for the sake of it.</center>
-
-
-
-Then, when anyone tries to doubt Rosa herself, her defense is "I can't be the bad guy cause I haven't shot you yet". What a queen.
-To be fair she isn't a murderer and probably has no intention to use the rifle unless absolutely forced to, but she needs to act tough and play along because it's her best shot at keeping herself and Maria safe.
-
-![Pasted image 20250810154821.png](/img/user/Attachments/Pasted%20image%2020250810154821.png)
-Worth noting, in Jessica's room Rosa whispers something to Nanjo. It's possible that in that instance she received from him the master key he found on Jessica's body.
-
----
-#### 4.4
-
-Lastly, observe how tea party Beatrice kindly restricts the space of possibilities for us by confirming the number of keys so we can narrow down our solutions more effectively. 
-![Pasted image 20250726120252.png](/img/user/Attachments/Pasted%20image%2020250726120252.png)
-<center>Seriously, how is a witch supposed to win?</center>
-
-This red is worth dissecting, considering that for close to two episodes now we've been preaching that two of the servants are the same person and we're going forward with that as one of our axioms.
-Because there are technically only 4 servants on the island, if we want to read this statement as strictly as possible it's implying that X Beatrice is a servant, be it Lanon, Manon or maybe even Anon!
-Of course, two of the keys could also simply belong to Sayo, it's not worded so strictly that it doesn't allow that interpretation.
-
-
----
 ## Part 5: An incredibly complex sequence of events that somehow makes sense
-<center>At this point it's not even deception, it's just for the love of the game</center>
+We're relying reeeeeeally hard on Sayo and X being extremelly theatrical here. Boy sure having a good grasp at their motives would help a lot now!
 
-#### 5.1
+The servants go back to the servant's room.
+Now, it's very possible the crime in the servant's room didn't happen at all. They all threatened Godha by saying that if he doesn't go along with what they say they'll tell Rosa that he's the culprit or something like that... and the poor guy lied, very poorly at that, given that he was not given a good script for what happened... but I feel like there's a more compelling explanation if we go the other direction and we argue that Kanon isn't dead. Compelling, that is, if you ignore that one glaring red truth.
 
-Time for "*overtly altered magical action scene*" number two.
+Here's what happened otherwise.
+The hang out there for a while... then they hear a knock.
+It's Sayo dressed as Kanon, that acts as if he's wounded. Godha is immediately freaked out, because... what the hell? Isn't Sayo besides him? who is this person! Of course, Nanjo is there, so he (and he assumes the other servants) can't say anything about that. Nanjo acts as if he's curing her, then Sayo stands up and does her little performance She has a bag of red liquid used to paint the doors in her pocket, which she uses to show that blood is flowing from her wound. X runs back to the boiler room to take spider webs (???), and Kanon "attacks" Nanjo and Kumasawa. I say that in air quotes, because this is all staged. Nanjo and Kumasawa have bags of fake blood stashed near their neck. Possibly Kanon has some way to have light special effects while moving his hands to simulate blades? Godha presses Sayo to the wall, and of course she can't resist because Godha is one big guy. Genji's thrown knife didn't happen. X comes back and Genji brings her web filled tissue on Sayo's head, Sayo pretends to be in incredible pain, wiggle's away from Godha and runs.
 
-Just as Rosa is done talking about wolves and sheep, Gohda, Shannon and Genji return from the kitchen where they had gone to to carry out their duties, to report the deaths of Nanjo and Kumasawa in the servant room.
+Then, when they report the scene to Rosa, who of course has been briefed about it, Godha is in a difficult situation because he knows that person can't be Kanon.
+![Pasted image 20250607115150.png](/img/user/Attachments/Pasted%20image%2020250607115150.png)
+Rosa is suspicious, or at least acts like she is.
+Notably, Rosa doesn't seem to give a flying fuck about Maria seeing the corpses, which of course makes sense if she already knows that there is no corpse at all.
+They all go back to the servant's room, and they don't find the bodies, because Nanjo and Kumasawa already left at that point.
+During the discovery process, Rosa opens the letter and pretends like she found the master key that Nanjo gave her. Or maybe Genji took Nanjo's key and put it in the letter. or any of the uncountable way that key would get in the letter since all the key holders but Godha were it on the plan.
+As planned, Rosa kicks out everyone that isn't her family. George insists to go with Shannon, and Rosa isn't too prone to keeping him there at all. It's possible that she treated Shannon like she did to prompt this reaction.
 
-When asked about the details of what happened, all three are incapable of giving a coherent answer that would convince her to not shoot at them.
-![Pasted image 20250727171850.png](/img/user/Attachments/Pasted%20image%2020250727171850.png)
-Rosa herself is of course already aware of this part of the plan and is just playing her role as the dispenser of accusations.
+At this point it's easy to assume, and it will be useful later, that at any point X used the bathroom and switched herself with Sayo, since it will make some later events work better.
 
-Let's get the conservative solution out of the way first. 
-This encounter with Kanon plainly and simply didn't happen: either Sayo is dead and X Beatrice is acting as Shannon, or she's alive, which would keep the counter of scenes where Shannon definitely must be X to zero.
+The scene in the kitchen where George proposes going to the chapel happens.
+They leave for the chapel, and there they break in from the window. Inside the chapel, after finding Natsuhi's key they see X with a shotgun. They all escape, and after some moments of panic the door opens (because it was unlocked). They run to Natsuhi's room, and they close themselves inside, but it doesn't matter, since Sayo takes a weapon she had hidden inside to kill George and Gohda. with the help of X she prepares tho whole room, then she closes herself inside with the key, which she puts in the pocket of George. Then she bloodies the stake, she puts it on the ground, and she shoots herself on the head, in a way that makes it so the weapon will fall out of sight. Battler hears none of the shots because he's sleeping. It's possible the weapon wasn't even a gun, after all she had the surprise factor against both Godha and Geroge. Not sure how you set up something that isn't a gun to pierce your skull, but I'm sure it's possible.
 
-Kumasawa and Nanjo were killed in the servant room and carried away, then the remaining people threatened Godha by saying that if he doesn't go along with what they say they'll kill him outright or hand him over to Rosa as the culprit. Thus the poor guy lied, and very poorly at that, given that he was improvising.
+In the meantime, Genji meets with Kumasawa and Nanjo at a place they agreed to beforehand, where he kills them with another weapon he had prepared. That's what him throwing a knife to the butterfly means. He then prepares the corpses. When enough time has passed, he calls Rosa and everyone else so that they can execute their carefully prepared discovery process.
 
-![Pasted image 20250727172638.png](/img/user/Attachments/Pasted%20image%2020250727172638.png)
-<center>If you  single out Gohda's sentences you can see that he's just going along with anything Genji says, as if he's scared to say the wrong thing.</center>
+When they come back to the room where Battler finds the letter, Rosa is able to execute the last part of the plan, as she kicks Battler out with the excuse of the letter that she herself prepared earlier.
 
-One dent in this theory is Gohda's genuine looking reaction to not finding the corpses in the servant room, as well as the door being locked. 
-There's no one left who could have carried out those two actions without him present, so we're left to assume that it's just yet another act, but let's see if we can find a more compelling solution utilizing "Reading B" that solves this problem while mirroring the magical narrative a bit more closely...
-
-For this to make sense it's important to reiterate that, according to all our theories, Gohda at this point still has no idea of who's committing the murders, but he does know about the Kanon-Shannon double identity. You'll quickly see why that's crucial, after all we're about to explain how the two of them might really have been in the same room at the same time.
-Warning: We're relying reeeeeeally hard on Sayo and X being extremely theatrical here. Boy, it sure would help having a good grasp on their motives!
-
-At first they hear a knock, it's' Sayo dressed as Kanon (but no longer identifying as him, Kanon is "dead" after all. Or some other explanation we missed that works better.), who's acting wounded just like in [[Long Form Theories/Theory for Legend of the Golden witch#Part 6 They got tired of counting twilights\|the boiler room mystery in Legend]]. 
-Godha iis immediately freaked out, not just by the blood, but because... what the hell? Isn't Sayo right there beside him? Who is this person!? 
-Of course, he figures he can't talk about Sayo in front of Nanjo, and he assumes the other servants are thinking the same ting. 
-
-They move Sayo to the servant room and Nanjo starts acting his part of giving Kanon medical attention, again, not unlike Legend. 
-All the magic chicanery for the rest of the scene is a premeditated performance, including the bags of fake blood used to fake both his wound and the ones he inflicts on Nanjo and Kumasawa, and the spider webs that X Beatrice uses to drive Kanon away.
-
-Gohda pinning Kanon against the wall is realistic given the difference in their builds and it discredits any narration giving him superhuman abilities.
-Meanwhile, it would be a bit far fetched to argue that Sayo has some light special effects that makes her hands look like blades so we'll just blame the narrator for that, after all nobody mentions them explicitly. The same goes for Genji's throwing knife.
-
-At the end of it Nanjo and Kumasawa are left in the room still alive, and as soon as the others leave they leave the letter there and flee.
-
-When the trio reports to Rosa, Godha is in a difficult spot because he knows that person can't be Kanon, but wouldn't know how to explain it to her.
-![Pasted image 20250808181903.png](/img/user/Attachments/Pasted%20image%2020250808181903.png)
-
-They agree to go investigate the servant room. Rosa is suspicious, or at least acts like she is, but she notably doesn't seem to give a damn about Maria seeing the corpses, which of course makes sense if she already knows that there aren't any corpses.
-
-Rosa discovering two master keys inside the envelope can be explained in a thousand and one ways, since she, Nanjo and all the master key holders except Gohda were in on the plan.
-Let's say that during the discovery process, Rosa opens the letter and pretends like she found the master key that Nanjo gave her, according to our previous theory.
-![Pasted image 20250727180211.png](/img/user/Attachments/Pasted%20image%2020250727180211.png)
-<center>After all, the keys after that point are immediatly grouped</center>
-
----
-
-#### 5.2
-
-As programmed, Rosa kicks out the servants. It only makes sense in her position and it's the same thing Natsuhi did in Legend. It's like poetry, it rhymes.
-George insists on going with Shannon, and Rosa doesn't object to his choice at all, it's unclear if she was trying to prompt this reaction by mistreating Shannon on purpose or if it just happened, either way she doesn't seem to care for George's survival at this point.
-
-The exiled group heads to the kitchen, where they pressure George into believing the Kanon incident. All of a sudden George fancies himself an occultist because he wants to play along with Shannon's superstitions.
-![Pasted image 20250810192842.png](/img/user/Attachments/Pasted%20image%2020250810192842.png)
-
-They decide to go look for a mirror in Natsuhi's room, but they handed all the master keys to Rosa, so the first step is breaking into the chapel from the window to get Natsuhi's key. 
-
-
-They all leave except Genji, who insists that he wants to stay there alone.
-![Pasted image 20250810193744.png](/img/user/Attachments/Pasted%20image%2020250810193744.png)
-
-![Pasted image 20250810193901.png](/img/user/Attachments/Pasted%20image%2020250810193901.png)
-
-![Pasted image 20250810194028.png](/img/user/Attachments/Pasted%20image%2020250810194028.png)
-
-If we follow the version of events where Nanjo and Kumasawa survived, then we still need to explain how they ended up dead, and this scene of Genji thinking about his chess game with Nanjo could suggest he stayed behind to meet with them, but then he kills them on Sayo's orders and that's what him throwing a knife at the butterfly means. 
-If the red truth from Legend about Genji not being a killed is to be applied here too, then Sayo did it offscreen. Either way Genji is tasked with preparing the bodies and reporting their discovery in the courtyard as the seventh and eight twilights.
-
-Of course, none of this matters in case they really did die when we saw them die.
-
----
-
-#### 5.3
-
-Once George's group breaks into the chapel they are able to find the key, but they also find X Beatrice who threatens them with big words and butterflies according to the narration, or more likely a shotgun according to us.
-
-The group easily gets away using the door that was supposed to be locked, which makes two violations of the red truth back to back.
-
-<center><font color="#ff0000">When the door to the chapel is locked, it prevents any and all methods of entry or exit</font></center>
-
-As mentioned earlier, we can assume that the door was left open, or that Rosa handed the key to X Beatrice during any of their previous encounters.
-
-They are chased by Beatrice and the goats all the way to Natsuhi's room, where Shannon tries to fight them off with her magical girl powers and the mirror mc guffin but in the end loses to the witch's overbearing magical prowess.
-![Pasted image 20250810205509.png](/img/user/Attachments/Pasted%20image%2020250810205509.png)
-
-Say the line Bart!
-![Pasted image 20250811230516.png|400](/img/user/Attachments/Pasted%20image%2020250811230516.png)
-*"This scene has been heavily altered by the narrator and everybody involved is either dead or a culprit."*
-![Pasted image 20250811230547.png](/img/user/Attachments/Pasted%20image%2020250811230547.png)
-
-This is by all intents and purposes a continuation of the scene in Jessica's room.
-
-Following from reading A, we reach the conclusion that since at this point Sayo is already dead, the sudden appearance of X beatrice in the chapel represents her dropping the Shannon act and attacking George and Gohda. 
-They try to Barricade themselves in Natsuhi's room but fail because the opponents are able to unlock the door and get inside, then after killing them they leave Natsuhi's key on George and close the door with a master key.
-
-But how can that possibly be the case when we know that all the master keys never left Rosa's hands?
-This is the greatest logic leap required by this otherwise not so out there theory, as well as its greatest weakness, but because we don't see Battler's perspective until later when Genji knocks on the parlor door, it's not impossible to suppose that he and Maria might have dozed off, giving Rosa the opportunity to sneak away and help out with this crime.
-That could also explain why he didn't hear any gunshots. Or maybe they were killed in the chapel? And rosa was only necessary to lock Natsuhi's room? Both work.
-
-Let's instead focus on reading B, let's see if we can avoid having to involve Rosa.
-
-Sayo and X Beatrice are both present in the scene. If the zombie Kanon from earlier was Sayo, then it is assumed that Shannon went to the bathroom and they switched back at some point. Yes, that's the explanation.
-After X Beatrice attacks them they successfully barricade inside Natsuhi's room, but Sayo is locked inside with them and uses a weapon prepared in advance to surprise and kill them.
-
-Here the fight scene makes a lot more sense, this is Sayo having to once again justify to herself  that she is killing George, and in doing so she is killing Shannon too.
-What's harder to justify is what happens after. We're not getting away with calling Shannon's corpse fake this time, because Battler has learned his lesson and actually checks personally.
-![Pasted image 20250811185355.png](/img/user/Attachments/Pasted%20image%2020250811185355.png)
-
-Because all keys are accounted for in the red, we are forced to rule out any last minute infighting or a retaliation from the victims. This can only be a suicide, and we have already theorized previously that Sayo doesn't plan to leave the island alive, or she could have done so at the end of Legend. 
-
-So Sayo sets up the crime scene with X Beatrice, then she closes herself inside with the key, she puts it in George's pocket, she stains the stake with fake blood and places it on the ground, then she shoots herself in the head, in a way that makes it so the weapon will fall out of sight. 
-It's possible the weapon wasn't even a gun, after all she had the surprise factor against both Godha and George. Not sure how you set up something that isn't a gun to pierce your skull, but I'm sure it's possible. 
-
-So if this is true, then what Sayo is carrying out is an elaborated group suicide, and she's creating all the closed rooms for the sake of it.
-
-Earlier we saw this red in one of the tea party debates, which is probably a lot more important than it seems at first. 
-![Pasted image 20250810201046.png](/img/user/Attachments/Pasted%20image%2020250810201046.png)
-She promised that there is a way of stopping the ritual, in other words Sayo could be convinced to stop killing if someone told her exactly what she want to hear.
-
-Tying into the topic of promises, this exchange also takes place.
+Worth noting, in one of the tea party discussions, this exchange happens
 ![Pasted image 20250610001650.png](/img/user/Attachments/Pasted%20image%2020250610001650.png)
-We believe this focus on witches being sincere and humans being liars refers to a promise that Battler made to X and it's related to his big mysterious sin.
+We believe this refers to the promise that Battler made to X.
 
 
----
-#### 5.4
-
-At this point having to suspect everyone is starting to take a toll on Battler and he's about to give up on finding a culprit.
-
-![Pasted image 20250810191833.png](/img/user/Attachments/Pasted%20image%2020250810191833.png)
-
-![Pasted image 20250810200153.png](/img/user/Attachments/Pasted%20image%2020250810200153.png)
-
-He finally breaks when back in the parlor Rosa sets up a letter and accuses Battler of being a wolf over it so she can kick him out as well.
-
-![Pasted image 20250810201613.png](/img/user/Attachments/Pasted%20image%2020250810201613.png)
-
-![Pasted image 20250810202049.png](/img/user/Attachments/Pasted%20image%2020250810202049.png)
 
 
 ---
 
 ## Part 𝑖: The Banquet
-<center>Thanks Battler, for being a weak pathetic coward!</center>
+
 #### 𝑖.1
-Battler has invoked Beatrice, and the game is up. At that point he has officially lost the round. 
+Battler invokes Beatrice, and the game is up. At that point he has officially lost the round. 
 The scenes we see from this point onward are assumed to be magical in nature and the things shown and said may not match reality even when Battler is present.
 
 The next time we see Battler he's getting himself drunk, which will conveniently explain the weird things he's about to see. 
 We don't see how the scene with Rosa ended, but it can be assumed she didn't want to shoot him (be it on principle or because of Maria) so she just left to look for X Beatrice.
 
-He's accompanied to Kinzo's room by Genji. There he meets Kinzo and Beatrice having the chess game of their life, and she convinces him that witches exist. It all totally happened, and it was incredibly convincing. Just, we're never shown it, of course! :)
+He's accompanied to Kinzo's room by Genji. There he meets Kinzo and Beatrice having the chess game of their life, and she convinces him that witches exist offscreen.
 
 ![Pasted image 20250706201148.png](/img/user/Attachments/Pasted%20image%2020250706201148.png)
-We can't know what actually went down, but Battler probably did talk to X Beatrice, and their conversation might have been similar to the one they have in Alliance. Then, at midnight, they are both killed by the big bomb™ (sigh).
+We can't know what actually went down, but Battler probably did talk to X Beatrice, and their conversation might have been similar to the one they have in Alliance. Then, at midnight, they are both killed by the big bomb TM (sigh).
 
 As a refresher from the end of Legend, we think something was set up to automatically kill any remaining human in the mansion at precisely midnight of the second day. Our best guess is still a powerful ticking bomb, or a bunch of them all over the estate.
 This is probably the work of Sayo and her sponsors outside the island, meanwhile Rosa and X Beatrice probably had no idea, or they would have taken precautions.
@@ -837,13 +656,13 @@ This is incidentally the same reason why saying "Witches exist and magic is real
 ---
 #### 𝑖.3
 
-At the highest level of the tea party we see a conversation taking place between [[Characters/Beatrice\|Beatrice]], [[Characters/Bernkastel\|Bernkastel]] and [[Characters/Lambdadelta\|Lambdadelta]]. A version of [[Characters/Battler\|Battler]] before getting his motivation back is observing them as a stand in for the reader
+At the highest level of the party we see a conversation taking place between [[Characters/Beatrice\|Beatrice]], [[Characters/Bernkastel\|Bernkastel]] and [[Characters/Lambdadelta\|Lambdadelta]]. A version of [[Characters/Battler\|Battler]] before getting his motivation back is observing them as a stand in for the reader, ==confirming that there is temporal continuity between the different tea parties. (?) non lo nega?==
 ![Pasted image 20250715210806.png](/img/user/Attachments/Pasted%20image%2020250715210806.png)
 
 Beato finally calls Bern out on actively favoring Battler, meanwhile Lambda has apparently recruited herself to Beato's side for a chance to fight Bern once again after being defeated.
 This project isn't meant to contain any major Higurashi spoilers, so we won't discuss the two of them them in too much detail, suffice it to say they have beef.
 
-That being said, even though they bicker and banter, they don't seem to take the stakes that seriously, almost like they're preparing to play a board game (that's a recurring metaphor huh?). 
+That said, even though they bicker and banter, they don't seem to take the stakes that seriously, almost like they're preparing to play a board game (that's a recurring metaphor huh?). 
 Their drive to fight each other comes from cheap pride and a need for entertainment and there's a shared understanding that they're in on it together, after all only boredom can kill a [[Tips/Regarding Voyagers\|voyager]] witch.
 ![Pasted image 20250715213334.png](/img/user/Attachments/Pasted%20image%2020250715213334.png)
 
@@ -854,18 +673,22 @@ Let's examine Bern first, she starts by giving Battler a pep talk, but more impo
 
 ![Pasted image 20250715215439.png](/img/user/Attachments/Pasted%20image%2020250715215439.png)
 
-Apparently there's a very big weakness in Turn, this might refer to her deliberately not countering an attack, but it's not really a flaw and it doesn't get exploited later. The truth is... there are so much little holes in the story that this could refer to a lot. We probably discussed it earlier.
+Apparently there's a very big weakness in Turn, this might refer to her deliberately not countering an attack, but it's not really a flaw and it doesn't get exploited later.
+
+==Inserire congettura su quale sia la debolezza==
+
 
 ![Pasted image 20250715215514.png](/img/user/Attachments/Pasted%20image%2020250715215514.png)
 <center>More hints that she isn't only talking to Battler here, he wouldn't know what this means, but most of us definitely do</center>
 
-Lambdadelta shows up next and immediately thrash talks him and Bernkastel, but she still gives him some very valuable hints. We don't need to guess her reason for doing so because it's clearly spelled out in Alliance, she wants the confrontation to keep going indefinitely so when Battler looks like he might deadlock the game she has to step in and help him.
 
-She refers to Battler as Bern's piece, he is her subordinate in the grand scheme of things , then Lambda reiterates all the flaws with Beato's game plan. 
+Lambdadelta shows up next and immediately thrash talks him and Bernkastel, but she still gives him some very valuable hints. We non't need to guess her reason for doing so because it's clearly spelled out in Alliance, she wants the confrontation to keep going indefinitely so when Battler looks like he might deadlock the game she has to step in and help him.
+
+She refers to Battler as Bern's piece, he is her subordinate in the grand scheme of things , then Lambda reiterates all the flaws with Beato's gameplan. 
 
 ![Pasted image 20250718121457.png](/img/user/Attachments/Pasted%20image%2020250718121457.png)
 
-Basically as we've been saying, the culprit isn't looking for the most efficient ways of killing everyone, she will make sure that each case looks mysterious, add unnecessary preparations like the halloween decorations in the chapel, or go out of her way to deceive somebody who is going to die soon after. From Lambda's perspective all of this is just "Taking worthless pieces".
+Basically as we've been saying, the culprit isn't looking for the most efficient ways of killing everyone, she will make sure that each case looks mysterious, add unnecessary preparations like the halloween decorations in the chapel, or go out of her way to decive somebody who is going to die soon after. From Lambda's perspective all of this is just "Taking worthless pieces".
 
 "Place excess pieces on the board" refers to the addition of X Beatrice to this game. While she played a major role here, her not being in Legend means she isn't required in the grand scheme of things.
 
@@ -877,10 +700,7 @@ Since we've already foreshadowed the next two episodes a bunch of times, there's
 But if that's the case, who's to say Bernkastel's thoughtful sympathy is genuine?
 
 ---
----
 
-
+#### 𝑖.4
 
 ==Saluti finali!==
-
-

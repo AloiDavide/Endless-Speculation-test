@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images"}
+{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings"}
 ---
 
 
@@ -357,11 +357,6 @@ But here comes the counterpoint. If this envelope really did contain a message d
 Either way you slice it this isn't a very strategic choice, but hey, this is the episode where we're told that sometimes Beatrice likes to play suboptimal moves on purpose. ¯\\_(ツ)_/¯
 
 Let's use a a simple table to map the possible causes of Rosa's actions.
-
-|                                                        | <center>Rosa has read the letter</center>                                                                                                                                   | <center>Rosa has NOT read the letter</center>                |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <b>The envelope contained info on Sayo's plan</b>      | <center>She is unsure on what to do<br>and can't bring herself to either <br>denounce it or fully play into it.</center>                                                    | <center>She wanted to check it out privately later.</center> |
-| <b>The envelope did NOT contain info on Sayo's plan<b> | <center>She made the connection between the challenge and the inheritance, <br>and felt like not letting the others <br>know about it would give her an advantage.</center> | <center>She wanted to check it out privately later.</center> |
 
 The fact Rosa claims to have seen a witch makes us think she's already playing into it to some extent, and soon her cooperation will be a crucial piece of the puzzle, so we'll say Rosa probably opened the letter but didn't think sharing that fact with her siblings would benefit her.
 

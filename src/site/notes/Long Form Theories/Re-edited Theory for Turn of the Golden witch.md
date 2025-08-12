@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings"}
+{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings dual-table"}
 ---
 
 
@@ -356,9 +356,7 @@ Kyrie and Rosa corroborate by offering their testimony, however Rosa doesn't rea
 But here comes the counterpoint. If this envelope really did contain a message directed at Rosa in particular, (either the plans for the upcoming murders or details on how to contact Beatrice in secret), they would have to account for the risk of Rosa blindly bringing it up without reading it first.
 Either way you slice it this isn't a very strategic choice, but hey, this is the episode where we're told that sometimes Beatrice likes to play suboptimal moves on purpose. ¯\\_(ツ)_/¯
 
-Let's use a a simple table to map the possible causes of Rosa's actions.
-
-The fact Rosa claims to have seen a witch makes us think she's already playing into it to some extent, and soon her cooperation will be a crucial piece of the puzzle, so we'll say Rosa probably opened the letter but didn't think sharing that fact with her siblings would benefit her.
+The fact Rosa claims to have seen a witch makes us think she's already playing into it to some extent, and soon her cooperation will be a crucial piece of the puzzle, so we'll say Rosa probably knew the content of the letter and didn't think sharing that fact with her siblings would benefit her.
 
 Soon after the topic comes up, Gohda and the kids are kicked out to the guesthouse, and once again, Maria shows that she's totally on board with the witch narrative.
 
@@ -557,10 +555,10 @@ Furthermore, each interpretations has to fulfill a few conditions to be satisfac
 
 As of now we have two working readings, both with pros and cons.
 
-| <h3>Reading A:<br>Heel turn of the golden witch</h3>                                                                  | <h3>Reading B:<br>Turn of the black witch</h3>                                                                                                           |
+| <h3>Reading A<br>Heel turn of the golden witch<</h3>                                                                  | <h3>Reading B<br>Turn of the black witch</h3>                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sayo has second thoughts about killing Jessica, and tries to defend her from X Beatrice, but she fails and is killed. | Sayo gets over it, and she shoots or stabs Jessica in the back in cold blood.                                                                            |
-| The scene represents an internal conflict between the two perpetrators.                                               | The scene represents Sayo letting the black witch win and killing the identities of Kanon now and Shannon later, when she will have to also kill George. |
+| The scene represents an internal conflict between the two perpetrators.dd                                             | The scene represents Sayo letting the black witch win and killing the identities of Kanon now and Shannon later, when she will have to also kill George. |
 | Every appearance of Shannon from here on is X Beatrice, and every appearance of Kanon is fake.                        | X Beatrice may or may not use the identity of Shannon at some point, but there is no definitive evidence.                                                |
 | "**[[Characters/Kanon\|Kanon]] was killed in this room**" simply refers to Sayo's death.                                                | "**[[Characters/Kanon\|Kanon]] was killed in this room**" is more metaphorical, after all what does it mean for a false identity to be killed? (This is cope btw.)         |
 | Jessica could have suffocated from an asthma attack caused by shock, and the wound in her back was inflicted later.   | It's backed up by Rosa's deduction that Jessica wouldn't show her back if someone she didn't trust was in the room.                                      |

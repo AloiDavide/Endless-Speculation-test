@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/long-form-theories/theory-for-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
 ---
 
-tThis is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
+This is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
 
 This will be impossible to follow without having read Umineko that far, and here we won't retread most of what happens in the original story.
 ## Part 1: Preface

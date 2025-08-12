@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links"}
+{"dg-publish":true,"permalink":"/long-form-theories/re-edited-theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images"}
 ---
 
 

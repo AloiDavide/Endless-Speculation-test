@@ -12,8 +12,8 @@
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Beatrice\|Beatrice]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 
@@ -37,15 +37,15 @@
 - [[Characters/Natsuhi\|Natsuhi]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Hideyoshi\|Hideyoshi]]
-- [[Characters/Krauss\|Krauss]]
 - [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Krauss\|Krauss]]
+- [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Jessica\|Jessica]]
 - [[Characters/George\|George]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 

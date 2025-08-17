@@ -228,8 +228,8 @@ Are you ready? Excellent.
 [[Characters/X Beatrice\|X Beatrice]] is the special guest that appears in Turn and Alliance, who several people remark to be the spitting image of the witch's portrait.
 She can be distinguished from Sayo based on her clothes, possibly her face, and because of the [[Speculation/Leg Tattoos\|tattoos or marks]] we see on their legs in the character profiles.
 
-| ![[Pasted image 20250528190002.png\|200]] | ![[Pasted image 20250528190017.png\|277]] |
-| ----------------------------------------- | ----------------------------------------- |
+| ![Pasted image 20250528190002.png](/img/user/Attachments/Pasted%20image%2020250528190002.png) | ![Pasted image 20250528190017.png](/img/user/Attachments/Pasted%20image%2020250528190017.png) |
+| ------------------------------------ | ------------------------------------ |
 <center>Sayo's right leg is hidden but X beatrice's left leg is clearly missing the shape present on Sayo's.</center>
 
 

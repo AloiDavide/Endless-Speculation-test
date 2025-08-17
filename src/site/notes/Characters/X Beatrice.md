@@ -3,7 +3,7 @@
 ---
 
 
-![X Beatrice.png|X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
+![Mugshots/X Beatrice.png|X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
 
 ---
 # Theories

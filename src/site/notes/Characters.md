@@ -6,46 +6,46 @@
 
 ### Witches
 - [[Characters/Virgilia\|Virgilia]]
-- [[Characters/Lambdadelta\|Lambdadelta]]
-- [[Characters/Maria\|Maria]]
 - [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Maria\|Maria]]
+- [[Characters/Lambdadelta\|Lambdadelta]]
+- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Beatrice\|Beatrice]]
-- [[Characters/Ange\|Ange]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
 ### Furniture
-- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
+- [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
 - [[Characters/Shannon\|Shannon]]
 - [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
 - [[Characters/Goats\|Goats]]
-- [[Characters/Genji\|Genji]]
 - [[Characters/Gaap\|Gaap]]
+- [[Characters/Genji\|Genji]]
 
 { .block-language-dataview}
 
 ## Humans
 ### Ushiromiya
-- [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Rosa\|Rosa]]
+- [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Natsuhi\|Natsuhi]]
+- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Maria\|Maria]]
 - [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Krauss\|Krauss]]
-- [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Jessica\|Jessica]]
+- [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/George\|George]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
@@ -64,8 +64,8 @@
 - [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
-- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
+- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Amakusa\|Amakusa]]
 
 { .block-language-dataview}

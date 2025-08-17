@@ -97,7 +97,7 @@ body {
     border-spacing: 0;
   }
 
-  .dual-table .table-wrapper table th:not(:has(img)) {
+  .dual-table .table-wrapper table th:not(:has(a)) {
     border: 3px solid #d37012 !important;
   }
 
@@ -105,7 +105,7 @@ body {
     margin: auto;
   }
 
-  .dual-table .table-wrapper table td:not(:has(img)) {
+  .dual-table .table-wrapper table td {
     border: 2px solid #d37012;
     border-top: none;
     text-align: center;

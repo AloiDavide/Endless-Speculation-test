@@ -112,12 +112,12 @@ body {
     padding: 10px !important;
   }
 
-  .dual-table .table-wrapper table th:first-child{
+  .dual-table .table-wrapper table th:first-child:not(:has(img)){
     border-top-left-radius: 50px;
     width: 50% !important;
   }
 
-  .dual-table .table-wrapper table th:last-child{
+  .dual-table .table-wrapper table th:last-child:not(:has(img)){
     border-top-right-radius: 50px;
     width: 50% !important;
   }

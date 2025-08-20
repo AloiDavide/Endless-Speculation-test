@@ -97,16 +97,6 @@ In short though, the character we call Sayo is composed from the trinity of [[Ch
 
 
 
-> [!note]- REDACTED THEORY
-> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 > [!Note]- Sayo isn't X Beatrice
 > Sayo is distinct from [[Characters/X Beatrice\|X Beatrice]], they are two different people.
 > 

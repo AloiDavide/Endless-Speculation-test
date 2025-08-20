@@ -12,7 +12,7 @@ This note refers to the meta character in the tea party who calls herself the Go
 
 You instead might be looking for:
 - [[Characters/Sayo\|Sayo]]
-- \[REDACTED\]
+- [[Characters/X Beatrice\|X Beatrice]]
 - \[REDACTED\]
 - \[REDACTED\]
  

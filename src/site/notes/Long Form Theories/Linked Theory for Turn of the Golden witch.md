@@ -27,8 +27,8 @@ The prologue of Turn opens on [[Characters/Shannon\|Shannon]] (who is, obviously
 There are a few possible explanations. 
 Maybe she likes him but she is struggling with emotions related to feeling inadequate and/or also having feelings for another person (as we'll explore in a bit).
 Maybe she really doesn't like [[Characters/George\|George]] (as we'll also explore in a bit), either because she doesn't like the direction in which their relationship is going or because she's using that relationship as a stepping stone to achieve her goals.
-It's possible it's some mix of these is on the table.
-Could it be she is just being shy according to anime tropes? Well it's not *impossible*, but given the weight this character has in our theories we can't make that assumption.
+It's possible some mix of these is on the table.
+Could it be that she is just being shy according to anime tropes? Well it's not *impossible*, but given the weight this character has in our theories we can't make that assumption.
 
 She insists on magic being what granted them the miracle of their relationship, and she remarks that [[Characters/Kanon\|Kanon]] doesn't believe in this magic, in the ability to see a blue sky even when it's cloudy. 
 As established, magic in Umineko is mostly about interpretation. The symbolism speaks for itself, doesn't it? She's looking at a grey sky and calling it blue, because that's what she desperately wants.
@@ -114,7 +114,7 @@ The conversation between [[Characters/Jessica\|Jessica]] and [[Characters/Kanon\
 
 
 ![Pasted image 20250527204737.png](/img/user/Attachments/Pasted%20image%2020250527204737.png)
-So. [[Characters/Sayo\|Sayo]] harshly refuses [[Characters/Jessica\|Jessica]] at the end. After all, She must be disillusioned by the failure that trying to love [[Characters/George\|George]] produced.
+So. [[Characters/Sayo\|Sayo]] harshly refuses [[Characters/Jessica\|Jessica]] in the end. After all, She must be disillusioned by the failure that trying to love [[Characters/George\|George]] produced.
 
 This is where [[Characters/Beatrice\|Beatrice]] starts to turn into a "[[Speculation/Black Magic\|Black Witch]]", AKA where the magic, the cope, the narrative, stops being a benign-ish fantasy and becomes something more obsessive and self absorbed.
 
@@ -130,14 +130,15 @@ I should add, It's probably very reasonable that [[Characters/Sayo\|Sayo]] wants
 ![Pasted image 20250527205828.png](/img/user/Attachments/Pasted%20image%2020250527205828.png)
 [[Characters/Sayo\|Sayo]] is barely an adult, still working for your family in a very subservient position, and they aren't even in that much confidence. I'm not sure they even kissed! Did they even talk about personal stuff? I also feel bad for [[Characters/George\|George]] because, Jesus Christ, it's a miserable level of lack of self awareness, It's so scary to be this clueless and this unaware about how clueless you are.
 
----
-#### 1.5
-We spent a lot of time and words on this prologue because reading it back really made a lot of things click into place. This is the point where we started to to formulate the [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|Sayo conjecture]], and that became the core of our theory once we saw it could hold up to scrutiny.
 
-This screen pretty much sums up our state of mind before that.
+
+
 ![Pasted image 20250527205435.png](/img/user/Attachments/Pasted%20image%2020250527205435.png)
 <center>Average Umineko reader</center>
 
+---
+#### 1.5
+We spent a lot of time and words on this prologue because reading it back really made a lot of things click into place. This is the point where we started to to formulate the [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|Sayo conjecture]], and that became the core of our theory once we saw it could hold up to scrutiny.
 
 Let's actually get started setting up the board for the next game now.
 We spend some time observing the "chessboard preparations" for the first confrontation between [[Characters/Battler\|Battler]] and Beato. It's technically the second, but keep in mind that during [[Legend of the Golden witch\|Legend]] [[Characters/Battler\|Battler]] wasn't yet a willing participant.
@@ -154,7 +155,7 @@ They're clearly talking about hiding Kinzo's death, which of course needs to rem
 
 Then, we finally see [[Characters/Beatrice\|Beatrice]] and [[Characters/Battler\|Battler]] in the tea party. 
 ![Pasted image 20250622161513.png](/img/user/Attachments/Pasted%20image%2020250622161513.png)
-When Beato announces the start of the game (with a distinct lack of quotation marks, meaning she is narrating this), the background of the tea party turn purple, which to us is a tell that what is happening stopped being a magical parallel of something real. 
+When Beato announces the start of the game (with a distinct lack of quotation marks, meaning she is narrating this), the background of the tea party turns purple, which to us is a tell that what is happening stopped being a magical parallel of something real. 
 This color filter basically marks the magical scenes that happen outside the game and don't constitute hints for solving the game itself.
 
 Whenever a meta scene needs to be overlayed over images from the game they will instead use this transparent flower pattern as framing. This has the same meaning as the purple filter in the tea party.
@@ -177,7 +178,7 @@ In the rose garden, once again [[Characters/Rosa\|Rosa]] lashes out at [[Charact
 ![Pasted image 20250528183927.png](/img/user/Attachments/Pasted%20image%2020250528183927.png)
 ![Pasted image 20250528183939.png](/img/user/Attachments/Pasted%20image%2020250528183939.png)
 
-Our theory so far states that [[Characters/Sayo\|Sayo]] is the [[Characters/Beatrice\|Beatrice]] who formed Mariage Sorciere with [[Characters/Maria\|Maria]], so she should know very well who [[Characters/Kanon\|Kanon]] is, and [[Characters/Sayo\|Sayo]] shouldn't need to ask this question when it's just the two of them.
+Our theory so far states that [[Characters/Sayo\|Sayo]] is the [[Characters/Beatrice\|Beatrice]] who formed Mariage Sorcière with [[Characters/Maria\|Maria]], so she should know very well who [[Characters/Kanon\|Kanon]] is, and [[Characters/Sayo\|Sayo]] shouldn't need to ask this question when it's just the two of them.
  
 Of course, it's possible [[Characters/Maria\|Maria]] only knows about the [[Characters/Shannon\|Shannon]] persona and not the [[Characters/Kanon\|Kanon]] one, it could fit the rest of the theory with a couple small adjustments... but there's another explanation that fits even better.
 
@@ -200,6 +201,9 @@ Are you ready? Excellent.
 <center><i>Supposing the existence of a mysterious "person X"... </i></center>
 
 #### 2.1
+
+![not like the others.png](/img/user/Attachments/not%20like%20the%20others.png)
+<center><i>One of these things is not like the others... one of these things... doesn't belong.</i></center>
 
 <font color="#00b0f0">Let's state this; In the context of Turn of the Golden witch, there are 17 people in Rokkenjima.</font>
 
@@ -226,10 +230,10 @@ Are you ready? Excellent.
 
 
 [[Characters/X Beatrice\|X Beatrice]] is the special guest that appears in Turn and [[Episodes/Alliance of the Golden witch\|Alliance]], who several people remark to be the spitting image of the witch's portrait.
-She can be distinguished from [[Characters/Sayo\|Sayo]] based on her clothes, possibly her face, and because of the [[Speculation/Leg Tattoos\|tattoos or marks]] we see on their legs in the character profiles.
+She can be distinguished from [[Characters/Sayo\|Sayo]] by her clothes, possibly her face, and because of the [[Speculation/Leg Tattoos\|tattoos or marks]] we see on their legs in the character profiles.
 
-| ![[Pasted image 20250528190002.png\|200]] | ![[Pasted image 20250528190017.png\|277]] |
-| ----------------------------------------- | ----------------------------------------- |
+| ![Pasted image 20250528190002.png](/img/user/Attachments/Pasted%20image%2020250528190002.png) | ![Pasted image 20250528190017.png](/img/user/Attachments/Pasted%20image%2020250528190017.png) |
+| ------------------------------------ | ------------------------------------ |
 <center>Sayo's right leg is hidden but X beatrice's left leg is clearly missing the shape present on Sayo's.</center>
 
 
@@ -239,10 +243,6 @@ In case this wasn't enough evidence, another strong hint that they must be separ
 
 She will also be helpful whenever two corpses are needed for the price of one, or she can still be around even when [[Characters/Kanon\|Kanon]], [[Characters/Shannon\|Shannon]], or both are confirmed to be dead by the Red truth.
 
-
-![not like the others.png](/img/user/Attachments/not%20like%20the%20others.png)
-<center><i>One of these things is not like the others... one of these things... doesn't belong.</i></center>
-
 ---
 #### 2.2
 
@@ -250,7 +250,7 @@ So, what do we know about this person?
 
 Well, to start, she looks exactly like the girl in the portrait, so it's possible she was the model used when [[Characters/Kinzo\|Kinzo]] commissioned it. 
 There will be another candidate for that role later on, but that person died long before the portrait was hung in the hall (six years ago at most, since [[Characters/Battler\|Battler]] has never seen it), so it would have been based on old photos.
-There's also another version of the same painting in Kinzo's study and we have no idea when that one was painted, so it's better not to focus on this too much.
+There's also another version of the same painting in Kinzo's study and we have no idea when that one was painted. It's better not to focus on this too much.
 
 It's possible that she is a servant, this would make her able to own a master key without going against any red truth. Maybe she is one of the other orphans with the On kanji in their name, the ones mentioned in [[Legend of the Golden witch\|Legend]].
 
@@ -260,7 +260,7 @@ She talks casually about [[Characters/Kinzo\|Kinzo]], so it's fair to say that s
 She refers to herself as a bird in a cage for [[Characters/Kinzo\|Kinzo]], which could mean a number of things, it's not clear if it refers to the general concept of [[Characters/Beatrice\|Beatrice]] or to herself.
 
 About her motive? We don't really know. We can at least say that she is an accomplice of [[Characters/Sayo\|Sayo]] with goals that align to hers, and her presence serves in part the purpose of validating the existence of a witch.
-She will be around and play a role in [[Episodes/Alliance of the Golden witch\|Alliance]] as well, and we think she was the recipient of [[Characters/Battler\|Battler]]'s promise because of what she says there and her reaction to [[Characters/Battler\|Battler]] failing to remember it. 
+She will be around and play a role in [[Episodes/Alliance of the Golden witch\|Alliance]] as well, and we think she was the recipient of [[Characters/Battler\|Battler]]'s promise because of what she says there and her reaction to him failing to remember it. 
 That is probably a big part of her motive, and the only one we can point out with some confidence.
 
 ![Pasted image 20250701192950.png|500](/img/user/Attachments/Pasted%20image%2020250701192950.png)
@@ -281,7 +281,7 @@ I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who
 That, combined with the fact that she knows some servants, she's able to act as [[Characters/Shannon\|Shannon]], and she wears her clothes well, is enough of a proof to me. 
 
 ![tumblr_ns5tmd34E61tg07vxo1_500.gif](/img/user/Attachments/tumblr_ns5tmd34E61tg07vxo1_500.gif)
-<center>Chekhov's Gun bitches</center>
+<center>Chekhov's Gun at it's most reckless</center>
 
 ---
 
@@ -411,7 +411,7 @@ Cut to the siblings talking to [[Characters/X Beatrice\|X Beatrice]] in the chap
 
 #### 3.1
 
-Let's rewind to a little before midnight, what actually happened to the adults that night?
+Let's rewind to a little before midnight, what actually happened to the adults?
 
 For starters, we know for a fact they were murdered right there in the [[Mysteries/Crime scene of the Chapel\|Chapel]] by somebody in the same location.
 
@@ -531,7 +531,7 @@ He needs to learn the rules before they can play, and the fact that [[Characters
 <center><i>Maybe</i> this door was actually locked.</center>
 
 [[Characters/Sayo\|Sayo]] pretends to find a letter, which she actually secretly had on her person. 
-The contents are mocking Jessica's parents, but the language is was vague enough that it would have worked no matter which of the cousins read it first, she just happened to get there before anyone else.
+The contents are mocking Jessica's parents, but the language is vague enough that it would have worked no matter which of the cousins read it first, she just happened to get there before anyone else.
 
 The letter triggers Jessica's asthma and she heads stumbling to her room. [[Characters/Sayo\|Sayo]] sends Godha away before helping her reach the destination, and then...
 
@@ -635,7 +635,7 @@ Be as it may, [[Characters/Rosa\|Rosa]] has taken on the role of casting suspici
 
 
 Then, when anyone tries to doubt [[Characters/Rosa\|Rosa]] herself, her defense is "I can't be the bad guy cause I haven't shot you yet". What a queen.
-To be fair she isn't a murderer and probably has no intention to use the rifle unless absolutely forced to, but she needs to act tough and play along because it's her best shot at keeping herself and [[Characters/Maria\|Maria]] safe.
+To be fair it's possible she isn't a murderer and probably has no intention to use the rifle unless absolutely forced to, but she needs to act tough and play along because it's her best shot at keeping herself and [[Characters/Maria\|Maria]] safe.
 
 ![Pasted image 20250810154821.png](/img/user/Attachments/Pasted%20image%2020250810154821.png)
 
@@ -825,7 +825,7 @@ It's a couple minutes before midnight, and [[Characters/Rosa\|Rosa]] is frantica
 ![Pasted image 20250706201324.png](/img/user/Attachments/Pasted%20image%2020250706201324.png)
 Because she can't find her anywhere, she settles for at least bringing back the gold ingots and tries to run away with [[Characters/Maria\|Maria]]. Sadly it's too late, and they end up getting caught in the explosion before they run far enough.
 
-Meta [[Characters/Beatrice\|Beatrice]] says she's going to reward [[Characters/Rosa\|Rosa]] for her collaboration, in reference to her being a key accomplice in the events we discussed. 
+Tea party [[Characters/Beatrice\|Beatrice]] says she's going to reward [[Characters/Rosa\|Rosa]] for her collaboration, in reference to her being a key accomplice in the events we discussed. 
 Of course, as Maria's friend, Beato also has a bone to pick with [[Characters/Rosa\|Rosa]] for her poor treatment of her daughter, so the reward is being tortured in the most horrible ways while being reminded that she left all her siblings to die for her personal gain.
 
 But the torture actually has a second purpose as it motivates [[Characters/Battler\|Battler]] to keep fighting in the next game, thus breaking the stalemate.
@@ -859,7 +859,6 @@ Let's examine Bern first, she starts by giving [[Characters/Battler\|Battler]] a
 Apparently there's a very big weakness in Turn, this might refer to her deliberately not countering an attack, but it's not really a flaw and it doesn't get exploited later. The truth is... there are so much little holes in the story that this could refer to a lot. We probably discussed it earlier.
 
 ![Pasted image 20250715215514.png](/img/user/Attachments/Pasted%20image%2020250715215514.png)
-<center>More hints that she isn't only talking to Battler here, he wouldn't know what this means, but most of us definitely do</center>
 
 [[Characters/Lambdadelta\|Lambdadelta]] shows up next and immediately thrash talks him and [[Characters/Bernkastel\|Bernkastel]], but she still gives him some very valuable hints. We don't need to guess her reason for doing so because it's clearly spelled out in [[Episodes/Alliance of the Golden witch\|Alliance]], she wants the confrontation to keep going indefinitely so when [[Characters/Battler\|Battler]] looks like he might deadlock the game she has to step in and help him.
 

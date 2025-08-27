@@ -62,7 +62,7 @@ He performs his duties silently and diligently, but is not so highly regarded as
 There are multiple other servants with the “on” (音) character in their pseudonyms. He and [[Characters/Shannon\|Shannon]] just happened to be the ones on duty that day.
 
 ---
-His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.
 
 For Kanon, the chapel. Let him continue to protect the Lord's precious place, even after death.

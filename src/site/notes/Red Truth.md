@@ -25,7 +25,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 ---
 # [[Episodes/Turn of the Golden witch\|Turn of the Golden witch]]
 
-## Crime Scene of the [[Mysteries/Crime scene of the Chapel\|Chapel]]
+## [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Crime scene in the chapel]]
 - __When I speak the truth, I will use red__
 - __Regardless of whether they were alive or dead, the six definitely entered trough the door__!
 - __Only one key to the chapel exists__!
@@ -36,12 +36,12 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __The key to the chapel truly was the object inside the envelope I gave Maria__.
 - __The envelope I handed over to Maria and the one Rosa opened are the same thing__!!
 
-## Crime Scene of [[Mysteries/Jessica's Room\|Jessica's Room]]
+## [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's room\|Crime scene in Jessica's room]]
 - __The only master keys are the ones held by the servants, one key each__.
 - __There are absolutely no types of hidden doors. This door is the only way in or out__. __The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant__. It is on the second floor, but it is probably possible to enter or leave trough the window. However, __the window is locked from the inside__.
 - __[[Characters/Kanon\|Kanon]] was killed in this room__.
 - Of course, this door is the same as the chapel. __When locked, it does not permit any form of entry__. I'll say more. __No trick could have the effect of locking the door from the outside without using a key__.
-## Crime Scene of the [[Mysteries/Servant Room\|Servant Room]]
+## [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|Crime scene in the servant room]]
 - (In the character description of Kanon) __Therefore, I guarantee his death with the red truth.__
 - __There are no hidden doors in this room__. __There is no way to get in or out other then the door and the windows__.
 [[Characters/Beatrice\|Beato]] defines hidden door. "A hidden door refers to an entrance that cannot be recognized by those who do not know of it. Even children knows that."
@@ -64,7 +64,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __I keep my promises__ If you solve the riddle of the epitaph, you should be able to reach the Golden Land. When you do, the ceremony will end. No more people will die.
 { #4cf967}
 
-## Crime Scene of [[Mysteries/Natsuhi's room\|Mysteries/Natsuhi's room]]
+## [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Crime scene in Natsuhi's room]]
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 
 ---
@@ -79,7 +79,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - ([[Characters/Ronove\|Ronove]])__In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
 - __It's definitelly dead__
 __There are no more then 18 humans on this Rokkenjima__!
-## Crime Scenes of the [[Mysteries/6 connected rooms\|6 connected rooms]]
+## [[Mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
 - (Battler chiede "how many master keys this time)__There are five, one for each servant.__
 - __Furthermore, all of the doors and windows on the six rooms are normal. No device exists which can lock them without a key, such as an auto lock.__
 - __These six are all dead: [[Characters/Kinzo\|Kinzo]], [[Characters/Genji\|Genji]], [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]], [[Characters/Gohda\|Gohda]], [[Characters/Kumasawa\|Kumasawa]]!__
@@ -90,19 +90,19 @@ __There are no more then 18 humans on this Rokkenjima__!
 - Battler dice __There are no more then 18 people on this island__
 ## On the iron door that leads to the gold
 - __On the tenth twilight, at journey's end, you shall attain to the power of the golden Land's treasures, once and for the last time__
-## Crime Scene of the [[Mysteries/Rose garden (Banquet)\|Rose garden (Banquet)]]
+## Crime Scene in the [[Mysteries/Rose garden (Banquet)\|Rose garden (Banquet)]]
 - __Rosa and Maria died__. __The causes of death were as Nanjo diagnosed__.
 - __Rosa's and Maria's deaths were homicides__.
 ## Final confrontation with [[Characters/EVA Beatrice\|Evato]]
-### Crime Scene of the death of [[Characters/Rosa\|Rosa]] and [[Characters/Maria\|Maria]]
+### The death of [[Characters/Rosa\|Rosa]] and [[Characters/Maria\|Maria]]
 - (Evato) __I was in the room the whole time__. __For the whole stretch of time surrounding the crime__.
-### Crime Scene of the [[Mysteries/Hall\|Hall]]
+### Crime Scene in the [[Mysteries/Hall\|Hall]]
 - __Kyrie didn't think that they needed food__.
 - Since going without food for about a day wouldn't kill them, __she claimed that they should not leave the guesthouse__. And yet, __she herself suggested that they should leave the guesthouse to get food__.
 - __the reason she changed her mind was not passed on to anyone, nor was it written down__!
 - __Until the last instant before she died, Kyrie's behavior pattern of 'not going to get food = not going to the mansion' was maintained__!
 - __Kyrie did not leave anything written down__!
-## Crime Scene of [[Characters/Nanjo\|Nanjo]]'s death
+## [[Nanjo's death in Banquet\|Nanjo's death in Banquet]]
 - __After [[Characters/Jessica\|Jessica]] was injured, Eva was constantly under Battler's supervision. [[Characters/Battler\|Battler]] is neither the culprit nor an accomplice. By this, we can establish the perfect alibi for [[Characters/Eva\|Eva]]__.
 - __There are no more then 18 humans on this island__.
 - __No life form other then humans have any connections to this game__.
@@ -173,71 +173,71 @@ Says [[Characters/Ange\|Ange]]
 
 # Final showdown at the end of Alliance
 
-## Final Legend red
+## Final red about Legend
 ### Crime Scene of [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
-Second part
+Beato
 - __Both deaths were homicides! It is not the case that, after the construction of the closed room, one of them committed suicide after committing murder! Furthermore, the murder was carried out with both the victim and the perpetrator in the same room! No method exists for the perpetrator to commit murder from outside the room!__
-Third part
+Lambda
 - ([[Characters/Lambdadelta\|Lambdadelta]] says about [[Characters/Beatrice\|Beatrice]] in the first game) __she guaranteed the identities of all unidentified corpses__!
 ### Crime Scene of [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
-Second part
+Beato
 - __All of the survivors have alibis! Let us include the dead as well!! In short, no kind of human or dead person on the island could have killed [[Characters/Kanon\|Kanon]]!__
 - __Kanon did not commit suicide__
-Third part
+Lambda
 - __Kanon did not die in an accident__!
 ###  Crime Scene of the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
-Second part
+Beato
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
-Third part
+Lambda
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
 ### Crime Scene of [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
-Second part
+Beato
 - __Natsuhi's death was a homicide! There were no unidentified corpses, and all of the survivors have alibis!__
 - __The bullet buried into Natsuhi's forehead was not fired from her gun!__
-Third part
+Lambda
 - __The thing that shot Natsuhi wasn't a trap, it was a real shooting murder with a gun raised and trigger pulled!__
-## Final Turn red
-### Crime Scene of the [[Mysteries/Crime scene of the Chapel\|Chapel]]
-Second part
+## Final red about Turn
+### [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Crime scene in the chapel]]
+Beato
 - __From the time Maria received her key to the instant Rosa unsealed the envelope the next day, the key passed through no one's hands!!__
 - __There were no doors with auto-locks other than [[Characters/Kinzo\|Kinzo]]'s study!__
 - __The six were already dead by the time they were discovered! All of their deaths were homicides! All six were genuine victims and did not take part in a mutual murder! There was no simultaneous murder!!__
 - __There was no one hiding in the chapel. Therefore, the shut-in murder you suggest does not work!__
-Third part
+Lambda
 - __When the six were murdered in the chapel, the culprit was inside the chapel__!
-### Crime Scene of the [[Mysteries/Servant Room\|Servant Room]]
-Second part
+### [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|Crime scene in the servant room]]
+Beato
 - __They would never mistakenly think any other person was Kanon!__
-Third part
+Lambda
 - __No one else can go by Kanon's name! A different person can't claim that as their name!__
 
-### Crime Scene of [[Mysteries/Natsuhi's room\|Natsuhi's room]]
-First part
+### [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Crime scene in Natsuhi's room]]
+Beato
 - __All of the master keys were under [[Characters/Rosa\|Rosa]]'s control!__ 
-Third part
+Lambda
 - __After the master keys came into Rosa's control, never did any of them leave her hands! Except for the time when she lent one to Battler to unlock Natsuhi's room.__
-## Final Banquet red
-### Crime Scenes of the [[Mysteries/6 connected rooms\|6 connected rooms]]
-Second part
+## Final red about Banquet
+### [[Mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
+Beato
 - __All five master keys were discovered, each in the pocket of one of the servants! The individual room keys were found inside envelopes alongside the corpses! In short, all keys related to the linked closed rooms were linked inside the linked closed rooms!! No key could have been returned from outside the room using the crack of the door, the crack of the window, vents or any place of the sort!!__
 - __All of them had what appeared to be gunshot wounds that were fatal! Murdering them from outside the room would have been impossible!! I shall say more with the red! When the five other than Kinzo were killed, the killer was definitely in the same room as them! I already proclaimed in red at the time that there were no suicides!!__
 ### [[Characters/George\|George]]'s disappearance from the [[Mysteries/Guesthouse\|Guesthouse]]
-First part
+Beato
 - __George did not go down the stairs of the guesthouse.__
 - __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__
-## Final Alliance red
+## Final red about Alliance
 ### The [[Characters/Kinzo\|Kinzo]] reveal in the [[Mysteries/Dining hall\|Dining hall]]
-First part
+Beato round 1
 - __All of those present at the family conference acknowledged the presence of Kinzo!__
 - __No person would mistake Ushiromiya Kinzo by sight. No matter what disguise might be used, they would not mistake Ushiromiya Kinzo by sight!__
 - __Kinzo's life or death status is the same at the start of all four games. The setup was not different for the fourth game alone...!__
-Second part
+Beato round 2
 - __Kinzo is already dead at the starting time for all games!__
 - __Before now, I have proclaimed that no more then 18 humans exist on this island. I will now lower that by one for Kinzo!!__
 - __No more then 17 humans exist on this island!! That excludes any 18th person. In short, this 18th person X does not exist!! This applies to all games!!!__
-### [[Battler's death in Alliance\|Battler's death in Alliance]]
-Second part
+### [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
+Beato
 - __Ushiromiya Battler. I will now... kill you.__
 - __And right now, there is no one other than you on this island. The only one alive on this island is you. Nothing outside the island can interfere.__
 - __You are all alone on this island. And of course, I am not you. Yet I am here, now, and am about to kill you.__

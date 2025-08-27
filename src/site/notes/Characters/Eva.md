@@ -28,7 +28,7 @@ She is hostile towards her brother [[Characters/Krauss\|Krauss]] and opposes him
 Normally, she would have lost her place in the Ushiromiya family register upon her marriage, but she managed to forcibly overcome this by having her husband take her family name.
 
 ---
-Her corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+Her corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems her stomach was cut open and her intestines pulled out after her death.  
 On top of that, sweets and candies were packed into her stomach.  
 

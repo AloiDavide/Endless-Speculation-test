@@ -30,7 +30,7 @@ She’s normally calm and performs her job efficiently, but she messes up when s
 Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty, not her real name.
 
 ---
-Died in [[Mysteries/Natsuhi's room\|Mysteries/Natsuhi's room]], with her forehead pierced by a weapon shaped like a stake.  
+Died in [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Natsuhi's room]], with her forehead pierced by a weapon shaped like a stake.  
 
 At the fourth twilight, gouge the head and kill.  
 

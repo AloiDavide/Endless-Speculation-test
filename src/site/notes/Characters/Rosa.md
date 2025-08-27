@@ -90,16 +90,17 @@ Crunter is convinced Rosa smuggled some gold ingots into Rokkenjima because she 
 
 
 
-> [!tip]- Incomplere rosa turn theory
-> Rosa is up to no good in Turn
+> [!note]- Rosa is working with the culprits in Turn
+> Rosa has been working with since at least the first twilight and is responsible for some of the tricks. She probably did so in exchange for a sum of money and to guarantee her and Maria's safety.
 > 
 > ---
 > Leads:
-> - She goes up to Kinzo's study to get the rifles and lies about him being there.
-> - She is the one to open the Chapel door, but we want to claim it was't locked.
-> 
-> Cons:
-> - The letter and key business makes a lot less sense if we assume she and the servants all knew the trick. Who was it for?
+> - She received a letter from X Beatrice, the content of which is never confirmed.
+> - Rosa is the only Ushiromiya in the Chapel who survived the first twilight.
+> - She is the one who opens the Chapel door and strongly claims that it was a close room, but it being an act explains the mystery.
+> - She lied about Kinzo being alive after going to the study and returned unharmed after being alone with Shannon and Genji.
+> - She kept accusing everyone of being the culprit with false or disingenuous arguments.
+> - Beatrice thanks her in the tea party at the end.
 
 </div></div>
 

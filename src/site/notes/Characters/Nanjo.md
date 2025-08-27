@@ -30,7 +30,7 @@ He once ran a hospital on Niijima, but he turned it over to his son and now enjo
 Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo is one of the very few people he trusts. Thanks to Nanjo’s big-hearted nature, he has been able to continue his friendship with Kinzo despite the latter’s tendency to fly into a rage at the slightest provocation.
 
 ---
-Died in the [[Mysteries/Servant Room\|Servant Room]], his throat sliced open by a sharp blade or something similar.  
+Died in the [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|servant room]], his throat sliced open by a sharp blade or something similar.  
 
 However, this alone isn't enough.
 
@@ -49,7 +49,7 @@ He once ran a hospital on Niijima, but he turned it over to his son and now enjo
 Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo is one of the very few people he trusts. Thanks to Nanjo’s big-hearted nature, he has been able to continue his friendship with Kinzo despite the latter’s tendency to fly into a rage at the slightest provocation.
 
 ---
-His corpse was found in the hallway in front of the mansion's [[Mysteries/Servant Room\|Servant Room]].  
+His corpse was found in the hallway in front of the mansion's servant room.  
 The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.  
 
 Just a little longer, and he'd probably have managed to return alive. However, in the very end, the witch did not permit that.

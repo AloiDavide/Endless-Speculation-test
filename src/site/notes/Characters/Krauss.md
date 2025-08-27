@@ -31,7 +31,7 @@ As the oldest of the four siblings, he leads the family conference. However, the
 He is a real estate investor and has put a lot of money into the development of a resort. However, his results have been harshly criticized.
 
 ---
-His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems his stomach was cut open and his intestines pulled out after his death.  
 On top of that, sweets and candies were packed into his stomach.  
 
@@ -84,7 +84,7 @@ Not much to say about him yet, other than he Knows [[Characters/Kinzo\|Kinzo]] i
 > Leads:
 > - It was confirmed that Kinzo is already dead before the game even starts.
 > - It can be supposed that this means his death happened the same way in every scenario, but this must mean that every red truth about one of his deaths applies to his one true death.
-> - Therefore, looking at the [[Mysteries/6 connected rooms\|6 connected rooms]] case tells us that:
+> - Therefore, looking at the [[Mysteries/Crime scenes of the 6 linked closed rooms\|6 linked closed rooms]] case tells us that:
 > 	- Kinzo didn't die in a trap.
 > 	- Kinzo died instantly after being attacked, suggesting a violent death.
 > - His body is consistently (but not always, more on this later) found burned, perhaps as an attempt to hide a different cause of death.

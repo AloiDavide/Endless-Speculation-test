@@ -28,7 +28,7 @@ A servant hired as a cook.
 He hasn’t served this family long, but through his earlier jobs and previous experience, he has cultivated a talent for entertaining guests. Because of this, he is very highly regarded as a servant.
 
 ---
-Died in [[Mysteries/Natsuhi's room\|Mysteries/Natsuhi's room]], with his chest pierced by a weapon shaped like [[Characters/The Seven Stakes of Purgatory\|stake]].  
+Died in [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Natsuhi's room]], with his chest pierced by a weapon shaped like [[Characters/The Seven Stakes of Purgatory\|stake]].  
 
 At the fifth twilight, gouge the chest and kill.  
 
@@ -71,7 +71,7 @@ That can be a pretty interesting experience now and then.
 > 
 > ---
 > Leads:
-> - In the mysteries of the [[Mysteries/Crime scene of the Chapel\|Chapel]] and the [[Mysteries/Servant Room\|Servant Room]] there are scenes where deception is most likely at play, however in both cases Gohda is the only person not necessarily in on the trick.
+> - In the mysteries of the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]] and the [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|servant room]] there are scenes where deception is most likely at play, however in both cases Gohda is the only person not necessarily in on the trick.
 > - In both [[Episodes/Turn of the Golden witch\|turn]] and [[Episodes/Alliance of the Golden witch\|alliance]] he implies he witnessed a magical scene, but he can't say anything coherent. He isn't following a script, he had to make something up.
 > - He's even used as a test subject. [[Tips/Notes from a Certain Chef\|Notes from a Certain Chef]] is about the other servants testing their ability to scare people using the witch stories before the real event.
 

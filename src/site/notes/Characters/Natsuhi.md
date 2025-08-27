@@ -32,7 +32,7 @@ She possesses a strong sense of responsibility and a great deal of pride.
 However, neither her husband nor his siblings understand her very well, so her position is far from enviable.
 
 ---
-Her corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+Her corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems her stomach was cut open and her intestines pulled out after her death.  
 On top of that, sweets and candies were packed into her stomach.  
 

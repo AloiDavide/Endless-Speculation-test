@@ -32,7 +32,7 @@ In the absence of any irregularities, it is thought that she will eventually inh
 She was born with weak bronchi and is sometimes assailed by sudden asthma attacks.
 
 ---
-Found in [[Mysteries/Jessica's Room\|her own room]] in the mansion with a weapon shaped like a [[Characters/The Seven Stakes of Purgatory\|stake]] rammed into her back.  
+Found in [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's room\|her own room]] in the mansion with a weapon shaped like a [[Characters/The Seven Stakes of Purgatory\|stake]] rammed into her back.  
 
 Finally, at the very end, she got to be with the person she loved.  
 She must have been happy.
@@ -62,7 +62,7 @@ In the absence of any irregularities, it is thought that she will eventually inh
 She was born with weak bronchi and is sometimes assailed by sudden asthma attacks.
 
 ---
-Her corpse was found in [[Mysteries/Jessica's Room\|her room]] on the second floor of the mansion.  
+Her corpse was found in [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's room\|her room]] on the second floor of the mansion.  
 About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
 
 She was smashed by her own attack due to George’s counter-offensive specialized barrier.

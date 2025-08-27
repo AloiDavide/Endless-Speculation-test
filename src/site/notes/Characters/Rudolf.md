@@ -30,7 +30,7 @@ Along with his sister, [[Characters/Eva\|Eva]], he intends to make his voice hea
 His former wife, Ushiromiya Asumu, passed away six years ago, and he married his current wife, [[Characters/Kyrie\|Kyrie]], shortly after that.
 
 ---
-His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems his stomach was cut open and his intestines pulled out after his death.  
 On top of that, sweets and candies were packed into his stomach.  
 

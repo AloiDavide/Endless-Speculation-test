@@ -31,7 +31,7 @@ He took his wife’s name upon their marriage and became a member of the Ushirom
 He started his business from scratch and now works as the president of a medium-sized restaurant chain. This chain seems to be growing and performing extremely well.
 
 ---
-His corpse was found in the [[Mysteries/Crime scene of the Chapel\|Chapel]].  
+His corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
 The direct cause of death is unknown, but it seems his stomach was cut open and his intestines pulled out after his death.  
 On top of that, sweets and candies were packed into his stomach.  
 

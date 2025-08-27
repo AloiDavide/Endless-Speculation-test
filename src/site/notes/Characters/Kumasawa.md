@@ -27,7 +27,7 @@ This elderly woman is a part-timer who, though she has quit her job several time
 She is crafty and more than competent when it comes to performing her duties, but because of her chattiness and love of rumors, she is not highly regarded as a servant.
 
 ---
-Died in the [[Mysteries/Servant Room\|Servant Room]], her throat sliced open by a sharp blade or something similar.  
+Died in the [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|servant room]], her throat sliced open by a sharp blade or something similar.  
 
 The finishing touches are yet to come
 

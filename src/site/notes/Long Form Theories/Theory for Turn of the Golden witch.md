@@ -877,4 +877,4 @@ Since we've already foreshadowed the next two episodes a bunch of times, there's
 But if that's the case, who's to say Bernkastel's thoughtful sympathy is genuine?
 
 So. Battler, once again, is a pathetic coward. What a shock!
-Our Banquet theory will be ready in due time (trust), in which we'll have to tackle the most difficult part of Umineko to us, the epitaph. But did we manage to figure out something? You'll see... Untill then, see you next time
+Our Banquet theory will be ready in due time (trust), in which we'll have to tackle the most difficult part of Umineko to us, the epitaph. But did we manage to figure out something? You'll see... Until then, see you next time!

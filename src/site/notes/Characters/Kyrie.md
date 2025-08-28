@@ -88,6 +88,6 @@ I didn’t miss! I missed on purpose to tease her, nyeh...!
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.
-> ![Pasted image 20240829020559.png](/img/user/Attachments/Pasted%20image%2020240829020559.png)
+> ![[Pasted image 20240829020559.png\|Pasted image 20240829020559.png]]
 
 </div></div>

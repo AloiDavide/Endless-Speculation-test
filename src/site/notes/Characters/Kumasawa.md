@@ -75,7 +75,7 @@ As long as I could construct a closed room murder, nothing else mattered.
 > - Virgilia transforms out of Kumasawa on her first appearance on the game board, it's hard to argue with that.
 > - She mentions being really old, but she looks quite young in her witch form.
 > - Mackerel jokes
-> 	- ![Pasted image 20250413161435.png](/img/user/Attachments/Pasted%20image%2020250413161435.png)
+> 	- ![[Pasted image 20250413161435.png\|Pasted image 20250413161435.png]]
 > - She is a mentor figure for [[Characters/Shannon\|Shannon]] and [[Characters/Kanon\|Kanon]], aka. [[Characters/Sayo\|Sayo]].
 
 </div></div>

@@ -140,7 +140,7 @@ I should add, It's probably very reasonable that [[Characters/Sayo\|Sayo]] wants
 We spent a lot of time and words on this prologue because reading it back really made a lot of things click into place. This is the point where we started to to formulate the [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|Sayo conjecture]], and that became the core of our theory once we saw it could hold up to scrutiny.
 
 Let's actually get started setting up the board for the next game now.
-We spend some time observing the "chessboard preparations" for the first confrontation between [[Characters/Battler\|Battler]] and Beato. It's technically the second, but keep in mind that during [[Legend of the Golden witch\|Legend]] [[Characters/Battler\|Battler]] wasn't yet a willing participant.
+We spend some time observing the "chessboard preparations" for the first confrontation between [[Characters/Battler\|Battler]] and Beato. It's technically the second, but keep in mind that during [[Episodes/Legend of the Golden witch\|Legend]] [[Characters/Battler\|Battler]] wasn't yet a willing participant.
 
 Here are some of the scenes worth discussing.
 
@@ -160,7 +160,7 @@ This color filter basically marks the magical scenes that happen outside the gam
 Whenever a meta scene needs to be overlayed over images from the game they will instead use this transparent flower pattern as framing. This has the same meaning as the purple filter in the tea party.
 ![Pasted image 20250622162216.png](/img/user/Attachments/Pasted%20image%2020250622162216.png)
 
-This all makes perfect sense, but as you'll surely remember, the tea party of [[Legend of the Golden witch\|Legend]] didn't have a purple filter! So we need to ask ourselves, is [[Characters/Battler\|Battler]] and [[Characters/Beatrice\|Beatrice]] arguing about the existence of witches also a parallel to something happening in the real world?
+This all makes perfect sense, but as you'll surely remember, the tea party of [[Episodes/Legend of the Golden witch\|Legend]] didn't have a purple filter! So we need to ask ourselves, is [[Characters/Battler\|Battler]] and [[Characters/Beatrice\|Beatrice]] arguing about the existence of witches also a parallel to something happening in the real world?
 
 It could go something like "[[Characters/Sayo\|Sayo]] and [[Characters/Battler\|Battler]] survived the events of Rokkenjima but [[Characters/Battler\|Battler]] was imprisoned and forced to witness all of this", or maybe, "[[Characters/Sayo\|Sayo]] survived the games and is fantasizing about alternative versions of the story, writing them down, and distributing them as *[[Mysteries/Future mysteries/Bottled letters\|bottled letters]]*". 
 This question will become relevant once we get to [[Episodes/Alliance of the Golden witch\|Alliance]].
@@ -251,7 +251,7 @@ Well, to start, she looks exactly like the girl in the portrait, so it's possibl
 There will be another candidate for that role later on, but that person died long before the portrait was hung in the hall (six years ago at most, since [[Characters/Battler\|Battler]] has never seen it), so it would have been based on old photos.
 There's also another version of the same painting in Kinzo's study and we have no idea when that one was painted. It's better not to focus on this too much.
 
-It's possible that she is a servant, this would make her able to own a master key without going against any red truth. Maybe she is one of the other orphans with the On kanji in their name, the ones mentioned in [[Legend of the Golden witch\|Legend]].
+It's possible that she is a servant, this would make her able to own a master key without going against any red truth. Maybe she is one of the other orphans with the On kanji in their name, the ones mentioned in [[Episodes/Legend of the Golden witch\|Legend]].
 
 [[Characters/Genji\|Genji]] talks about her multiple times, even if it's largely in scenes that we can't trust I think it's enough to suggest that they know each other to some degree. 
 
@@ -286,7 +286,7 @@ That, combined with the fact that she knows some servants, she's able to act as 
 
 #### 2.3
 
-Now, the existence of [[Characters/X Beatrice\|X Beatrice]] by itself puts something on the table in [[Legend of the Golden witch\|Legend]] of the golden witch. Is it possible that [[Characters/Shannon\|Shannon]]'s corpse was none other that the corpse of X dressed as [[Characters/Shannon\|Shannon]]? 
+Now, the existence of [[Characters/X Beatrice\|X Beatrice]] by itself puts something on the table in [[Episodes/Legend of the Golden witch\|Legend]] of the golden witch. Is it possible that [[Characters/Shannon\|Shannon]]'s corpse was none other that the corpse of X dressed as [[Characters/Shannon\|Shannon]]? 
 We would need to somehow make the case for her counting as [[Characters/Shannon\|Shannon]] in the red, but if they really did share this identity, it wouldn't be impossible.
 
 Alternatively she was alive in the shed and just playing dead... but that scene really goes out of its way to not show that body to anyone reliable, so ironically it's harder to suspect someone who can convincingly pass for [[Characters/Shannon\|Shannon]].
@@ -311,7 +311,7 @@ Maria's envelope contains the key to the chapel, making it clear that X will be 
 
 ![Pasted image 20250622184920.png](/img/user/Attachments/Pasted%20image%2020250622184920.png)
 
-In a similar way to [[Characters/Eva\|Eva]] in [[Legend of the Golden witch\|Legend]], we believe [[Characters/Rosa\|Rosa]] might have received a warning about the murders and a proposal to side with [[Characters/Sayo\|Sayo]]'s group. The reward would be the same as last time: safety and a large sum of money in the form of the same bank card and PIN that the families of the victims received in [[Episodes/Alliance of the Golden witch\|Alliance]].
+In a similar way to [[Characters/Eva\|Eva]] in [[Episodes/Legend of the Golden witch\|Legend]], we believe [[Characters/Rosa\|Rosa]] might have received a warning about the murders and a proposal to side with [[Characters/Sayo\|Sayo]]'s group. The reward would be the same as last time: safety and a large sum of money in the form of the same bank card and PIN that the families of the victims received in [[Episodes/Alliance of the Golden witch\|Alliance]].
 
 It's unclear if they all get this proposal individually, or if who gets it is part of the variable starting conditions of each episode, after all X says it could have been any of the siblings. 
 Sure, she was told not to open it in advance, but would anyone really trust [[Characters/Rosa\|Rosa]] not to read it the moment she isn't under Maria's sight?
@@ -352,7 +352,7 @@ Now, it's very possible this is just a continuation of the magic narrative from 
 
 During the family dinner, the existence of [[Characters/Beatrice\|Beatrice]] is revealed to everyone. 
 
-[[Characters/Kyrie\|Kyrie]] and [[Characters/Rosa\|Rosa]] corroborate by offering their testimony, however [[Characters/Rosa\|Rosa]] doesn't read out loud the letter given to her, so we can't say for certain that it was the same as the one [[Characters/Maria\|Maria]] received last round. In [[Legend of the Golden witch\|Legend]], the first letter was meant to set up the presence of [[Characters/Beatrice\|Beatrice]], but this time the supposed witch is a person they can physically meet, with far more evidence than "Somebody handed [[Characters/Maria\|Maria]] an umbrella".
+[[Characters/Kyrie\|Kyrie]] and [[Characters/Rosa\|Rosa]] corroborate by offering their testimony, however [[Characters/Rosa\|Rosa]] doesn't read out loud the letter given to her, so we can't say for certain that it was the same as the one [[Characters/Maria\|Maria]] received last round. In [[Episodes/Legend of the Golden witch\|Legend]], the first letter was meant to set up the presence of [[Characters/Beatrice\|Beatrice]], but this time the supposed witch is a person they can physically meet, with far more evidence than "Somebody handed [[Characters/Maria\|Maria]] an umbrella".
 
 But here comes the counterpoint. If this envelope really did contain a message directed at [[Characters/Rosa\|Rosa]] in particular, (either the plans for the upcoming murders or details on how to contact [[Characters/Beatrice\|Beatrice]] in secret), they would have to account for the risk of [[Characters/Rosa\|Rosa]] blindly bringing it up without reading it first.
 Either way you slice it this isn't a very strategic choice, but hey, this is the episode where we're told that sometimes [[Characters/Beatrice\|Beatrice]] likes to play suboptimal moves on purpose. ¯\\_(ツ)_/¯
@@ -370,14 +370,14 @@ All the Ushiromiya adults are left alone with [[Characters/Genji\|Genji]] as the
 
 The next scene is bizzarre.
 
-[[Characters/George\|George]], proposes to [[Characters/Shannon\|Shannon]] just like in [[Legend of the Golden witch\|Legend]]. That time she seemed very unsure after receiving the ring, which lines up with what we derived from the part 1 flashbacks, but this time she strangely accepts immediately and with enthusiasm. 
+[[Characters/George\|George]], proposes to [[Characters/Shannon\|Shannon]] just like in [[Episodes/Legend of the Golden witch\|Legend]]. That time she seemed very unsure after receiving the ring, which lines up with what we derived from the part 1 flashbacks, but this time she strangely accepts immediately and with enthusiasm. 
 ![Pasted image 20250715003234.png](/img/user/Attachments/Pasted%20image%2020250715003234.png)
 
 We have fairly contrasting interpretations of this scene so we'll briefly undo our fusion and you'll get to hear from both of us separately.
 
 On the one hand <font color="#00b050">I</font> {<font color="#00b050">Crunter</font>} think that at this point [[Characters/X Beatrice\|X Beatrice]] is already dressed as [[Characters/Shannon\|Shannon]] and is the one accepting George's proposal. This would imply she either likes [[Characters/George\|George]] or is out to deceive him for some reason.
 I'm just not buying that it's [[Characters/Sayo\|Sayo]] because I can't see what the manipulation is for, so I'll say that here [[Characters/Shannon\|Shannon]] is X.
-That being said... It's really weird that she'd be this much into specifically marriage, and there's definitely something I'm missing. But what I'm not missing is that [[Characters/Sayo\|Sayo]] would NEVER act this way. She didn't shy away from being uncommitted towards [[Characters/George\|George]], not only earlier in this game, but in [[Legend of the Golden witch\|Legend]] too.
+That being said... It's really weird that she'd be this much into specifically marriage, and there's definitely something I'm missing. But what I'm not missing is that [[Characters/Sayo\|Sayo]] would NEVER act this way. She didn't shy away from being uncommitted towards [[Characters/George\|George]], not only earlier in this game, but in [[Episodes/Legend of the Golden witch\|Legend]] too.
 
 On the other hand, <font color="#e36c09">I</font> {<font color="#e36c09">Hound</font>} don't see enough signs of a switch up, instead this change in attitude could be explained as: 
 - A narration trick to make [[Characters/Shannon\|Shannon]] the character seem far more proactive.
@@ -419,16 +419,16 @@ For starters, we know for a fact they were murdered right there in the *[[Myster
 [[Characters/Genji\|Genji]] probably told the group that the guest was waiting for them in the Chapel, so they all followed him there. Only [[Characters/Rosa\|Rosa]] possibly had an idea of what was really going to happen.
 
 When they arrived the door was unlocked, and [[Characters/Beatrice\|Beatrice]] was indeed inside.
-From there, the simplest reconstruction is to say that, just like in [[Legend of the Golden witch\|Legend]], they were ambushed and murdered in cold blood by [[Characters/Sayo\|Sayo]] armed with Kinzo's shotgun, which she was hiding under her clothes. 
+From there, the simplest reconstruction is to say that, just like in [[Episodes/Legend of the Golden witch\|Legend]], they were ambushed and murdered in cold blood by [[Characters/Sayo\|Sayo]] armed with Kinzo's shotgun, which she was hiding under her clothes. 
 
 In this case, the witch pandering was all fake, and the reason why we can have a fake scene involving people not sold on the magic narrative is that those people died there, this will come up again with [[Characters/Jessica\|Jessica]] and [[Characters/George\|George]].
 And yes, the [[Tips/Winchester M1984 Sawed off\|shotgun]] only has 4+1 bullets, so that means at least two guns (and probably two gunmen) were involved, luckily there are a few candidates.
 
-The accomplices from [[Legend of the Golden witch\|Legend]] excluding [[Characters/Eva\|Eva]] would of course also be complicit this time around for the same reasons, although if "__[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__" applies to all episodes this disqualifies [[Characters/Genji\|Genji]] from pulling the trigger.
+The accomplices from [[Episodes/Legend of the Golden witch\|Legend]] excluding [[Characters/Eva\|Eva]] would of course also be complicit this time around for the same reasons, although if "__[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__" applies to all episodes this disqualifies [[Characters/Genji\|Genji]] from pulling the trigger.
 [[Characters/Rosa\|Rosa]] was present and yet she survived the ordeal, so we think she ended up going along with the plan, and for what it's worth she wears the rifle pretty well.
 That said, [[Characters/X Beatrice\|X Beatrice]] is the most obvious candidate for a second killer, let's say she was having a conversation with the group, then at some point [[Characters/Shannon\|Shannon]] showed up, she was allowed inside, and then they opened fire at the same time.
 
-After the ordeal they carefully prepared the scene with the help of [[Characters/Genji\|Genji]], and of course, they didn't forget to sabotage the phone and radio lines just like in [[Legend of the Golden witch\|Legend]].
+After the ordeal they carefully prepared the scene with the help of [[Characters/Genji\|Genji]], and of course, they didn't forget to sabotage the phone and radio lines just like in [[Episodes/Legend of the Golden witch\|Legend]].
 
 (Note that this solution applies regardless of who was wearing [[Characters/Shannon\|Shannon]] and Beatrice's clothes in that exact moment, they were both there, they are both guilty.)
 
@@ -494,8 +494,8 @@ This exchange could also be read as them discussing something [[Characters/Rosa\
 [[Characters/Shannon\|Shannon]] is sent away to have a scene with [[Characters/Kinzo\|Kinzo]], just in time for [[Characters/Battler\|Battler]] to miss seeing her and [[Characters/Kanon\|Kanon]] together, how strange....
 
 Here's a recap of what they find at the crime scene.
-- Beatrice's introduction letter that may or may not have been in Rosa's envelope, the same one [[Characters/Maria\|Maria]] had in [[Legend of the Golden witch\|Legend]]. It definitely has the intended effect on the survivors.
-- 3 bars of Gold, it's probably Krauss's gold that we saw in [[Legend of the Golden witch\|Legend]], although it's not clear how [[Characters/Sayo\|Sayo]] gained access to them, maybe [[Characters/Krauss\|Krauss]] showed them to everyone as part of the negotiations.
+- Beatrice's introduction letter that may or may not have been in Rosa's envelope, the same one [[Characters/Maria\|Maria]] had in [[Episodes/Legend of the Golden witch\|Legend]]. It definitely has the intended effect on the survivors.
+- 3 bars of Gold, it's probably Krauss's gold that we saw in [[Episodes/Legend of the Golden witch\|Legend]], although it's not clear how [[Characters/Sayo\|Sayo]] gained access to them, maybe [[Characters/Krauss\|Krauss]] showed them to everyone as part of the negotiations.
 - [[Characters/Battler\|Battler]] examined the corpses personally and he didn't find any bullet holes, but we could easily argue that during the "post processing" of the bodies they were cut over the gun wounds.
 - Alongside the magic circle outside the door there's some english text reading "HAPPY HALLOWEEN FOR... [[Characters/Maria\|Maria]]".
 
@@ -684,7 +684,7 @@ At first they hear a knock, it's' [[Characters/Sayo\|Sayo]] dressed as [[Charact
 Godha is immediately freaked out, not just by the blood, but because... what the hell? Isn't [[Characters/Sayo\|Sayo]] right there beside him? Who is this person!? 
 Of course, he figures he can't talk about [[Characters/Sayo\|Sayo]] in front of [[Characters/Nanjo\|Nanjo]], and he assumes the other servants are thinking the same ting. 
 
-They move [[Characters/Sayo\|Sayo]] to the servant room and [[Characters/Nanjo\|Nanjo]] starts acting his part of giving [[Characters/Kanon\|Kanon]] medical attention, again, not unlike [[Legend of the Golden witch\|Legend]]. 
+They move [[Characters/Sayo\|Sayo]] to the servant room and [[Characters/Nanjo\|Nanjo]] starts acting his part of giving [[Characters/Kanon\|Kanon]] medical attention, again, not unlike [[Episodes/Legend of the Golden witch\|Legend]]. 
 All the magic chicanery for the rest of the scene is a premeditated performance, including the bags of fake blood used to fake both his wound and the ones he inflicts on [[Characters/Nanjo\|Nanjo]] and [[Characters/Kumasawa\|Kumasawa]], and the spider webs that [[Characters/X Beatrice\|X Beatrice]] uses to drive [[Characters/Kanon\|Kanon]] away.
 
 [[Characters/Gohda\|Gohda]] pinning [[Characters/Kanon\|Kanon]] against the wall is realistic given the difference in their builds and it discredits any narration giving him superhuman abilities.
@@ -706,7 +706,7 @@ Let's say that during the discovery process, [[Characters/Rosa\|Rosa]] opens the
 
 #### 5.2
 
-As programmed, [[Characters/Rosa\|Rosa]] kicks out the servants. It only makes sense in her position and it's the same thing [[Characters/Natsuhi\|Natsuhi]] did in [[Legend of the Golden witch\|Legend]]. It's like poetry, it rhymes.
+As programmed, [[Characters/Rosa\|Rosa]] kicks out the servants. It only makes sense in her position and it's the same thing [[Characters/Natsuhi\|Natsuhi]] did in [[Episodes/Legend of the Golden witch\|Legend]]. It's like poetry, it rhymes.
 [[Characters/George\|George]] insists on going with [[Characters/Shannon\|Shannon]], and [[Characters/Rosa\|Rosa]] doesn't object to his choice at all, it's unclear if she was trying to prompt this reaction by mistreating [[Characters/Shannon\|Shannon]] on purpose or if it just happened, either way she doesn't seem to care for George's survival at this point.
 
 The exiled group heads to the kitchen, where they pressure [[Characters/George\|George]] into believing the [[Characters/Kanon\|Kanon]] incident. All of a sudden [[Characters/George\|George]] fancies himself an occultist because he wants to play along with [[Characters/Shannon\|Shannon]]'s superstitions.
@@ -723,7 +723,7 @@ They all leave except [[Characters/Genji\|Genji]], who insists that he wants to 
 ![Pasted image 20250810194028.png](/img/user/Attachments/Pasted%20image%2020250810194028.png)
 
 If we follow the version of events where [[Characters/Nanjo\|Nanjo]] and [[Characters/Kumasawa\|Kumasawa]] survived, then we still need to explain how they ended up dead, and this scene of [[Characters/Genji\|Genji]] thinking about his chess game with [[Characters/Nanjo\|Nanjo]] could suggest he stayed behind to meet with them, but then he kills them on [[Characters/Sayo\|Sayo]]'s orders and that's what him throwing a knife at the butterfly means. 
-If the red truth from [[Legend of the Golden witch\|Legend]] about [[Characters/Genji\|Genji]] not being a killed is to be applied here too, then [[Characters/Sayo\|Sayo]] did it offscreen. Either way [[Characters/Genji\|Genji]] is tasked with preparing the bodies and reporting their discovery in the courtyard as the seventh and eight twilights.
+If the red truth from [[Episodes/Legend of the Golden witch\|Legend]] about [[Characters/Genji\|Genji]] not being a killed is to be applied here too, then [[Characters/Sayo\|Sayo]] did it offscreen. Either way [[Characters/Genji\|Genji]] is tasked with preparing the bodies and reporting their discovery in the courtyard as the seventh and eight twilights.
 
 Of course, none of this matters in case they really did die when we saw them die.
 
@@ -765,7 +765,7 @@ Here the fight scene makes a lot more sense, this is [[Characters/Sayo\|Sayo]] h
 What's harder to justify is what happens after. We're not getting away with calling [[Characters/Shannon\|Shannon]]'s corpse fake this time, because [[Characters/Battler\|Battler]] has learned his lesson and actually checks personally.
 ![Pasted image 20250811185355.png](/img/user/Attachments/Pasted%20image%2020250811185355.png)
 
-Because all keys are accounted for in the red, we are forced to rule out any last minute infighting or a retaliation from the victims. This can only be a suicide, and we have already theorized previously that [[Characters/Sayo\|Sayo]] doesn't plan to leave the island alive, or she could have done so at the end of [[Legend of the Golden witch\|Legend]]. 
+Because all keys are accounted for in the red, we are forced to rule out any last minute infighting or a retaliation from the victims. This can only be a suicide, and we have already theorized previously that [[Characters/Sayo\|Sayo]] doesn't plan to leave the island alive, or she could have done so at the end of [[Episodes/Legend of the Golden witch\|Legend]]. 
 
 So [[Characters/Sayo\|Sayo]] sets up the crime scene with [[Characters/X Beatrice\|X Beatrice]], then she closes herself inside with the key, she puts it in George's pocket, she stains the stake with fake blood and places it on the ground, then she shoots herself in the head, in a way that makes it so the weapon will fall out of sight. 
 It's possible the weapon wasn't even a gun, after all she had the surprise factor against both Godha and [[Characters/George\|George]]. Not sure how you set up something that isn't a gun to pierce your skull, but I'm sure it's possible. 
@@ -813,7 +813,7 @@ He's accompanied to Kinzo's room by [[Characters/Genji\|Genji]]. There he meets 
 ![Pasted image 20250706201148.png](/img/user/Attachments/Pasted%20image%2020250706201148.png)
 We can't know what actually went down, but [[Characters/Battler\|Battler]] probably did talk to [[Characters/X Beatrice\|X Beatrice]], and their conversation might have been similar to the one they have in [[Episodes/Alliance of the Golden witch\|Alliance]]. Then, at midnight, they are both killed by the big bomb™ (sigh).
 
-As a refresher from the end of [[Legend of the Golden witch\|Legend]], we think something was set up to automatically kill any remaining human in the mansion at precisely midnight of the second day. Our best guess is still a powerful ticking bomb, or a bunch of them all over the estate.
+As a refresher from the end of [[Episodes/Legend of the Golden witch\|Legend]], we think something was set up to automatically kill any remaining human in the mansion at precisely midnight of the second day. Our best guess is still a powerful ticking bomb, or a bunch of them all over the estate.
 This is probably the work of [[Characters/Sayo\|Sayo]] and her sponsors outside the island, meanwhile [[Characters/Rosa\|Rosa]] and [[Characters/X Beatrice\|X Beatrice]] probably had no idea, or they would have taken precautions.
 
 ---
@@ -867,7 +867,7 @@ She refers to [[Characters/Battler\|Battler]] as Bern's piece, he is her subordi
 
 Basically as we've been saying, the culprit isn't looking for the most efficient ways of killing everyone, she will make sure that each case looks mysterious, add unnecessary preparations like the halloween decorations in the chapel, or go out of her way to deceive somebody who is going to die soon after. From Lambda's perspective all of this is just "Taking worthless pieces".
 
-"Place excess pieces on the board" refers to the addition of [[Characters/X Beatrice\|X Beatrice]] to this game. While she played a major role here, her not being in [[Legend of the Golden witch\|Legend]] means she isn't required in the grand scheme of things.
+"Place excess pieces on the board" refers to the addition of [[Characters/X Beatrice\|X Beatrice]] to this game. While she played a major role here, her not being in [[Episodes/Legend of the Golden witch\|Legend]] means she isn't required in the grand scheme of things.
 
 ![Pasted image 20250718123533.png](/img/user/Attachments/Pasted%20image%2020250718123533.png)
 <center>Batora no b..baka!</center>

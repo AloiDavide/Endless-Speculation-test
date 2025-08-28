@@ -157,7 +157,7 @@ age:: 18
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.
-> ![Pasted image 20240829020559.png](/img/user/Attachments/Pasted%20image%2020240829020559.png)
+> ![[Pasted image 20240829020559.png\|Pasted image 20240829020559.png]]
 
 </div></div>
 
@@ -190,14 +190,14 @@ age:: 18
 > Sure, but that's magic. What is the human trick? It has to be some kind of preprepared device.
 > - The same thing that kills Nanjo in [[Episodes/Banquet of the Golden witch\|Banquet]]?
 > 	- No, that one is confirmed to be a direct homicide, but this time there was nobody alive.
-> - The same thing that kills Natsuhi at the end of [[Legend of the Golden witch\|Legend]]?
+> - The same thing that kills Natsuhi at the end of [[Episodes/Legend of the Golden witch\|Legend]]?
 > 	- Not necessarily, Sayo with a regular gun is enough to explain that.
 > - The same thing that kills the survivors of the game at the end of legend turn and banquet?
 > 	- Likely yes, but in that case how did it get Maria and Rosa in Turn when they were already running far away?
 > 	- Whatever it is, this thing was so destructive it left no remains except for Maria's jaw.
 > 
 > It's the long awaited sequel of the Small Bombs... a Big Bomb!
-> ![Pasted image 20250413130437.png](/img/user/Attachments/Pasted%20image%2020250413130437.png)
+> ![[Pasted image 20250413130437.png\|Pasted image 20250413130437.png]]
 
 </div></div>
 

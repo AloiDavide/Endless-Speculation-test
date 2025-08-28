@@ -12,7 +12,7 @@ Armed with our finest weapons: [[Chekhov's Gun\|Chekhov's Gun]] and [[Occam's Ra
 This golden land is not only our attack on the [[Speculation/Endless Witch\|Endless Witch]], but it will also function as our stronghold going forward.
 
 
-The main attraction? But of course, it's our long form theories, systematically and thoroughly tackling each of the [[Episodes Index\|episodes]] in order.
+The main attraction? But of course, it's our long form theories, systematically and thoroughly tackling each of the [[Index/Episodes Index\|episodes]] in order.
 ### [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 
 ### [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
@@ -20,8 +20,8 @@ The main attraction? But of course, it's our long form theories, systematically 
 
 And beyond those, behold our vast array of facilities.
 - A comprehensive list of every single [[Red Truth\|Red Truth]].
-- Notes for every relevant [[Characters Index\|Character]] with all of their descriptions in each episode and in each plane of existence, as well as all the theories regarding each of them.
-- Notes for all the [[Mysteries/Mysteries Index\|Mysteries Index]] we aim to solve and our solutions.
+- Notes for every relevant [[Index/Characters Index\|Character]] with all of their descriptions in each episode and in each plane of existence, as well as all the theories regarding each of them.
+- Notes for all the [[Index/Mysteries Index\|Mysteries Index]] we aim to solve and our solutions.
 - The corresponding blue truths holding our claims and our reasoning.
 - Transcriptions of the important information found in the extra tips, such as the Epitaph and the monologues.
 

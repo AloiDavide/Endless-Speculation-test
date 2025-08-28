@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings dual-table"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-turn-of-the-golden-witch/","contentClasses":"red-truth red-links center-images center-headings dual-table blue-links"}
 ---
 
 
@@ -181,7 +181,7 @@ Our theory so far states that [[Characters/Sayo\|Sayo]] is the [[Characters/Beat
  
 Of course, it's possible [[Characters/Maria\|Maria]] only knows about the [[Characters/Shannon\|Shannon]] persona and not the [[Characters/Kanon\|Kanon]] one, it could fit the rest of the theory with a couple small adjustments... but there's another explanation that fits even better.
 
-Yes, [[Characters/Maria\|Maria]] knows [[Characters/Kanon\|Kanon]] IS [[Characters/Sayo\|Sayo]], but to her he isn't *[[Characters/Beatrice\|Beatrice]]*. 
+Yes, [[Characters/Maria\|Maria]] knows [[Characters/Kanon\|Kanon]] IS [[Characters/Sayo\|Sayo]], but to her he isn't [[Characters/Beatrice\|Beatrice]]. 
 As it'll becomes clear in [[Episodes/Alliance of the Golden witch\|Alliance]], [[Characters/Maria\|Maria]] is another character who lives by her magical interpretation of reality, and in the endless witch narrative surrounding [[Characters/Beatrice\|Beatrice]], [[Characters/Kanon\|Kanon]] and [[Characters/Shannon\|Shannon]] are furniture made by [[Characters/Kinzo\|Kinzo]]. 
 This is why [[Characters/Maria\|Maria]] won't interact with [[Characters/Kanon\|Kanon]] as [[Characters/Beatrice\|Beatrice]] and vice versa, to them the roleplay is part of the magic, so in this scene she will not accept a replacement candy from [[Characters/Kanon\|Kanon]], but if the witch [[Characters/Beatrice\|Beatrice]] were to show up, then she would close her eyes and accept a simple switcheroo as magic.
 
@@ -225,11 +225,11 @@ Are you ready? Excellent.
 
 <center>And finally...</center>
 
-<center><font color="#00b0f0" size="5">A mysterious person X who looks like [[Characters/Beatrice\|Beatrice]], shortened to X Beatrice</font></center>
+<center><font color="#00b0f0" size="5">A mysterious person X who looks like Beatrice, shortened to X Beatrice</font></center>
 
 
 [[Characters/X Beatrice\|X Beatrice]] is the special guest that appears in Turn and [[Episodes/Alliance of the Golden witch\|Alliance]], who several people remark to be the spitting image of the witch's portrait.
-She can be distinguished from [[Characters/Sayo\|Sayo]] by her clothes, possibly her face, and because of the [[Speculation/Leg Tattoos\|tattoos or marks]] we see on their legs in the character profiles.
+She can be distinguished from [[Characters/Sayo\|Sayo]] by her clothes, possibly her face, and because of the *[[Speculation/Leg Tattoos\|tattoos or marks]]* we see on their legs in the character profiles.
 
 | ![Pasted image 20250528190002.png](/img/user/Attachments/Pasted%20image%2020250528190002.png) | ![Pasted image 20250528190017.png](/img/user/Attachments/Pasted%20image%2020250528190017.png) |
 | ------------------------------------ | ------------------------------------ |
@@ -875,6 +875,10 @@ Basically as we've been saying, the culprit isn't looking for the most efficient
 Since we've already foreshadowed the next two episodes a bunch of times, there's no point in hiding it. Lambda is just putting up the facade of a dumb tsundere when she interacts with Bern and [[Characters/Battler\|Battler]], even when she inadvertently calls herself an moron with a japanese pun.
 
 But if that's the case, who's to say Bernkastel's thoughtful sympathy is genuine?
+
+So. Battler, once again, is a pathetic coward. What a shock!
+Our Banquet theory will be ready in due time (trust), in which we'll have to tackle the most difficult part of Umineko to us, the epitaph. But did we manage to figure out something? You'll see... Untill then, see you next time
+
 
 ---
 ---

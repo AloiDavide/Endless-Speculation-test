@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/battler/","contentClasses":"center-headings blue-links red-truth","tags":["ushiromiya","witch","human"]}
+{"dg-publish":true,"permalink":"/characters/battler/","contentClasses":"center-headings red-truth","tags":["ushiromiya","witch","human"]}
 ---
 
 
@@ -157,7 +157,7 @@ age:: 18
 >
 > Evidence:
 > - This scene of Kyrie fighting Mammon.
-> ![[Pasted image 20240829020559.png\|Pasted image 20240829020559.png]]
+> ![Pasted image 20240829020559.png](/img/user/Attachments/Pasted%20image%2020240829020559.png)
 
 </div></div>
 
@@ -197,7 +197,7 @@ age:: 18
 > 	- Whatever it is, this thing was so destructive it left no remains except for Maria's jaw.
 > 
 > It's the long awaited sequel of the Small Bombs... a Big Bomb!
-> ![[Pasted image 20250413130437.png\|Pasted image 20250413130437.png]]
+> ![Pasted image 20250413130437.png](/img/user/Attachments/Pasted%20image%2020250413130437.png)
 
 </div></div>
 

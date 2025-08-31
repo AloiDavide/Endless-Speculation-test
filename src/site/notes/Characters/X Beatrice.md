@@ -35,6 +35,34 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 
 
 
+> [!note]- REDACTED THEORY
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- X Beatrice is the daughter of 0 Beatrice
+> Claim...
+> 
+> ---
+> Leads:
+> - 
+> ---
+> Obstacles:
+> - optional
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 >[!note]- Battler's sin was against [[Characters/X Beatrice\|X Beatrice]]
 > It was [[Characters/X Beatrice\|X beato]], not [[Characters/Sayo\|Sayo]], who had a coping mechanism that Battler destroyed.
 > 

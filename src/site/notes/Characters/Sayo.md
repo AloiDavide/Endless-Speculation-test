@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/sayo/","contentClasses":"center-headings center-images","tags":["human"]}
+{"dg-publish":true,"permalink":"/characters/sayo/","contentClasses":"center-headings center-images","tags":["human","servant"]}
 ---
 
 
@@ -58,7 +58,7 @@ In short though, the character we call Sayo is composed from the trinity of [[Ch
 > [!note]- The witch Beatrice is Sayo's stand
 > Sayo is Beatrice in the sense that she is behind most of the murders. We aren't sure to what extent Kinzo's will is involved, but now Sayo is in charge and she aims to convince Battler that magic exists by committing inexplicable crimes. 
 > Therefore, the Beatrice we know if her spiritual equivalent, aka.... her stand.
-> ![[Pasted image 20250325162423.png\|600]]
+> ![Pasted image 20250325162423.png|600](/img/user/Attachments/Pasted%20image%2020250325162423.png)
 > 
 > ---
 > Leads:

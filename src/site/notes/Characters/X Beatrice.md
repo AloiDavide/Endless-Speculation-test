@@ -30,22 +30,6 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- X Beatrice is the model for the Beatrice portrait
-> 
-> 
-> ---
-> Leads:
-> - The face is the same.
-> ---
-> Obstacles:
-> - optional
-
-</div></div>
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

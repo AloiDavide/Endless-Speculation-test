@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth"}
+{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","tags":["human","other"]}
 ---
 
 

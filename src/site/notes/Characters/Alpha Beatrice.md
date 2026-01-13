@@ -3,10 +3,10 @@
 ---
 
 
-![Mugshots/X Beatrice.png|X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
+![Mugshots/alpha_beatrice.png|alpha_beatrice.png](/img/user/Mugshots/alpha_beatrice.png)
+<center><i>AI disclaimer. This sprite doesn't exist (but it should)</i></center>
 
 She is the woman Kinzo became obsessed with in his youth.  Because she's at the beginning of everything we'll call her [[Characters/Alpha Beatrice\|Alpha Beatrice]].
-
 
 
 ---

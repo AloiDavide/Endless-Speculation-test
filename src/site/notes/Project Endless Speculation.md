@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/project-endless-speculation/","contentClasses":"center-headings red-truth red-links blue-truth","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/project-endless-speculation/","contentClasses":"center-headings red-truth red-links","tags":["gardenEntry"]}
 ---
 
 
@@ -13,11 +13,14 @@ This golden land is not only our attack on the [[Speculation/Endless Witch\|Endl
 
 
 The main attraction? But of course, it's our long form theories, systematically and thoroughly tackling each of the [[Index/Episodes Index\|episodes]] in order.
-### [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
+### [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]] 
+*~ published on 18/04/2025*
 
 ### [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
+*~ published on 28/08/2025*
 
-### [[Long Form Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden witch]]
+### Theory for Banquet of the Golden witch
+*~ published on "soon enough"*
 
 And beyond those, behold our vast array of facilities.
 - A comprehensive list of every single [[Red Truth\|Red Truth]].

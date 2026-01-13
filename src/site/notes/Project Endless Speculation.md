@@ -17,6 +17,7 @@ The main attraction? But of course, it's our long form theories, systematically 
 
 ### [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
 
+### [[Long Form Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden witch]]
 
 And beyond those, behold our vast array of facilities.
 - A comprehensive list of every single [[Red Truth\|Red Truth]].

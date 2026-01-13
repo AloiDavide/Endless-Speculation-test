@@ -256,7 +256,8 @@ Second, we trip on what is possibly the most annoying red truth.
 <font color="#ff0000" size="4"><center><b>Due to your sin, a great many humans on this island die. No one escapes, all die. </b></center></font>
 This is said to Battler at the end of Alliance and we have mixed feelings about it, especially the "no one escapes, all die." part, we are not quite sure what it's referring to and how generally it should apply, but we overall decided that letting people escape Rokkenjima during any of the games is probably not a valid solution. So this theory is here as a back up.
 
-Instead, we'll go with the more simple option. Eva and Hideyoshi felt like they were safe, but [[Characters/Sayo\|Sayo]] betrays their trust, she makes them open the door with any pretext, kills them, and then shoots the body parts relevant to the epitaph, and puts a stake there. There is no reason to think it was ever a closed room, as there are no reliable witnesses, and the red doesn't state it explicitly.
+Instead, we'll go with the more simple option. Eva and Hideyoshi felt like they were safe, but [[Characters/Sayo\|Sayo]] betrayed their trust, she made them open the door with some pretext, killed them, then shot the body parts relevant to the epitaph, and shoved a stake in the holes. 
+There is no reason to think it was ever a closed room, as there are no reliable witnesses, and the red doesn't state it explicitly.
 They paint the symbol on the door and hastily leave a letter written by Sayo. The letter only contains the words "Praise my name", suggesting they were in a hurry, after all the others were waiting for Genji and Kanon to return with the guests.
 Then they simply lie about the fact that the chain was intact, after they finished preparing everything they start making a lot of noise to lure everyone there.
 

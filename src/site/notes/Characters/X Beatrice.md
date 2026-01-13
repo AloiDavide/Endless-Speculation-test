@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth"}
+{"dg-publish":true,"permalink":"/characters/x-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","tags":["human","other"]}
 ---
 
 
@@ -30,21 +30,33 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!note]- X Beatrice is the model for the Beatrice portrait
-> 
+> [!note]- REDACTED THEORY
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- X Beatrice is the daughter of 0 Beatrice
+> Claim...
 > 
 > ---
 > Leads:
-> - The face is the same.
+> - 
 > ---
 > Obstacles:
 > - optional
 
 </div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

@@ -9,9 +9,9 @@
 - [[Characters/Maria\|Maria]]
 - [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Beatrice\|Beatrice]]
-- [[Characters/Bernkastel\|Bernkastel]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
 
@@ -19,9 +19,9 @@
 
 ### Furniture
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
-- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/Shannon\|Shannon]]
+- [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
 - [[Characters/Goats\|Goats]]
@@ -32,13 +32,13 @@
 
 ## Humans
 ### Ushiromiya
-- [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Rosa\|Rosa]]
+- [[Characters/Rudolf\|Rudolf]]
 - [[Characters/Natsuhi\|Natsuhi]]
-- [[Characters/Maria\|Maria]]
 - [[Characters/Kyrie\|Kyrie]]
-- [[Characters/Kinzo\|Kinzo]]
+- [[Characters/Maria\|Maria]]
 - [[Characters/Krauss\|Krauss]]
+- [[Characters/Kinzo\|Kinzo]]
 - [[Characters/Jessica\|Jessica]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/George\|George]]
@@ -54,18 +54,20 @@
 - [[Characters/Shannon\|Shannon]]
 - [[Characters/Kumasawa\|Kumasawa]]
 - [[Characters/Kanon\|Kanon]]
-- [[Characters/Genji\|Genji]]
 - [[Characters/Gohda\|Gohda]]
+- [[Characters/Genji\|Genji]]
+- [[Characters/Sayo\|Sayo]]
 
 { .block-language-dataview}
 
 ### Others
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
-- [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
+- [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Amakusa\|Amakusa]]
+- [[Characters/X Beatrice\|X Beatrice]]
 
 { .block-language-dataview}

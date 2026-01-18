@@ -141,7 +141,7 @@ Alternatively, we can take the easier route and say that by virtue of the meta n
 
 The rest of the first day is quite straight forward. As always George proposes to Sayo and she accepts the ring like in Turn, the siblings discuss, the children sleep in the guesthouse, so let's skip ahead to the huge mess that they find the following morning. It's time to discuss the [[Mysteries/Crime scenes of the 6 linked closed rooms\|6 linked closed rooms]].
 
->__These six are all dead: [[Characters/Kinzo\|Kinzo]], [[Characters/Genji\|Genji]], [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]], [[Characters/Gohda\|Gohda]], [[Characters/Kumasawa\|Kumasawa]]!__
+> __These six are all dead: [[Characters/Kinzo\|Kinzo]], [[Characters/Genji\|Genji]], [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]], [[Characters/Gohda\|Gohda]], [[Characters/Kumasawa\|Kumasawa]]!__
 
 Now this is a tough nut to crack. How the hell can we explain all of our long standing Sayo accomplice candidates dying on the first twilight with the exception of Nanjo, who was sleeping in the guesthouse? Who attacked them?
 
@@ -258,9 +258,9 @@ In multiple instances we see scenes outside of Battler's view in which Beato, Vi
 It would be tempting to say that everything, including Battler, is a magical creation of Beato as the sole author of the tea party. Her "golden land". But we need to confront the fact that outside forces can influence it, namely Lambdadelta and Bernkastel, with Ange's intrusion to be blamed on the latter.
 Then, we can't forget Maria's involvement. It's strongly suggested that without her contribution none of this could ever have manifested. Heck, the [[Characters/The Chiester Sisters Imperial Guard Corps\|chiester sisters]] are even based on her toys.
 
-> The [Witch of Origins](app://obsidian.md/Witch%20of%20Origins), who will live for one thousand years in the future. She holds the motherly magical power to give birth to 1 from the sea of 0.
+> The [[Speculation/Witch of Origins\|Witch of Origins]], who will live for one thousand years in the future. She holds the motherly magical power to give birth to 1 from the sea of 0.
 >
-> She is loyally protected by [Beatrice](app://obsidian.md/Beatrice), who understands her true worth. The two of them are members of the same alliance.
+> She is loyally protected by [[Characters/Beatrice\|Beatrice]], who understands her true worth. The two of them are members of the same alliance.
 >
 > ~ [[Characters/Maria#Alliance\|Maria#Alliance#Future]]
 

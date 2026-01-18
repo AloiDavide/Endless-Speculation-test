@@ -7,8 +7,11 @@
 Welcome to the second part of our Umineko theory. 
 Turn of the golden witch is a lot more dense with information, but we'll hopefully make it easy to comprehend our thought process at every step of the way.
 
-A few words on our modus operandi. After we outline what we agree to be the main points of each theory (our "blue truth" if you will), I (Crunter) write down the theory and Hound takes care of editing and providing a second opinion, as well and the technical side of the project.
-There might be parts in which we helped each other here and there, and others where we don't 100% agree on some position. In general, if I speak in (I) It's Crunter's position, if we speak in (We) it's the general position of both.
+A few words on our modus operandi. After we outline what we agree to be the main points of each theory (our "blue truth" if you will), Crunter writes down the theory and Hound takes care of the editing phase where he adds his thoughts and opinions and handles the technical side of the project.
+
+There might be parts in which we helped each other here and there, and others where we don't 100% agree on some position. 
+In general, when we speak using the plural "we" it's our shared position, <font color="#00b050">when I (Crunter) speak in green it's my position</font>, and <font color="#ffdd33">when I (Hound) speak in yellow it's mine</font>.
+If any witches dare to claim those colors in the answer arcs they WILL hear from our lawyers.
 
 
 ---
@@ -59,9 +62,9 @@ We jump back in the timeline to a previous family conference, an unspecified amo
 We're probably talking about something like 3 or 4 years ago, since [[Characters/Shannon\|Shannon]] is in middle School and [[Characters/George\|George]] is Barely an adult (Yikes). 
 
 ![Pasted image 20250622123835.png](/img/user/Attachments/Pasted%20image%2020250622123835.png)
-We learn that [[Characters/George\|George]] has been looked after by [[Characters/Okonogi\|Okonogi]], who might help the angle of "[[Characters/Sayo\|Sayo]] is courting [[Characters/George\|George]] as a step in her plan for some reason", but we really don't know enough about her motivations to make this theory work. It's far fetched, but it's a hint on the table I guess.
+We learn that [[Characters/George\|George]] has been looked after by [[Characters/Okonogi\|Okonogi]], which could lead us to theorize that [[Characters/Sayo\|Sayo]] is courting [[Characters/George\|George]] as a step in her plan, but we really don't know enough about her motivations to make this theory work. It's far fetched, but it's another pin on the board of possible hints.
 
-[[Characters/Jessica\|Jessica]] sets up [[Characters/Shannon\|Shannon]] and [[Characters/George\|George]], while [[Characters/Eva\|Eva]] is, uuuh, let's say discouraging this relationship.
+[[Characters/Jessica\|Jessica]] tries to get [[Characters/Shannon\|Shannon]] and [[Characters/George\|George]] together, while [[Characters/Eva\|Eva]] is, uuuh, let's say very skeptical of this relationship.
 
 A short amount of time later, [[Characters/Sayo\|Sayo]] gets scolded by [[Characters/Natsuhi\|Natsuhi]] for not being able to properly clean in time the places assigned to her, which is perfectly natural given that she is now doing the job of two people, [[Characters/Shannon\|Shannon]] and [[Characters/Kanon\|Kanon]].
 
@@ -88,14 +91,14 @@ Yes, we're saying that magic in Umineko is a little bit like pro wrestling
 ![Pasted image 20250527200628.png](/img/user/Attachments/Pasted%20image%2020250527200628.png)
 <center>It's still real to me dammit!</center>
 
-So with that established, going forward only the scenes where someone other than [[Characters/Kanon\|Kanon]], [[Characters/Shannon\|Shannon]] or [[Characters/Beatrice\|Beatrice]] are present, are to be trusted without a grain, or a massive bag, of salt.
+So with that established, going forward only the scenes where someone other than [[Characters/Kanon\|Kanon]], [[Characters/Shannon\|Shannon]] or [[Characters/Beatrice\|Beatrice]] are present are to be trusted without a grain (or a massive bag) of salt.
 
 ---
 #### 1.4
 Jessica's school is having a culture festival! Hurray!
 Yes, [[Characters/Sayo\|Sayo]] is, in fact, trying to set herself up with [[Characters/Jessica\|Jessica]] by using her two identities. It's actually really funny once you notice it, she's not being remotely subtle, she forces it so hard, it's adorable. 
 
-I think this is her actually listening to her heart for once, as signified by [[Characters/Shannon\|Shannon]] giving the golden brooch to [[Characters/Kanon\|Kanon]]. After all, the brooch works if it involves blind love, and ironically this fits [[Characters/Sayo\|Sayo]]-[[Characters/Jessica\|Jessica]] better compared to [[Characters/Sayo\|Sayo]]-[[Characters/George\|George]]. 
+We think this is her actually listening to her heart for once, as signified by [[Characters/Shannon\|Shannon]] giving the golden brooch to [[Characters/Kanon\|Kanon]]. After all, the brooch works if it involves blind love, and ironically this fits [[Characters/Sayo\|Sayo]]-[[Characters/Jessica\|Jessica]] better compared to [[Characters/Sayo\|Sayo]]-[[Characters/George\|George]]. 
 Maybe it also works a potential hint for [[Characters/Sayo\|Sayo]] being a man and not a woman? Since the brooch strengthens relationships between the sexes.
 
 The conversation between [[Characters/Jessica\|Jessica]] and [[Characters/Kanon\|Kanon]] that evening is very revealing when viewed in the context of our theories so far.
@@ -266,21 +269,22 @@ That is probably a big part of her motive, and the only one we can point out wit
 
 That's as far as our evidence goes, but while we can't 100% say who she is, here's an interesting guess.
 
-We'll soon argue that she disguises herself as [[Characters/Shannon\|Shannon]] at various points in the game, which suggests that she would have some experience in doing so,  as well as a physical predisposition.
+We'll soon argue that she disguises herself as [[Characters/Shannon\|Shannon]] at various points in the game, which suggests that she would have some experience in doing so, as well as a physical predisposition.
 
-Hound will quickly point out the amount of assumptions that go into this conjecture, but I believe that she's the twin sister of [[Characters/Sayo\|Sayo]], both daughters of the [[Characters/Beatrice\|Beatrice]] who died 19 years prior near Kuwadorian.
-They were both raised at the Fukuin house, and learned how to swap between each others. The details of their upbringing are unknown, but the general idea is that they were often in contact with [[Characters/Kinzo\|Kinzo]] and the older servants. 
-Maybe while [[Characters/Sayo\|Sayo]] was getting used to impersonating two servants she would have needed someone else from the orphanage to fill the shoes of [[Characters/Shannon\|Shannon]] from time to time?
+<font color="#00b050">Hound will quickly point out the amount of assumptions that go into this conjecture, but I believe that she's the twin sister of Sayo, both daughters of the Beatrice who died 19 years prior near Kuwadorian.</font>
 
-Ok but. Why does she need to be a twin sister when [[Characters/Shannon\|Shannon]] doesn't even look like [[Characters/Beatrice\|Beatrice]]? Why does she need to be a sister at all? Can't she just be someone else with a similar body type and some make up?
-Well yes, it wouldn't change any of the solution but... How can I put it without going out of topic..... 
+They were both raised at the Fukuin house, and learned how to swap between each others. The details of their upbringing are unknown, but the general idea is that they were often in contact with [[Characters/Kinzo\|Kinzo]] and the older servants.  Maybe while [[Characters/Sayo\|Sayo]] was getting used to impersonating two servants she would have needed someone else from the orphanage to fill the shoes of [[Characters/Shannon\|Shannon]] from time to time?
 
-I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other.
+<font color="#ffdd33">Ok but. Why does she need to be a twin sister when Shannon doesn't even look like Beatrice? Why does she need to be a sister at all? Can't she just be someone else with a similar body type and some make up?</font>
 
-That, combined with the fact that she knows some servants, she's able to act as [[Characters/Shannon\|Shannon]], and she wears her clothes well, is enough of a proof to me. 
+<font color="#00b050">Well yes, it wouldn't change any of the solution but... How can I put it without going out of topic..... <font color="#e36c09"></font></font>
+
+<font color="#00b050">I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other.</font>
+
+<font color="#00b050">That, combined with the fact that she knows some servants, she's able to act as Shannon, and she wears her clothes well, is enough of a proof to me.</font>
 
 ![tumblr_ns5tmd34E61tg07vxo1_500.gif](/img/user/Attachments/tumblr_ns5tmd34E61tg07vxo1_500.gif)
-<center>Chekhov's Gun at it's most reckless</center>
+<center><font color="#ffdd33">Chekhov's Gun at it's most reckless</font></center>
 
 ---
 
@@ -292,10 +296,9 @@ We would need to somehow make the case for her counting as [[Characters/Shannon\
 Alternatively she was alive in the shed and just playing dead... but that scene really goes out of its way to not show that body to anyone reliable, so ironically it's harder to suspect someone who can convincingly pass for [[Characters/Shannon\|Shannon]].
 In the end we figured the explanation was just as effective without her, so she didn't make it into that solution.
 
-
 We also played around with the idea of [[Characters/X Beatrice\|X Beatrice]] being [[Characters/Kanon\|Kanon]] in the previous scene with [[Characters/Maria\|Maria]], but we always come back to that annoying red truth.
 
-<center><font color="#ff0000">No one else can go by [[Characters/Kanon\|Kanon]]'s name! A different person can't claim that as their name!</font></center>
+> __No one else can go by [[Characters/Kanon\|Kanon]]'s name! A different person can't claim that as their name!__
 
 If only one person can be [[Characters/Kanon\|Kanon]] then [[Characters/Sayo\|Sayo]] takes precedence. We'll just have to assume [[Characters/Sayo\|Sayo]] goes away and X shows up instead after [[Characters/Rosa\|Rosa]] comes back.
 As for why [[Characters/Maria\|Maria]] doesn't call her out, keep in mind that magic to her is more about form than substance, so even if [[Characters/Beatrice\|Beatrice]] manifests as multiple people she is able to rationalize it.
@@ -317,7 +320,7 @@ It's unclear if they all get this proposal individually, or if who gets it is pa
 Sure, she was told not to open it in advance, but would anyone really trust [[Characters/Rosa\|Rosa]] not to read it the moment she isn't under Maria's sight?
 
 ![Pasted image 20250706184259.png](/img/user/Attachments/Pasted%20image%2020250706184259.png)
-<center>She foreshadows her appearing to the siblings later that night, or perhaps a secret meeting that [[Characters/Rosa\|Rosa]] would know about after opening the envelope?</center>
+<center>She foreshadows her appearing to the siblings later that night, or perhaps a secret meeting that Rosa would know about after opening the envelope?</center>
 
 
 ---
@@ -373,19 +376,20 @@ The next scene is bizzarre.
 [[Characters/George\|George]], proposes to [[Characters/Shannon\|Shannon]] just like in [[Episodes/Legend of the Golden witch\|Legend]]. That time she seemed very unsure after receiving the ring, which lines up with what we derived from the part 1 flashbacks, but this time she strangely accepts immediately and with enthusiasm. 
 ![Pasted image 20250715003234.png](/img/user/Attachments/Pasted%20image%2020250715003234.png)
 
-We have fairly contrasting interpretations of this scene so we'll briefly undo our fusion and you'll get to hear from both of us separately.
+We have fairly contrasting interpretations of this scene so we figured it would be better to just present both.
 
-On the one hand <font color="#00b050">I</font> {<font color="#00b050">Crunter</font>} think that at this point [[Characters/X Beatrice\|X Beatrice]] is already dressed as [[Characters/Shannon\|Shannon]] and is the one accepting George's proposal. This would imply she either likes [[Characters/George\|George]] or is out to deceive him for some reason.
-I'm just not buying that it's [[Characters/Sayo\|Sayo]] because I can't see what the manipulation is for, so I'll say that here [[Characters/Shannon\|Shannon]] is X.
-That being said... It's really weird that she'd be this much into specifically marriage, and there's definitely something I'm missing. But what I'm not missing is that [[Characters/Sayo\|Sayo]] would NEVER act this way. She didn't shy away from being uncommitted towards [[Characters/George\|George]], not only earlier in this game, but in [[Episodes/Legend of the Golden witch\|Legend]] too.
+<font color="#00b050">On the one hand, I think that at this point X Beatrice is already dressed as Shannon and is the one accepting George's proposal. This would imply she either likes George or is out to deceive him for some reason.</font>
+<font color="#00b050">I'm just not buying that it's Sayo because I can't see what the manipulation is for, so I'll say that here Shannon is X.</font>
 
-On the other hand, <font color="#e36c09">I</font> {<font color="#e36c09">Hound</font>} don't see enough signs of a switch up, instead this change in attitude could be explained as: 
-- A narration trick to make [[Characters/Shannon\|Shannon]] the character seem far more proactive.
-- [[Characters/Sayo\|Sayo]] making peace with the fact that she likes both him an [[Characters/Jessica\|Jessica]] despite his creepy behavior, fueled by the whole "we're all going to die shortly" mindset.
-- She actually really enjoys making [[Characters/George\|George]] suffer.
-- A combination thereof.
+<font color="#00b050">That being said... It's really weird that she'd be this much into specifically marriage, and there's definitely something I'm missing. But what I'm not missing is that Sayo would NEVER act this way. She didn't shy away from being uncommitted towards George, not only earlier in this game, but in Legend too.</font>
 
-Maybe in her mind, at the end of this big group suicide they really will get to live happily ever after in the golden land.
+<font color="#ffdd33">On the other hand, I don't see enough signs of a switch up, instead this change in attitude could be explained as:</font>
+- <font color="#ffdd33">A narration trick to make Shannon the character seem far more proactive.</font>
+- <font color="#ffdd33">Sayo making peace with the fact that she likes both him an Jessica despite his creepy behavior, fueled by the whole "we're all going to die shortly" mindset.</font>
+- <font color="#ffdd33">She actually really enjoys making George suffer.</font>
+- <font color="#ffdd33">A combination thereof.</font>
+
+<font color="#ffdd33">Maybe in her mind, at the end of this big group suicide they really will get to live happily ever after in the golden land.</font>
 ![Pasted image 20250715005955.png](/img/user/Attachments/Pasted%20image%2020250715005955.png)
 
 
@@ -414,7 +418,7 @@ Let's rewind to a little before midnight, what actually happened to the adults?
 
 For starters, we know for a fact they were murdered right there in the *[[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]]* by somebody in the same location.
 
-<center><font color="#ff0000">When the six were murdered in the chapel, the culprit was inside the chapel.</font></center>
+>__When the six were murdered in the chapel, the culprit was inside the chapel.__
 
 [[Characters/Genji\|Genji]] probably told the group that the guest was waiting for them in the Chapel, so they all followed him there. Only [[Characters/Rosa\|Rosa]] possibly had an idea of what was really going to happen.
 
@@ -438,7 +442,7 @@ After the ordeal they carefully prepared the scene with the help of [[Characters
 
 But what if instead of ignoring the short exchange we saw, we instead assume it actually took place word for word?
 
-~[[Speculation/Transcript of the conversation in the Chapel\|Transcript of the conversation in the Chapel]]
+> ~[[Speculation/Transcript of the conversation in the Chapel\|Transcript of the conversation in the Chapel]]
 
 Abstracting the sentences from the context of the narration, we see [[Characters/X Beatrice\|X Beatrice]] has presented irrefutable proof of some unthinkable fact, such as for instance a birth certificate, a DNA test, and/or a will signed by [[Characters/Kinzo\|Kinzo]] that proves she has a right to the inheritance.
 
@@ -458,7 +462,8 @@ Of course, this alone doesn't explain why they all end up dead. Maybe from X's p
 
 
 We've handled the whodunnit, now how do we solve the glaring closed room case? After all... 
-__From the time [[Characters/Maria\|Maria]] received her key to the instant [[Characters/Rosa\|Rosa]] unsealed the envelope the next day, the key passed through no one's hands!!__
+
+> __From the time [[Characters/Maria\|Maria]] received her key to the instant [[Characters/Rosa\|Rosa]] unsealed the envelope the next day, the key passed through no one's hands!!__
 
 There's a very simple way out of the apparent contradiction. The door was never closed to begin with, and putting the real chapel key in the envelope was only meant to create the illusion of a closed room.
 
@@ -477,7 +482,7 @@ We think it's more likely that he knows and begrudgingly accepts it because it's
 
 But in this case, we have a scene where everyone present knows about [[Characters/Sayo\|Sayo]] and is keeping the secret, so we haven't broken our own rules. Furthermore, like every scene they shared so far, there's a deceptive reason why the author is showing it to us.
 
-[[Characters/Sayo\|Sayo]] aside, we don't think [[Characters/Gohda\|Gohda]] is in on the crimes, it doesn't jam with our impression of his character, and especially with the [[Tips/Notes from a Certain Chef\|Notes from a Certain Chef]]. So when [[Characters/Rosa\|Rosa]] plays her part and goes to get the key from Maria's envelope he becomes a witness to this supposed closed room.
+[[Characters/Sayo\|Sayo]] aside, we don't think [[Characters/Gohda\|Gohda]] is in on the crimes, it doesn't jive with our impression of his character, and especially with the [[Tips/Notes from a Certain Chef\|Notes from a Certain Chef]]. So when [[Characters/Rosa\|Rosa]] plays her part and goes to get the key from Maria's envelope he becomes a witness to this supposed closed room.
 
 ![Pasted image 20250718133131.png](/img/user/Attachments/Pasted%20image%2020250718133131.png)
 <center>We were initially trying to contextualize this scene as a way to deceive an innocent Rosa, but if she personally twists the key, that becomes a lot less likely.</center>
@@ -522,7 +527,6 @@ He needs to learn the rules before they can play, and the fact that [[Characters
 ## Part 4: The second twilight
 <center>(Teleports behind you) "Nothin personnel kid"</center>
 
-
 #### 4.1
 [[Characters/Jessica\|Jessica]], [[Characters/Sayo\|Sayo]] ([[Characters/Kanon\|Kanon]]) and [[Characters/Gohda\|Gohda]] rush to the VIP room and find a bed that has been slept on. Either [[Characters/X Beatrice\|X Beatrice]] actually slept there, or she was busy helping with the corpses that night, so they made it look like she did, it hardly changes anything. 
 
@@ -539,7 +543,7 @@ The letter triggers Jessica's asthma and she heads stumbling to her room. [[Char
 Look! There are [[Characters/Goats\|goats]], demons and magic, and [[Characters/Kanon\|Kanon]]'s hand became a sword! I guess that settles it then, witches exist.......
 
 ![b2d0e0b218f71d0f273ff2cfea28ed38.gif](/img/user/Attachments/b2d0e0b218f71d0f273ff2cfea28ed38.gif)
-<center>Of course not!!!</center>
+<center>OF COURSE NOT!!!</center>
 
 This just the most blatant example yet of narrator [[Characters/Beatrice\|Beatrice]] twisting the story to fit the narrative, and she can do that because, yet again, there are no reliable witnesses to contradict her!
 [[Characters/Jessica\|Jessica]] is innocent according to our interpretation, sure, but she is dead and dead people can't testify.
@@ -570,7 +574,7 @@ As of now we have two working readings, both with pros and cons.
 
 Now... Why would we split our theories? More importantly, why would we choose to consider one for which the red truth "**Kanon was killed in this room**" *clearly just doesn't work*?
 Chekhov's gun.
-The rest of the theory just works really really well if we make that simple assumption that we're missing something about that red. This isn't even going into how much we'd like that to be true for [[Episodes/Banquet of the Golden witch\|Banquet of the golden witch]].
+The rest of the theory just works really really well if we make that simple assumption that we're missing something about that red. This isn't even going into how much we'd like that to be true for *Banquet of the golden witch*.
 
 TLDR; We have some amazing interpretations that rely on [[Characters/Sayo\|Sayo]] being alive. But we'll keep, as a contingency plan, another functioning interpretation.
 From now on both scenarios will be taken into consideration when coming up with solutions, but for obvious reasons, they cannot both be true. 
@@ -624,7 +628,7 @@ Because Jessica's own key was inside the room, the suspicion quickly turns to th
 In the tea party layer we see Beato with the ghosts of [[Characters/Kanon\|Kanon]] and [[Characters/Jessica\|Jessica]]. As already mentioned it's a plot device to sell the whole "everyone is innocent" story to Bernkaster, which is the only person that sees it. 
 In general, Beato's narrative seems very invested in removing culpability from everyone except the general concept of "[[Characters/Beatrice\|Beatrice]]". This is very reminiscent of the passage in Maria's diary in [[Episodes/Alliance of the Golden witch\|Alliance]], when she talks about the 20th kid in the classroom taking the blame to keep the other 19 kids safe.
 
-If we want to keep claiming that Beatrice's goals and ideals reflect [[Characters/Sayo\|Sayo]]'s goals and ideas, this implies that framing [[Characters/Kanon\|Kanon]] and the other servants is either a set up for a magical explanation later, when it turns out no human could have done it after all, or it's something [[Characters/Sayo\|Sayo]] wouldn't approve of, adding credibility to the theory that she is dead. Or maybe, it's a clever setup to make [[Characters/Battler\|Battler]] want to believe that no one could be the culprit later on, [[Characters/Rosa\|Rosa]] is told to aggressively frame everyone else as guilty to trigger a reaction from [[Characters/Battler\|Battler]] when he sees everyone being treated that unjustly.
+If we want to keep claiming that Beatrice's goals and ideals reflect [[Characters/Sayo\|Sayo]]'s goals and ideas, this implies that framing [[Characters/Kanon\|Kanon]] and the other servants is either a set up for a magical explanation later, when it turns out no human could have done it after all, or it's something [[Characters/Sayo\|Sayo]] wouldn't approve of, adding credibility to the theory that she is dead. Or maybe it's a clever setup, and [[Characters/Rosa\|Rosa]] is told to aggressively frame everyone else as guilty to trigger a reaction from [[Characters/Battler\|Battler]] when he sees them being treated so unjustly.
 We're not really sure which one of these works best, or if we missed a better reading.
 
 Be as it may, [[Characters/Rosa\|Rosa]] has taken on the role of casting suspicion on everybody, including her accomplices as soon as they leave. Regardless of the reason, [[Characters/Rosa\|Rosa]], who is in a position of power, is doubting everybody.
@@ -735,7 +739,7 @@ Once George's group breaks into the chapel they are able to find the key, but th
 
 The group easily gets away using the door that was supposed to be locked, which makes two violations of the red truth back to back.
 
-<center><font color="#ff0000">When the door to the chapel is locked, it prevents any and all methods of entry or exit</font></center>
+> __When the door to the chapel is locked, it prevents any and all methods of entry or exit.__
 
 As mentioned earlier, we can assume that the door was left open, or that [[Characters/Rosa\|Rosa]] handed the key to [[Characters/X Beatrice\|X Beatrice]] during any of their previous encounters.
 
@@ -745,6 +749,7 @@ They are chased by [[Characters/Beatrice\|Beatrice]] and the [[Characters/Goats\
 Say the line Bart!
 ![Pasted image 20250811230516.png|400](/img/user/Attachments/Pasted%20image%2020250811230516.png)
 *"This scene has been heavily altered by the narrator and everybody involved is either dead or a culprit."*
+
 ![Pasted image 20250811230547.png](/img/user/Attachments/Pasted%20image%2020250811230547.png)
 
 This is by all intents and purposes a continuation of the scene in Jessica's room.
@@ -873,7 +878,6 @@ Basically as we've been saying, the culprit isn't looking for the most efficient
 <center>Batora no b..baka!</center>
 
 Since we've already foreshadowed the next two episodes a bunch of times, there's no point in hiding it. Lambda is just putting up the facade of a dumb tsundere when she interacts with Bern and [[Characters/Battler\|Battler]], even when she inadvertently calls herself an moron with a japanese pun.
-
 But if that's the case, who's to say Bernkastel's thoughtful sympathy is genuine?
 
 So. Battler, once again, is a pathetic coward. What a shock!

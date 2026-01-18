@@ -155,10 +155,11 @@ Kumasawa might have had a change of heart, and attempted to dissuade Sayo from g
 Ok... but how was the closed room produced? The red boxes us in.
 The status of the six rooms as true [[Speculation/Beatrice's Definitions\|closed rooms]] is settled
 
+> 
 > __Furthermore, all of the doors and windows on the six rooms are normal. No device exists which can lock them without a key, such as an auto lock.__
-> —
+> ———
 > __All five master keys were discovered, each in the pocket of one of the servants! The individual room keys were found inside envelopes alongside the corpses!__. 
-> —
+> ———
 > __In short, all keys related to the linked closed rooms were locked inside the linked closed rooms!!__ 
 
 And there isn't any space for some other person we didn't know about.
@@ -261,35 +262,15 @@ In multiple instances we see scenes outside of Battler's view in which Beato, Vi
 It would be tempting to say that everything, including Battler, is a magical creation of Beato as the sole author of the tea party. Her "golden land". But we need to confront the fact that outside forces can influence it, namely Lambdadelta and Bernkastel, with Ange's intrusion to be blamed on the latter.
 Then, we can't forget Maria's involvement. It's strongly suggested that without her contribution none of this could ever have manifested. Heck, the [[Characters/The Chiester Sisters Imperial Guard Corps\|chiester sisters]] are even based on her toys.
 
+> The [Witch of Origins](app://obsidian.md/Witch%20of%20Origins), who will live for one thousand years in the future. She holds the motherly magical power to give birth to 1 from the sea of 0.
+>
+> She is loyally protected by [Beatrice](app://obsidian.md/Beatrice), who understands her true worth. The two of them are members of the same alliance.
+>
+> ~ [[Characters/Maria#Alliance\|Maria#Alliance#Future]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/characters/maria/#130dad" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-The [[Speculation/Witch of Origins\|Witch of Origins]], who will live for one thousand years in the future.
-She holds the motherly magical power to give birth to 1 from the sea of 0. 
-
-</div></div>
- 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/characters/maria/#069dc9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-She is loyally protected by [[Characters/Beatrice\|Beatrice]], who understands her true worth.
-The two of them are members of the same alliance. 
-
-</div></div>
-~ [[Characters/Maria#Alliance\|Maria#Alliance#Future]]
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tips/mariage-sorciere/#bb7147" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless power in its truest sense. 
-
-</div></div>
- ~ [[Tips/Mariage Sorcière\|Mariage Sorcière]]
+  
+> It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless power in its truest sense.
+> ~ [[Tips/Mariage Sorcière\|Mariage Sorcière]]
 
 So it would be more accurate to say to say that "The tea party", or "Purgatory" as it is also called, is a framework with rules defined not just by Beatrice, but by all of [[Tips/Mariage Sorcière\|Mariage Sorcière]], and the various characters that appear within it have their own independent agency within the character traits given to them by their creators.
 Some of them are based on real people, others on objects, but only Virgilia sticks out for being given the title of witch and not furniture. This could be because Kumasawa herself played into these fantasies, unlike Genji who just executed Kinzo's will with no beliefs of his own, that said she IS a character on the same level as Ronove, the stakes of purgatory, or even Kanon and Shannon in a sense.
@@ -520,8 +501,9 @@ Other less appealing solutions include the two of them being lured outside, mayb
 
 As for the physician himself, we know he retreated to his own room on the second floor earlier in the day, so he could have come down and helped Eva with the murder without interacting with anybody. Or at least almost anybody, because in the preceding scene to Eva falling asleep we see George leave the room to get some coffee, and in his narration he mentions talking to Nanjo before he... floats down from the second floor window with Beatrice????
 
+> 
 > __George did not go down the stairs of the guesthouse.__
-> —
+> ———
 > __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__
 
 The real version of this scene very likely involves Sayo (and/or X Beatrice) luring him out by using Shannon's appearance, which we see as Beato asking for his help and leading him out with the promise of letting him meet Shannon again.
@@ -689,37 +671,10 @@ On top of a skyscraper, Bern appears to Ange to recruit her. In exchange she off
 And there you have it. All the mysteries of banquet fully explained to the best of our ability... <font color="#ffdd33">wait what's Crunter doing with that megaphone?</font>
 
 
+<font color="#00b050"><b>Don't tell me you forgot about our mysterious person Y, we still have not disclosed their identity have we?! Plus you know, who would actually believe that Eva Beatrice is simply just Eva? It would be so boring indeed wouldn't it? 
+If only there was someone else we could suspect. Someone besides Eva and Hideyoshi that the cigarette hint could be referring to. Do we know about *anyone else that smokes in this story*?</b></font>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<font color="#00b050">Don't tell me you forgot about our mysterious person Y, we still have not disclosed their identity have we?! Plus you know, who would actually believe that Eva Beatrice is simply just Eva? It would be so boring indeed wouldn't it? 
-If only there was someone else we could suspect. Someone besides Eva and Hideyoshi that the cigarette hint could be referring to. Do we know about *anyone else that smokes in this story*?</font>
-
-<font color="#00b050">Well, I can think of someone... Someone one would never suspect... Someone with a good reason to exterminate the Ushiromiya family, as a way to spite her own sister and gain access to Kinzo's wealth trough Ange... Someone who is LITERALLY SHOWN  WITH THE GHOST OF EVA BEATRICE BEHIND HER!</font>
+<font color="#00b050"><b>Well, I can think of someone... Someone one would never suspect... Someone with a good reason to exterminate the Ushiromiya family, as a way to spite her own sister and gain access to Kinzo's wealth trough Ange... Someone who is LITERALLY SHOWN  WITH THE GHOST OF EVA BEATRICE BEHIND HER!</b></font>
 
 > [!note]- SHOW YOURSELF CULPRIT Y! SHOW YOURSELF, WITCH OF ROKKENJIMA!
 > 

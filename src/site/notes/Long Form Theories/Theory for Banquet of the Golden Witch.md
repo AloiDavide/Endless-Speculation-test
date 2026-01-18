@@ -135,10 +135,6 @@ As Battler's opponent maybe she represents Sayo exclusively, but the claim of th
 This interpretation would help solidify the distinction between Sayo and X Beatrice.
 
 Alternatively, we can take the easier route and say that by virtue of the meta nature of the tea party, she really is all of them! That is to say the traits and memories of every Beatrice discussed coalesce into this character.
-
-
-
----
 ## Part 2: The absolute nightmare that made us bang our heads against the wall
 <center><i>Also known as the ABSOLUTELY DIABOLICAL linked closed rooms HOLY SHIT WHAT WERE THEY THINKING</i></center>
 
@@ -610,7 +606,7 @@ Here they can reach a "pretend peace", in which Battler doesn't remember what si
 ![Pasted image 20251230162627.png](/img/user/Attachments/Pasted%20image%2020251230162627.png)
 
 But right at that moment... Ange literally *breaks* into the golden land and forces them out of the stalemate (this is sort of her specialty as we'll see), coincidentally giving Beato the perfect excuse to unmask herself and go back to playing the villain role.
-## Part 5: The tea parties
+## Part 𝑖: The tea parties
 <center><i>And a message from the sponsors</i></center>
 
 Let's conclude by talking about sponsors. Not our sponsors, but the witches's sponsors. We learn that Ange's sudden entrance was orchestrated by Bernkastel. She couldn't allow the stalemate to continue, nor could she rely on Beato ending it herself, so she was forced to counter with a move of her own.

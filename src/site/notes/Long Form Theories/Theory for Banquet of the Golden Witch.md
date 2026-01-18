@@ -52,7 +52,7 @@ But! This time Rosa is put on the spot, and she can't fake being calm anymore, s
 
 Thus begins the story of how she happened to reach Kuwadorian and how a naive Beatrice fell off a cliff under her supervision, but who was this girl?
 
-Now would be a good time to recap the many incarnation of the golden witch up to this point..
+Now would be a good time to recap the many incarnation of the golden witch up to this point.
 Originally, Kinzo was given a large sum of money by a woman that he became obsessed with. She's at the beginning of everything so we'll call her [[Characters/Alpha Beatrice\|Alpha Beatrice]].
 
 There's almost no information about this person but we do think she at least existed. In one scene of Legend Genji indirectly places her death before the construction of the mansion in 1952, and we get a pretty good idea of Kinzo's feelings toward her, but it's unknown what exactly their relationship was, or if Beatrice was even her real name.
@@ -260,7 +260,8 @@ In multiple instances we see scenes outside of Battler's view in which Beato, Vi
 
 It would be tempting to say that everything, including Battler, is a magical creation of Beato as the sole author of the tea party. Her "golden land". But we need to confront the fact that outside forces can influence it, namely Lambdadelta and Bernkastel, with Ange's intrusion to be blamed on the latter.
 Then, we can't forget Maria's involvement. It's strongly suggested that without her contribution none of this could ever have manifested. Heck, the [[Characters/The Chiester Sisters Imperial Guard Corps\|chiester sisters]] are even based on her toys.
->
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/characters/maria/#130dad" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -280,7 +281,7 @@ The two of them are members of the same alliance.
 </div></div>
 ~ [[Characters/Maria#Alliance\|Maria#Alliance#Future]]
 
->
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tips/mariage-sorciere/#bb7147" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 

@@ -50,7 +50,7 @@ Here's an older theory requiring the presence of a 17th person whose information
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
-> - Her presence isn't required for any Legend solution, and her being here would break an interesting pattern with the episodes.
+> - Her presence isn't required for any Legend solution, and keeping the extras to a minimum is part of the self imposed challenge.
 
 </div></div>
 

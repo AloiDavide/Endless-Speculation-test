@@ -10,10 +10,10 @@
 - [[Characters/Lambdadelta\|Lambdadelta]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Bernkastel\|Bernkastel]]
+- [[Characters/Ange\|Ange]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Beatrice\|Beatrice]]
-- [[Characters/Ange\|Ange]]
+- [[Characters/Bernkastel\|Bernkastel]]
 
 { .block-language-dataview}
 
@@ -44,8 +44,8 @@
 - [[Characters/George\|George]]
 - [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Battler\|Battler]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Battler\|Battler]]
 
 { .block-language-dataview}
 
@@ -61,14 +61,15 @@
 { .block-language-dataview}
 
 ### Others
-- [[Characters/X Beatrice\|X Beatrice]]
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
 - [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
-- [[Characters/Amakusa\|Amakusa]]
 - [[Characters/Alpha Beatrice\|Alpha Beatrice]]
+- [[Characters/X Beatrice\|X Beatrice]]
+- [[Characters/0 Beatrice\|0 Beatrice]]
+- [[Characters/Amakusa\|Amakusa]]
 
 { .block-language-dataview}

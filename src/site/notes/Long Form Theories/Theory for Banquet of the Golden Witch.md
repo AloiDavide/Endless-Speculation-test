@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/long-form-theories/theory-for-banquet-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
+{"dg-publish":true,"permalink":"/long-form-theories/theory-for-banquet-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images blue-links"}
 ---
 
-Welcome to our episode 3 theory. For a refresher on the main points of the previous two you can check out the [[Theories TLDR\|theories TLDR]].
+Welcome to our episode 3 theory. For a refresher on the main points of the previous two you can check out the *[[Theories TLDR\|theories TLDR]]*.
 
 But before we even begin, a correction.
 
@@ -65,8 +65,8 @@ It's possible Kumasawa knew her as well, after all in the prologue she was using
 ---
 
 At some point Alpha Beatrice died by some unknown cause, and Kinzo, who like we said was really obsessed with this individual, decided to raise some girl as the golden witch Beatrice. To distinguish her from the the original, we gave her the code name [[Characters/0 Beatrice\|0 Beatrice]].
-<font color="#ffdd33">Btw, it's canonically pronounced as "not Beatrice"</font>
-<font color="#00b050">I have no idea why Hound decided to call her "not Beatrice", I was not consulted on this, I disavow</font>
+<font color="#ffdd33">Btw, it's canonically pronounced as "not Beatrice".</font>
+<font color="#00b050">I have no idea why Hound decided to call her "not Beatrice", I was not consulted on this, I disavow.</font>
 
 Ronove provides us with the following red truths about her and the flashback.
 - __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.

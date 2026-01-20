@@ -8,9 +8,11 @@
 ---
 # Theories
 
-Formerly known as student Beato (by us, who gaslit ourselves, into thinking that was a student costume or somethign and then were not able to stop calling her that) 
+Formerly known as student Beato, by us, who gaslit ourselves into thinking that was a student uniform and then were not able to stop calling her that before finally coming up with the current name.
 
 She is the 19th person X on Rokkenjima, at least in turn and alliance.
+
+She is the most likely to be the the model for the Beatrice portrait.
 
 
 
@@ -35,25 +37,14 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 
 
 
-> [!note]- REDACTED THEORY
-> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- X Beatrice is the daughter of 0 Beatrice
-> Claim...
+> [!note]- X Beatrice is the daughter of 0 Beatrice
+> X was born shortly before 0's death, making her about 19 years old.
 > 
 > ---
 > Leads:
-> - 
-> ---
-> Obstacles:
-> - optional
+> - It works timing wise.
+> - Relatives in anime tend to look really close to each other.
+> - The whole homunculus reincarnation story looks like a very Kinzo way of interpreting a line of hereditary succession.
 
 </div></div>
 
@@ -63,15 +54,14 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 
 
 
->[!note]- Battler's sin was against [[Characters/X Beatrice\|X Beatrice]]
+>[!note]- Battler's has sinned against X Beatrice
 > It was [[Characters/X Beatrice\|X beato]], not [[Characters/Sayo\|Sayo]], who had a coping mechanism that Battler destroyed.
 > 
 > ---
 > Leads:
-> - The sin is not between him and Beatrice, who we associate with Sayo.
+> - The sin is not between him and Beatrice. This could mean Sayo didn't yet identify as Beatrice, but there is a better way of making this fit by saying the sin was actually against X Beatrice, who rejects that role given to her by Kinzo.
 > - She is the one talking to Battler in reality during that scene. She has the outfit and at that point Sayo is probably dead, (although we're not 100% on that).
 > - In the meta layer she is the one with regrets about the sin, and she looks hurt after he doesn't remember.
-> - Crunter said so and that's the best answer we got.
 
 </div></div>
 
@@ -94,7 +84,7 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 > ---
 > Obstacles:
 > - Does the motive make any sense with the whole murder going on? Would this be the priority of a bunch of greedy but otherwise innocent people? And are the kids really the ones to whom this secret needs to be kept?
-> - Her presence isn't required for any Legend solution, and her being here would break an interesting pattern with the episodes.
+> - Her presence isn't required for any Legend solution, and keeping the extras to a minimum is part of the self imposed challenge.
 
 </div></div>
 

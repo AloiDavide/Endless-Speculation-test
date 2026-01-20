@@ -32,4 +32,4 @@ This man, who has travelled between the Japan Self-Defense Force, the Foreign Le
 </div></div>
 
 
-Apparently he used to work under [[Characters/Okonogi\|Okonogi]] at their previous job too.
+Apparently he also used to work under [[Characters/Okonogi\|Okonogi]] at their previous job. Wonder what that could be...

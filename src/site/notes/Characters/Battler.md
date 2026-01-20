@@ -84,7 +84,6 @@ Missing.
 Went to hell embraced by the witch.  
 But to the witch, that hell was the Golden Land.
 # Theories
-age:: 18
 
 ### Battler's sin
 - (Battler) __Six years ago, no person called Beatrice existed for me.__
@@ -99,11 +98,11 @@ age:: 18
 
 
 > [!note]- Battler's sin is denying magic
-> Battler's sin from 6 years ago is him destroying someone's Golden Land like Ange did with Maria as a child. This eventually led to [[Characters/Sayo\|Sayo]]'s actions, however she is not the person directly wounded by this act.
+> Battler's sin from 6 years ago is him destroying someone's Golden Land like Ange did with Maria as a child.
 > 
 > ---
 > Leads:
-> - The sin is not between him and Beatrice. This could mean Sayo didn't yet identify as Beatrice, but there is a better way of making this fit by saying the sin was actually against [[Characters/X Beatrice\|X Beatrice]].
+> - Mostly thematic reasons, and it would make sense that he doesn't remember if to him it wasn't that serious.
 
 </div></div>
 
@@ -113,15 +112,14 @@ age:: 18
 
 
 
->[!note]- Battler's sin was against [[Characters/X Beatrice\|X Beatrice]]
+>[!note]- Battler's has sinned against X Beatrice
 > It was [[Characters/X Beatrice\|X beato]], not [[Characters/Sayo\|Sayo]], who had a coping mechanism that Battler destroyed.
 > 
 > ---
 > Leads:
-> - The sin is not between him and Beatrice, who we associate with Sayo.
+> - The sin is not between him and Beatrice. This could mean Sayo didn't yet identify as Beatrice, but there is a better way of making this fit by saying the sin was actually against X Beatrice, who rejects that role given to her by Kinzo.
 > - She is the one talking to Battler in reality during that scene. She has the outfit and at that point Sayo is probably dead, (although we're not 100% on that).
 > - In the meta layer she is the one with regrets about the sin, and she looks hurt after he doesn't remember.
-> - Crunter said so and that's the best answer we got.
 
 </div></div>
 
@@ -162,13 +160,12 @@ age:: 18
 </div></div>
 
 
-
+---
 ### Battler's death in Alliance
 - __Ushiromiya Battler. I will now... kill you.__
 - __And right now, there is no one other than you on this island. The only one alive on this island is you. Nothing outside the island can interfere.__
 - __You are all alone on this island. And of course, I am not you. Yet I am here, now, and am about to kill you.__
 - What am I? 
----
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

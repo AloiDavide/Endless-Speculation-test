@@ -157,6 +157,7 @@ Relevant to:
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -177,6 +178,9 @@ Relevant to:
 </div></div>
 
 
+Beatrice in the tea party can use the red to identify any beatrice in the story as herself. After all "Beatrice is not one individual woman."
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -190,6 +194,7 @@ Relevant to:
 > - The description of golden magic from [[Tips/Beatrice's Titles\|Beatrice's Titles]] literally says it can "materialize imaginary precious metals".
 
 </div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -212,5 +217,3 @@ Relevant to:
 
 It seems that simply getting Battler to say he gives up is not enough, he has to actually believe in witches for Beatrice to win.
 
-
-Beatrice in the tea party can use the red to identify any beatrice in the story as herself. Dopotutto "Beatrice is not one individual woman."

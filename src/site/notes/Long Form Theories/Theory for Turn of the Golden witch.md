@@ -3,7 +3,7 @@
 ---
 
 
-Welcome to the second part of our Umineko theory. A quick refresher of the main points from Legend of the golden witch is available in the [[Theories TLDR\|theories TLDR]].
+Welcome to the second part of our Umineko theory. A quick refresher of the main points from Legend of the golden witch is available in the *[[Theories TLDR\|theories TLDR]]*.
 
 Turn of the golden witch is a lot more dense with information, but we'll hopefully make it easy to comprehend our thought process at every step of the way.
 
@@ -805,7 +805,9 @@ He finally breaks when back in the parlor [[Characters/Rosa\|Rosa]] sets up a le
 
 ## Part 𝑖: The Banquet
 <center>Thanks Battler, for being a weak pathetic coward!</center>
+
 #### 𝑖.1
+
 [[Characters/Battler\|Battler]] has invoked [[Characters/Beatrice\|Beatrice]], and the game is up. At that point he has officially lost the round. 
 The scenes we see from this point onward are assumed to be magical in nature and the things shown and said may not match reality even when [[Characters/Battler\|Battler]] is present.
 

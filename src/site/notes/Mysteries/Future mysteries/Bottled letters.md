@@ -11,6 +11,8 @@ Hilariously, when compared to Higurashi the game Beatrice plays against Bernkast
 ---
 ## Theories
 
+The Beatrice who wrote the letters is either Sayo or X Beatrice but not both, she is the same person who wrote in Maria's diary, and knowing who she is would help us decide is meta Beato represents only Sayo or all of them.
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -74,4 +76,6 @@ Two theories:
 
 </div></div>
 
+
+---
 

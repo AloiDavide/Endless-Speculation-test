@@ -89,19 +89,24 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 
 
 
-> [!note]- The epitaph leads you to the portrait
+> [!note]- The first part of the epitaph leads you to the portrait
 > The epitaph points to a secret passage one can find by examining the portrait of Beatrice the right way.
 > 
 > ---
 > Leads:
-> - The solution to the epitaph is supposedly a fairly dumb pun according to meta Evato.
-> - Sweetfish river is potentially referring to the the family tree.
+> - The solution to the epitaph involves a relatively down to earth wordplay according Eva.
+> - The the family tree interpretation for sweetfish river isn't completely off the mark according to EVA Beatrice.
 > - Bank = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
+> 	- ![Pasted image 20260111152420.png](/img/user/Attachments/Pasted%20image%2020260111152420.png)
+> - Maybe "the shore the two will tell you of" refers to two kanji.
 > - The oldest sister is Eva(絵羽)
 > 	- 絵 = picture / drawing / painting 
 > 	- 羽 = feather / wing
-> - Maybe the section of the painting with the wing effigy hides a key or some kind of mechanism.
+> - Beatrice's dress in the painting bears the wing effigy. Maybe Beatrice's portrait hides a key or some kind of mechanism.
 
 </div></div>
 
+
+It's supposed to be dumb worplay
+![Pasted image 20251125105138.png](/img/user/Attachments/Pasted%20image%2020251125105138.png)
 

@@ -97,7 +97,7 @@ She was a cutting-edge weapon, unique in the Sisters' Calvary, which tended to s
 >
 >---
 >Chiester 556 is described as having been killed by the [[Speculation/Black Magic\|Black Witch]], associated with Rosa, and there is a scene where Rosa destroys the rabbit holding the trumpet.
->![[Pasted image 20240828235514.png\|600]]
+>![Pasted image 20240828235514.png|600](/img/user/Attachments/Pasted%20image%2020240828235514.png)
 >![Pasted image 20240828235053.png|400](/img/user/Attachments/Pasted%20image%2020240828235053.png)
 
 </div></div>

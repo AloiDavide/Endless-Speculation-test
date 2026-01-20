@@ -111,3 +111,7 @@ Not much to say about him yet, other than he Knows [[Characters/Kinzo\|Kinzo]] i
 > 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
 
 </div></div>
+
+
+
+Krauss is aware of the existence of this gold and has an ingot. It's unknown how he got hold of it while being unaware of where the rest is. It must either be a fake or have been placed by somebody.

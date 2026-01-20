@@ -5,6 +5,7 @@
 This is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
 
 This will be impossible to follow without having read Umineko that far, and here we won't retread most of what happens in the original story.
+
 ## Part 1: Preface
 <center><i>Every team needs an editor, someone who is able to say "let's downscale the project", we learned this the hard way.</i></center>
 <p align="right">- Two madmen who couldn't bring themselves to downscale.</p>
@@ -199,7 +200,7 @@ Alright, so if the thing in the shed wasn't another corpse, then we can claim th
 
 Alternatively, that was someone alive pretending to be a corpse, after all we don't *really* need to lower the number of humans to 16, we can fit 17.
 But wait... Doesn't the red corner us? Don't we literally already have a functioning solution that we plan to use anyway?
-Well, yes, but we have not one, but *two top secret secret solutions*, that we would prefer to keep secret right now to create suspence for both our turn and banquet theory.
+Well, yes, but we have not one, but *two top secre solutions*, that we would prefer to keep in our pockets right now to create suspence for both our turn and banquet theory.
 For reasons that will be disclosed in the following games, we would prefer the number to be 16 at this point because our 17th person doesn't fit well in this version of the story. For that reason we'll go with the dummy option, and since it's not a body, it doesn't count as a body double for the red.
 It should also be noted that it can't be Sayo herself, because [[Characters/Kanon\|Kanon]] is present when they discover the corpses and "__No one else can go by Kanon's name! A different person can't claim that as their name!__".
 

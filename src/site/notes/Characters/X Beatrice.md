@@ -99,3 +99,11 @@ She is the 19th person X on Rokkenjima, at least in turn and alliance.
 </div></div>
 
 
+Fose Kinzo ha fatto un will per X ma lei si vuole uccidere quindi finanzia Sayo??
+Sayo e X hanno ottenuto 2 miliardi di yen 
+
+X NON é beatrice perchè il peccato non è nei confronti di beatrice in rosso.
+
+X ha un nome proprio diverso da Beatrice e 6 anni fa non si identificava come tale, perchè:
+__Six years ago, no person called [[Characters/Beatrice\|Beatrice]] existed for me.__
+__The sin I am now demanding that you remember is not between Ushiromiya Battler and Beatrice.

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links blue-truth"}
+{"dg-publish":true,"permalink":"/tips/bernkastel-s-letter/","contentClasses":"center-headings red-truth red-links"}
 ---
 
 
-## WARNING : Higurashi spoilers ahead.
+<center><h2>WARNING. 
+Higurashi spoilers ahead</h2></center>
 ## Transcription
 
 "Are you feeling well?" Such a typical greeting would most certainly sound like sarcasm to you in your current situation.  
@@ -88,7 +89,7 @@ For the sake of meeting a friend I haven't seen in a long time, please, come bac
 From your friend who still believes to be dear to you,  
 Bernkastel  
   
-_After the letter, the story includes two poems. They were included in the original pamphet that contained both Bernkastel's Letter and Anti-Mystery vs. Anti-Fantasy_
+_After the letter, the story includes two poems. They were included in the original pamphlet that contained both Bernkastel's Letter and Anti-Mystery vs. Anti-Fantasy_
 
 ![Pasted image 20241205231255.png](/img/user/Attachments/Pasted%20image%2020241205231255.png)
 ![Pasted image 20241205231304.png](/img/user/Attachments/Pasted%20image%2020241205231304.png)
@@ -96,9 +97,8 @@ _After the letter, the story includes two poems. They were included in the origi
 ---
 ## Corollaries
 
-We believe the recipient of the letter is the character who shows up in the sea of fragments in the Higurashi sequel and talks to Hanyuu.
+We believe the recipient of the letter is the character who shows up in the Higurashi sequel anime and talks to Hanyuu in the sea of fragments . Whoever it is, it's the highest ranking witch ever mentioned.
 
-Whoever it is, it's the highest ranking witch ever mentioned.
 The disease that affects high ranking voyager witches is boredom, after all it's the only way to really kill them. Bern is grateful to Lambda for setting up this whole Umineko business because it lets her stave off boredom a bit longer.
 
 ## The three rules

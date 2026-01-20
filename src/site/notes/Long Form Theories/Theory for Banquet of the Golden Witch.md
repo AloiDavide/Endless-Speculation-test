@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/long-form-theories/theory-for-banquet-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
 ---
 
-Before the theory even begins, a correction.
+Welcome to our episode 3 theory. For a refresher on the main points of the previous two you can check out the [[Theories TLDR\|theories TLDR]].
+
+But before we even begin, a correction.
 
 ![Pasted image 20251026230322.png](/img/user/Attachments/Pasted%20image%2020251026230322.png)
 

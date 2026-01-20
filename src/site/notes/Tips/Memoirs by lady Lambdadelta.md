@@ -172,8 +172,8 @@ That's right. Until I happened to meet a certain child.
 [**BGM: HARUKA**](https://polsy.org.uk/play/yt/?vurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGh1VTKXCGVQ&autoplay=1)  
   
   
-[Actual translator's note: The above note is included in (and translated from) the original Japanese text. This mysterious person of an ambiguous gender will henceforth be referred to with the pronoun they.]  
-  
+_Actual translator's note: The above note is included in (and translated from) the original Japanese text. This mysterious person of an ambiguous gender will henceforth be referred to with the pronoun they._
+
 Straight to the point, huh... That's right... Those were the words I've been longing for.  
 But I decided to stay calm and press the point.  
   
@@ -214,7 +214,7 @@ That was the exact same wish as that little girl had.
   
 And then, as I helped myself to the composition formula of that witch's magic system... I realized that she had constructed a vast magic system using an interpretation unique to her, one that I hadn't been aware of until then.  
   
-[Actual translator's note: From here on Lambdadelta starts occasionally using 'she' to refer to the witch.]  
+_Actual translator's note: From here on Lambdadelta starts occasionally using 'she' to refer to the witch._
   
 This kid was still inexperienced, no question about it. Her magical world was still only half finished. However, the composition formula leading to its formation was flawless and had infinite possibilities.  
 I'm sure it'll take a long time to learn to master that infinity, but there was no room for doubt that she had already opened the door and was reaching for the other side.  
@@ -287,3 +287,5 @@ The first girl is 99% that character from Higurashi we don't want to spoil.
 The second girl is 99% Beatrice, so Sayo in our version of the story.
 
 She basically told Beato that as long as [[Tips/Bernkastel's letter#The three rules\|Rule X]] exists she'll stay on her side.
+
+Not sure who the letter is aimede at, probably nobody we know because she speaks of Bernkastel in third person.

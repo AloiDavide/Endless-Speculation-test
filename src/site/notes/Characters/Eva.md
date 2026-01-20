@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/eva/","contentClasses":"center-headings","tags":["ushiromiya"]}
+{"dg-publish":true,"permalink":"/characters/eva/","contentClasses":"center-headings red-truth","tags":["ushiromiya"]}
 ---
 
 

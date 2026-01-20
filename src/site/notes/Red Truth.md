@@ -95,7 +95,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __Rosa's and Maria's deaths were homicides__.
 ## Final confrontation with [[Characters/EVA Beatrice\|Evato]]
 ### The death of [[Characters/Rosa\|Rosa]] and [[Characters/Maria\|Maria]]
-- (Evato) __I was in the room the whole time__. __For the whole stretch of time surrounding the crime__.
+- (Evato) __I was in the room the whole time__. __For the whole stretch of time surrounding the crime__
 ### Crime Scene in the [[Mysteries/Hall\|Hall]]
 - __Kyrie didn't think that they needed food__.
 - Since going without food for about a day wouldn't kill them, __she claimed that they should not leave the guesthouse__. And yet, __she herself suggested that they should leave the guesthouse to get food__.

@@ -11,10 +11,15 @@
 This note refers to the meta character in the tea party who calls herself the Golden and Endless Witch, and was challenged by [[Characters/Battler\|Ushiromiya Battler]].
 
 You instead might be looking for:
-- [[Characters/Sayo\|Sayo]]
 - [[Characters/X Beatrice\|X Beatrice]]
-- \[REDACTED\]
-- \[REDACTED\]
+- [[Characters/0 Beatrice\|0 Beatrice]]
+- [[Characters/Alpha Beatrice\|α Beatrice]]
+- [[Characters/Sayo\|Sayo]]
+
+Or perhaps:
+- [[Characters/EVA Beatrice\|EVA Beatrice]]
+- [[Characters/Ange\|ANGE Beatrice]]
+- [[Characters/Virgilia\|Virgilia]]
  
  ---
 # Descriptions
@@ -141,10 +146,10 @@ Relevant to:
 > [[Tips/Beatrice's Titles\|Beatrice's Titles]] ([[Speculation/Golden Witch\|golden]] and [[Speculation/Endless Witch\|endless]]) are passed down through different unrelated means. The former involves solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]] while the latter is a long
 > 
 > During the coronation of Evato, Beatrice confirms she is inheriting both titles.
-> - ![[Pasted image 20241106234042.png\|750]]
+> - ![Pasted image 20241106234042.png|750](/img/user/Attachments/Pasted%20image%2020241106234042.png)
 >
 > According to Maria's diary the main criterion for coronating a golden witch seems to be solving the epitaph.
-> - ![[Pasted image 20241106234411.png\|750]] 
+> - ![Pasted image 20241106234411.png|750](/img/user/Attachments/Pasted%20image%2020241106234411.png) 
 > 
 > But unless we completely write off the tips as magical nonsense, we know the [[Tips/Regarding the Succession of Witches\|sequence of endless witches]] is recommendation based and it pre-dates Virgilia by some generations, hinting at a different real world parallel.
 >  
@@ -159,7 +164,7 @@ Relevant to:
 > [!note]- The witch Beatrice is Sayo's stand
 > Sayo is Beatrice in the sense that she is behind most of the murders. We aren't sure to what extent Kinzo's will is involved, but now Sayo is in charge and she aims to convince Battler that magic exists by committing inexplicable crimes. 
 > Therefore, the Beatrice we know if her spiritual equivalent, aka.... her stand.
-> ![[Pasted image 20250325162423.png\|600]]
+> ![Pasted image 20250325162423.png|600](/img/user/Attachments/Pasted%20image%2020250325162423.png)
 > 
 > ---
 > Leads:
@@ -206,3 +211,6 @@ Relevant to:
 
 
 It seems that simply getting Battler to say he gives up is not enough, he has to actually believe in witches for Beatrice to win.
+
+
+Beatrice in the tea party can use the red to identify any beatrice in the story as herself. Dopotutto "Beatrice is not one individual woman."

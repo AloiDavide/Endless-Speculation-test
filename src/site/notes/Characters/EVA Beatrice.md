@@ -19,6 +19,7 @@ Will she be able to overcome the trials that forced her predecessor to surrender
 # Theories
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -75,11 +76,12 @@ Will she be able to overcome the trials that forced her predecessor to surrender
 > [!tip]- Random evato ideas to hide
 > She is the face of the [[Speculation/Black Magic\|Black Witch]] when Ange faces her.
 >She narrates the Banquest character descriptions. 
->"If only there wasn't that stupid epitaph, I wouldn't have needed a stake. What a pain."
->Did she take on Sayo's role against her will in banquet?
+>She remarks "If only there wasn't that stupid epitaph, I wouldn't have needed a stake. What a pain." Is Eva going along with Sayo's modus operandi against her will?
 >She is either not really present in bamqiuet, or she is person X.
 
 </div></div>
 
 
 
+She IS eva's black witchsona.
+Does inheriting the titles require her to have at one point joined mariage sorciere? Naaaah

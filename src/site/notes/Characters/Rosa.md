@@ -79,7 +79,7 @@ Crunter is convinced Rosa smuggled some gold ingots into Rokkenjima because she 
 >
 >Leads: 
 >- Beatrice is unable to say in red that Sakutaro is unique.
-> 	- ![[Pasted image 20240828230337.png\|600]]
+> 	- ![Pasted image 20240828230337.png|600](/img/user/Attachments/Pasted%20image%2020240828230337.png)
 > - It ends up in [[Characters/Kawabata\|Kawabata]]'s home, meaning it probably was on the island.
 
 </div></div>

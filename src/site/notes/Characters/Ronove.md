@@ -42,7 +42,7 @@ He must possess tremendous magical power, but since he always stays out of the s
 > - When Genji is described as Furniture in [[Characters/Genji#Turn\|Genji#Turn#Tea Party]], it is mentioned that an high ranking demon helped [[Characters/Kinzo\|Kinzo]] in his construction. 
 > 	- The idea that unlike [[Characters/Shannon\|Shannon]] and [[Characters/Kanon\|Kanon]] he wasn't totally Kinzo's creation maybe hints at the fact that unlike them, [[Characters/Genji\|Genji]] wasn't raised with this framing and only later developed his devotion to the role for unknown reasons.
 > - When [[Characters/Ronove\|Ronove]] fights [[Characters/Jessica\|Jessica]] in alliance, she mistakes him for [[Characters/Genji\|Genji]], then he calls the servant his "little brother" and "vessel", not unlike [[Characters/Virgilia\|Virgilia]] and [[Characters/Kumasawa\|Kumasawa]].
-> 	- ![[Pasted image 20240829001540.png\|Pasted image 20240829001540.png]]
+> 	- ![Pasted image 20240829001540.png](/img/user/Attachments/Pasted%20image%2020240829001540.png)
 
 </div></div>
 

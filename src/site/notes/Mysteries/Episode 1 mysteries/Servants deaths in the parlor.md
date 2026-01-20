@@ -29,7 +29,7 @@ __Only the five master keys were left, and 'Rosa' was holding all of them__! __a
 > - Gengi, Kumasawa and Nanjo had accepted their exile from the study without much of a fuss. They didn't think they were in much danger.
 > - The parlor was supposedly locked too, but the culprit would have had a master key, and it's possible the three let the intruder in willingly thinking it was an ally.
 > - Without any red truth regarding the master keys, this is not a closed room at all.
-> - ![[Pasted image 20250331175509.png\|Pasted image 20250331175509.png]]
+> - ![Pasted image 20250331175509.png](/img/user/Attachments/Pasted%20image%2020250331175509.png)
 
 </div></div>
 

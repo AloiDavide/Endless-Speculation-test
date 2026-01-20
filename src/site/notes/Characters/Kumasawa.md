@@ -75,7 +75,7 @@ As long as I could construct a closed room murder, nothing else mattered.
 > - Virgilia transforms out of Kumasawa on her first appearance on the game board, it's hard to argue with that.
 > - She mentions being really old, but she looks quite young in her witch form.
 > - Mackerel jokes
-> 	- ![[Pasted image 20250413161435.png\|Pasted image 20250413161435.png]]
+> 	- ![Pasted image 20250413161435.png](/img/user/Attachments/Pasted%20image%2020250413161435.png)
 > - She is a mentor figure for [[Characters/Shannon\|Shannon]] and [[Characters/Kanon\|Kanon]], aka. [[Characters/Sayo\|Sayo]].
 
 </div></div>
@@ -98,3 +98,21 @@ As long as I could construct a closed room murder, nothing else mattered.
 > - This is probably circular evidence, but Ronove Viriglia and Gaap are shown taking orders from Beatrice, implying a relationship of servitude.
 
 </div></div>
+
+
+> [!note]- Kumasawa knew the original Beatrice
+> The golden witch, that is to say Sayo, gave her the letter and told her to make it look as if the it appeared out of thin air. So that is exactly what she did. 
+> 
+> ---
+> Leads:
+> - This is just based off of Virgilia's one line about her master who taught her magic, and her being the previous golden witch.
+> - ![Pasted image 20251215193917.png](/img/user/Attachments/Pasted%20image%2020251215193917.png)
+
+
+![Pasted image 20251215222942.png](/img/user/Attachments/Pasted%20image%2020251215222942.png)
+
+![Pasted image 20251215223213.png](/img/user/Attachments/Pasted%20image%2020251215223213.png)
+
+That's the writing on the chapel. What does it mean? Is it how she became Beatrice? Did she solve something aside from the epitaph?
+
+Then conversation continues with them assuming she was trying to solve the epitaph we know but that's a red herring.

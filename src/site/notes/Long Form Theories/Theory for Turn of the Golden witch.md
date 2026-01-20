@@ -3,7 +3,7 @@
 ---
 
 
-Welcome to the second part of our Umineko theory. A quick refresher of the main points from Legend of the golden witch is available in the *[[Theories TLDR\|theories TLDR]]*.
+Welcome to the second part of our Umineko theory. A quick refresher of the main points from "Legend of the golden witch" is available in the *[[Theories TLDR\|theories TLDR]]*.
 
 Turn of the golden witch is a lot more dense with information, but we'll hopefully make it easy to comprehend our thought process at every step of the way.
 

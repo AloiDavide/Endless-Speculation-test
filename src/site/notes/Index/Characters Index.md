@@ -6,21 +6,21 @@
 
 ### Witches
 - [[Characters/Virgilia\|Virgilia]]
-- [[Characters/Maria\|Maria]]
 - [[Characters/Lambdadelta\|Lambdadelta]]
+- [[Characters/Maria\|Maria]]
 - [[Characters/Kinzo\|Kinzo]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
-- [[Characters/Battler\|Battler]]
-- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Bernkastel\|Bernkastel]]
+- [[Characters/Beatrice\|Beatrice]]
+- [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
 ### Furniture
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
-- [[Characters/Shannon\|Shannon]]
 - [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
+- [[Characters/Shannon\|Shannon]]
 - [[Characters/Sakutarou\|Sakutarou]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Kanon\|Kanon]]
@@ -39,13 +39,13 @@
 - [[Characters/Kyrie\|Kyrie]]
 - [[Characters/Krauss\|Krauss]]
 - [[Characters/Kinzo\|Kinzo]]
-- [[Characters/Jessica\|Jessica]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
+- [[Characters/Jessica\|Jessica]]
 - [[Characters/George\|George]]
-- [[Characters/Eva\|Eva]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
-- [[Characters/Ange\|Ange]]
+- [[Characters/Eva\|Eva]]
 - [[Characters/Battler\|Battler]]
+- [[Characters/Ange\|Ange]]
 
 { .block-language-dataview}
 
@@ -61,15 +61,15 @@
 { .block-language-dataview}
 
 ### Others
+- [[Characters/X Beatrice\|X Beatrice]]
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
 - [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
-- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Kasumi\|Kasumi]]
-- [[Characters/Alpha Beatrice\|Alpha Beatrice]]
-- [[Characters/X Beatrice\|X Beatrice]]
-- [[Characters/0 Beatrice\|0 Beatrice]]
+- [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Amakusa\|Amakusa]]
+- [[Characters/Alpha Beatrice\|Alpha Beatrice]]
+- [[Characters/0 Beatrice\|0 Beatrice]]
 
 { .block-language-dataview}

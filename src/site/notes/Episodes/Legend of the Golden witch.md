@@ -6,10 +6,10 @@
 ## [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 
 ### Episode one mysteries
-- [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
-- [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
 - [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
+- [[Mysteries/Episode 1 mysteries/Eva and Hideyoshi's room\|Eva and Hideyoshi's room]]
 - [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]]
+- [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|Kanon's death in the boiler room]]
 - [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
 
 { .block-language-dataview}

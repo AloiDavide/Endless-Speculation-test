@@ -102,7 +102,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __the reason she changed her mind was not passed on to anyone, nor was it written down__!
 - __Until the last instant before she died, Kyrie's behavior pattern of 'not going to get food = not going to the mansion' was maintained__!
 - __Kyrie did not leave anything written down__!
-## [[Mysteries/Episode 3 mysteries/Nanjo's death in Banquet\|Nanjo's death in Banquet]]
+## [[Nanjo's death in Banquet\|Nanjo's death in Banquet]]
 - __After [[Characters/Jessica\|Jessica]] was injured, Eva was constantly under Battler's supervision. [[Characters/Battler\|Battler]] is neither the culprit nor an accomplice. By this, we can establish the perfect alibi for [[Characters/Eva\|Eva]]__.
 - __There are no more then 18 humans on this island__.
 - __No life form other then humans have any connections to this game__.

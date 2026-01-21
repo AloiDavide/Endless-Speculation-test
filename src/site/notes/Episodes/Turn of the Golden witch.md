@@ -6,10 +6,10 @@
 ## [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
 
 ### Episode two mysteries
-- [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Crime scene in Natsuhi's room]]
 - [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's room\|Crime scene in Jessica's room]]
-- [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Crime scene in the chapel]]
 - [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|Crime scene in the servant room]]
+- [[Mysteries/Episode 2 mysteries/Crime scene in Natsuhi's room\|Crime scene in Natsuhi's room]]
+- [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Crime scene in the chapel]]
 
 { .block-language-dataview}
 ### Episode two tips

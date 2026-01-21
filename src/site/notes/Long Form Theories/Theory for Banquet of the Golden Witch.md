@@ -551,7 +551,7 @@ After Jessica attacks her she fires a blank by mistake injuring her eyes, then s
 
 We could ramble on for paragraphs about different interpretations of the following scene, if keeping the motivations consistent isn't a requirement and we just care about the red, then having a free roaming joker card like Sayo completely bypasses Evato's web of red truths. Let alone by considering X might also be there.
 
-This leaves a ton of room to come up with scenarios for *[[Mysteries/Episode 3 mysteries/Nanjo's death in Banquet\|how Nanjo was killed]]*, how much of the scene with Jessica and Kanon actually happened vs how much of it was the magic narration, and why she was left alive for the time being only to die later. For the sake of brevity let's try to put forward one sequence of events with as few assumptions as possible.
+This leaves a ton of room to come up with scenarios for *[[Nanjo's death in Banquet\|how Nanjo was killed]]*, how much of the scene with Jessica and Kanon actually happened vs how much of it was the magic narration, and why she was left alive for the time being only to die later. For the sake of brevity let's try to put forward one sequence of events with as few assumptions as possible.
 
 After Eva and Battler leave, Sayo simply shows up and shoots Nanjo as he begs for his life. Then she uses Kanon's name and voice to take Jessica away to a different room; this is why Jessica is still alive when Evato lists all the victims in red in the tea party.
 Notably, Kanon in this scene doesn't want to be touched, she probably doesn't want Jessica to notice Kanon is a girl through physical contact, or the clothes.

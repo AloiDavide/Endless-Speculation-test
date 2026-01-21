@@ -58,11 +58,12 @@ body {
     font-weight: 700;
   }
 
-  /*Works on all existing italic links*/
-  .blue-links .cm-em a{
+    /*Works on all existing italic links*/
+    .blue-links em a,
+    .blue-links a:has(em){
       color: #00b0f0 !important;
       font-weight: 700;
-  }
+    }
 
 
   .red-truth strong{

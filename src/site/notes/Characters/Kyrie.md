@@ -61,7 +61,7 @@ She has served as Rudolf’s right hand in several shady pieces of business, gui
 
 ---
 Her corpse was found in a guest room deep within the mansion.  
-There was a single hole right in the center of her forehead. It's probably reasonable to assume she was shot with a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or something similar.  
+There was a single hole right in the center of her forehead. It's probably reasonable to assume she was shot with a gun or something similar.  
 
 A [[Characters/The Seven Stakes of Purgatory\|demon stake]] was buried in the hole in her forehead, but it's hard to imagine that this was the cause of death.  
 

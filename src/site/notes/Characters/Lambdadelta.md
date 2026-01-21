@@ -42,6 +42,4 @@ She'll ally with Beatrice as a general rule, but she'll support [[Characters/Bat
 The willpower of Certainty is far stronger than the [[Speculation/Endless Witch\|Endless]], which just repeats over and over idly... 
 # Theories
 
-
-
 See [[Tips/Memoirs by lady Lambdadelta\|Memoirs by lady Lambdadelta]]

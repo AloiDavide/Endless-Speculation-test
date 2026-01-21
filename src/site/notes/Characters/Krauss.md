@@ -92,26 +92,4 @@ Not much to say about him yet, other than he Knows [[Characters/Kinzo\|Kinzo]] i
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- Krauss burns Kinzo in the boiler room
-> It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
-> He probably didn't think of the smell. He was never the brightest.
-> 
-> ---
-> Leads:
-> - Of the people most likely to know about Kinzo's death, he the only one to not feel much affection or respect for the old man.
-> - Everyone else would have to obey him as either his employee or overly subservient wife.
-> ---
-> Obstacles:
-> - What reason was there to incinerate the body? Did he think nobody would notice the fingers?
-> - The body was never found in [[Episodes/Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
-> 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
-
-</div></div>
-
-
-
 Krauss is aware of the existence of this gold and has an ingot. It's unknown how he got hold of it while being unaware of where the rest is. It must either be a fake or have been placed by somebody.

@@ -3,9 +3,7 @@
 ---
 
 
-[[Speculation/Transcript of the conversation in the Chapel\|Transcript of the conversation in the Chapel]] the previous day
-
-### Axioms
+## Axioms
 - __Regardless of whether they were alive or dead, the six definitely entered trough the door__
 - __Only one key to the chapel exists__!
 - __It is impossible to unlock the lock to the chapel with anything but the chapel's key__!!
@@ -26,7 +24,12 @@ But the final __red__ truth in Alliance reveals Battler's theory to be just a __
 - __The six were already dead by the time they were discovered! All of their deaths were homicides! All six were genuine victims and did not take part in a mutual murder! There was no simultaneous murder!!__
 - __There was no one hiding in the chapel. Therefore, the shut-in murder you suggest does not work!__
 - __When the six were murdered in the chapel, the culprit was inside the chapel__!
-### Corollaries
+
+---
+
+[[Speculation/Transcript of the conversation in the Chapel\|Transcript of the conversation in the Chapel]] the previous day
+
+## Corollaries
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

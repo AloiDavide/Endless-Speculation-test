@@ -20,7 +20,7 @@ However, in the context of closed room mysteries, this power becomes an ultimate
 
 
 
-> [!note]- Gaap is the meta counterpart of Nanjo
+> [!tip]- Gaap is the meta counterpart of Nanjo
 > Yes, we're serious.
 > Look there aren't many options left. It has to be someone involved with Sayo. If it's not [[Characters/Nanjo\|Nanjo]] we're left with just about [[Characters/Kawabata\|Kawabata]].
 >

@@ -63,9 +63,7 @@ Here's a super obsolete theory from before we ironed out the details of our Sayo
 > - If we claim Kanon is already dead like Kinzo this needs to hold for every episode, but it at least is definitely false in Alliance.
 > - "No one escapes, all die." Gets in the way of him leaving the island after being there.
 
-
 Oh and let's not forget [[Characters/Kinzo\|Kinzo]] was here too.
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

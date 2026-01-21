@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/episode-2-mysteries/crime-scene-in-natsuhi-s-room/","contentClasses":"red-links red-truth"}
+{"dg-publish":true,"permalink":"/mysteries/episode-2-mysteries/crime-scene-in-natsuhi-s-room/","contentClasses":"red-links red-truth center-headings"}
 ---
 
 
-### Axioms
+## Axioms
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. 
 - __All of the master keys were under [[Characters/Rosa\|Rosa]]'s control!__ 
 - __After the master keys came into Rosa's control, never did any of them leave her hands! Except for the time when she lent one to Battler to unlock Natsuhi's room.__

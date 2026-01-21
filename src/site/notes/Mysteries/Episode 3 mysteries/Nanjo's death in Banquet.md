@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mysteries/episode-3-mysteries/nanjo-s-death-in-banquet/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
-### Axioms
+## Axioms
 - __After [[Characters/Jessica\|Jessica]] was injured, Eva was constantly under Battler's supervision. [[Characters/Battler\|Battler]] is neither the culprit nor an accomplice. By this, we can establish the perfect alibi for [[Characters/Eva\|Eva]]__.
 - __[[Characters/Kinzo\|Kinzo]] is dead__.
 - __[[Characters/Krauss\|Krauss]] is dead__.
@@ -36,7 +36,7 @@
 
 ---
 
-### Corollaries
+## Corollaries
 You just need one person not accounted for by the list to solve this completely, and because Kanon and Shannon are the same person, we are down to 16 humans, one less than the limit of 17.
 
 The official culprit in our theory is [[Characters/Sayo\|Sayo]], but it could be [[Characters/X Beatrice\|X Beatrice]] or anybody else.

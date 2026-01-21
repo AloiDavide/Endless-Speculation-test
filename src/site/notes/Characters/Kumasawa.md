@@ -32,7 +32,7 @@ Died in the [[Mysteries/Episode 2 mysteries/Crime scene in the servant room\|ser
 The finishing touches are yet to come
 
 ---
-Her corpse, which had gone missing, was later found in the [[courtyard\|courtyard]].  
+Her corpse, which had gone missing, was later found in the courtyard.
 At that time, it had a weapon shaped like a [[Characters/The Seven Stakes of Purgatory\|stake]] rammed into its ankle.  
 
 With this, even the eighth twilight is finished.
@@ -44,8 +44,8 @@ This elderly woman is a part-timer who, though she has quit her job several time
 She is crafty and more than competent when it comes to performing her duties, but because of her chattiness and love of rumors, she is not highly regarded as a servant.
 
 ---
-Her corpse was found in the [[second floor guest room\|guest room on the second floor]].  
-The weapon used on her is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
+Her corpse was found in the second floor guest room|guest room on the second floor.  
+The weapon used on her is assumed to be a gun or spear-shaped object.  
 
 This seldom-used second floor guest room was her secret napping spot.
 ## Alliance

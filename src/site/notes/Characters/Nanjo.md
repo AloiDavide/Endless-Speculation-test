@@ -50,7 +50,7 @@ Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo i
 
 ---
 His corpse was found in the hallway in front of the mansion's servant room.  
-The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.  
+The weapon used on him is assumed to be a gun or spear-shaped object.  
 
 Just a little longer, and he'd probably have managed to return alive. However, in the very end, the witch did not permit that.
 ## Alliance
@@ -64,26 +64,10 @@ Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo i
 
 ---
 His corpse was found behind the mansion.  
-About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
+About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a powerful gun or something similar.  
 
 A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the body.
 # Theories
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Gaap is the meta counterpart of Nanjo
-> Yes, we're serious.
-> Look there aren't many options left. It has to be someone involved with Sayo. If it's not [[Characters/Nanjo\|Nanjo]] we're left with just about [[Characters/Kawabata\|Kawabata]].
->
->She is really good at creating closed rooms just like Nanjo when he lies about someone being dead.
->
->We believe in Gaanjo.
-
-</div></div>
-
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -100,5 +84,31 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 > - Kumasawa's family also got the money, and she has a personal attachment to Sayo.
 > - Gohda will comply if threatened, he probably isn't even in on the plan from the start.
 > - This is probably circular evidence, but Ronove Viriglia and Gaap are shown taking orders from Beatrice, implying a relationship of servitude.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!note]- REDACTED THEORY
+> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- Gaap is the meta counterpart of Nanjo
+> Yes, we're serious.
+> Look there aren't many options left. It has to be someone involved with Sayo. If it's not [[Characters/Nanjo\|Nanjo]] we're left with just about [[Characters/Kawabata\|Kawabata]].
+>
+>She is really good at creating closed rooms just like Nanjo when he lies about someone being dead.
+>
+>We believe in Gaanjo.
 
 </div></div>

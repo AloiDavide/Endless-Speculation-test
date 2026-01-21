@@ -511,7 +511,7 @@ Other less appealing solutions include the two of them being lured outside, mayb
 
 As for the physician himself, we know he retreated to his own room on the second floor earlier in the day, so he could have come down and helped Eva with the murder without interacting with anybody. Or at least almost anybody, because in the preceding scene to Eva falling asleep we see George leave the room to get some coffee, and in his narration he mentions talking to Nanjo before he... floats down from the second floor window with Beatrice????
 
-> *[[George's disappearence from the Guesthouse\|George's disappearence from the Guesthouse]]*
+> *[[Mysteries/Episode 3 mysteries/George's disappearance from the Guesthouse\|George's disappearance from the Guesthouse]]*
 > __George did not go down the stairs of the guesthouse.__
 > ———
 > __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__

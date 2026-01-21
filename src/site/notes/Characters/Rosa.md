@@ -62,7 +62,7 @@ She manages a design company, but she has yet to start taking it seriously, and 
 
 ---
 Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
-About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a [[powerful gun\|powerful gun]] or something similar.  
+About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 However, the witnesses don't believe she was killed with a gun...
 # Theories

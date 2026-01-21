@@ -3,7 +3,7 @@
 ---
 
 
-### Axioms
+## Axioms
 - __There are no hidden doors in this room__. 
 - __There is no way to get in or out other then the door and the windows__.
 - '__There are no hidden doors__'
@@ -18,9 +18,9 @@
 - __They would never mistakenly think any other person was Kanon!__
 - __No one else can go by Kanon's name! A different person can't claim that as their name!__
 
----
 
-### Corollaries
+
+## Corollaries
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

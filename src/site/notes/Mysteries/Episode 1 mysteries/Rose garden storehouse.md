@@ -32,7 +32,7 @@ This is not red but there isn't much of a reason to doubt it.
 </div></div>
 
 
-Here's an older theory requiring the presence of a 17th person whose information has been expunged from the records until the release of Turn theory.
+Here's an another possible solution involving the presence of X Beatrice as the 17th person.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -54,10 +54,9 @@ Here's an older theory requiring the presence of a 17th person whose information
 
 </div></div>
 
-PSYCHE! THIS IS TRUE ACTUALLY
 
 
-This is a fun alternative solution for the doorknob outside of just saying "Sayo did it"
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -69,25 +68,3 @@ This is a fun alternative solution for the doorknob outside of just saying "Sayo
 
 </div></div>
 
-
-
-### Ricostruzione primo twilight.
-
-
-Chi sapeva dell'anello di George:
-- Sayo
-- Rudolf, quindi Kyrie?
-- X
-- Altri cospiratori
-- Eva e Hideyoshi
-- Natsuhi non lo saprebbe
-
-Natsuhi va a dormire per il mal di testa.
-Forse X si mostra come in turn e poi muore in una sparatoria, confronto oppure era morta da prima per qualche motivo, ma la sua esistenza viene rivelata a tutti gli adulti meno che Natsuhi.
-
-Aftermath:
-- 5 muoiono
-- X era gia morta oppure viene uccisa nel mentre.
-- Sayo dopo che uccide tutti deve fingere la sua morte e usa il cadavere di X, lo nasconde in penombra per non farla riconoscere.
-- Eva e Hideyoshi stanno al gioco e non vogliono che si scopra di X
-- Natsuhi non c'era

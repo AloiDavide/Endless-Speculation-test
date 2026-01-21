@@ -2,17 +2,18 @@
 {"dg-publish":true,"permalink":"/mysteries/episode-1-mysteries/deaths-of-the-servants-in-the-parlor/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
-## Legend
+## Axioms
+#### Legend
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
 ---
-## Turn
-### Axioms
+#### Turn
+
 __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 
 
-# Corollaries
+## Corollaries
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

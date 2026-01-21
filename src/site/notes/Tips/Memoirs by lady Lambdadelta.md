@@ -282,7 +282,6 @@ I have to surprise them with a wonderful tea party.
 ---
 
 ## Corollaries
-
 The first girl is 99% that character from Higurashi we don't want to spoil.
 The second girl is 99% Beatrice, so Sayo in our version of the story.
 

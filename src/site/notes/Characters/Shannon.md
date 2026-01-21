@@ -56,7 +56,7 @@ Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty
 
 ---
 Her corpse was found in the parlor on the first floor.  
-The weapon used on her is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped objecy.
+The weapon used on her is assumed to be a gun or spear-shaped objecy.
 
 Let Shannon have the parlor, with its wonderful view of the rose garden on sunny days.
 ## Alliance
@@ -70,7 +70,7 @@ Furthermore, Shannon is nothing more than a pseudonym that she uses when on duty
 
 ---
 Her corpse was found behind the mansion.  
-About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
+About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the body.  
 
 The witnesses at least realized that the stake wasn’t what killed her. 

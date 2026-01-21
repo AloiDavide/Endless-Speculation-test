@@ -54,9 +54,9 @@ In that sense, she technically shouldn't be referred as either the Endless Witch
 
 
 > [!note]- Endless magic is a folk tale
-> The origin of the [[Speculation/Endless Witch\|endless magic]] narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]], who was raised in part by both of them.
+> The origin of the [[Speculation/Endless Witch\|endless magic]] narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]] and [[Characters/X Beatrice\|X Beatrice]], who were raised around both of them.
 > 
-> Maria has contributed her imagination and occult hyper fixation, but she didn't come up with the whole thing like we initially theorized. Maybe "gaining endless power" means entering the public consciousness, and the rokkenjima case was instrumental for that to happen with [[Characters/Beatrice\|Beatrice]].
+> Maria has contributed her imagination and occult hyper fixation, but she didn't come up with the whole thing like we initially theorized. Maybe "gaining endless power" means entering the public consciousness, and the Rokkenjima case was instrumental for that to happen with [[Characters/Beatrice\|Beatrice]].
 > 
 > ---
 > 

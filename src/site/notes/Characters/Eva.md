@@ -52,14 +52,14 @@ Normally, she would have lost her place in the Ushiromiya family register upon h
 
 ---
 Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
-About half of her head was destroyed. It’s probably reasonable to assume that she was murdered with a [[powerful gun\|powerful gun]] or something similar.  
+About half of her head was destroyed. It’s probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 However, the witnesses don’t believe she was killed with a gun...
 #### Future
 
 After being repeatedly hospitalized because of psychogenic stress, she has already died in the world of 1998 due to acute heart failure.
 
-She lived her later years in isolation, with no one to understand her, and is the only survivor from [[Rokkenjima\|Rokkenjima]]. The media gave her the name “Queen of Suspicion”.
+She lived her later years in isolation, with no one to understand her, and is the only survivor from Rokkenjima. The media gave her the name “Queen of Suspicion”.
 
 She continued to make reckless expansions of her business just like [[Characters/Kinzo\|Kinzo]] had done in the past, which earned her many enemies.
 

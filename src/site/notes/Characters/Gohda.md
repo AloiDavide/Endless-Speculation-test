@@ -42,7 +42,7 @@ A servant hired as a cook.
 He hasn’t served this family long, but through his earlier jobs and previous experience, he has cultivated a talent for entertaining guests. Because of this, he is very highly regarded as a servant.
 
 ---
-His corpse was found in a [[waiting room\|waiting room]] on the third floor. The weapon used on him is assumed to be a [[gun or spear-shaped object\|gun or spear-shaped object]].  
+His corpse was found in a waiting room on the third floor. The weapon used on him is assumed to be a gun or spear-shaped object.  
 
 The room next to the study is fitting for him, considering how much he wanted to earn [[Characters/Kinzo\|Kinzo]]'s favor.
 ## Alliance

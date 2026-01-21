@@ -115,6 +115,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -130,21 +131,12 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- REDACTED THEORY
-> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
-
-</div></div>
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!tip]- Kinzo summoning Beatrice
+> [!note]- Kinzo summoning Beatrice
 > Kinzo's specialty is summoning, he absolutely sucks at everything else. 
 > As said in [[Tips/Letter from a Summoner\|Letter from a Summoner]], it's a type of magic that requires a vessel, as well as a huge amount of preparation in order to manifest a miracle permanently.
 > 
@@ -153,6 +145,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > The vessel idea is also interesting considering he probably was the first to come up with the whole furniture thing.
 
 </div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -173,6 +166,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > - His body is consistently (but not always, more on this later) found burned, perhaps as an attempt to hide a different cause of death.
 
 </div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -218,26 +212,6 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- Krauss burns Kinzo in the boiler room
-> It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
-> He probably didn't think of the smell. He was never the brightest.
-> 
-> ---
-> Leads:
-> - Of the people most likely to know about Kinzo's death, he the only one to not feel much affection or respect for the old man.
-> - Everyone else would have to obey him as either his employee or overly subservient wife.
-> ---
-> Obstacles:
-> - What reason was there to incinerate the body? Did he think nobody would notice the fingers?
-> - The body was never found in [[Episodes/Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
-> 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
-
-</div></div>
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -258,4 +232,24 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 </div></div>
 
 
+ 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- Krauss burns Kinzo in the boiler room
+> It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
+> He probably didn't think of the smell. He was never the brightest.
+> 
+> ---
+> Leads:
+> - Of the people most likely to know about Kinzo's death, he the only one to not feel much affection or respect for the old man.
+> - Everyone else would have to obey him as either his employee or overly subservient wife.
+> ---
+> Obstacles:
+> - What reason was there to incinerate the body? Did he think nobody would notice the fingers?
+> - The body was never found in [[Episodes/Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
+> 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
+
+</div></div>
 

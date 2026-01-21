@@ -61,7 +61,8 @@ He started his business from scratch and now works as the president of a medium-
 
 ---
 His corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
-About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
+About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a powerful gun or something similar.  
 
 However, the witnesses don’t believe he was killed with a gun...
 # Theories
+He helps Eva help Sayo in Legend and Banquet

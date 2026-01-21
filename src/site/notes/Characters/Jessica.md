@@ -63,7 +63,7 @@ She was born with weak bronchi and is sometimes assailed by sudden asthma attack
 
 ---
 Her corpse was found in [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's room\|her room]] on the second floor of the mansion.  
-About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a [[Characters/The Chiester Sisters Imperial Guard Corps\|powerful gun]] or something similar.  
+About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 She was smashed by her own attack due to George’s counter-offensive specialized barrier.
 # Theories

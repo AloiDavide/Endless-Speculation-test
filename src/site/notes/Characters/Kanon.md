@@ -63,7 +63,7 @@ There are multiple other servants with the “on” (音) character in their pse
 
 ---
 His corpse was found in the [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Chapel]].  
-The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun]] or spear-shaped object.
+The weapon used on him is assumed to be a gun or spear-shaped object.
 
 For Kanon, the chapel. Let him continue to protect the Lord's precious place, even after death.
 ## Alliance
@@ -86,8 +86,6 @@ Now that’s definitely anti-fantasy.
 Now that’s definitely anti-mystery...! 
 # Theories
 Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
-
-
 
 __No one else can go by Kanon's name! A different person can't claim that as their name!__ 
 

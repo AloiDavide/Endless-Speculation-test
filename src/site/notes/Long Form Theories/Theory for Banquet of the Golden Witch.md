@@ -10,7 +10,7 @@ But before we even begin, a correction.
 
 ![Pasted image 20251026230322.png](/img/user/Attachments/Pasted%20image%2020251026230322.png)
 
-This is from the credits at the end of Legend of the Golden witch. Notably, the police concludes that the chances of survival for any of the *18* were hopelessly dim. *18*. If this is the future, like we originally thought... then why is the 18th person dead? Has Eva not come back to Rokkenjima?
+This is from the credits at the end of Legend of the Golden witch. Notably, the police concludes that the chances of survival for any of the *18* were hopelessly dim. *18*. If this is the future, like we originally thought... then why is the 18th person dead? Has Eva not come back from Rokkenjima?
 Since we'll have much more to talk about in relation to this in Alliance, we'll delay explaining this to then. 
 
 But regardless of our mistakes, let's dig into Banquet.

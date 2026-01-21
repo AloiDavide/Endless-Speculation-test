@@ -14,5 +14,3 @@ According to its first clause, member witches must acknowledge each other and re
 Young [[Characters/Ange\|Ange]] did receive an invitation to join this alliance at one point, but she was later excommunicated.
 
 ---
-
-We think Ange got in a fight with Maria because she didn't believe in the witch games.

@@ -49,15 +49,18 @@ Two theories:
 
 
 
-> [!note]- Legend is the "canonical" version of the events.
+> [!failure]- Legend is the "canonical" version of the events.
 > We were asked on more than one occasion which episode we expected to be the "real" one.
-> We don't know how many if any more games will happen in the answer arcs, so we choose Legend as the most likely candidate from the question arcs.
+> We don't know how many if any more games will happen in the answer arcs, but if we're choosing from the question arcs there are some arguments for Legend being the one. Although there's also a big obstacle.
 >  
 > ---
 > Leads:
 > - The first tea party is a direct continuation of Legend, and every following interaction between Battler and Beatrice is framed as a continuation of that one. A discrepancy in the [[Speculation/Character Description Colors\|character description colors]] further supports this reading.
 > - Beatrice, Shannon and Kanon claim to have seen countless loops already, but this is merely the same magic fluff as the witch killing and reviving someone 100 times.
-> - It's not really a question you would ask unless you knew there is an answer.
+> 
+> ---
+> Obstacles:
+> - Directly contradicted by the credits of legend saying that nobody was found alive, not even Eva.
 
 </div></div>
 

@@ -79,7 +79,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - ([[Characters/Ronove\|Ronove]])__In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
 - __It's definitelly dead__
 __There are no more then 18 humans on this Rokkenjima__!
-## [[Mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
+## [[Mysteries/Episode 3 mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
 - (Battler chiede "how many master keys this time)__There are five, one for each servant.__
 - __Furthermore, all of the doors and windows on the six rooms are normal. No device exists which can lock them without a key, such as an auto lock.__
 - __These six are all dead: [[Characters/Kinzo\|Kinzo]], [[Characters/Genji\|Genji]], [[Characters/Shannon\|Shannon]], [[Characters/Kanon\|Kanon]], [[Characters/Gohda\|Gohda]], [[Characters/Kumasawa\|Kumasawa]]!__
@@ -90,19 +90,19 @@ __There are no more then 18 humans on this Rokkenjima__!
 - Battler dice __There are no more then 18 people on this island__
 ## On the iron door that leads to the gold
 - __On the tenth twilight, at journey's end, you shall attain to the power of the golden Land's treasures, once and for the last time__
-## Crime Scene in the [[Mysteries/Rose garden (Banquet)\|Rose garden (Banquet)]]
+## [[Mysteries/Episode 3 mysteries/Crime scene in the rose garden\|Crime scene in the rose garden]]
 - __Rosa and Maria died__. __The causes of death were as Nanjo diagnosed__.
 - __Rosa's and Maria's deaths were homicides__.
 ## Final confrontation with [[Characters/EVA Beatrice\|Evato]]
 ### The death of [[Characters/Rosa\|Rosa]] and [[Characters/Maria\|Maria]]
-- (Evato) __I was in the room the whole time__. __For the whole stretch of time surrounding the crime__
-### Crime Scene in the [[Mysteries/Hall\|Hall]]
+- ([[Characters/Hideyoshi\|Hideyoshi]]'s ghost) __I was in the room the whole time__. __For the whole stretch of time surrounding the crime__
+###  [[Mysteries/Episode 3 mysteries/Crime scene in the hall\|Crime scene in the hall]]
 - __Kyrie didn't think that they needed food__.
 - Since going without food for about a day wouldn't kill them, __she claimed that they should not leave the guesthouse__. And yet, __she herself suggested that they should leave the guesthouse to get food__.
 - __the reason she changed her mind was not passed on to anyone, nor was it written down__!
 - __Until the last instant before she died, Kyrie's behavior pattern of 'not going to get food = not going to the mansion' was maintained__!
 - __Kyrie did not leave anything written down__!
-## [[Nanjo's death in Banquet\|Nanjo's death in Banquet]]
+## [[Mysteries/Episode 3 mysteries/Nanjo's death in Banquet\|Nanjo's death in Banquet]]
 - __After [[Characters/Jessica\|Jessica]] was injured, Eva was constantly under Battler's supervision. [[Characters/Battler\|Battler]] is neither the culprit nor an accomplice. By this, we can establish the perfect alibi for [[Characters/Eva\|Eva]]__.
 - __There are no more then 18 humans on this island__.
 - __No life form other then humans have any connections to this game__.
@@ -185,13 +185,13 @@ Beato
 - __Kanon did not commit suicide__
 Lambda
 - __Kanon did not die in an accident__!
-###  Crime Scene of the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
+###  Crime Scene of the [[Mysteries/Episode 1 mysteries/Deaths of the servants in the parlor\|Deaths of the servants in the parlor]]
 Beato
 - __[[Characters/Maria\|Maria]], who was in the same room, did not kill them! And of course, their three deaths were homicides!__
 - __I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!__
 Lambda
 - __[[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], and [[Characters/Nanjo\|Nanjo]] are not killers__!
-### Crime Scene of [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
+### Crime Scene of [[Mysteries/Episode 1 mysteries/Natsuhi's death in the hall\|Natsuhi's death in the hall]]
 Beato
 - __Natsuhi's death was a homicide! There were no unidentified corpses, and all of the survivors have alibis!__
 - __The bullet buried into Natsuhi's forehead was not fired from her gun!__
@@ -218,11 +218,11 @@ Beato
 Lambda
 - __After the master keys came into Rosa's control, never did any of them leave her hands! Except for the time when she lent one to Battler to unlock Natsuhi's room.__
 ## Final red about Banquet
-### [[Mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
+### [[Mysteries/Episode 3 mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]]
 Beato
 - __All five master keys were discovered, each in the pocket of one of the servants! The individual room keys were found inside envelopes alongside the corpses! In short, all keys related to the linked closed rooms were linked inside the linked closed rooms!! No key could have been returned from outside the room using the crack of the door, the crack of the window, vents or any place of the sort!!__
 - __All of them had what appeared to be gunshot wounds that were fatal! Murdering them from outside the room would have been impossible!! I shall say more with the red! When the five other than Kinzo were killed, the killer was definitely in the same room as them! I already proclaimed in red at the time that there were no suicides!!__
-### [[Characters/George\|George]]'s disappearance from the [[Mysteries/Guesthouse\|Guesthouse]]
+### [[Mysteries/Episode 3 mysteries/George's disappearance from the Guesthouse\|George's disappearance from the Guesthouse]]
 Beato
 - __George did not go down the stairs of the guesthouse.__
 - __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__

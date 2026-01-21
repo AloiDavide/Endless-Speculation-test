@@ -3,16 +3,13 @@
 ---
 
 
-Welcome to the second part of our Umineko theory. A quick refresher of the main points from "Legend of the golden witch" is available in the *[[Theories TLDR\|theories TLDR]]*.
+Welcome to the second part of our Umineko theory. A quick refresher of the main points from "Legend of the Golden witch" is available in the *[[Theories TLDR\|theories TLDR]]*.
 
-Turn of the golden witch is a lot more dense with information, but we'll hopefully make it easy to comprehend our thought process at every step of the way.
+Turn of the Golden witch is a lot more dense with information, but we'll hopefully make it easy to comprehend our thought process at every step of the way.
 
 A few words on our modus operandi. After we outline what we agree to be the main points of each theory (our "blue truth" if you will), Crunter writes down the theory and Hound takes care of the editing phase where he adds his thoughts and opinions and handles the technical side of the project.
 
-There might be parts in which we helped each other here and there, and others where we don't 100% agree on some position. 
-In general, when we speak using the plural "we" it's our shared position, <font color="#00b050">when I (Crunter) speak in green it's my position</font>, and <font color="#ffdd33">when I (Hound) speak in yellow it's mine</font>.
-If any witches dare to claim those colors in the answer arcs they WILL hear from our lawyers.
-
+There might be parts in which we helped each other here and there, and others where we don't 100% agree on some position. In general, when we speak using the plural "we" it's our shared position, and all other cases it will be clear from context who's speaking.
 
 ---
 ## Part 1: A very unfortunate triangle
@@ -270,26 +267,26 @@ That's as far as our evidence goes, but while we can't 100% say who she is, here
 
 We'll soon argue that she disguises herself as [[Characters/Shannon\|Shannon]] at various points in the game, which suggests that she would have some experience in doing so, as well as a physical predisposition.
 
-<font color="#00b050">Hound will quickly point out the amount of assumptions that go into this conjecture, but I believe that she's the twin sister of Sayo, both daughters of the Beatrice who died 19 years prior near Kuwadorian.</font>
+Hound will quickly point out the amount of assumptions that go into this conjecture, but I believe that she's the twin sister of Sayo, both daughters of the Beatrice who died 19 years prior near Kuwadorian.
 
 They were both raised at the Fukuin house, and learned how to swap between each others. The details of their upbringing are unknown, but the general idea is that they were often in contact with [[Characters/Kinzo\|Kinzo]] and the older servants.  Maybe while [[Characters/Sayo\|Sayo]] was getting used to impersonating two servants she would have needed someone else from the orphanage to fill the shoes of [[Characters/Shannon\|Shannon]] from time to time?
 
-<font color="#ffdd33">Ok but. Why does she need to be a twin sister when Shannon doesn't even look like Beatrice? Why does she need to be a sister at all? Can't she just be someone else with a similar body type and some make up?</font>
+*Ok but. Why does she need to be a twin sister when Shannon doesn't even look like Beatrice? Why does she need to be a sister at all? Can't she just be someone else with a similar body type and some make up?*
 
-<font color="#00b050">Well yes, it wouldn't change any of the solution but... How can I put it without going out of topic..... <font color="#e36c09"></font></font>
+Well yes, it wouldn't change any of the solution but... How can I put it without going out of topic..... 
 
-<font color="#00b050">I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other.</font>
+I'll just say this, I believe that Ryukishi 07 is exactly the kind of author who, in the second chapter of a mystery story, would add a twin sister with basically no involvement in the first chapter for the sake of having them act as each other.
 
-<font color="#00b050">That, combined with the fact that she knows some servants, she's able to act as Shannon, and she wears her clothes well, is enough of a proof to me.</font>
+That, combined with the fact that she knows some servants, she's able to act as Shannon, and she wears her clothes well, is enough of a proof to me.
 
 ![tumblr_ns5tmd34E61tg07vxo1_500.gif](/img/user/Attachments/tumblr_ns5tmd34E61tg07vxo1_500.gif)
-<center><font color="#ffdd33">Chekhov's Gun at it's most reckless</font></center>
+<center>Chekhov's Gun at it's most reckless</center>
 
 ---
 
 #### 2.3
 
-Now, the existence of [[Characters/X Beatrice\|X Beatrice]] by itself puts something on the table in [[Episodes/Legend of the Golden witch\|Legend]] of the golden witch. Is it possible that [[Characters/Shannon\|Shannon]]'s corpse was none other that the corpse of X dressed as [[Characters/Shannon\|Shannon]]? 
+Now, the existence of [[Characters/X Beatrice\|X Beatrice]] by itself puts something on the table in [[Episodes/Legend of the Golden witch\|Legend]] of the Golden witch. Is it possible that [[Characters/Shannon\|Shannon]]'s corpse was none other that the corpse of X dressed as [[Characters/Shannon\|Shannon]]? 
 We would need to somehow make the case for her counting as [[Characters/Shannon\|Shannon]] in the red, but if they really did share this identity, it wouldn't be impossible.
 
 Alternatively she was alive in the shed and just playing dead... but that scene really goes out of its way to not show that body to anyone reliable, so ironically it's harder to suspect someone who can convincingly pass for [[Characters/Shannon\|Shannon]].
@@ -377,18 +374,18 @@ The next scene is bizzarre.
 
 We have fairly contrasting interpretations of this scene so we figured it would be better to just present both.
 
-<font color="#00b050">On one hand, I think that at this point X Beatrice is already dressed as Shannon and is the one accepting George's proposal. This would imply she either likes George or is out to deceive him for some reason.</font>
-<font color="#00b050">I'm just not buying that it's Sayo because I can't see what the manipulation is for, so I'll say that here Shannon is X.</font>
+On one hand, I (Crunter) think that at this point X Beatrice is already dressed as Shannon and is the one accepting George's proposal. This would imply she either likes George or is out to deceive him for some reason.
+I'm just not buying that it's Sayo because I can't see what the manipulation is for, so I'll say that here Shannon is X.
 
-<font color="#00b050">That being said... It's really weird that she'd be this much into marriage, specifically, and there's definitely something I'm missing. But what I'm not missing is that Sayo would NEVER act this way. She didn't shy away from being uncommitted towards George, not only earlier in this game, but in Legend too.</font>
+That being said... It's really weird that she'd be this much into marriage, specifically, and there's definitely something I'm missing. But what I'm not missing is that Sayo would NEVER act this way. She didn't shy away from being uncommitted towards George, not only earlier in this game, but in Legend too.
 
-<font color="#ffdd33">On the other hand, I don't see enough signs of a switch up, instead this change in attitude could be explained as:</font>
-- <font color="#ffdd33">A narration trick to make Shannon the character seem far more proactive.</font>
-- <font color="#ffdd33">Sayo making peace with the fact that she likes both him an Jessica despite his creepy behavior, fueled by the whole "we're all going to die shortly" mindset.</font>
-- <font color="#ffdd33">She actually really enjoys making George suffer.</font>
-- <font color="#ffdd33">A combination thereof.</font>
+On the other hand, I (Hound) don't see enough signs of a switch up, instead this change in attitude could be explained as:
+- A narration trick to make Shannon the character seem far more proactive.
+- Sayo making peace with the fact that she likes both him an Jessica despite his creepy behavior, fueled by the whole "we're all going to die shortly" mindset.
+- She actually really enjoys making George suffer.
+- A combination thereof.
 
-<font color="#ffdd33">Maybe in her mind, at the end of this big group suicide they really will get to live happily ever after in the golden land.</font>
+Maybe in her mind, at the end of this big group suicide they really will get to live happily ever after in the golden land.
 ![Pasted image 20250715005955.png](/img/user/Attachments/Pasted%20image%2020250715005955.png)
 
 
@@ -560,7 +557,7 @@ Furthermore, each interpretations has to fulfill a few conditions to be satisfac
 As of now we have two working readings, both with pros and cons.
 
 
-| <h3>Reading A<br>Heel turn of the golden witch</h3>                                                                   | <h3>Reading B<br>Turn of the black witch</h3>                                                                                                            |
+| <h3>Reading A<br>Heel turn of the Golden witch</h3>                                                                   | <h3>Reading B<br>Turn of the black witch</h3>                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sayo has second thoughts about killing Jessica, and tries to defend her from X Beatrice, but she fails and is killed. | Sayo gets over it, and she shoots or stabs Jessica in the back in cold blood.                                                                            |
 | The scene represents an internal conflict between the two perpetrators.                                               | The scene represents Sayo letting the black witch win and killing the identities of Kanon now and Shannon later, when she will have to also kill George. |
@@ -573,7 +570,7 @@ As of now we have two working readings, both with pros and cons.
 
 Now... Why would we split our theories? More importantly, why would we choose to consider one for which the red truth "**Kanon was killed in this room**" *clearly just doesn't work*?
 Chekhov's gun.
-The rest of the theory just works really really well if we make that simple assumption that we're missing something about that red. This isn't even going into how much we'd like that to be true for *Banquet of the golden witch*.
+The rest of the theory just works really really well if we make that simple assumption that we're missing something about that red. This isn't even going into how much we'd like that to be true for *Banquet of the Golden witch*.
 
 TLDR; We have some amazing interpretations that rely on [[Characters/Sayo\|Sayo]] being alive. But we'll keep, as a contingency plan, another functioning interpretation.
 From now on both scenarios will be taken into consideration when coming up with solutions, but for obvious reasons, they cannot both be true. 

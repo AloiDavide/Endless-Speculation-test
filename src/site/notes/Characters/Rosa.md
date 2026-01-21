@@ -47,7 +47,7 @@ She is by far the youngest of the four siblings. It seems that this gives her a 
 She manages a design company, but she has yet to start taking it seriously, and its financial situation is far from favorable.
 
 ---
-Died in the [[Mysteries/Rose garden (Banquet)\|rose garden]] with her medulla oblongata pierced by the spear-shaped part of the fence.  
+Died in the [[Mysteries/Episode 3 mysteries/Crime scene in the rose garden\|rose garden]] with her medulla oblongata pierced by the spear-shaped part of the fence.  
 If [[Characters/Maria\|Maria]]'s death hadn't been a clear homicide, it may have been possible to suspect an accidental death in Rosa's case.  
 
 This woman was the human sacrifice for the birth of the new witch.

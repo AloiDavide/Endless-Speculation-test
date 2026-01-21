@@ -46,7 +46,7 @@ She had already worked alongside him for some time before the death of his first
 She has served as Rudolf’s right hand in several shady pieces of business, guiding them to success. She is quick-thinking and well-trusted by her husband.
 
 ---
-Died in the [[Mysteries/Hall\|Hall]] of the mansion, her stomach pierced by a [[Characters/The Seven Stakes of Purgatory\|stake-shaped weapon]].  
+Died in the [[Mysteries/Episode 3 mysteries/Crime scene in the hall\|Crime scene in the hall]] of the mansion, her stomach pierced by a [[Characters/The Seven Stakes of Purgatory\|stake-shaped weapon]].  
 
 The stomach isn't a particularly lethal spot.  
 Isn't it enough to just kill her in some other, easier way and stick a stake in her corpse?

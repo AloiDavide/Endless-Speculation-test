@@ -45,7 +45,7 @@ Along with his sister, [[Characters/Eva\|Eva]], he intends to make his voice hea
 His former wife, Ushiromiya Asumu, passed away six years ago, and he married his current wife, [[Characters/Kyrie\|Kyrie]], shortly after that.
 
 ---
-Died in the [[Mysteries/Hall\|Hall]] of the mansion, with his forehead pierced by a [[Characters/The Seven Stakes of Purgatory\|weapon shaped like a stake]].  
+Died in the [[Mysteries/Episode 3 mysteries/Crime scene in the hall\|Crime scene in the hall]] of the mansion, with his forehead pierced by a [[Characters/The Seven Stakes of Purgatory\|weapon shaped like a stake]].  
 
 Apparently, they've gotta be finished off with stakes from here on out. Gross.
 ## Alliance

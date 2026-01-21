@@ -7,7 +7,7 @@
 > [!NOTE] Hidden door
 > "A hidden door refers to an entrance that cannot be recognized by those who do not know of it. Even children knows that."
 
-Beatrice defines the closed rooms during the [[Mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]] debate.
+Beatrice defines the closed rooms during the [[Mysteries/Episode 3 mysteries/Crime scenes of the 6 linked closed rooms\|Crime scenes of the 6 linked closed rooms]] debate.
 > [!NOTE] Closed room
 > The term 'closed room' refers to a room where the inside and the outside are completely cut off from each other. Naturally, it will be impossible to even affect things across that boundary line, much less enter or escape across it. This includes an all-inclusive denial of the existence of [[Speculation/Beatrice's Definitions\|hidden doors]], as well as all possibility of intervention from the outside. Henceforth, this shall be referred to as... 'Beatrice's Closed Room Definition'!"{ #45ecae}
 

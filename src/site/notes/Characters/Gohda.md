@@ -19,7 +19,7 @@ He hasn’t served this family long, but through his earlier jobs and previous e
 ---
 His corpse was found inside the [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]]. His face seems to have been smashed after his death.
 
-How unfortunate. Apparently, he was originally supposed to be on duty in the [[Mysteries/Guesthouse\|Guesthouse]].
+How unfortunate. Apparently, he was originally supposed to be on duty in the Guesthouse.
 ## Turn
 #### Rokkenjima
 

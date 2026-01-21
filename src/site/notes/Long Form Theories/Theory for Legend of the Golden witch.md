@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/long-form-theories/theory-for-legend-of-the-golden-witch/","contentClasses":"center-headings red-truth red-links center-images"}
 ---
 
-This is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
+This is the theory of Hound Dogs and Crunter, who are currently playing trough Umineko: When They Cry. The theory was developed after reading Alliance of the Golden Witch, and is meant to be an attempt to solve as much as possible of the mysteries before jumping to the answer arcs.
 
 This will be impossible to follow without having read Umineko that far, and here we won't retread most of what happens in the original story.
 
@@ -14,7 +14,7 @@ First of all. It's important to establish that, most likely, we would be able to
 
 Second. Some theories will be more developed than others. 
 We are fairly confident that our Legend and Banquet theories are good and make sense, our Turn theory is ok, but it has a bunch of "this probably happened", or "something like that must have happened" moments. 
-However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! they all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in the games, which we would, again, need to read back to understand better, which we aren't going to do.
+However our Alliance theory, at the time of writing, is pretty garbage (but it technically functions from start to finish! They all do!). That is fine to us, the truth is that our notes were pretty good with the exceptions of ironing out the nitty gritty of what happens in the games. To do that we would have to, again, read back to understand better, which we aren't going to do.
 
 Third. Sometimes, there are some really clever and appropriate solutions that we weren't able to fit within a complete solution. Some other theories are things we used to believe in but they have been supplanted by better solutions. Cases like this will be mentioned if they're interesting enough.
 
@@ -30,9 +30,9 @@ Let's also take a minute to showcase the weapons we're using to zero in on this 
 
 ![occam.png|left|335](/img/user/Attachments/occam.png) ![Pasted image 20250401234536.png|right|335](/img/user/Attachments/Pasted%20image%2020250401234536.png)
 
-The two are opposites of each others. Occam's razor is meant to cut something short, sometimes we could build a really interesting theory built on some clever element we noticed, and it just doesn't really come together. Occam's razor comes handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
+The two are opposites of. Occam's razor is meant to cut something short, sometimes we could build a really interesting theory built on some clever element we noticed, and it just wouldn't really come together. Occam's razor comes in handy to cut it at the root and say "This really simple and basic answer actually works well for the story".
 
-Chekhov's gun, instead, is something we shoot with when we notice some element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
+Chekhov's gun, instead, is something we shoot with when we notice an element which is just too juicy and too perfect to just be a coincidence. Sometimes, there is this really satisfying theory that we can't quite make fit with what we know. Chekhov's gun is a way to say: "We are missing something, but as opposed to discarding the theory we will note that there's something missing here, and carry on with it anyway because it would work really well with some other thing we found."
 
 Sometimes, there's a lot of doubt on which of the 2 is best to use. Specifically, in future games,  we mean to branch our theories in 2 regarding a significant split in how to attack a point, and we will develop 2 theories that are one parallel to each other.
 
@@ -44,7 +44,7 @@ Finally, let's talk about our approach to the credibility of any given scene.
 As it will become more and more obvious the more we advance, any scene not witnessed by a character we can trust (which in most cases boils down to only [[Characters/Battler\|Battler]]) is to be taken with an ocean, let alone a grain of salt, and we reserve the right to call bullshit if we believe the story is trying to trick us.
 However, calling a scene fake doesn't make it useless. There is still value in examining the magical side of the story, because there are often parallels to be drawn between the magical and the real versions of events that can strengthen a theory.
 
-Or as our lord and savior George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
+Or, as our lord and savior George Lucas would put it, [it's like poetry, they rhyme](https://www.youtube.com/watch?v=yFqFLo_bYq0)
 Hopefully it works.
 
 So then, let's start examining the events in order and we'll comment on anything interesting.
@@ -60,12 +60,12 @@ Kinzo is dead. He's been dead for a while at this point, and [[Characters/Krauss
 When the family boards a plane at the airport, we see that for some reason, the pilot of the plane (not a ship!) is captain [[Characters/Kawabata\|Kawabata]].
 We believe that Kawabata is involved in a larger, as-yet-unidentified scheme, with its primary benefactor being the Ushiromiya group. The goal of this plot appears to be placing "Eva Ushiromiya" in control of the group, and we suspect that Kawabata may be receiving orders from a higher-ranking member within the group, potentially [[Characters/Okonogi\|Okonogi]]. But we will come back to this eventually.
 
-There is a group of individuals on Rokkenjima who aim to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from the Ushiromiya group. 
-Based on certain events later the Sumadera family is also suspect, but for now we'll go with the Ushiromiya group.
+There is a group of individuals on Rokkenjima whose aim is to carry out a plan that would result in the deaths of everyone present on the island that day, and it must have been premeditated, implying some degree of help from the Ushiromiya group. 
+Based on certain events later, the Sumadera family is also a suspect, but for now we'll go with the Ushiromiya group.
 
-It's worth noting that there is a scene when the family boarding the plane is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in turn of the golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima (she wouldn't let Gohda touch her luggage). Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
+It's worth noting there is a scene, when the family, before boarding the plane, is going trough a metal detector. I believe that this scene is a red herring for a specific payoff in Turn of the Golden which, having to do with [[Characters/Rosa\|Rosa]] having brought the 3 bars of gold to Rokkenjima (she wouldn't let Gohda touch her luggage). Unfortunately, I can't make any part of this theory work, and realistically there are other characters in Rokkenjima already that could have stored the gold there. 
 
-Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse. This is the time to introduce one of the major cornerstones of our theories.
+Subsequently, the characters are walking towards the mansion, when they stumble upon [[Characters/Kanon\|Kanon]] moving a wheelbarrow to the Garden storehouse. Now it's time to introduce one of the major cornerstones of our theories.
 
 We believe that Kanon, and Shannon for that matter, are two identities of a single person, whom will be referred to as [[Characters/Sayo\|Sayo]] going forward, for that is the "real" name Shannon told George.
 Sayo lives in the orphan house owned by Kinzo, and she fullfils the roles of two different servants in Rokkenjima. Kinzo is aware of this, and so are all the other servants, but no one else is.
@@ -73,7 +73,7 @@ Sayo lives in the orphan house owned by Kinzo, and she fullfils the roles of two
 We have no clue about their gender, but going off of their depictions and who we believe to be the original person, we'll use feminine pronouns for now.
 That's not all the names we will give this character though, because we also believe that Sayo is none other than [[Characters/Beatrice\|Beatrice]]: the [[Speculation/Golden Witch\|Golden Witch]] and [[Speculation/Endless Witch\|Endless Witch]].
 
-Let's expand on this. We believe that originally, [[Characters/Kinzo\|Kinzo]] was able to further his career by pretending to have an incredible amount of gold, and the original Beatrice, the golden witch, is the person that helped him pull that off. It's very possible that she was also Kinzo's concubine or lover, but the fact of the matter is that this person died and Kinzo couldn't quite get over her. 
+Let's expand on this. We believe that, originally, [[Characters/Kinzo\|Kinzo]] was able to further his career by pretending to have an incredible amount of gold, and the original Beatrice, the golden witch, is the person that helped him pull that off. It's very possible that she was also Kinzo's concubine or lover, but the fact of the matter is that this person died and Kinzo couldn't quite get over her. 
 
 The next Beatrice in our timeline is the one from Rosa's flashback, who was kept in Kuwadorian by Kinzo for many years, and probably even raised there. More about her in the Banquet theory, but Kinzo might have considered her his daughter.
 As stated in the [[Red Truth\|Red Truth]], she also died. That was 19 years before the two days when the bulk of every episode takes place in.
@@ -102,7 +102,7 @@ We floated some ideas about Sayo possibly being split between a male and female 
 Let's briefly touch on Sayo's accomplices. They include at a minimum [[Characters/Genji\|Genji]], [[Characters/Kumasawa\|Kumasawa]], [[Characters/Nanjo\|Nanjo]] and, in a way, [[Characters/Maria\|Maria]] too.
 Genji helps her because he sees her as the heir of the Ushiromiya family, as she is the daughter of the Beatrice who died 19 years ago, whom Kinzo loved more that any of his children. 
 Kumasawa and Nanjo were promised a large sum of money, which will actually make its way to their families in the form of the combination to a bank vault.
-Maria believes the narrative of [[Speculation/Endless Witch\|Endless Magic]], she is unaware of any plans, but she will do something if "Beatrice" asks her to.
+Maria believes the narrative of [[Speculation/Endless Witch\|Endless Magic]], she is unaware of any plans, but she will do anything if "Beatrice" asks her to.
 
 We're not exactly sure of who killed Kinzo. It's certainly possible Sayo did it to jumpstart her plan, or she took advantage of the situation. 
 She took the ring seal. She prepared everything she needs for the events of the fatidic day on Rokkenjima, including among other things the seven stakes.
@@ -148,14 +148,14 @@ As established, [[Characters/Kanon\|Kanon]] and [[Characters/Shannon\|Shannon]] 
 
 During the scene at the beach, the cousins and Sayo take a glance at [[Characters/Maria\|Maria]]'s diary. Some things mentioned in the diary are part of the murders that will happen in Rokkenjima. They are elements from Maria's imagination that Sayo injected into the [[Speculation/Endless Witch\|Endless Magic]] narrative, aka. the ability to create 1 from 0.
 
-Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While doing so she stops to give Maria the letter and the umbrella. It's not clear up to what extend Maria is aware of her position and the meaning of actions. We tend to think she's just going along with the witch narrative because she completely believes it, and she has interacted with Sayo many times, by now she has internalized that this person IS [[Characters/Beatrice\|Beatrice]], so she will gladly do her the favor of delivering a letter, or closing her eyes during a gruesom murder.
+Sayo, dressed as Kanon, runs back to tell the cousins the dinner is ready. While doing so she stops to give Maria the letter and the umbrella. It's not clear up to what extent Maria is aware of her position and the meaning of her actions. We tend to think she's just going along with the witch narrative because she believes it completely, and she has interacted with Sayo so many times that by now she has internalized that this person IS [[Characters/Beatrice\|Beatrice]], so she will gladly do her the favor of delivering a letter, or closing her eyes during a gruesome murder.
 
 We think the letters are written by Sayo to prime the perception of the people there with the magical narrative. It's weird because the first letter doesn't strictly talk about magic inside of it (Beatrice signs herself a the family alchemist, not a witch), but it's hard to deny [[Characters/Sayo\|Sayo]] is the one who delivers it. It's certainly possible that the letter was written by someone else but delivered by Sayo, or something like that, but this is something we're willing to Occam's razor away. 
 Instead it's more likely that that she started easy and used the first letter to, first and foremost, clue the family in on the existence of a 19th person called Beatrice with a claim to the inheritance, while setting aside the magic elements so that it would be easier to believe. 
 
 She doesn't think the gold exists, but she's furthering the narrative about Kinzo's 10 tons of gold. That, to us, is the true meaning of Golden Magic and what makes her the [[Speculation/Golden Witch\|Golden Witch]], the creation of illusory gold that doesn't actually exist, but gains influence the moment you convince people that it exists. Thus, [[Speculation/Endless Realization\|Endless Realization]] is simply Sayo incorporating the narrative about gold into the narrative of the [[Speculation/Endless Witch\|endless witch]].
 
-Krauss shows the gold to Natsuhi; We believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's alo possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
+Krauss shows the gold to Natsuhi; we believe that Kinzo produced a small amount of ingots that work as tokens to illude people with the notion that all the gold exists, and Krauss happened to find one of these ingots, but it's also possible that Krauss forged it so that it can use it as token in negotiations if it turned out to be necessary.
 { #96ea6a}
 
 
@@ -194,7 +194,7 @@ They have a lot of red liquid that resembles blood which they use to paint the d
 They set up the five corpses in the shed and paint the door with occult symbols... but wait, there were six corpses, weren't there? 
 
 There are multiple approaches we can take to explain Shannon's death. 
-We can't let Sayo die here, she is vital for the rest of the theory, so we need a way for her to be alive. Reading the scene again we noticed how the kids never really get a good look at [[Characters/Shannon\|Shannon]] corpses, she is explicitly hidden out of sight, and only [[Characters/Hideyoshi\|Hideyoshi]] and [[Characters/Nanjo\|Nanjo]] are implied to have examined her. Chechov's gun won't accept that this isn't a setup for some kind of deception, but a specific red truth gets in our way.
+We can't let Sayo die here, she is vital for the rest of the theory, so we need a way for her to be alive. Reading the scene again we noticed how the kids never really get a good look at Shannon's corpse, she is explicitly hidden out of sight, and only [[Characters/Hideyoshi\|Hideyoshi]] and [[Characters/Nanjo\|Nanjo]] are implied to have examined her. Chechov's gun won't accept that this isn't a setup for some kind of deception, but a specific red truth gets in our way.
 <font color="#ff0000" size="4"><center><b>I guarantee the identities of all unidentified corpses. Therefore, there were no body double tricks!</b></center></font>
 Alright, so if the thing in the shed wasn't another corpse, then we can claim that it wasn't a corpse at all! It could have been some kind of mannequin dressed with Shannon's clothes. It doesn't even need to be elaborate, as long as it barely does the job when stuck in a dark corner. We could even go as far as saying nothing was there at all and it's all made up by the aforementioned adults.
 
@@ -229,10 +229,10 @@ Let's rewind a little bit. In the morning, before finding the corpses, [[Charact
 After discovering the corpses, [[Characters/Natsuhi\|Natsuhi]] sends Genji to contact the police while she goes to check on [[Characters/Kinzo\|Kinzo]] once again, but [[Characters/Eva\|Eva]] insists on following her this time. Natsuhi is forced to let [[Characters/Eva\|Eva]] inside the study, and of course Kinzo isn't there at all. It's unclear if Eva was briefed about Kinzo's death when she was recruited by [[Characters/Sayo\|Sayo]], or if this was just a coincidence.
 
 
-All along, [[Characters/Eva\|Eva]] is intentionally trying to seed conflict and frame other people while defending herself from accusations nobody has actually made yet. 
-She initially points to the the servants, a low hanging fruit, but purposefully doesn't expose them, she gets into a deduction fight with battler, and then she attacks [[Characters/Natsuhi\|Natsuhi]] with the receipt bluff, who obviously can't do anything to deny the accusation. Eva either knew about Kinzo or just picked up on Natsuhi's dodgy attitude and tried poking at her, by setting up the receipt.
+All along, [[Characters/Eva\|Eva]] has been intentionally trying to seed conflict and frame other people while defending herself from accusations nobody has actually made yet. 
+She initially points to the the servants, a low hanging fruit, but purposefully doesn't expose them, she gets into a deduction fight with Battler, and then she attacks [[Characters/Natsuhi\|Natsuhi]] with the receipt bluff, who obviously can't do anything to deny the accusation. Eva either knew about Kinzo or just picked up on Natsuhi's dodgy attitude and tried poking at her, by setting up the receipt.
 
-Part of this is of course Eva's unpleasant personality, but it's a weird way to act in a situation of danger, it's like her top priority is ensuring she won't be suspected rather than survive, especially considering that when bullying Natsuhi isn't funny anymore, she retires to her room, she knows she has a deal with Sayo so she feels safe, otherwise you would never leave on your own with potentially a murderer around.
+Part of this is of course Eva's unpleasant personality, but it's a weird way to act in a situation of danger, it's like her top priority is ensuring she won't be suspected rather than survive, especially considering that when bullying Natsuhi isn't funny anymore, she retires to her room, she knows she has a deal with Sayo so she feels safe, otherwise you would never leave on your own with a murderer potentially around.
 
 One of our theories claims that Eva made the scratches on Natsuhi's door as yet another way to imply that she was spared by the culprits instead of herself, although it could just as easily have been Sayo.
 
@@ -274,15 +274,15 @@ Our best theory about it is that ever since his death he was stored in the incin
 After noticing the smell coming from the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]], Sayo and [[Characters/Kumasawa\|Kumasawa]] run there to stage a fake homicide. The only reasonable solution we could find to the red concerning this mystery is for [[Characters/Kanon\|Kanon]] to survive and [[Characters/Nanjo\|Nanjo]] to lie about it. That's what forced our hand on including Nanjo among the culprits.
 Sayo, currently dressed as Kanon, had a bag of fake blood in her clothes, she just pretended to have been stabbed by the stake, and Nanjo lies to help convince the others of his death. 
 Battler didn't see Kanon die first hand, and although it's implied Jessica did, it can be explained with good acting from the victim and the doctor. Plus, what they did with Kanon's body afterward is never addressed, so we believe this is all a ploy for Sayo to roam free after both Shannon and Kanon are out of the picture. 
-The golden butterflies signify are a framing device to kick Kanon out of the equation. Him rebelling against [[Characters/Beatrice\|Beatrice]] could have all kinds of meanings, but we will explore those once we get to some later examples.
+The golden butterflies are a framing device to kick Kanon out of the equation. Him rebelling against [[Characters/Beatrice\|Beatrice]] could have all kinds of meanings, but we will explore those once we get to some later examples.
 
 
 ---
 
-[[Characters/Genji\|Genji]] proposes hiding in Kinzo's study. This was already planned, and He has a letter to set up.
-They go in, at the opportune moment He pulls out a letter which Maria notices, which makes Natsuhi kick out everyone that she knew not to be safe.
+[[Characters/Genji\|Genji]] proposes hiding in Kinzo's study. This was already planned, and he has a letter to set up.
+They go in, at the opportune moment he pulls out a letter which Maria notices, which makes Natsuhi kick out everyone that she knew not to be safe.
 
-They go back to the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]], thinking they're safe, but [they didn't expect the Sayo inquisition](https://www.youtube.com/watch?v=yKQ_sQKBASM) to show up with a gun!
+They go back to the [[Mysteries/Episode 1 mysteries/Deaths of the servants in the parlor\|parlor]], thinking they're safe, but [they didn't expect the Sayo inquisition](https://www.youtube.com/watch?v=yKQ_sQKBASM) to show up with a gun!
 
 It's very easy to imagine how the scene must have played out by stripping the magical elements from Maria's testimony.
 
@@ -300,7 +300,7 @@ Maybe, she too was one of Sayo's allies all along.
 Maybe, she was threatened at gunpoint, and Maria is lying about her reading a letter. 
 The most realistic answer is that whatever she read in that letter was some kind of threat or blackmail, or some kind of deal. It ideally should be something that works no matter who finds it first, something to the effect of "The final showdown, just you and me in front of the painting, if you come I'll spare everyone else". We really have no clue about what it was exactly.
 
-Either way, [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|she is lured and killed in front of the portrait room]], by a bullet from Sayo's gun. It's possible that they both shot each other at the same time, from this point onward we don't need Sayo to be alive anymore.
+Either way, [[Mysteries/Episode 1 mysteries/Natsuhi's death in the hall\|she is lured and killed in front of the portrait]], by a bullet from Sayo's gun. It's possible that they both shot each other at the same time, from this point onward we don't need Sayo to be alive anymore.
 The children rush in front of the painting, and they find Natsuhi dead, maybe they have an interaction with Sayo, maybe they find both bodies, and Maria acts creepy as usual. 
 
 Shortly after, the bomb that Sayo set up explodes killing every remaining human in the mansion.
@@ -348,12 +348,11 @@ So to recap, if everything in Legend  happens before Battler in the tea party st
 ## Part 𝑖 : The tea party of those who are not human
 
 The tea party of those who aren't human is not a golden land, but a dimension above the tea party. 
-Here [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]],  At this layer of abstraction there's no Sayo anymore, it's just the [[Speculation/Endless Witch\|endless witch]] with her framing device and the witch of fragments trying to see through it. 
+Here [[Characters/Beatrice\|Beatrice]] has been playing a game against [[Characters/Bernkastel\|Bernkastel]]. At this layer of abstraction there's no Sayo anymore, it's just the [[Speculation/Endless Witch\|endless witch]] with her framing device and the witch of fragments trying to see through it. 
 Nominally, [[Characters/Beatrice\|Beato]] was just showing her "Something cool" and they both act like they aren't fighting against each other, but even at this point they both know that they are. 
 
-There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth for the reader, even in Legend where meta battler doesn't even exist yet. 
-Those scenes can be explained as being instead directed to Bernkastel as well as us the reader. 
- 
+There are scenes in Umineko that even meta [[Characters/Battler\|Battler]] doesn't see, but they are clearly meant to obfuscate the truth for the reader, even in Legend where meta Battler doesn't even exist yet. 
+
 The POV characters, at least initially, are Battler and Bernkastel, and when she breaks the 4th wall she is simultaneously talking to us and to Battler. 
 After all, her character profile tells us: "Sometimes she is you, and sometimes she is your greatest friend", so overall, we think the figure of Bernkastel is meant to [[Characters/Bernkastel#^f44b17\|represent a reader of umineko]] and she has no alter egos inside the story so far, although we expect this to change as soon as episode 5 because of the name of a certain character...
 
@@ -365,7 +364,7 @@ Beato "not even letting the dice fall" might mean that she literally min-maxes e
 Beatrice is not "one individual woman" and "her existence is the personification of the rules of this world". 
 This refers to her being an amalgamation of the concepts that make Rokkenjima magical and mysterious (see [[Tips/Bernkastel's letter#The three rules\|Bernkastel's letter#The three rules]]), plus it can be read as a clever foreshadowing for the whole Sayo situation.
 
-Beatrice's profile says that there is only one way to kill her, and We hold it on the palm of our hands. This might mean a lot of things. Is it about Battler having an easy out, ignoring Beatrice? Is it about her having one glaring weakness that we couldn't identify? Is it the reader closing the game and not playing anymore? Please tell me it's not the reader closing the game and not playing anymore, it's so cliche! Although, it probably wasn't when Umineko came out.
+Beatrice's profile says that there is only one way to kill her, and we hold it on the palm of our hands.
 
 Now... it's the end of Legend of the Golden witch, but it isn't the end of our theories! Soon(tm) our Turn theory will be ready... and we'll introduce our new friend! Who is this friend you might ask? You'll find out soon enough! We will call them person X for the time being!
 

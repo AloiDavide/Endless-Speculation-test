@@ -18,7 +18,7 @@ He has served [[Characters/Kinzo\|Kinzo]] longer than any other and is the perso
 Since he serves Kinzo directly, [[Characters/Krauss\|Krauss]] and [[Characters/Natsuhi\|Natsuhi]] think of him as being a spy for Kinzo.
 
 ---
-Found in the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]]. He had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of his stomach, and his face had been smashed.
+Found in the [[Mysteries/Episode 1 mysteries/Deaths of the servants in the parlor\|parlor]]. He had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of his stomach, and his face had been smashed.
 
 At the sixth twilight, gouge the stomach and kill.
 ## Turn
@@ -56,7 +56,7 @@ He has served [[Characters/Kinzo\|Kinzo]] longer than any other and is the perso
 Since he serves Kinzo directly, [[Characters/Krauss\|Krauss]] and [[Characters/Natsuhi\|Natsuhi]] think of him as being a spy for Kinzo.
 
 ---
-His body was found in the [[Mysteries/VIP Room\|VIP Room]] on the second floor.  
+His body was found in the VIP Room on the second floor.  
 
 The weapon used on him is assumed to be a [[Characters/The Chiester Sisters Imperial Guard Corps\|gun or spear-shaped object]].
 

@@ -47,7 +47,7 @@ He took his wife’s name upon their marriage and became a member of the Ushirom
 He started his business from scratch and now works as the president of a medium-sized restaurant chain. This chain seems to be growing and performing extremely well.
 
 ---
-Died in the [[Mysteries/Hall\|Hall]] of the mansion, his chest pierced by a [[Characters/The Seven Stakes of Purgatory\|stake-shaped weapon]].  
+Died in the [[Mysteries/Episode 3 mysteries/Crime scene in the hall\|Crime scene in the hall]] of the mansion, his chest pierced by a [[Characters/The Seven Stakes of Purgatory\|stake-shaped weapon]].  
 
 That was careless of me. Didn't think you were still alive......
 ## Alliance

@@ -17,7 +17,7 @@ He once ran a hospital on Niijima, but he turned it over to his son and now enjo
 Now that Kinzo’s constant suspicion has reached extraordinary heights, Nanjo is one of the very few people he trusts. Thanks to Nanjo’s big-hearted nature, he has been able to continue his friendship with Kinzo despite the latter’s tendency to fly into a rage at the slightest provocation.
 
 ---
-Found in the [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|parlor]]. His thigh had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and his face had been smashed.
+Found in the [[Mysteries/Episode 1 mysteries/Deaths of the servants in the parlor\|parlor]]. His thigh had a weapon resembling an [[Characters/The Seven Stakes of Purgatory\|icepick]] sticking out of it, and his face had been smashed.
 
 At the seventh twilight, gouge the knee and kill.
 ## Turn

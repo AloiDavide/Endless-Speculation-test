@@ -167,7 +167,7 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > Leads:
 > - It was confirmed that Kinzo is already dead before the game even starts.
 > - It can be supposed that this means his death happened the same way in every scenario, but this must mean that every red truth about one of his deaths applies to his one true death.
-> - Therefore, looking at the [[Mysteries/Crime scenes of the 6 linked closed rooms\|6 linked closed rooms]] case tells us that:
+> - Therefore, looking at the [[Mysteries/Episode 3 mysteries/Crime scenes of the 6 linked closed rooms\|6 linked closed rooms]] case tells us that:
 > 	- Kinzo didn't die in a trap.
 > 	- Kinzo died instantly after being attacked, suggesting a violent death.
 > - His body is consistently (but not always, more on this later) found burned, perhaps as an attempt to hide a different cause of death.

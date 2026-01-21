@@ -18,7 +18,7 @@ She possesses a strong sense of responsibility and a great deal of pride.
 However, neither her husband nor his siblings understand her very well, so her position is far from enviable.
 
 ---
-Found shot to death in front of the [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|portrait room]].
+Found shot to death in front of the [[Mysteries/Episode 1 mysteries/Natsuhi's death in the hall\|portrait room]].
 
 How impudent of her to challenge a witch with nothing but a mere [[Tips/Winchester M1984 Sawed off\|gun]]. Of course, she’d end up like this. Kihihihihihihihihi.
 ## Turn

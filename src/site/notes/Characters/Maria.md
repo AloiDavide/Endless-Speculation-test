@@ -53,7 +53,7 @@ Her father’s identity is unknown. She can’t shake off the habit of speaking 
 She has no interest in studying or making friends, but is very interested in things concerning the occult and black magic. Thanks to her excellent powers of memorization, she knows all kinds of obscure trivia.
 
 ---
-Her corpse was found in the [[Mysteries/Rose garden (Banquet)\|rose garden]].  
+Her corpse was found in the [[Mysteries/Episode 3 mysteries/Crime scene in the rose garden\|rose garden]].  
 The cause of her death was strangling, probably by bare hands. Circumstantial evidence makes it reasonable to assume that she was killed after Rosa.  
 
 Then, her blood became the red ink for the witch's oath.

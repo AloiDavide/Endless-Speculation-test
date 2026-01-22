@@ -195,7 +195,7 @@ Sayo herself is free to just walk out of the Chapel at a later point, after all 
 
 With this solution on the table, let's see if we're forgetting anyone.
 
-<font color="#00b0f0">Let's state this: in the context of Legend of the Golden witch, there are <b>at least 16</b> people in Rokkenjima.</font>
+<font color="#00b0f0">Let's state this: in the context of Banquet of the Golden witch, there are <b>at least 16</b> people in Rokkenjima.</font>
 
 <center><font color="#00b0f0" size="5">Battler</font></center>
 <center><font color="#00b0f0" size="5">Eva</font></center>
@@ -286,7 +286,7 @@ So our conclusion on the matter is that these people are only partially under Be
 Battler realizes that this is a rhetorical battle to establish a narrative. There's not even strictly a need for him to be right, as long as he denies Beato's narrative it can never be "manifested into reality". Which is good for Battler since he isn't exactly good at not being wrong about everything. 
 
 Contrary to how it may look, this is good for Beatrice as well. After all, even Beato herself repeatedly held back in Turn in order to tutorialize Battler on how the red truth works. 
-Her win condition is not merely having her narrative not defeated,and it isn't having Battler admit she's a witch either. 
+Her win condition is not merely having her narrative not defeated, and it isn't having Battler admit she's a witch either. 
 I mean, who could think she was serious about using the over the top magic battle as her attack? How the hell do you even explain the sound outside? What if Battler asks any question?
 
 This is also where Battler figures out how much getting Beatrice to actually use the red works to his advantage, so after the skirmish Beato hastily withdraws, or rather, *she is withdrawn* by Ronove. If she were to repeat that none of the six died an accidental death, prolonging the confrontation, she would get dangerously close to being asked again if the 6 deaths were homicides... which she can't repeat, because Shannon and Kanon are categorically different from a normal homicide.

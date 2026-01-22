@@ -365,7 +365,7 @@ The room with the gold ingots is probably in Kuwadorian or in the hidden tunnel 
 
 Of course this ignores the hint about the sea being relevant and other important keywords like the village, so even if it was true it's not the full picture.
 
-As for what specific book Eva might be looking, we noticed how Kyrie focuses on the epitaph being divided in 3 parts, so we tried to come up with some books that also come in 3 parts and are famous enough that they would show up in most libraries and wealthy high class people's homes.
+As for what specific book Eva might be looking for, we noticed how Kyrie focuses on the epitaph being divided in 3 parts, so we tried to come up with some books that also come in 3 parts and are famous enough that they would show up in most libraries and wealthy high class people's homes.
 The only decent idea we floated was Dante's divine comedy, which is a little obvious in retrospect. Like, it's really hard not to notice the many references to that book in Umineko:
 There are a Beatrice, a Virgilia and a Maria, the first time we see the tea party world it's named purgatory, and the seven stakes are named after the seven deadly sins. 
 
@@ -425,7 +425,7 @@ As quickly as possible, she climbs back up to her room to create an alibi for he
 
 
 
-Considering Eva turns into Evato in front of the two and  the scene that follows is as magical and the battle against Virgilia, we're more willing to dismiss the dialogue in this scene as fake. Namely we don't believe the part where Rosa and Maria are asking if she's really Eva.
+Considering Eva turns into Evato in front of the two and  the scene that follows is as magical as the battle against Virgilia, we're more willing to dismiss the dialogue in this scene as fake. Namely we don't believe the part where Rosa and Maria are asking if she's really Eva.
 Well, it definitely wasn't Sayo, because the way they were murderer is far too pragmatic, first Rosa's neck was impaled on the fence, then Maria was strangled. There aren't even any stakes on the bodies for Christ's sake!
 ![Pasted image 20260111172933.png|400](/img/user/Attachments/Pasted%20image%2020260111172933.png)
 ![Pasted image 20260111172945.png|400](/img/user/Attachments/Pasted%20image%2020260111172945.png)
@@ -438,7 +438,7 @@ This line would make you think Eva is in charge of the murders from now on inste
 Instead she is going to use this 19th person nobody knows about to get rid of her siblings and have the gold to herself, while making sure that she and her family are not on the list. And then she can always betray Sayo after she isn't needed anymore.
 
 ![Pasted image 20260111195021.png](/img/user/Attachments/Pasted%20image%2020260111195021.png)
-<center>Although, she is understandably conflicted about it she already went through with it.</center>
+<center>Although she is understandably conflicted about it, she already went through with it.</center>
 
 
 The way Evato reluctantly goes along with the occult theme from now on of course represents Eva trying to accomodate Sayo's methods. 
@@ -474,10 +474,10 @@ Do we have a good reason not to suspect Kyrie and Rudolf for the role of accompl
 We really could follow this line of reasoning and get somewhere with no contradictions, and maybe we ARE being misled by the narration that tries to put all the blame on Eva to the point of completely fabricating Eva beatrice just to mess with us and Battler, but the main theory rhymes a lot better with the magic side and it plays into the "black witch" theme of becoming violent to cope with one's situation, and how it's self destructive and toxic.
 
 So, to reiterate:
-- We have an Eva and Hideyoshi Theory
-- We have a Rudolf and Kyrie Theory
-- Parallel to those Sayo, X, or both, could be the person surviving creating the 6 closed rooms
-- On top of it there's technically the culprit Y theory to more closely follow the red
+- We have an Eva and Hideyoshi Theory.
+- We have a Rudolf and Kyrie Theory.
+- Parallel to those Sayo, X, or both, could be the survivors from the 6 closed rooms.
+- On top of it there's technically the culprit Y theory to more closely follow the red.
 
 That was a lot to distill down. Now back on the main branch.
 

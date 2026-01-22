@@ -159,7 +159,7 @@ It's possible some kind of disagreement sparked between the conspirators that ni
 Kumasawa might have had a change of heart, and attempted to dissuade Sayo from going trough with her plan, and it's hard to say whose side Genji would be on, but we imagine the discussion got really heated... until eventually somebody fired the first shot.
 
 Ok... but how was the closed room produced? The red boxes us in.
-The status of the six rooms as true [[Speculation/Beatrice's Definitions\|closed rooms]] is settled
+The status of the six rooms as true [[Speculation/Beatrice's Definitions\|closed rooms]] is settled.
 
 > 
 > __Furthermore, all of the doors and windows on the six rooms are normal. No device exists which can lock them without a key, such as an auto lock.__

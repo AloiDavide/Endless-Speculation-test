@@ -190,7 +190,7 @@ Either this, or when Beato says "victims" in red she is referring to the six cha
 Well then, after the plan almost goes completely off the rails, Sayo is still determined to stage an occult murder scene, so she spends the rest of the night setting up the rooms on her own with the corpses of her allies in place of the intended victims. 
 She lures out and shoots Gohda in order to pad the numbers and she turns on the incinerator where Kinzo's body was hidden, she dresses a dummy as Shannon and finally she closes herself inside pretending to be a dead Kanon.
 
-This is all very close to the setup to fake Kanon and Shannon's deaths in our Legend theory. The discovery of the corpses is overseen by Nanjo, who examines the corpses and declares them dead, while George and the other kids aren't allowed to look at Shannon's corpse whatsoever. 
+This is all very close to the setup to fake Kanon and Shannon's deaths in our Legend theory. The discovery of the corpses is overseen by Nanjo, who examines the bodies and declares them dead, while George and the other kids aren't allowed to look at Shannon's corpse whatsoever. 
 Sayo herself is free to just walk out of the Chapel at a later point, after all the adults leave.
 
 With this solution on the table, let's see if we're forgetting anyone.

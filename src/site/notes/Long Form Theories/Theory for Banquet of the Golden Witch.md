@@ -72,12 +72,12 @@ At some point Alpha Beatrice died by some unknown cause, and Kinzo, who like we 
 <font color="#00b050">I have no idea why Hound decided to call her "not Beatrice", I was not consulted on this, I disavow.</font>
 
 Ronove provides us with the following red truths about her and the flashback.
-- __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
-- __the pair actually had a conversation like that in that place__. (Referring to Kinzo talking to 0 Beatrice)
-- __This is the world of 1967__ (19 years before the murders in 1986).
-- __In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
 
-Finally after we see her fall Beato adds "__It's definitely dead__"
+> __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
+> __the pair actually had a conversation like that in that place__. (Referring to Kinzo talking to 0 Beatrice)
+> __This is the world of 1967__ (19 years before the murders in 1986).
+> __In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
+> Finally after we see her fall Beato adds "__It's definitely dead__"
 
 All of this is  corroborated again in Alliance.
 ![Pasted image 20251215223913.png](/img/user/Attachments/Pasted%20image%2020251215223913.png)

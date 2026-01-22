@@ -287,7 +287,7 @@ Battler realizes that this is a rhetorical battle to establish a narrative. Ther
 
 Contrary to how it may look, this is good for Beatrice as well. After all, even Beato herself repeatedly held back in Turn in order to tutorialize Battler on how the red truth works. 
 Her win condition is not merely having her narrative not defeated, and it isn't having Battler admit she's a witch either. 
-I mean, who could think she was serious about using the over the top magic battle as her attack? How the hell do you even explain the sound outside? What if Battler asks any question?
+I mean, who could think she was serious about using the over the top magic battle as her attack? How the hell do you even explain the sound outside? What if Battler asks any questions?
 
 This is also where Battler figures out how much getting Beatrice to actually use the red works to his advantage, so after the skirmish Beato hastily withdraws, or rather, *she is withdrawn* by Ronove. If she were to repeat that none of the six died an accidental death, prolonging the confrontation, she would get dangerously close to being asked again if the 6 deaths were homicides... which she can't repeat, because Shannon and Kanon are categorically different from a normal homicide.
 
@@ -324,7 +324,7 @@ It's not hard to assume that the massive amount of gold bars couldn't possibly b
 >The title of [[Speculation/Golden Witch\|Golden Witch]] has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
 >~[[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
-The perpetrators definitely have access to a large fortune stored in bank vaults, we know part of that that money was given to the families of the victims in the form of PIN codes, and that same cash could be used to bribe Nanjo and the Ushiromiya family members into cooperating, but it's nowhere close to the actual monetary value of all that gold and definitely not in the shape of solid ingots.
+The perpetrators definitely have access to a large fortune stored in bank vaults, we know part of that money was given to the families of the victims in the form of PIN codes, and that same cash could be used to bribe Nanjo and the Ushiromiya family members into cooperating, but it's nowhere close to the actual monetary value of all that gold and definitely not in the shape of solid ingots.
 
 So this scene where Eva finds it is allegorical, and she's actually being offered that bank money as her prize, right?
 Well, the thing is that reading over this scene again... it kinda looks like she's just seeing 10 tons of gold..... There are none of the telltale signs of a fabricated scene, nothing magical is really going on, Eva is reacting to it in her human version using unambiguous language, and after a little bit Rosa (who we argue is totally innocent in this episode) shows up and sees it too.
@@ -334,7 +334,7 @@ We can still make the rest of the argument work if we just say that Sayo and the
 ---
 
 Before moving on to the next scene, we feel like a tangent on the epitaph is obligatory at this point.
-This theory will not contain a solution to the epitaph, mainly because we didn't find one... but from other people have talked about it we really get the sense that this bonus challenge of Umineko gets a lot harder without a decent understanding of Japanese so we won't knock ourselves too hard about it.
+This theory will not contain a solution to the epitaph, mainly because we didn't find one... but from how other people have talked about it we really get the sense that this bonus challenge of Umineko gets a lot harder without a decent understanding of Japanese so we won't knock ourselves too hard about it.
 
 What we do have is a couple guesses that come from the hints given by Eva, logic by exclusion, some pattern matching, and a fair amount of *"just simply calling it"*.
 
@@ -353,7 +353,7 @@ The room with the gold ingots is probably in Kuwadorian or in the hidden tunnel 
 > Leads:
 > - The solution to the epitaph involves a relatively down to earth wordplay according Eva.
 > - The the family tree interpretation for sweetfish river isn't completely off the mark according to EVA Beatrice.
-> - Bank = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
+> - Shore = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
 > 	- ![Pasted image 20260111152420.png](/img/user/Attachments/Pasted%20image%2020260111152420.png)
 > - Maybe "the shore the two will tell you of" refers to two kanji.
 > - The oldest sister is Eva(絵羽)

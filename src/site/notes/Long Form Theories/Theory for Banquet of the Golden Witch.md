@@ -527,7 +527,7 @@ The real version of this scene very likely involves Sayo (and/or X Beatrice) lur
 How she managed to get his attention and convince him that yes, he absolutely had to use the window to sneak out, can be partially explained with Nanjo being there to help. 
 This isn't as incriminating for Nanjo as the only alternative theory, where he would have had to quietly incapacitate George and hurl his body from the window and let a wounded Sayo drag him all the way to the main mansion. You could even have a combination of the two theories where George is lured to the window by Shannon and Nanjo pushes him down.
 
-At the end Nanjo locks the window from the inside fulfilling the second red truth, he tries to help  and George has magically vanished from the first floor without the adults knowing about it. It's an extremely simple trick, so simple even Battler gets it right on the first shot.
+At the end Nanjo locks the window from the inside fulfilling the second red truth, he goes down the stairs to help Eva, and George has magically vanished from the first floor without the adults knowing about it. It's an extremely simple trick, so simple even Battler gets it right on the first shot.
 ![Pasted image 20260108194732.png](/img/user/Attachments/Pasted%20image%2020260108194732.png)
 
 ![Pasted image 20260108194802.png](/img/user/Attachments/Pasted%20image%2020260108194802.png)
@@ -545,11 +545,11 @@ What isn't immediately clear is why the combination appeared here and who is it 
 We theorized that getting a large sum of money for his granddaughter's medical expenses is Nanjo's main motivation for playing along, but his family will receive that money even without him staying alive. If Sayo left a reward here only meant for the survivors, it might mean she's not actually trying to end the day with everyone dead?
 She could be so wounded that she figures she won't make it to the end and decided to rethink the plan, or maybe more likely, in this game someone has earned the right to survive, perhaps the person who actually solved the epitaph.
 
-George's post mortem charachter profile coupled with the fact that the PIN was written on the door of his murder scene give us the context to settle this matter. This is Eva's rightful share of the consolation prize for the survivors. Very macabre, but also in line with her pattern obsession, after all Beatrice said it in red:
+George's post mortem charachter profile coupled with the fact that the PIN was written on the door of his murder scene give us the context to settle this matter. This is Eva's rightful share of the consolation prize for the survivors. Very macabre, but also in line with Sayo's pattern obsession, after all Beatrice said it in red:
 "__I keep my promises__." 
 
 ![Pasted image 20260108191002.png|400](/img/user/Attachments/Pasted%20image%2020260108191002.png)
-<center>The combination can give the person who has access to a large sum of money, even though it's far from the 10 tons of gold of the actual promised by the golden land of the epitaph.</center>
+<center>Knowing the combination gives you access to it a large sum of money, even though it's far from the 10 tons of gold in the actual golden land of the epitaph.</center>
 
 Eva's hope is crushed by George's death, her pretense of being able to predict and control Sayo backfired spectacularly. 
 After Jessica attacks her she fires a blank by mistake injuring her eyes, then she storms out probably looking for Sayo, with Battler following after her. It's possible she fired with the intent to kill thinking the gun was loaded with real bullets, but why would she want to produce more victims at this point?
@@ -575,8 +575,7 @@ Let's now focus on the tea party, and let's check how the whole the "north wind 
 ![Pasted image 20260111201317.png](/img/user/Attachments/Pasted%20image%2020260111201317.png)
 <center>About as well as expected.</center>
 
-All throughout the second half Beato has been stringing a narrative around her change of attitude, 
-that's why Ronove, Virgilia and even Eva Beatrice seem to genuinely engage with this new personality of hers even in scenes where Battler isn't there. Beato is *performing magic*, and by selling this tsundere transition to Battler, she can make it her reality.
+All throughout the second half Beato has been stringing a narrative around her change of attitude, that's why Ronove, Virgilia and even Eva Beatrice seem to genuinely engage with this new personality of hers even in scenes where Battler isn't there. Beato is *performing magic*, and by selling this tsundere transition to Battler, she can make it her reality.
 
 This is all very convenient for Beato, she gets to use her servants to dodge a lot of questions about the mysteries, and ultimately she might just be able to create a shared narrative with Battler, a "golden land", also known as "paradise". 
 After all she did __promise__ Battler that if he accepts her he can leave purgatory and reach heaven.

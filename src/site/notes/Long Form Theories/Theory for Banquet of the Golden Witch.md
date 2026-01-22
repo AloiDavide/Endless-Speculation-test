@@ -116,7 +116,7 @@ Except it was literally there the whole time and we just missed it over and over
 
 ![Pasted image 20250824234716.png](/img/user/Attachments/Pasted%20image%2020250824234716.png)
 
-Now, wouldn't you agree that it's unlikely for someone who died 19 years ago to have given birth to someone which is currently 16 year old? Yeah. We do too.
+Now, wouldn't you agree that it's unlikely for someone who died 19 years ago to have given birth to someone who is currently 16 years old? Yeah. We do too.
 
 Sure, we could suppose this information is fake and they're lying about Sayo's age, but the theory isn't worth the stretch, not alongside the counter arguments to it already discussed in the Turn theory. Both 0 and X Beatrice can fit the role of the princess better than her, and saying that Shannon and Kanon are both 16 because that's Sayo's age works just fine (except if you're George then it's the opposite of fine).
 

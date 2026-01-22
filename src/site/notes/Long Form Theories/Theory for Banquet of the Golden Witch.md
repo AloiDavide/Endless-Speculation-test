@@ -14,6 +14,8 @@ This is from the credits at the end of Legend of the Golden witch. Notably, the 
 Since we'll have much more to talk about in relation to this in Alliance, we'll delay explaining this to then. 
 
 But regardless of our mistakes, let's dig into Banquet.
+
+---
 ## Part 1: The Witch of the forest
 <center><i>She doesn't eat children, just simple solutions</i></center>
 
@@ -140,6 +142,9 @@ As Battler's opponent maybe she represents Sayo exclusively, but the claim of th
 This interpretation would help solidify the distinction between Sayo and X Beatrice.
 
 Alternatively, we can take the easier route and say that by virtue of the meta nature of the tea party, she really is all of them! That is to say the traits and memories of every Beatrice discussed coalesce into this character.
+
+---
+
 ## Part 2: The absolute nightmare that made us bang our heads against the wall
 <center><i>Also known as the ABSOLUTELY DIABOLICAL linked closed rooms HOLY SHIT WHAT WERE THEY THINKING</i></center>
 
@@ -286,6 +291,7 @@ I mean, who could think she was serious about using the over the top magic battl
 
 This is also where Battler figures out how much getting Beatrice to actually use the red works to his advantage, so after the skirmish Beato hastily withdraws, or rather, *she is withdrawn* by Ronove. If she were to repeat that none of the six died an accidental death, prolonging the confrontation, she would get dangerously close to being asked again if the 6 deaths were homicides... which she can't repeat, because Shannon and Kanon are categorically different from a normal homicide.
 
+---
 ## Part 3: Quantum theories
 <center><i>There is a looot of room to solve Banquet, let's explore it</i></center>
 
@@ -475,6 +481,7 @@ So, to reiterate:
 
 That was a lot to distill down. Now back on the main branch.
 
+---
 ## Part 4: Forsaking the golden land
 <center><i>Does it even matter if he doesn't remember?</i></center>
 
@@ -620,6 +627,8 @@ Here they can reach a "pretend peace", in which Battler doesn't remember what si
 ![Pasted image 20251230162627.png](/img/user/Attachments/Pasted%20image%2020251230162627.png)
 
 But right at that moment... Ange literally *breaks* into the golden land and forces them out of the stalemate (this is sort of her specialty as we'll see), coincidentally giving Beato the perfect excuse to unmask herself and go back to playing the villain role.
+
+---
 ## Part 𝑖: The tea parties
 <center><i>And a message from the sponsors</i></center>
 

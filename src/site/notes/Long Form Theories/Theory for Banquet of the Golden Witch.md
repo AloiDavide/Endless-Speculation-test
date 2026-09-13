@@ -10,10 +10,12 @@ But before we even begin, a correction.
 
 ![Pasted image 20251026230322.png](/img/user/Attachments/Pasted%20image%2020251026230322.png)
 
-This is from the credits at the end of Legend of the Golden witch. Notably, the police concludes that the chances of survival for any of the *18* were hopelessly dim. *18*. If this is the future, like we originally thought... then why is the 18th person dead? Has Eva not come back to Rokkenjima?
+This is from the credits at the end of Legend of the Golden witch. Notably, the police concludes that the chances of survival for any of the *18* were hopelessly dim. *18*. If this is the future, like we originally thought... then why is the 18th person dead? Has Eva not come back from Rokkenjima?
 Since we'll have much more to talk about in relation to this in Alliance, we'll delay explaining this to then. 
 
 But regardless of our mistakes, let's dig into Banquet.
+
+---
 ## Part 1: The Witch of the forest
 <center><i>She doesn't eat children, just simple solutions</i></center>
 
@@ -72,12 +74,12 @@ At some point Alpha Beatrice died by some unknown cause, and Kinzo, who like we 
 <font color="#00b050">I have no idea why Hound decided to call her "not Beatrice", I was not consulted on this, I disavow.</font>
 
 Ronove provides us with the following red truths about her and the flashback.
-- __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
-- __the pair actually had a conversation like that in that place__. (Referring to Kinzo talking to 0 Beatrice)
-- __This is the world of 1967__ (19 years before the murders in 1986).
-- __In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
 
-Finally after we see her fall Beato adds "__It's definitely dead__"
+> __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
+> __the pair actually had a conversation like that in that place__. (Referring to Kinzo talking to 0 Beatrice)
+> __This is the world of 1967__ (19 years before the murders in 1986).
+> __In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
+> Finally after we see her fall Beato adds "__It's definitely dead__"
 
 All of this is  corroborated again in Alliance.
 ![Pasted image 20251215223913.png](/img/user/Attachments/Pasted%20image%2020251215223913.png)
@@ -116,7 +118,7 @@ Except it was literally there the whole time and we just missed it over and over
 
 ![Pasted image 20250824234716.png](/img/user/Attachments/Pasted%20image%2020250824234716.png)
 
-Now, wouldn't you agree that it's unlikely for someone who died 19 years ago to have given birth to someone which is currently 16 year old? Yeah. We do too.
+Now, wouldn't you agree that it's unlikely for someone who died 19 years ago to have given birth to someone who is currently 16 years old? Yeah. We do too.
 
 Sure, we could suppose this information is fake and they're lying about Sayo's age, but the theory isn't worth the stretch, not alongside the counter arguments to it already discussed in the Turn theory. Both 0 and X Beatrice can fit the role of the princess better than her, and saying that Shannon and Kanon are both 16 because that's Sayo's age works just fine (except if you're George then it's the opposite of fine).
 
@@ -140,6 +142,9 @@ As Battler's opponent maybe she represents Sayo exclusively, but the claim of th
 This interpretation would help solidify the distinction between Sayo and X Beatrice.
 
 Alternatively, we can take the easier route and say that by virtue of the meta nature of the tea party, she really is all of them! That is to say the traits and memories of every Beatrice discussed coalesce into this character.
+
+---
+
 ## Part 2: The absolute nightmare that made us bang our heads against the wall
 <center><i>Also known as the ABSOLUTELY DIABOLICAL linked closed rooms HOLY SHIT WHAT WERE THEY THINKING</i></center>
 
@@ -154,7 +159,7 @@ It's possible some kind of disagreement sparked between the conspirators that ni
 Kumasawa might have had a change of heart, and attempted to dissuade Sayo from going trough with her plan, and it's hard to say whose side Genji would be on, but we imagine the discussion got really heated... until eventually somebody fired the first shot.
 
 Ok... but how was the closed room produced? The red boxes us in.
-The status of the six rooms as true [[Speculation/Beatrice's Definitions\|closed rooms]] is settled
+The status of the six rooms as true [[Speculation/Beatrice's Definitions\|closed rooms]] is settled.
 
 > 
 > __Furthermore, all of the doors and windows on the six rooms are normal. No device exists which can lock them without a key, such as an auto lock.__
@@ -185,12 +190,12 @@ Either this, or when Beato says "victims" in red she is referring to the six cha
 Well then, after the plan almost goes completely off the rails, Sayo is still determined to stage an occult murder scene, so she spends the rest of the night setting up the rooms on her own with the corpses of her allies in place of the intended victims. 
 She lures out and shoots Gohda in order to pad the numbers and she turns on the incinerator where Kinzo's body was hidden, she dresses a dummy as Shannon and finally she closes herself inside pretending to be a dead Kanon.
 
-This is all very close to the setup to fake Kanon and Shannon's deaths in our Legend theory. The discovery of the corpses is overseen by Nanjo, who examines the corpses and declares them dead, while George and the other kids aren't allowed to look at Shannon's corpse whatsoever. 
+This is all very close to the setup to fake Kanon and Shannon's deaths in our Legend theory. The discovery of the corpses is overseen by Nanjo, who examines the bodies and declares them dead, while George and the other kids aren't allowed to look at Shannon's corpse whatsoever. 
 Sayo herself is free to just walk out of the Chapel at a later point, after all the adults leave.
 
 With this solution on the table, let's see if we're forgetting anyone.
 
-<font color="#00b0f0">Let's state this: in the context of Legend of the Golden witch, there are <b>at least 16</b> people in Rokkenjima.</font>
+<font color="#00b0f0">Let's state this: in the context of Banquet of the Golden witch, there are <b>at least 16</b> people in Rokkenjima.</font>
 
 <center><font color="#00b0f0" size="5">Battler</font></center>
 <center><font color="#00b0f0" size="5">Eva</font></center>
@@ -281,11 +286,12 @@ So our conclusion on the matter is that these people are only partially under Be
 Battler realizes that this is a rhetorical battle to establish a narrative. There's not even strictly a need for him to be right, as long as he denies Beato's narrative it can never be "manifested into reality". Which is good for Battler since he isn't exactly good at not being wrong about everything. 
 
 Contrary to how it may look, this is good for Beatrice as well. After all, even Beato herself repeatedly held back in Turn in order to tutorialize Battler on how the red truth works. 
-Her win condition is not merely having her narrative not defeated,and it isn't having Battler admit she's a witch either. 
-I mean, who could think she was serious about using the over the top magic battle as her attack? How the hell do you even explain the sound outside? What if Battler asks any question?
+Her win condition is not merely having her narrative not defeated, and it isn't having Battler admit she's a witch either. 
+I mean, who could think she was serious about using the over the top magic battle as her attack? How the hell do you even explain the sound outside? What if Battler asks any questions?
 
 This is also where Battler figures out how much getting Beatrice to actually use the red works to his advantage, so after the skirmish Beato hastily withdraws, or rather, *she is withdrawn* by Ronove. If she were to repeat that none of the six died an accidental death, prolonging the confrontation, she would get dangerously close to being asked again if the 6 deaths were homicides... which she can't repeat, because Shannon and Kanon are categorically different from a normal homicide.
 
+---
 ## Part 3: Quantum theories
 <center><i>There is a looot of room to solve Banquet, let's explore it</i></center>
 
@@ -318,7 +324,7 @@ It's not hard to assume that the massive amount of gold bars couldn't possibly b
 >The title of [[Speculation/Golden Witch\|Golden Witch]] has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
 >~[[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
-The perpetrators definitely have access to a large fortune stored in bank vaults, we know part of that that money was given to the families of the victims in the form of PIN codes, and that same cash could be used to bribe Nanjo and the Ushiromiya family members into cooperating, but it's nowhere close to the actual monetary value of all that gold and definitely not in the shape of solid ingots.
+The perpetrators definitely have access to a large fortune stored in bank vaults, we know part of that money was given to the families of the victims in the form of PIN codes, and that same cash could be used to bribe Nanjo and the Ushiromiya family members into cooperating, but it's nowhere close to the actual monetary value of all that gold and definitely not in the shape of solid ingots.
 
 So this scene where Eva finds it is allegorical, and she's actually being offered that bank money as her prize, right?
 Well, the thing is that reading over this scene again... it kinda looks like she's just seeing 10 tons of gold..... There are none of the telltale signs of a fabricated scene, nothing magical is really going on, Eva is reacting to it in her human version using unambiguous language, and after a little bit Rosa (who we argue is totally innocent in this episode) shows up and sees it too.
@@ -328,7 +334,7 @@ We can still make the rest of the argument work if we just say that Sayo and the
 ---
 
 Before moving on to the next scene, we feel like a tangent on the epitaph is obligatory at this point.
-This theory will not contain a solution to the epitaph, mainly because we didn't find one... but from other people have talked about it we really get the sense that this bonus challenge of Umineko gets a lot harder without a decent understanding of Japanese so we won't knock ourselves too hard about it.
+This theory will not contain a solution to the epitaph, mainly because we didn't find one... but from how other people have talked about it we really get the sense that this bonus challenge of Umineko gets a lot harder without a decent understanding of Japanese so we won't knock ourselves too hard about it.
 
 What we do have is a couple guesses that come from the hints given by Eva, logic by exclusion, some pattern matching, and a fair amount of *"just simply calling it"*.
 
@@ -347,7 +353,7 @@ The room with the gold ingots is probably in Kuwadorian or in the hidden tunnel 
 > Leads:
 > - The solution to the epitaph involves a relatively down to earth wordplay according Eva.
 > - The the family tree interpretation for sweetfish river isn't completely off the mark according to EVA Beatrice.
-> - Bank = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
+> - Shore = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
 > 	- ![Pasted image 20260111152420.png](/img/user/Attachments/Pasted%20image%2020260111152420.png)
 > - Maybe "the shore the two will tell you of" refers to two kanji.
 > - The oldest sister is Eva(絵羽)
@@ -359,7 +365,7 @@ The room with the gold ingots is probably in Kuwadorian or in the hidden tunnel 
 
 Of course this ignores the hint about the sea being relevant and other important keywords like the village, so even if it was true it's not the full picture.
 
-As for what specific book Eva might be looking, we noticed how Kyrie focuses on the epitaph being divided in 3 parts, so we tried to come up with some books that also come in 3 parts and are famous enough that they would show up in most libraries and wealthy high class people's homes.
+As for what specific book Eva might be looking for, we noticed how Kyrie focuses on the epitaph being divided in 3 parts, so we tried to come up with some books that also come in 3 parts and are famous enough that they would show up in most libraries and wealthy high class people's homes.
 The only decent idea we floated was Dante's divine comedy, which is a little obvious in retrospect. Like, it's really hard not to notice the many references to that book in Umineko:
 There are a Beatrice, a Virgilia and a Maria, the first time we see the tea party world it's named purgatory, and the seven stakes are named after the seven deadly sins. 
 
@@ -419,7 +425,7 @@ As quickly as possible, she climbs back up to her room to create an alibi for he
 
 
 
-Considering Eva turns into Evato in front of the two and  the scene that follows is as magical and the battle against Virgilia, we're more willing to dismiss the dialogue in this scene as fake. Namely we don't believe the part where Rosa and Maria are asking if she's really Eva.
+Considering Eva turns into Evato in front of the two and  the scene that follows is as magical as the battle against Virgilia, we're more willing to dismiss the dialogue in this scene as fake. Namely we don't believe the part where Rosa and Maria are asking if she's really Eva.
 Well, it definitely wasn't Sayo, because the way they were murderer is far too pragmatic, first Rosa's neck was impaled on the fence, then Maria was strangled. There aren't even any stakes on the bodies for Christ's sake!
 ![Pasted image 20260111172933.png|400](/img/user/Attachments/Pasted%20image%2020260111172933.png)
 ![Pasted image 20260111172945.png|400](/img/user/Attachments/Pasted%20image%2020260111172945.png)
@@ -432,7 +438,7 @@ This line would make you think Eva is in charge of the murders from now on inste
 Instead she is going to use this 19th person nobody knows about to get rid of her siblings and have the gold to herself, while making sure that she and her family are not on the list. And then she can always betray Sayo after she isn't needed anymore.
 
 ![Pasted image 20260111195021.png](/img/user/Attachments/Pasted%20image%2020260111195021.png)
-<center>Although, she is understandably conflicted about it she already went through with it.</center>
+<center>Although she is understandably conflicted about it, she already went through with it.</center>
 
 
 The way Evato reluctantly goes along with the occult theme from now on of course represents Eva trying to accomodate Sayo's methods. 
@@ -468,13 +474,14 @@ Do we have a good reason not to suspect Kyrie and Rudolf for the role of accompl
 We really could follow this line of reasoning and get somewhere with no contradictions, and maybe we ARE being misled by the narration that tries to put all the blame on Eva to the point of completely fabricating Eva beatrice just to mess with us and Battler, but the main theory rhymes a lot better with the magic side and it plays into the "black witch" theme of becoming violent to cope with one's situation, and how it's self destructive and toxic.
 
 So, to reiterate:
-- We have an Eva and Hideyoshi Theory
-- We have a Rudolf and Kyrie Theory
-- Parallel to those Sayo, X, or both, could be the person surviving creating the 6 closed rooms
-- On top of it there's technically the culprit Y theory to more closely follow the red
+- We have an Eva and Hideyoshi Theory.
+- We have a Rudolf and Kyrie Theory.
+- Parallel to those Sayo, X, or both, could be the survivors from the 6 closed rooms.
+- On top of it there's technically the culprit Y theory to more closely follow the red.
 
 That was a lot to distill down. Now back on the main branch.
 
+---
 ## Part 4: Forsaking the golden land
 <center><i>Does it even matter if he doesn't remember?</i></center>
 
@@ -520,7 +527,7 @@ The real version of this scene very likely involves Sayo (and/or X Beatrice) lur
 How she managed to get his attention and convince him that yes, he absolutely had to use the window to sneak out, can be partially explained with Nanjo being there to help. 
 This isn't as incriminating for Nanjo as the only alternative theory, where he would have had to quietly incapacitate George and hurl his body from the window and let a wounded Sayo drag him all the way to the main mansion. You could even have a combination of the two theories where George is lured to the window by Shannon and Nanjo pushes him down.
 
-At the end Nanjo locks the window from the inside fulfilling the second red truth, he tries to help  and George has magically vanished from the first floor without the adults knowing about it. It's an extremely simple trick, so simple even Battler gets it right on the first shot.
+At the end Nanjo locks the window from the inside fulfilling the second red truth, he goes down the stairs to help Eva, and George has magically vanished from the first floor without the adults knowing about it. It's an extremely simple trick, so simple even Battler gets it right on the first shot.
 ![Pasted image 20260108194732.png](/img/user/Attachments/Pasted%20image%2020260108194732.png)
 
 ![Pasted image 20260108194802.png](/img/user/Attachments/Pasted%20image%2020260108194802.png)
@@ -538,11 +545,11 @@ What isn't immediately clear is why the combination appeared here and who is it 
 We theorized that getting a large sum of money for his granddaughter's medical expenses is Nanjo's main motivation for playing along, but his family will receive that money even without him staying alive. If Sayo left a reward here only meant for the survivors, it might mean she's not actually trying to end the day with everyone dead?
 She could be so wounded that she figures she won't make it to the end and decided to rethink the plan, or maybe more likely, in this game someone has earned the right to survive, perhaps the person who actually solved the epitaph.
 
-George's post mortem charachter profile coupled with the fact that the PIN was written on the door of his murder scene give us the context to settle this matter. This is Eva's rightful share of the consolation prize for the survivors. Very macabre, but also in line with her pattern obsession, after all Beatrice said it in red:
+George's post mortem charachter profile coupled with the fact that the PIN was written on the door of his murder scene give us the context to settle this matter. This is Eva's rightful share of the consolation prize for the survivors. Very macabre, but also in line with Sayo's pattern obsession, after all Beatrice said it in red:
 "__I keep my promises__." 
 
 ![Pasted image 20260108191002.png|400](/img/user/Attachments/Pasted%20image%2020260108191002.png)
-<center>The combination can give the person who has access to a large sum of money, even though it's far from the 10 tons of gold of the actual promised by the golden land of the epitaph.</center>
+<center>Knowing the combination gives you access to it a large sum of money, even though it's far from the 10 tons of gold in the actual golden land of the epitaph.</center>
 
 Eva's hope is crushed by George's death, her pretense of being able to predict and control Sayo backfired spectacularly. 
 After Jessica attacks her she fires a blank by mistake injuring her eyes, then she storms out probably looking for Sayo, with Battler following after her. It's possible she fired with the intent to kill thinking the gun was loaded with real bullets, but why would she want to produce more victims at this point?
@@ -568,8 +575,7 @@ Let's now focus on the tea party, and let's check how the whole the "north wind 
 ![Pasted image 20260111201317.png](/img/user/Attachments/Pasted%20image%2020260111201317.png)
 <center>About as well as expected.</center>
 
-All throughout the second half Beato has been stringing a narrative around her change of attitude, 
-that's why Ronove, Virgilia and even Eva Beatrice seem to genuinely engage with this new personality of hers even in scenes where Battler isn't there. Beato is *performing magic*, and by selling this tsundere transition to Battler, she can make it her reality.
+All throughout the second half Beato has been stringing a narrative around her change of attitude, that's why Ronove, Virgilia and even Eva Beatrice seem to genuinely engage with this new personality of hers even in scenes where Battler isn't there. Beato is *performing magic*, and by selling this tsundere transition to Battler, she can make it her reality.
 
 This is all very convenient for Beato, she gets to use her servants to dodge a lot of questions about the mysteries, and ultimately she might just be able to create a shared narrative with Battler, a "golden land", also known as "paradise". 
 After all she did __promise__ Battler that if he accepts her he can leave purgatory and reach heaven.
@@ -620,6 +626,8 @@ Here they can reach a "pretend peace", in which Battler doesn't remember what si
 ![Pasted image 20251230162627.png](/img/user/Attachments/Pasted%20image%2020251230162627.png)
 
 But right at that moment... Ange literally *breaks* into the golden land and forces them out of the stalemate (this is sort of her specialty as we'll see), coincidentally giving Beato the perfect excuse to unmask herself and go back to playing the villain role.
+
+---
 ## Part 𝑖: The tea parties
 <center><i>And a message from the sponsors</i></center>
 

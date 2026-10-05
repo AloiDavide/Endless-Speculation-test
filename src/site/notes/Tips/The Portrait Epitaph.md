@@ -96,7 +96,7 @@ Sleep peacefully, my beloved witch, [[Characters/Beatrice\|Beatrice]].
 > Leads:
 > - The solution to the epitaph involves a relatively down to earth wordplay according Eva.
 > - The the family tree interpretation for sweetfish river isn't completely off the mark according to EVA Beatrice.
-> - Bank = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
+> - Shore = Kishi(岸) = Kishi(貴姉) = Old japanese way of referring with respect so someone's elder sister.
 > 	- ![Pasted image 20260111152420.png](/img/user/Attachments/Pasted%20image%2020260111152420.png)
 > - Maybe "the shore the two will tell you of" refers to two kanji.
 > - The oldest sister is Eva(絵羽)

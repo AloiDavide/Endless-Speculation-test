@@ -12,6 +12,3 @@ In that sense, perhaps the [[Speculation/Witch of Origins\|Witch of Origins]], [
 All [[Tips/Regarding Voyagers\|Voyagers]] fear that the destination of their own journeys is becoming a Creator.
 As to why they would fear advancing to the status of a higher-order being, only they themselves can comprehend the answer.
 
----
-
-Maybe Voyagers represent readers and creators represent writers, and Ryukishi is being meta like usual.

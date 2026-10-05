@@ -25,7 +25,7 @@ She is the most likely to be the the model for the Beatrice portrait.
 > 
 > ---
 > Leads:
-> - The [[Speculation/Leg Tattoos\|Leg Tattoos]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
+> - The [[Speculation/Leg Patterns\|Leg Patterns]] are too conspicuous of a detail to not be intentional, and they leave no room for doubt.
 > - Beatrice is not "one individual woman" according to Bernkastel.
 > - The two of them interact in the meta layer near the end of Alliance in a way that suggests two people with similar goals.
 

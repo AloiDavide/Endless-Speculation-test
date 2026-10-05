@@ -31,6 +31,7 @@ The Beatrice who wrote the letters is either Sayo or X Beatrice but not both, sh
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -40,29 +41,6 @@ The Beatrice who wrote the letters is either Sayo or X Beatrice but not both, sh
 
 </div></div>
 
-
-Ok, but then what ACTUALLY happened on Rokkenjima in reality?
-Two theories:
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!failure]- Legend is the "canonical" version of the events.
-> We were asked on more than one occasion which episode we expected to be the "real" one.
-> We don't know how many if any more games will happen in the answer arcs, but if we're choosing from the question arcs there are some arguments for Legend being the one. Although there's also a big obstacle.
->  
-> ---
-> Leads:
-> - The first tea party is a direct continuation of Legend, and every following interaction between Battler and Beatrice is framed as a continuation of that one. A discrepancy in the [[Speculation/Character Description Colors\|character description colors]] further supports this reading.
-> - Beatrice, Shannon and Kanon claim to have seen countless loops already, but this is merely the same magic fluff as the witch killing and reviving someone 100 times.
-> 
-> ---
-> Obstacles:
-> - Directly contradicted by the credits of legend saying that nobody was found alive, not even Eva.
-
-</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

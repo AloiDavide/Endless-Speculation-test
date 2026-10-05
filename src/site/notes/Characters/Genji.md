@@ -113,9 +113,3 @@ However, the witnesses don't believe he was killed with a gun...
 
 </div></div>
 
-
-
-
-
-
-

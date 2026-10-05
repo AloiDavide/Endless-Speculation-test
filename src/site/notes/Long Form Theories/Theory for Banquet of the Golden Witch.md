@@ -558,7 +558,7 @@ After Jessica attacks her she fires a blank by mistake injuring her eyes, then s
 
 We could ramble on for paragraphs about different interpretations of the following scene, if keeping the motivations consistent isn't a requirement and we just care about the red, then having a free roaming joker card like Sayo completely bypasses Evato's web of red truths. Let alone by considering X might also be there.
 
-This leaves a ton of room to come up with scenarios for *[[Nanjo's death in Banquet\|how Nanjo was killed]]*, how much of the scene with Jessica and Kanon actually happened vs how much of it was the magic narration, and why she was left alive for the time being only to die later. For the sake of brevity let's try to put forward one sequence of events with as few assumptions as possible.
+This leaves a ton of room to come up with scenarios for *[[Mysteries/Episode 3 mysteries/Nanjo's death in Banquet\|how Nanjo was killed]]*, how much of the scene with Jessica and Kanon actually happened vs how much of it was the magic narration, and why she was left alive for the time being only to die later. For the sake of brevity let's try to put forward one sequence of events with as few assumptions as possible.
 
 After Eva and Battler leave, Sayo simply shows up and shoots Nanjo as he begs for his life. Then she uses Kanon's name and voice to take Jessica away to a different room; this is why Jessica is still alive when Evato lists all the victims in red in the tea party.
 Notably, Kanon in this scene doesn't want to be touched, she probably doesn't want Jessica to notice Kanon is a girl through physical contact, or the clothes.
@@ -618,7 +618,7 @@ While of course it could just be part of the deception, you can read it as Beato
 
 ![Pasted image 20251230160457.png](/img/user/Attachments/Pasted%20image%2020251230160457.png)
 
-The previous game ended with Battler submitting out of despair. This one ends with him explicitly accepting Beatrice out of his own will, however not even THIS is enough to definitively close the game in favor of the witch. But it's enough for Sayo to regain her form as Beatrice.
+The previous game ended with Battler submitting out of despair. This one ends with him explicitly accepting Beatrice out of his own will, but not even THIS is enough to definitively close the game in favor of the witch. However it's enough for Sayo to regain her form as Beatrice.
 
 Even though the "golden land" has materialized it's no different from a stalemate, a fictional world for them to retreat into, where every character is reunited, real or fake, alive or dead, and there is no more conflict. 
 Here they can reach a "pretend peace", in which Battler doesn't remember what sin he's guilty of, or even that there is a sin, but in the end Beato doesn't have it in her to keep going with this lie, and we see that she and Virgilia are about to drop their act on purpose.

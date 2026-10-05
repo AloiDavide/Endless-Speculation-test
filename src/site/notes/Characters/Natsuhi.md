@@ -92,17 +92,6 @@ However, the witnesses don’t believe she was killed with a gun...
 
 
 
-> [!note]- The receipt is not proof against Natsuhi
-> Needless to say, Natsuhi wasn't really the last person to see Kinzo before he disappeared, but she had to lie about seeing him because she couldn't let anyone know Kinzo was dead from the start, despite how suspicious it made her look at that moment.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 > [!note]- The Kinzo damage control squad
 > It would be fair to say that only people who are aware of Kinzo's death are allowed to have fake scenes where they meet him.
 > 
@@ -122,19 +111,3 @@ However, the witnesses don’t believe she was killed with a gun...
 
 </div></div>
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- The letter Natsuhi found in the parlor was a threat
-> She was 
-> 
-> Leads:
-> - The only reason she would leave without telling anybody is that she was forced to.
-> ---
-> Obstacles:
-> - The culprit couldn't guarantee who would read the letter, so it can't be something aimed at Natsuhi specifically.
-
-</div></div>

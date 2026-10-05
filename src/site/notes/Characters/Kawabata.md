@@ -38,6 +38,7 @@ However, he never said anything, so they eventually began to forget this old man
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -53,6 +54,3 @@ However, he never said anything, so they eventually began to forget this old man
 
 </div></div>
 
-
-He may or may not have the power to shoot lightning.
-![tenor (1).gif](/img/user/Attachments/tenor%20(1).gif)

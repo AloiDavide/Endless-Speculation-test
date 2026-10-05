@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips/golden-butterfly-brooch/","contentClasses":"center-headings red-truth red-links"}
 ---
 
----
+
 *This object arranges all fate variables in a favorable manner to form relationships between the sexes.*
 
 *This leads to nothing more than a favorable arrangement of variables, so its strength differs widely depending on the individuals in question.*  
@@ -12,7 +12,3 @@
 *However, blind love is easily capable of paying this enormous price. And, if the target of the receiver’s affection feels affection in turn, the brooch’s effect increases even more dramatically.*  
 
 *Ironically, the more dramatic its effect becomes, the less one would need such a brooch in the first place.*  
-
----
-
-This thing is literally described as magic placebo by the author.

@@ -66,9 +66,3 @@ Her corpse was found in [[Mysteries/Episode 2 mysteries/Crime scene in Jessica's
 About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 She was smashed by her own attack due to George’s counter-offensive specialized barrier.
-# Theories
-
-If Sayo doesn't end up being a thing she is the only other candidate for Maria's Beatrice, but there was never a good reason to suspect her for anything. The only times she shows up in the red is to tell us she's either dead or innocent.
-
-Crunter really hopes the solution to some closed room is Jessica dying to her asthma, this is a [[Chekhov's Gun\|Chekhov's Gun]] moment.
-

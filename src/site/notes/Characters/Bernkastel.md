@@ -9,7 +9,7 @@
 ## Legend
 #### Tea Party
 
-The [[Speculation/Witch of the Fragments\|Witch of the Fragments]], who has lived a thousand years.
+The Witch of the Fragments, who has lived a thousand years.
 
 It is said she lives in a world where the concepts of fate and possibilities can be visualized. She observes the fate of humans and sometimes interferes.
 
@@ -57,10 +57,6 @@ What is sought by those witches who repeatedly voyage in an attempt to escape bo
 ---
 
 # Theories
-
-She's our best candidate for the twist villain of Umineko. Will she personally join the game in episode 5 as Erika Furudo?
-If you finished Higurashi you can take a look at [[Tips/Bernkastel's letter\|Bernkastel's letter]] for more metaphysical theories
-
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

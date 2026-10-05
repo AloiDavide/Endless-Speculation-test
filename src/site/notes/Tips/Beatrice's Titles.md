@@ -33,35 +33,3 @@ In that sense, she technically shouldn't be referred as either the Endless Witch
 
 </div></div>
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- The Golden Witch is Kinzo's version of Beatrice
-> This is the [[Characters/Beatrice\|Beatrice]] made up by [[Characters/Kinzo\|Kinzo]] to convince everyone that he possessed 10 tons of gold. Even to this day the modern incarnation of beatrice is supporting this claim and identifying with the image and narrative Kinzo has created because it's a valuable addition to her own narrative ([[Speculation/Endless Realization\|Endless Realization]]).
-> 
-> ---
-> Leads:
-> - It's the title inherited by solving [[Tips/The Portrait Epitaph\|The Portrait Epitaph]]. 
-> - The description of golden magic from [[Tips/Beatrice's Titles\|Beatrice's Titles]] literally says it can "materialize imaginary precious metals".
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Endless magic is a folk tale
-> The origin of the [[Speculation/Endless Witch\|endless magic]] narrative is a kind of folklore passed down in [[Characters/Kumasawa\|Kumasawa]]'s family. It pre-dates [[Characters/Kinzo\|Kinzo]]'s golden witch narrative and it could have been a source of inspiration for him, or maybe the two concepts were separate until they were merged by [[Characters/Sayo\|Sayo]] and [[Characters/X Beatrice\|X Beatrice]], who were raised around both of them.
-> 
-> Maria has contributed her imagination and occult hyper fixation, but she didn't come up with the whole thing like we initially theorized. Maybe "gaining endless power" means entering the public consciousness, and the Rokkenjima case was instrumental for that to happen with [[Characters/Beatrice\|Beatrice]].
-> 
-> ---
-> 
-> Leads:
-> - The magical lore fluff in [[Tips/Regarding the Succession of Witches\|Regarding the Succession of Witches]] hints at a long lineage of endless witches, but nothing of the sort exists about the golden witch.
-> - [[Characters/Virgilia\|Virgilia]], aka. [[Characters/Kumasawa\|Kumasawa]] is the previous endless witch, but seemingly not a golden witch.
-
-</div></div>

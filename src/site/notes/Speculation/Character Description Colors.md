@@ -9,7 +9,7 @@ Each character sprite always has behind it the same flower pattern, but the colo
 	- ![Pasted image 20250330184705.png](/img/user/Attachments/Pasted%20image%2020250330184705.png)
 - The tea party, or "witch side" is bright yellow.
 	- ![Pasted image 20250330184749.png](/img/user/Attachments/Pasted%20image%2020250330184749.png)
-- The future, or "Ange side", only added in [[Episodes/Alliance of the Golden witch\|Alliance]], is white.
+- The future, or "Ange side", only added in Alliance, is white.
 	- ![Pasted image 20250330184830.png](/img/user/Attachments/Pasted%20image%2020250330184830.png)
 
 

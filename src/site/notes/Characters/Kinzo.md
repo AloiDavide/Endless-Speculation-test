@@ -101,7 +101,6 @@ Magic with enough power to reheat a cup of black tea may be beyond him, but he's
 The source of his magic is found in arithmetic miracles, and his [[Tips/Magical Compendiums\|magical compendium]] is unique. Later on, even Beatrice took note of this and rearranged her own compendium accordingly.
 
 # Theories
-Kinzo has very high magic resistance and is unable to see Beatrice's witch form in the magical interpretation. Are they trying to tell us what he feels for her isn't love?
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -193,7 +192,6 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 </div></div>
 
 
-#### Kinzo's corpse
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -228,28 +226,6 @@ Kinzo has very high magic resistance and is unable to see Beatrice's witch form 
 > ---
 > Obstacles:
 > - It's hard to believe Genji would do something like that to his former master... unless he believes his new master to be someone with equal or higher authority, someone like Beatrice.
-
-</div></div>
-
-
- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- Krauss burns Kinzo in the boiler room
-> It was probably done under orders from Krauss, as an attempt to hide it from all the relatives. 
-> He probably didn't think of the smell. He was never the brightest.
-> 
-> ---
-> Leads:
-> - Of the people most likely to know about Kinzo's death, he the only one to not feel much affection or respect for the old man.
-> - Everyone else would have to obey him as either his employee or overly subservient wife.
-> ---
-> Obstacles:
-> - What reason was there to incinerate the body? Did he think nobody would notice the fingers?
-> - The body was never found in [[Episodes/Turn of the Golden witch\|turn]] and there is no mention of the smell, leading us to believe he wasn't burned in that instance. But why? Was the presence of [[Characters/X Beatrice\|X Beatrice]] a deterrent?
-> 	- No it wasn't, after all she is also there in [[Episodes/Alliance of the Golden witch\|Alliance]].
 
 </div></div>
 

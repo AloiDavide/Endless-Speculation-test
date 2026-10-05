@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-03/"}
 ---
 
-Members of the [[Ushiromiya\|Ushiromiya]] Family and its household, have you now reached the climax of the riddle of the gold's epitaph?
+Members of the Ushiromiya Family and its household, have you now reached the climax of the riddle of the gold's epitaph?
 There is only one way you all can stop me: by solving the [[Tips/The Portrait Epitaph\|epitaph's riddle]].
 There are no other options left to you that will result in the suspension of my ceremony.
 I humbly ask that you take care not to misunderstand your current situation.
@@ -14,4 +14,4 @@ Trying to deny me will prove useless.
 P.S.
 I borrowed those two corpses for my ceremony.
 They will be returned to you in due time, so I crave your indulgence.
-Also, these [[keys\|keys]] belong to you, so I return them to you now.
+Also, these keys belong to you, so I return them to you now.

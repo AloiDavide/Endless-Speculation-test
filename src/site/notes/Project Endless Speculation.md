@@ -24,7 +24,7 @@ The main attraction? But of course, it's our long form theories, systematically 
 
 And beyond those, behold our vast array of facilities.
 - A comprehensive list of every single [[Red Truth\|Red Truth]].
-- Notes for every relevant [[Index/Characters Index\|Character]] with all of their descriptions in each episode and in each plane of existence, as well as all the theories regarding each of them.
+- Notes for every relevant [[Characters Index\|Character]] with all of their descriptions in each episode and in each plane of existence, as well as all the theories regarding each of them.
 - Notes for all the [[Index/Mysteries Index\|Mysteries Index]] we aim to solve and our solutions.
 - The corresponding blue truths holding our claims and our reasoning.
 - Transcriptions of the important information found in the extra tips, such as the Epitaph and the monologues.

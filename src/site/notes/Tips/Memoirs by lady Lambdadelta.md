@@ -3,13 +3,10 @@
 ---
 
 
-
 -- In gratitude for your previous letter, along with some appropriate Fragments.  
   
 ![](https://lparchive.org/Umineko-no-Naku-Koro-ni/Update%20183/1-LAMBDA1.jpg)  
-[**BGM:MELTING AWAY**](https://polsy.org.uk/play/yt/?vurl=https%3A%2F%2Fyoutu.be%2FAV0OnZtHHz4%3Flist%3DPLF6254B79BA892243&autoplay=1)  
-  
-  
+
 Boredom is poisonous to us.  
 So, by whim, I sometimes grant humans their wishes.  
   
@@ -281,10 +278,3 @@ I have to surprise them with a wonderful tea party.
 
 ---
 
-## Corollaries
-The first girl is 99% that character from Higurashi we don't want to spoil.
-The second girl is 99% Beatrice, so Sayo in our version of the story.
-
-She basically told Beato that as long as [[Tips/Bernkastel's letter#The three rules\|Rule X]] exists she'll stay on her side.
-
-Not sure who the letter is aimede at, probably nobody we know because she speaks of Bernkastel in third person.

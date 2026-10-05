@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips/beatrice-s-letters/letter-e2-01/"}
 ---
 
-Welcome to [[Rokkenjima\|Rokkenjima]], members of the [[Ushiromiya\|Ushiromiya]] family.
+Welcome to Rokkenjima, members of the Ushiromiya family.
 I am [[Characters/Beatrice\|Beatrice]], the alchemist for this family employed by [[Characters/Kinzo\|Kinzo]]-sama himself.
 I have served him for many years in accordance with our contract, but on this day, Kinzo-sama has announced the final suspension of that contract.
 Therefore, I ask that you acknowledge my resignation from the position of family alchemist from this day forth.
@@ -19,7 +19,7 @@ Beatrice retains the right to collect the gold and accumulated interest upon the
 However, if someone is able to discover the hidden gold of this contract, Beatrice must abandon these rights for all time.
 
 The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause, I shall return everything, including the portion that has already been collected.
-Furthermore, as the first step in this collection of Kinzo-sama's debt, I have taken possession of the Ushiromiya family '[[Head's Ring\|Head's Ring]]', which signifies the passage of the Ushiromiya family headship from one individual to another.
+Furthermore, as the first step in this collection of Kinzo-sama's debt, I have taken possession of the Ushiromiya family 'Head's Ring', which signifies the passage of the Ushiromiya family headship from one individual to another.
 I ask that you confirm this for yourselves by examining the imprint on the wax seal.
 Kinzo-sama has already publicly displayed the location of the hidden gold within the [[Tips/The Portrait Epitaph\|epitaph under my portrait]].
 The rules apply equally to all who can read the epitaph.

@@ -11,4 +11,4 @@ It isn’t uncommon for this to result in them turning into scraps of seaweed in
 
 Their voyage has no destination, and you might even say they’re on a journey to escape a destination.
 
-Witches of an even higher order than Voyagers are called [[Tips/Regarding Creators\|Creators]].
+Witches of an even higher order than Voyagers are called Creators.

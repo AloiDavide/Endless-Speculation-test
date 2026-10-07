@@ -16,5 +16,5 @@ Other people who we can confirm have neither mark include:
 - Bernkastel
 - Lambdadelta
 
-| ![[Pasted image 20250528190002.png\|270]] | ![[Pasted image 20250528190017.png\|380]] |
-| ----------------------------------------- | ----------------------------------------- |
+![Pasted image 20250528190002.png](/img/user/Attachments/Pasted%20image%2020250528190002.png)
+![Pasted image 20250528190017.png](/img/user/Attachments/Pasted%20image%2020250528190017.png)

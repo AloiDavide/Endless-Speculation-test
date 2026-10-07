@@ -74,7 +74,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - ([[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]) __Of all the doors that exist on Rokkenjima, none has a crack trough which a key can slip__.
  __I have the power to speak the truth in red__!!!
 ## During the flashback where Rosa speaks about her time meeting Beato
-- ([[Characters/Ronove\|Ronove]])__A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
+- ([[Characters/Ronove\|Ronove]])__A hidden mansion called [[Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
 - ([[Characters/Ronove\|Ronove]])__the pair actually had a conversation like that in that place__. (He's talking about the [Conversation](https://lparchive.org/Umineko-no-Naku-Koro-ni/Update%2071/) between [[Characters/Beatrice\|Beatrice]] e [[Characters/Kinzo\|Kinzo]] in the Flashback)
 - ([[Characters/Ronove\|Ronove]])__This is the world of 1967__.
 - ([[Characters/Ronove\|Ronove]])__In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.

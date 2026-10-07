@@ -5,7 +5,6 @@
 Welcome to our episode 3 theory, suddenly the end doesn't look so far anymore, does it? 
 Special thanks go to *Grande Nero* for grammar checking all three theories so far (they desperately needed it).
 
-For a refresher on the main points of the previous two you can check out the *[[Theories TLDR\|theories TLDR]]*.
 But before we even begin, a correction.
 
 ![Pasted image 20251026230322.png](/img/user/Attachments/Pasted%20image%2020251026230322.png)
@@ -75,7 +74,7 @@ At some point Alpha Beatrice died by some unknown cause, and Kinzo, who like we 
 
 Ronove provides us with the following red truths about her and the flashback.
 
-> __A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
+> __A hidden mansion called [[Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
 > __the pair actually had a conversation like that in that place__. (Referring to Kinzo talking to 0 Beatrice)
 > __This is the world of 1967__ (19 years before the murders in 1986).
 > __In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.

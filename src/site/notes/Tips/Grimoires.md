@@ -10,8 +10,6 @@ It is forbidden to speak the true name of that grimoire, so it is simply called 
 
 ---
 
- Knowing this doesn't help us whatsoever, but he's definitely referring to the bible here, it's the most printed book in the world, thousands of years old, and the name is derived from the greek word for books.
- 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

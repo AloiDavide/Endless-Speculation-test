@@ -12,6 +12,7 @@
 - __No method exists by which the door can be locked from the outside without using a key__. __Regarding the window, no method exists by which it could somehow be locked from the outside__.
 
 ## Corollaries
+There are two possible interpretations.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

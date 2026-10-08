@@ -46,26 +46,3 @@ He must possess tremendous magical power, but since he always stays out of the s
 
 </div></div>
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- Knowledge of the loops
-> Every meta character who sees and references events from multiple episodes is somebody who is aware of the [[Mysteries/Future mysteries/Bottled letters\|Bottled letters]] that have been found in the future.
-> 
-> This would include:
-> - Sayo as Beatrice, Kanon and Shannon
-> - [[Characters/X Beatrice\|X Beatrice]] as herself
-> - Genji as himself and as Ronove
-> - Kumasawa as Virgilia
-> - Ange (retroactively from the future)
-> - EVA Beatrice (either retroactively or because she was actually present there)
-> - Possibly Nanjo as Gaap (Gaanjo)
-> 
-> We notably can't make this claim about Kinzo and Maria.
-
-</div></div>
-
-

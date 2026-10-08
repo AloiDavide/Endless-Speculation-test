@@ -37,7 +37,7 @@ In the Golden Land, she learned that her mother still truly loved her.
 At least for now, she is satisfied.
 #### Tea Party
 
- A little magician who has inherited the black blood from [[Characters/Kinzo\|Kinzo]].  
+A little magician who has inherited the black blood from [[Characters/Kinzo\|Kinzo]].  
 
 Unlike Kinzo, she was gifted with talent and began to tread the path of the magician from a young age.  
 However, her power is still weak, and she hasn’t yet graduated from an apprentice’s level.  
@@ -67,7 +67,7 @@ Her father’s identity is unknown. She can’t shake off the habit of speaking 
 She has no interest in studying or making friends, but is very interested in things concerning the occult and black magic. Thanks to her excellent powers of memorization, she knows all kinds of obscure trivia.
 
 ---
-Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+Her corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 Battler wasn't able to make out any wounds in particular, so he assumed that she was killed by some kind of poison.  
 
 The most peaceful form of invitation to the Golden Land.
@@ -105,18 +105,6 @@ Only parts of her Jaw were found later.
 The letter allegedly written by her about Legend is not in her handwriting as seen in the diary.
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Sayo gives Maria the letter and Umbrella
-> ---
-> Leads:
-> - This is somebody she could have interacted with repeatedly every time she came to Rokkenjima, enough to create Mariage Sorcière.
-> - If Maria has internalized that this person is Beatrice, there's no longer even a need for the dress disguise.
-
-</div></div>
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -138,7 +126,7 @@ The letter allegedly written by her about Legend is not in her handwriting as se
 
 
 > [!note]- Magical compendiums are narratives
-> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. They gain more power the more people buy into them but they can also belong to just one person.
+> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. By having people who believe in them they shape their actions and in turn the world, so a compendium shared by many people is all that more impactful for it, but a belief shared by just one person can still be very powerful for that one person.
 > 
 > The example given by the author for a [[Tips/Grimoires\|grimoire]], aka a written magic compendium is very clearly the bible, so massive religions and ideologies fit the definition, but so does Maria's coping mechanism to deal with family issues, to name one.
 

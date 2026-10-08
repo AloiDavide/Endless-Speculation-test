@@ -3,6 +3,7 @@
 ---
 
 
+
 Let's begin our comprehensive account of every red truth in the question arcs... with a blue truth.
 
 
@@ -73,7 +74,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - ([[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]) __Of all the doors that exist on Rokkenjima, none has a crack trough which a key can slip__.
  __I have the power to speak the truth in red__!!!
 ## During the flashback where Rosa speaks about her time meeting Beato
-- ([[Characters/Ronove\|Ronove]])__A hidden mansion called [[Mysteries/Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
+- ([[Characters/Ronove\|Ronove]])__A hidden mansion called [[Kuwadorian\|Kuwadorian]] does exist in the forest of Rokkenjima__.
 - ([[Characters/Ronove\|Ronove]])__the pair actually had a conversation like that in that place__. (He's talking about the [Conversation](https://lparchive.org/Umineko-no-Naku-Koro-ni/Update%2071/) between [[Characters/Beatrice\|Beatrice]] e [[Characters/Kinzo\|Kinzo]] in the Flashback)
 - ([[Characters/Ronove\|Ronove]])__This is the world of 1967__.
 - ([[Characters/Ronove\|Ronove]])__In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human__.
@@ -102,7 +103,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __the reason she changed her mind was not passed on to anyone, nor was it written down__!
 - __Until the last instant before she died, Kyrie's behavior pattern of 'not going to get food = not going to the mansion' was maintained__!
 - __Kyrie did not leave anything written down__!
-## [[Nanjo's death in Banquet\|Nanjo's death in Banquet]]
+## [[Mysteries/Episode 3 mysteries/Nanjo's death in Banquet\|Nanjo's death in Banquet]]
 - __After [[Characters/Jessica\|Jessica]] was injured, Eva was constantly under Battler's supervision. [[Characters/Battler\|Battler]] is neither the culprit nor an accomplice. By this, we can establish the perfect alibi for [[Characters/Eva\|Eva]]__.
 - __There are no more then 18 humans on this island__.
 - __No life form other then humans have any connections to this game__.
@@ -227,7 +228,7 @@ Beato
 - __George did not go down the stairs of the guesthouse.__
 - __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__
 ## Final red about Alliance
-### The [[Characters/Kinzo\|Kinzo]] reveal in the [[Mysteries/Dining hall\|Dining hall]]
+### The [[Characters/Kinzo\|Kinzo]] reveal in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]]
 Beato round 1
 - __All of those present at the family conference acknowledged the presence of Kinzo!__
 - __No person would mistake Ushiromiya Kinzo by sight. No matter what disguise might be used, they would not mistake Ushiromiya Kinzo by sight!__
@@ -236,7 +237,7 @@ Beato round 2
 - __Kinzo is already dead at the starting time for all games!__
 - __Before now, I have proclaimed that no more then 18 humans exist on this island. I will now lower that by one for Kinzo!!__
 - __No more then 17 humans exist on this island!! That excludes any 18th person. In short, this 18th person X does not exist!! This applies to all games!!!__
-### [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
+### [[Mysteries/Episode 4 mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
 Beato
 - __Ushiromiya Battler. I will now... kill you.__
 - __And right now, there is no one other than you on this island. The only one alive on this island is you. Nothing outside the island can interfere.__

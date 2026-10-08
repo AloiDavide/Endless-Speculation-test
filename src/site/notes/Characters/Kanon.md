@@ -44,7 +44,7 @@ The witch said so in red.
 So, he definitely is dead, even though there's no corpse.
 #### Tea Party
 
-So far, he is the last furniture created by [[Characters/Kinzo\|Kinzo]].  
+So far, he is the last furniture created by Kinzo.
 
 Making use of all his previous experience, Kinzo managed to implement a set of flawless specs.  
 Kanon was also given a heart, but it was much weaker than Shannon's.  
@@ -85,7 +85,7 @@ Now that’s definitely anti-fantasy.
 
 Now that’s definitely anti-mystery...! 
 # Theories
-Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Sayo\|Sayo]] and [[Previous Episodes Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 __No one else can go by Kanon's name! A different person can't claim that as their name!__ 
 
@@ -114,24 +114,3 @@ __No one else can go by Kanon's name! A different person can't claim that as the
 
 </div></div>
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Kanon did not die in the boiler room... at all!
-> No need to assume he died in the [[Mysteries/Episode 1 mysteries/Kanon's death in the boiler room\|boiler room]] in legend, they could just as easily have faked it.
-> 
-> ---
-> Leads:
-> - Kanon supposedly pulls out the stake from his chest before being found.
-> - They had plenty of fake blood to make the magic circles.
-> - Beatrice refuses to repeat that it was a homicide.
-> - We already think Nanjo is lying.
-> - We couldn't figure out another way around the red.
-> ---
-> Obstacles:
-> - Jessica supposedly witnessed his death because she was taking care of him the whole time, but she also would have believed the doctor in the room when he declares someone dead.
-
-</div></div>

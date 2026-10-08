@@ -10,4 +10,4 @@ It holds 4+1 rounds.
 
 ---
 
-5 projectiles = 5 victims instead of 6?
+5 projectiles = 5 victims in every first twilight instead of 6.

@@ -25,9 +25,8 @@ This man, who has travelled between the Japan Self-Defense Force, the Foreign Le
 
 
 
-> [!tip]- Amakusa killed Ange's assailants on rokkenjima
-> Using the rifle he had with himself he sniped [[Characters/Kasumi\|Kasumi]]'s men in black after they ambushed [[Characters/Ange\|Ange]] on the island. 
-> Ange interpreted this event as her killing them with magic.
+> [!note]- Amakusa killed Ange's assailants on rokkenjima
+> He sniped [[Characters/Kasumi\|Kasumi]]'s men in black after they ambushed [[Characters/Ange\|Ange]] on the island using the rifle he was confirmed to have. Ange interpreted this event as her killing them with magic.
 
 </div></div>
 

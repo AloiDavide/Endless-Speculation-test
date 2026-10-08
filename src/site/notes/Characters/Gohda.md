@@ -83,17 +83,6 @@ That can be a pretty interesting experience now and then.
 
 
 
-> [!note]- Gohda doesn't know Kinzo is dead.
-> He never shows any signs of being aware of it and never has a scene with him, which makes sense given his position.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 > [!note]- Gohda knows about Sayo's double identity.
 > He probably knows Kanon and Shannon are the same person.
 > 
@@ -107,6 +96,3 @@ That can be a pretty interesting experience now and then.
 
 
 
-He knows the 7 stakes of purgatory in an (allegedly) non canon side story.
-
-He has been working in Rokkenjima for two years (shorter than [[Characters/Kanon\|Kanon]])

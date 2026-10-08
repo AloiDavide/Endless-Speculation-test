@@ -12,7 +12,3 @@ It's a masterpiece anti-armor sniping bow, capable of penetrating a wide variety
 As a side note, the ammo primarily used during the story were Wire-Guided Winged Pierce Rounds.
 
 The fact that they are wire guided makes them heavily resistant to deception and capable of long-distance precision sniping amidst complicated indoor terrain.
-
------------
-
-The wounds from their attacks are shown with the same asset as gunshot wounds... just confirmation bias?

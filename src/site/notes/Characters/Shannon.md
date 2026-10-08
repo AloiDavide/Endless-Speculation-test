@@ -37,10 +37,10 @@ At the fourth twilight, gouge the head and kill.
 She spent her last moments with her beloved.
 #### Tea Party
 
-Shannon is, in the truest sense, [[Characters/Kinzo\|Kinzo]]’s handmade furniture, which he created without borrowing the power of demons.  
+Shannon is, in the truest sense, Kinzo’s handmade furniture, which he created without borrowing the power of demons.  
 
 Though there were a few problems with her initial specifications, she was given a very rare and precious thing: a heart.  
-It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains within it a strong magic.  
+It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains within it a strong magic.
 
 In the lengthy span of time following that, she began to mature, becoming exceptionally skilled with powers of a protective or repulsive nature, such as magical barriers.  
 
@@ -75,21 +75,4 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 The witnesses at least realized that the stake wasn’t what killed her. 
 # Theories
-Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Shannon isn't dead in Legend
-> The supposed corpse of [[Characters/Shannon\|Shannon]] isn't hers and it also isn't a corpse. That is only her dress on some dummy shover in a dark corner of the shed so nobody would see it clearly. 
-> [[Characters/Sayo\|Sayo]] is right there in the room reacting to the scene, but she's playing the role of [[Characters/Kanon\|Kanon]]. Eva, Hideyoshi and Nanjo are actively trying to hide this fact and don't allow the kids to get closer to her.
->  
-> ---
-> Leads:
-> - One seemingly dead person working with the other servants is the most straight forward answer to most mysteries Legend throws at you, and Shannon's corpse is the only one where you could pull a stunt like this. 
-> - Not only that, but looking at the narration and circumstances of the body, it's like the whole scene is screaming: "Look out! There's some deception going on here!"
-> -  We mainly just need a way to get around the definition of unidentified corpse. We can beat the red by simply claiming that there was never any corpse to identify.
-
-</div></div>
+Refer to [[Characters/Sayo\|Sayo]] and [[Previous Episodes Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]

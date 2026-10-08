@@ -10,14 +10,13 @@ It is forbidden to speak the true name of that grimoire, so it is simply called 
 
 ---
 
- Knowing this doesn't help us whatsoever, but he's definitely referring to the bible here, it's the most printed book in the world, thousands of years old, and the name is derived from the greek word for books.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 > [!note]- Magical compendiums are narratives
-> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. They gain more power the more people buy into them but they can also belong to just one person.
+> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. By having people who believe in them they shape their actions and in turn the world, so a compendium shared by many people is all that more impactful for it, but a belief shared by just one person can still be very powerful for that one person.
 > 
 > The example given by the author for a [[Tips/Grimoires\|grimoire]], aka a written magic compendium is very clearly the bible, so massive religions and ideologies fit the definition, but so does Maria's coping mechanism to deal with family issues, to name one.
 

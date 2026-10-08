@@ -40,11 +40,3 @@ The [[Speculation/Endless Witch\|Endless Witch]], who will live for one thousand
 Witches cannot be felled if they are not understood. Witches cannot be felled even if they are understood.
 
 To understand witches, and yet deny them. Only this contradictory power gives her the blade with which to fell witches.
-
-# Theories
-
-
-
-
-
-

@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/alpha-beatrice/","contentClasses":"center-headings blue-truth red-links red-truth","tags":["human","other"]}
 ---
 
-
 ![Mugshots/alpha_beatrice.png|alpha_beatrice.png](/img/user/Mugshots/alpha_beatrice.png)
-<center><i>AI disclaimer. This sprite doesn't exist (but it should)</i></center>
 
 She is the woman Kinzo became obsessed with in his youth.  Because she's at the beginning of everything we'll call her [[Characters/Alpha Beatrice\|Alpha Beatrice]].
 
@@ -15,3 +13,4 @@ There's almost no information about this person but we do think she at least exi
 ![Pasted image 20251215231924.png](/img/user/Attachments/Pasted%20image%2020251215231924.png)
 ![Pasted image 20251215231941.png](/img/user/Attachments/Pasted%20image%2020251215231941.png)
 
+She might also be Kumasawa's mentor, as Virgilia mentions she learned magic from a teacher who was a true Endless witch. That would make Alpha a kind hearted woman who cared about using her narrative for good.

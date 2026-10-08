@@ -68,28 +68,8 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] was buried into the 
 
 No one can escape from [[Tips/The Chiester Golden Bows\|the Chiester's golden arrows]].
 # Theories
-Not much to say about him yet, other than he Knows [[Characters/Kinzo\|Kinzo]] is dead and wants to hide it because having to resolve
+Not much to say about him yet, other than he Knows Kinzo is dead and wants to hide it because having to resolve
 
-[[Occam's Razor\|Occam's Razor]] would say he's the most likely murderer of Kinzo. But we really can't picture him doing that.
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Kinzo was murdered
-> Kinzo died before the start of the game, and it's not by old age or illness, but he was attacked and killed.
-> We're not saying Krauss did it because he wouldn't have the balls.
-> 
-> ---
-> Leads:
-> - It was confirmed that Kinzo is already dead before the game even starts.
-> - It can be supposed that this means his death happened the same way in every scenario, but this must mean that every red truth about one of his deaths applies to his one true death.
-> - Therefore, looking at the [[Mysteries/Episode 3 mysteries/Crime scenes of the 6 linked closed rooms\|6 linked closed rooms]] case tells us that:
-> 	- Kinzo didn't die in a trap.
-> 	- Kinzo died instantly after being attacked, suggesting a violent death.
-> - His body is consistently (but not always, more on this later) found burned, perhaps as an attempt to hide a different cause of death.
-
-</div></div>
-
+Occam's Razor would say he's the most likely murderer of Kinzo. But we really can't picture him doing that.
 
 Krauss is aware of the existence of this gold and has an ingot. It's unknown how he got hold of it while being unaware of where the rest is. It must either be a fake or have been placed by somebody.

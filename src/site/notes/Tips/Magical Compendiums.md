@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/tips/magical-compendiums/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
-
 This term refers to a foundation that gives birth to magic.
 In particular, it indicates a system trough which magical power can be gained automatically by sharing.
 For witches, committing one's magical compendium to paper and leaving it behind for future generations is often considered to be an important life's work.
@@ -21,7 +20,7 @@ The essence of sorcery is maintaining a balance between these two outcomes when 
 
 
 > [!note]- Magical compendiums are narratives
-> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. They gain more power the more people buy into them but they can also belong to just one person.
+> [[Tips/Magical Compendiums\|Magical Compendiums]], or systems of magic, are stories or narratives that validate a set of beliefs. By having people who believe in them they shape their actions and in turn the world, so a compendium shared by many people is all that more impactful for it, but a belief shared by just one person can still be very powerful for that one person.
 > 
 > The example given by the author for a [[Tips/Grimoires\|grimoire]], aka a written magic compendium is very clearly the bible, so massive religions and ideologies fit the definition, but so does Maria's coping mechanism to deal with family issues, to name one.
 

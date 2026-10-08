@@ -87,28 +87,3 @@ A [[Characters/The Seven Stakes of Purgatory\|demon stake]] had fallen near the 
 
 </div></div>
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- REDACTED THEORY
-> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!tip]- Gaap is the meta counterpart of Nanjo
-> Yes, we're serious.
-> Look there aren't many options left. It has to be someone involved with Sayo. If it's not [[Characters/Nanjo\|Nanjo]] we're left with just about [[Characters/Kawabata\|Kawabata]].
->
->She is really good at creating closed rooms just like Nanjo when he lies about someone being dead.
->
->We believe in Gaanjo.
-
-</div></div>

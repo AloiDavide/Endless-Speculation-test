@@ -69,21 +69,12 @@ I didn’t miss! I missed on purpose to tease her, nyeh...!
 
 # Theories
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- REDACTED THEORY
-> This blue truth has been hidden with magic for the purpose of not spoiling future long form theories, please come back later.
-
-</div></div>
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-> [!tip]- Battler is Kyrie's biological son
+> [!note]- Battler is Kyrie's biological son
 > Battler is the son of [[Characters/Kyrie\|Kyrie]] and [[Characters/Rudolf\|Rudolf]]. He and Ushiromiya Asumu's stillborn son had their identities switched by somebody, possibly Rudolf in order to justify his choice of wife.
 >
 > Evidence:

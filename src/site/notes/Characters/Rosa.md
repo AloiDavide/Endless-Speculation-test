@@ -61,7 +61,7 @@ She is by far the youngest of the four siblings. It seems that this gives her a 
 She manages a design company, but she has yet to start taking it seriously, and its financial situation is far from favorable.
 
 ---
-Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+Her corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 However, the witnesses don't believe she was killed with a gun...

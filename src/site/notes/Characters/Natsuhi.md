@@ -63,7 +63,7 @@ She possesses a strong sense of responsibility and a great deal of pride.
 However, neither her husband nor his siblings understand her very well, so her position is far from enviable.
 
 ---
-Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+Her corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 About half of her head was destroyed. It's probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 However, the witnesses don’t believe she was killed with a gun...

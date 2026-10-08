@@ -85,7 +85,7 @@ Now that’s definitely anti-fantasy.
 
 Now that’s definitely anti-mystery...! 
 # Theories
-Refer to [[Characters/Sayo\|Sayo]] and [[Long Form Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
+Refer to [[Characters/Sayo\|Sayo]] and [[Previous Episodes Theories/Theory for Legend of the Golden witch#Part 2 The Sayo Conjecture\|The Sayo Conjecture]]
 
 __No one else can go by Kanon's name! A different person can't claim that as their name!__ 
 

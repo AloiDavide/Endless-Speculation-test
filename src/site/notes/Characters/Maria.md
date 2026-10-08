@@ -37,7 +37,7 @@ In the Golden Land, she learned that her mother still truly loved her.
 At least for now, she is satisfied.
 #### Tea Party
 
- A little magician who has inherited the black blood from [[Characters/Kinzo\|Kinzo]].  
+A little magician who has inherited the black blood from [[Characters/Kinzo\|Kinzo]].  
 
 Unlike Kinzo, she was gifted with talent and began to tread the path of the magician from a young age.  
 However, her power is still weak, and she hasn’t yet graduated from an apprentice’s level.  
@@ -67,7 +67,7 @@ Her father’s identity is unknown. She can’t shake off the habit of speaking 
 She has no interest in studying or making friends, but is very interested in things concerning the occult and black magic. Thanks to her excellent powers of memorization, she knows all kinds of obscure trivia.
 
 ---
-Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+Her corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 Battler wasn't able to make out any wounds in particular, so he assumed that she was killed by some kind of poison.  
 
 The most peaceful form of invitation to the Golden Land.

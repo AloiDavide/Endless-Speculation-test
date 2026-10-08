@@ -228,7 +228,7 @@ Beato
 - __George did not go down the stairs of the guesthouse.__
 - __All windows and doors leading to the inside were locked from the inside. Furthermore, it is impossible to lock any of those from the outside!__
 ## Final red about Alliance
-### The [[Characters/Kinzo\|Kinzo]] reveal in the [[Mysteries/Dining hall\|Dining hall]]
+### The [[Characters/Kinzo\|Kinzo]] reveal in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]]
 Beato round 1
 - __All of those present at the family conference acknowledged the presence of Kinzo!__
 - __No person would mistake Ushiromiya Kinzo by sight. No matter what disguise might be used, they would not mistake Ushiromiya Kinzo by sight!__
@@ -237,7 +237,7 @@ Beato round 2
 - __Kinzo is already dead at the starting time for all games!__
 - __Before now, I have proclaimed that no more then 18 humans exist on this island. I will now lower that by one for Kinzo!!__
 - __No more then 17 humans exist on this island!! That excludes any 18th person. In short, this 18th person X does not exist!! This applies to all games!!!__
-### [[Mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
+### [[Mysteries/Episode 4 mysteries/Battler's death in Alliance\|Battler's death in Alliance]]
 Beato
 - __Ushiromiya Battler. I will now... kill you.__
 - __And right now, there is no one other than you on this island. The only one alive on this island is you. Nothing outside the island can interfere.__

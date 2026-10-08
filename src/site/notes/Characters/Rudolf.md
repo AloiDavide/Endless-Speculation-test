@@ -58,7 +58,7 @@ Along with his sister, [[Characters/Eva\|Eva]], he intends to make his voice hea
 His former wife, Ushiromiya Asumu, passed away six years ago, and he married his current wife, [[Characters/Kyrie\|Kyrie]], shortly after that.
 
 ---
-His corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+His corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a powerful gun or something similar.  
 
 However, the witnesses don't believe he was killed with a gun...

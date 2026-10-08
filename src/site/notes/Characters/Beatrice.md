@@ -8,15 +8,14 @@
 
 
 ## Disambiguation
-This note refers to the meta character in the tea party who calls herself the Golden and Endless Witch, and was challenged by [[Characters/Battler\|Ushiromiya Battler]].
+This note refers to the metaphysical character in the tea party (Purgatory) who calls herself the Golden and Endless Witch, and is engaged in a game against Ushiromiya Battler.
 
-You instead might be looking for:
+Beato can be mostly identified with [[Characters/Sayo\|Sayo]], but she also takes elements from:
 - [[Characters/X Beatrice\|X Beatrice]]
 - [[Characters/0 Beatrice\|0 Beatrice]]
 - [[Characters/Alpha Beatrice\|α Beatrice]]
-- [[Characters/Sayo\|Sayo]]
 
-Or perhaps:
+Other distinct characters who have used the name Beatrice are:
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Ange\|ANGE Beatrice]]
 - [[Characters/Virgilia\|Virgilia]]

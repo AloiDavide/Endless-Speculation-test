@@ -11,22 +11,22 @@
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Battler\|Battler]]
 - [[Characters/Bernkastel\|Bernkastel]]
-- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Ange\|Ange]]
+- [[Characters/Beatrice\|Beatrice]]
 - [[Characters/Maria\|Maria]]
 
 { .block-language-dataview}
 
 ### Furniture
-- [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]
-- [[Characters/Shannon\|Shannon]]
+- [[Characters/The Chiester Sisters Imperial Guard Corps\|The Chiester Sisters Imperial Guard Corps]]
 - [[Characters/Ronove\|Ronove]]
 - [[Characters/Sakutarou\|Sakutarou]]
-- [[Characters/Kanon\|Kanon]]
 - [[Characters/Goats\|Goats]]
 - [[Characters/Gaap\|Gaap]]
 - [[Characters/Genji\|Genji]]
+- [[Characters/Kanon\|Kanon]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 
@@ -34,8 +34,8 @@
 ### Ushiromiya
 - [[Characters/Kyrie\|Kyrie]]
 - [[Characters/Kinzo\|Kinzo]]
-- [[Characters/Krauss\|Krauss]]
 - [[Characters/Jessica\|Jessica]]
+- [[Characters/Krauss\|Krauss]]
 - [[Characters/George\|George]]
 - [[Characters/EVA Beatrice\|EVA Beatrice]]
 - [[Characters/Battler\|Battler]]
@@ -43,33 +43,33 @@
 - [[Characters/Eva\|Eva]]
 - [[Characters/Hideyoshi\|Hideyoshi]]
 - [[Characters/Natsuhi\|Natsuhi]]
-- [[Characters/Maria\|Maria]]
 - [[Characters/Rosa\|Rosa]]
 - [[Characters/Rudolf\|Rudolf]]
+- [[Characters/Maria\|Maria]]
 
 { .block-language-dataview}
 
 ### Servants
 
-- [[Characters/Sayo\|Sayo]]
-- [[Characters/Shannon\|Shannon]]
 - [[Characters/Kumasawa\|Kumasawa]]
-- [[Characters/Kanon\|Kanon]]
 - [[Characters/Gohda\|Gohda]]
 - [[Characters/Genji\|Genji]]
+- [[Characters/Kanon\|Kanon]]
+- [[Characters/Sayo\|Sayo]]
+- [[Characters/Shannon\|Shannon]]
 
 { .block-language-dataview}
 
 ### Others
-- [[Characters/X Beatrice\|X Beatrice]]
-- [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Professor Ootsuki\|Professor Ootsuki]]
+- [[Characters/Nanjo\|Nanjo]]
 - [[Characters/Nanjo Masayuki\|Nanjo Masayuki]]
 - [[Characters/Kumasawa Sabakichi\|Kumasawa Sabakichi]]
 - [[Characters/Kasumi\|Kasumi]]
 - [[Characters/Kawabata\|Kawabata]]
 - [[Characters/Amakusa\|Amakusa]]
 - [[Characters/0 Beatrice\|0 Beatrice]]
+- [[Characters/X Beatrice\|X Beatrice]]
 - [[Characters/Alpha Beatrice\|Alpha Beatrice]]
 
 { .block-language-dataview}

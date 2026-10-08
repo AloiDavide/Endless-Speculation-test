@@ -60,7 +60,7 @@ He took his wife’s name upon their marriage and became a member of the Ushirom
 He started his business from scratch and now works as the president of a medium-sized restaurant chain. This chain seems to be growing and performing extremely well.
 
 ---
-His corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+His corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 About half of his head was destroyed. It's probably reasonable to assume that he was murdered with a powerful gun or something similar.  
 
 However, the witnesses don’t believe he was killed with a gun...

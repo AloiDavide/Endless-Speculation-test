@@ -23,7 +23,7 @@ There are two possible interpretations.
 > Kanon, aka. Sayo, betrays and kills Jessica in the second twilight of Turn. The magical battle represents her getting rid of Kanon's remorse and emotional baggage and metaphorically killing him.
 > 
 > ---
-> For the details refer to Reading B in [[Long Form Theories/Theory for Turn of the Golden witch#4.1\|Theory for Turn of the Golden witch#4.1]]
+> For the details refer to Reading B in [[Previous Episodes Theories/Theory for Turn of the Golden witch#4.1\|Theory for Turn of the Golden witch#4.1]]
 
 </div></div>
 
@@ -37,7 +37,7 @@ There are two possible interpretations.
 > The magical battle in the second twilight of Turn actually represents a conflict between X Beatrice and Sayo who isn't ready to attack Jessica and tries to defend her, ending in a double kill.
 > 
 > ---
-> For the details refer to Reading A in [[Long Form Theories/Theory for Turn of the Golden witch#4.1\|Theory for Turn of the Golden witch#4.1]]
+> For the details refer to Reading A in [[Previous Episodes Theories/Theory for Turn of the Golden witch#4.1\|Theory for Turn of the Golden witch#4.1]]
 
 </div></div>
 

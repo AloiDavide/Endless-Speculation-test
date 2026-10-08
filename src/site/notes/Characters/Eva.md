@@ -51,7 +51,7 @@ She is hostile towards her brother [[Characters/Krauss\|Krauss]] and opposes him
 Normally, she would have lost her place in the Ushiromiya family register upon her marriage, but she managed to forcibly overcome this by having her husband take her family name.
 
 ---
-Her corpse was found in the [[Mysteries/Dining hall\|Dining hall]].  
+Her corpse was found in the [[Mysteries/Episode 4 mysteries/Kinzo's presence in the dining hall\|dining hall]].  
 About half of her head was destroyed. It’s probably reasonable to assume that she was murdered with a powerful gun or something similar.  
 
 However, the witnesses don’t believe she was killed with a gun...

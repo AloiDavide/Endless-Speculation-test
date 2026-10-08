@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/final-theory-for-the-umineko-question-arcs-endless-speculation/","contentClasses":"center-headings red-truth red-links center-images blue-links","tags":["gardenEntry"]}
 ---
 
+<center><h1>Final theory for the Umineko question arcs:</h1></center>
+<center><h1>Endless Speculation</h1></center>
+
 Welcome, to our final theory. This is our magical compendium. This is our Golden land.
 
 With this work we aim to present the full extent of our understanding of the physical and the metaphysical elements at the foundation of this story once and for all.
@@ -23,9 +26,9 @@ Let's answer the greatest question first. What is Beatrice?
 > 
 > The title of Endless Witch has its foundation in "Endless Creation" and is the root of her unmatched, endless magical power.
 > The title of Golden Witch has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
-> 
+>  
 > These two titles were refined even further with Mariage Sorcière leading to their sublimation into the compendium known as "Endless Realization".
-> 
+> 	
 > In that sense, she technically shouldn't be referred as either the Endless Witch or the Golden Witch, but by a new title that is a fusion of the two.
 > 
 >~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
@@ -516,7 +519,7 @@ Well, the tips define them as "worlds of different fates and circumstances", and
 ![Pasted image 20260814124334.png|700](/img/user/Attachments/Pasted%20image%2020260814124334.png)
 
 There's one elegant way to interpret them that allows for both readings to be true. Fragments are the same as the rest of the magic in Umineko, they're stories. Just one layer of abstraction higher.
-They are made of a setting (different circumstances) and a scenario (different fates). The setting dictates what the initial state of the world is, who and what is relevant to the story, and what is physically possible; on the other hand the scenario dictates which of all the possible paths the story will take. If the author were to write about a different possibility, then that would become yet another unit in the sea of fragments.
+They are made of a setting (different circumstances) and a scenario (different fates). The setting dictates what the initial state of the world is, who and what is relevant to the story, and what is physically possible. On the other hand the scenario dictates which of all the possible paths the story will take. If the author were to write about a different possibility, then that would become yet another unit in the sea of fragments.
 
 Grounded witches are the weakest form of witch, because their influence is limited in scope to just one fragment. They may perpetuate grand narratives, but they are still characters in their own story, unable to experience anything outside of their reality.
 ### Voyagers
@@ -776,7 +779,7 @@ So, let's present our reconstruction.
 
 - There are 17 people on Rokkenjima: Krauss, Natsuhi, Eva, Hideyoshi, Rudolph, Kyrie, Rosa, Jessica, George, Maria, Battler, Genji, Kumasawa, Gohda, Nanjo, Sayo and X.
 - During the day, Sayo contacts Eva, Hideyoshi and Rudolph to invite them to participate in the plan. Rudolph refuses and is forced to stay silent under threat. Eva and Hideyoshi accept, and Sayo lets them in on the fact that Kinzo is dead and tells them about her multiple identities.
-- When Sayo goes to the guesthouse to tell the cousins that dinner is ready, she stops in the rose garden to give Maria the letter and the umbrella. As in all the following games, the letter is meant to alert the family to the possibility of a 19th person and kick-start the magical narrative. It's not enough to kill everybody; the point is to make a story out of it.
+- When Sayo goes to the guesthouse to tell the cousins that dinner is ready, she stops in the rose garden to give Maria the letter and the umbrella. As in all the following games, the letter is meant to alert the family to the possibility of a 19th person and kick-start the magical narrative. It's not enough to kill everybody, the point is to make a story out of it.
 - Rudolph, knowing something fishy is going on, warns Battler and Kyrie that he might be killed that night.
 - X verifies that Battler doesn't remember his promise. Distraught, she commits suicide.
 - George proposes to Shannon, who intentionally avoids answering. She pockets the ring to it use later.
@@ -824,7 +827,7 @@ This one is an improvement on Legend, but it's still fairly contrived in places.
 
 When the bottled letter of Legend of the Golden Witch was found, all the people looking for clues to solve the mystery of Rokkenjima were instead given a magical explanation, and that shaped the conversation around it. Later, the second bottle was retrieved, sparking a new round of discussion in which, unlike the first time, the public was already primed to expect magic.
 
-As a result, we're shown a whole prologue in which Beato, in the tea party, backs up her argument against Bernkastel and us readers. This isn't part of the game described in the letter; it takes place in the magical framework surrounding the discussions.
+As a result, we're shown a whole prologue in which Beato, in the tea party, backs up her argument against Bernkastel and us readers. This isn't part of the game described in the letter, it takes place in the magical framework surrounding the discussions.
 
 As evidence, while talking to Shannon, Beato even references Bern's private conversation with Battler in Legend's ??? tea party. It's a cheeky jab showing that she was listening.
 
@@ -841,7 +844,7 @@ Let's present our reconstruction.
 - In this game, X doesn't die early on. She actively helps with Sayo's schemes.
 - In the rose garden, X appears before Maria and Rosa. Maria sees someone who looks exactly like Beatrice, so she can only assume that's who she is.
 - Maria closes her eyes, and X simply swaps her rose for another one. Rosa is shaken not because she witnessed magic, as the narration claims, but because she initially mistakes X for 0 Beatrice, who died so long ago.
-- X gives each of them a letter. Maria's envelope has the key sealed inside it; Rosa's contains a proposal to join the plan. X knows Rosa will read the letter as soon as possible, giving her the opportunity to join X and Sayo. If she does, she'll be spared in the chapel that night.
+- X gives each of them a letter. Maria's envelope has the key sealed inside it, but Rosa's contains a proposal to join the plan. X knows Rosa will read the letter as soon as possible, giving her the opportunity to join X and Sayo. If she does, she'll be spared in the chapel that night.
 - Kyrie sees X, or rather, X allows Kyrie to see her. This is a ploy to establish the magical narrative. Showing someone who looks like Beatrice helps the aura of magic around the island grow. It also helps establish that someone is occupying the VIP room.
 - During the conference, late in the evening, Sayo, Genji and Kumasawa lure the adults to the chapel by telling them Beatrice wants to talk to them. Either there or earlier, Rosa tells X and Sayo that she accepts the plan.
 - X comes to them with a proposal that will settle the inheritance problem if they all agree to acknowledge her. This is why we see all of them admitting that she's a witch out of context, but that is just a ploy to buy some time until the others are ready.
@@ -922,7 +925,7 @@ This line is especially intriguing because Beato is surprised to see herself wit
 
 ![Pasted image 20261003150146.png](/img/user/Attachments/Pasted%20image%2020261003150146.png)
 
-At this point, she could close the game. She didn't just "pretend" to redeem herself; she "performed" it, so by the logic of her endless magic, that should be enough to make it real. In this scenario, the tea party would end with Eva as the culprit, which is what most people seem to believe anyway. But as we said, Beato can't accept a win without earning Battler's understanding, so she throws the game at the end, just before Bernkastel's interference makes that choice irrelevant.
+At this point, she could close the game. She didn't just "pretend" to redeem herself, she "performed" it, so by the logic of her endless magic, that should be enough to make it real. In this scenario, the tea party would end with Eva as the culprit, which is what most people seem to believe anyway. But as we said, Beato can't accept a win without earning Battler's understanding, so she throws the game at the end, just before Bernkastel's interference makes that choice irrelevant.
 # Part 5: Alliance of the golden witch
 
 
@@ -979,7 +982,7 @@ As of the end of Alliance we imagine that Ange is still in Rokkenjima heading to
 Meanwhile, in our metaphysical view of Purgatory, Bernkastel acknowledges ANGE and allows her to join the game alongside Battler.
 ![Pasted image 20260910235131.png](/img/user/Attachments/Pasted%20image%2020260910235131.png)
 
-However, ANGE is bound by a rule imposed by Lambdadelta, the same rule that binds Sayo, our other Beatrice: she isn't allowed to reveal her name to Battler. This rule is an expression of the game’s central theme of self-discovery. Battler can't simply be handed all the answers; the conflict is meant to lead him to a new understanding. 
+However, ANGE is bound by a rule imposed by Lambdadelta, the same rule that binds Sayo, our other Beatrice: she isn't allowed to reveal her name to Battler. This rule is an expression of the game’s central theme of self-discovery. Battler can't simply be handed all the answers. The conflict is meant to lead him to a new understanding. 
 ANGE suffers most from this restriction. She cannot reunite with her brother, even on a meta level, until the game against Beatrice is won.
 
 As soon as the game begins, something seems unusual... Kyrie appears to know why Krauss refuses to show Kinzo to anyone. One could infer that she had suspected the truth all along and that her suspicions simply never came to light in the previous game. We suggest, instead, that they were confirmed after she struck a deal with a certain someone.
@@ -1018,7 +1021,7 @@ We have two possible candidates, none of them are particularly convincing but he
 
 #### X Beatrice
 We've established that she only looks like Beatrice, so she could reasonably have a different persona, and the blonde hair and blue eyes work for her just as well as they do for Jessica. Plus, every time we have mentioned her in the reconstruction, it was as part of a trick to create a closed room.
-Although X already shows up in this episode with her appearance from Turn, we can argue that it is just her human design, like how Genji and Ronove coexist in different scenes; the main point against this reading, which almost invalidates it, is that even after X excuses herself from the game board, Gaap is still around none the wiser.
+Although X already shows up in this episode with her appearance from Turn, we can argue that it is just her human design, like how Genji and Ronove coexist in different scenes. The main point against this reading, which almost invalidates it, is that even after X excuses herself from the game board, Gaap is still around none the wiser.
 
 ![Pasted image 20261004132320.png](/img/user/Attachments/Pasted%20image%2020261004132320.png)
 
@@ -1140,7 +1143,7 @@ We find the uncertainty of a mysterious 17th person more convincing than some of
 
 When Bernkastel meets Ange, she hints at the remote possibility of saving at most one person. We wanted to give this line a serious look before dismissing it as a bluff. So who could that person be?
 
-As far as we can tell, every family member has a good reason not to pretend to be dead. None of the children appears to be involved in a conspiracy. The adults have their lives to return to, Rudolf and Kyrie have a daughter waiting for them. Gohda has no reason to fake his death; he wants to do respectable work and live his life. Kumasawa and Nanjo also have children and a lot of money waiting for them back home. That only leaves Sayo and Genji. 
+As far as we can tell, every family member has a good reason not to pretend to be dead. None of the children appears to be involved in a conspiracy. The adults have their lives to return to, Rudolf and Kyrie have a daughter waiting for them. Gohda has no reason to fake his death, he wants to do respectable work and live his life. Kumasawa and Nanjo also have children and a lot of money waiting for them back home. That only leaves Sayo and Genji. 
 
 Here's an idea: Sayo is still alive and hiding for some reason. She is the one sending out the message bottles to this day. In this hypothesis, the tea party is more than a metaphorical discussion of the tragedy, it represents the relationship between the story she released into the world and the public consensus forming around it.
 

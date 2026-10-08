@@ -797,9 +797,11 @@ So, let's present our reconstruction.
 
 In this reconstruction, the identities of all the corpses are accounted for. X's presence is explained by her temporarily assuming the role of Shannon. After all, Kanon is right there in the gardening shed. 
 
-It's important to note that the body in the shed, identified as "Shannon", appears in a scene where literally everyone except Kumasawa is present, whether alive or dead. We find it very difficult to argue that Kumasawa was disguising herself as Shannon there. An old lady shouldn't be able to pass easily for a young woman, even in a shadowy corner with her face hidden. This matters because it brings the number of bodies on Rokkenjima to 17. Apart from details like this, it wouldn't be difficult to argue that X isn't needed for the story to work, the need for a 17th person is hidden in the gaps of every episode in several places.
+It's important to note that the body in the shed, identified as "Shannon", appears in a scene where literally everyone except Kumasawa is present, whether alive or dead. We find it very difficult to argue that Kumasawa was disguising herself as Shannon there. An old lady shouldn't be able to pass easily for a young woman, even in a shadowy corner with her face hidden. 
 
-At the end of Legend, we discover that the bottled letter has been found by the police. After that, in Purgatory, we see the characters engaging in something like a book club discussion of the events of Legend of the Golden Witch, which is explicitly called an episode. Then Beatrice appears and shows magic to everyone. Again, Battler serves as a parallel to the process of trying to understand what happened, because according to Sayo, he's the person who should have understood it in the first place. This is Sayo's Endless magic.
+This matters because it brings the number of humans on Rokkenjima back up to 17. Apart from details like this, it wouldn't be difficult to argue that X isn't needed for the story to work, but the need for a 17th person is hidden in the gaps of every episode in several places.
+
+At the end of Legend, we discover that the bottled letter has been found by the police. Meanwhile in Purgatory, we see the characters engaging in something like a book club discussion of the events of Legend of the Golden Witch, which is explicitly called an episode. Then Beatrice appears and shows magic to everyone. Again, Battler serves as a parallel to the process of trying to understand what happened, because according to Sayo, he's the person who should have understood it in the first place. This is Sayo's Endless magic.
 
 In the ??? tea party, Bernkastel has a spat with Beato, then she gives hints to Battler and by extension to the people trying to solve the mysteries. This is framed to look like she is talking to the reader, after all, the players of the visual novel are trying to understand what happened just as much as the people in the future are.
 
@@ -807,9 +809,8 @@ In the ??? tea party, Bernkastel has a spat with Beato, then she gives hints to 
 
 This is our original theory for Turn of the Golden Witch.
 
-### [[Previous Episodes Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
-
-_~ published on 28/08/2025_
+> [[Previous Episodes Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
+>_~ published on 28/08/2025_
 
 This one is an improvement on Legend, but it's still fairly contrived in places. There are also a few important differences between it and our current outline, both in what we left out and in what we've changed our minds about.
 
@@ -1094,8 +1095,7 @@ If this was a game between us and her, she would have crushed us, we would have 
 Let's say we switched sides, if we were right the witch wins, and it's our victory as well. We can even sponsor her by recognizing her existence, isn't that nice. After all, we are beings of an even higher order. If we made significant mistakes, the stalemate will continue and Beatrice will be left alone to fend for herself. Maybe we can hope in Battler failing as hard as one can, but as things are, the story leaves little to no hope for her.
 
 ![Pasted image 20261004154818.png](/img/user/Attachments/Pasted%20image%2020261004154818.png)
-# Part 6: Tying up the loose ends
-
+# Part 6: Loose ends and final thoughts
 ## 16 or 17 People on Rokkenjima?
 
 After having finally made it to the end, we think it's a good idea to gather all the reasons we think X Beatrice is an unavoidable part of our theory in one place. In many ways, the story would work better with only 16 people on Rokkenjima. X’s character is barely explored, even considering all our speculations, and many solutions become more elegant if we cross one person off the list. For instance, in Alliance, Battler can only find only 16 bodies.

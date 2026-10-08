@@ -23,14 +23,14 @@ Let's answer the greatest question first. What is Beatrice?
 
 > As a witch, Beatrice holds two titles: "Golden" and "Endless".
 > These originally came from separate Magical Compendiums, so it can be said she wields the power of two compendiums.
-> 
+> ———
 > The title of Endless Witch has its foundation in "Endless Creation" and is the root of her unmatched, endless magical power.
 > The title of Golden Witch has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
->  
+> ———
 > These two titles were refined even further with Mariage Sorcière leading to their sublimation into the compendium known as "Endless Realization".
-> 	
-> In that sense, she technically shouldn't be referred as either the Endless Witch or the Golden Witch, but by a new title that is a fusion of the two.
 > 
+> In that sense, she technically shouldn't be referred as either the Endless Witch or the Golden Witch, but by a new title that is a fusion of the two.
+> ———
 >~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
 "Magic in Umineko is the act of holding and perpetrating beliefs." A significant part of this chapter will be dedicated to developing the groundwork to justify this statement, and to explain "Endless Realization".
@@ -185,7 +185,7 @@ From the tea party of Turn we get this description of Shannon.
 > 
 > Though there were a few problems with her initial specifications, she was given a very rare and precious thing: a heart.
 > 
-> It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains within it a strong magic.
+> It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains 
 > 
 > In the lengthy span of time following that, she began to mature, becoming exceptionally skilled with powers of a protective or repulsive nature, such as magical barriers.
 > 
@@ -213,7 +213,7 @@ Why take on this new identity? We don't quite know for sure. Most likely Kinzo's
 > Perhaps because Kinzo felt a sense of approaching personal danger related to his fortune as he neared the end of his life, he bestowed Kanon with the rare power to fight and protect.
 > 
 > However, he hasn’t yet matured very far and is unable to properly control his own power and speed.
-> 
+> ———
 > ~ Kanon's description in Episode 2 (outside the gameboard)
 
 This is an aspect of the Golden magic. Kinzo can just decide to impose a new identity on a servant, and in the case of Shannon and Kanon, all it takes is a wig and different clothes to turn into someone else.
@@ -479,7 +479,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > Most witches cannot leave their territory at will, but those who can travel freely across the world of Fragments are called Voyagers.
 > 
 > In the story, Bernkastel and Lambdadelta belonged to this special category.
-> 
+> ———
 > ~ Regarding Witches
 
 > Worlds of different fates and circumstances are called Fragments, and witches capable of crossing the ocean of endless Fragments are called Voyagers.
@@ -492,7 +492,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > Their voyage has no destination, and you might even say they’re on a journey to escape a destination.
 > 
 > Witches of an even higher order than Voyagers are called Creators.
-> 
+> ———
 > ~ Regarding Voyagers
 
 > Creators are sacred beings who can create 1 out of the sea of nothingness. They can give birth to 1 from 0, give birth to the endless, and then return it to 0 again in a flash.
@@ -502,7 +502,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > 
 > All Voyagers fear that the destination of their own journeys is becoming a Creator.
 > As to why they would fear advancing to the status of a higher-order being, only they themselves can comprehend the answer.
-> 
+> ———
 > ~ Regarding Creators
 
 In these three tips, the author goes out of his way to classify witches into three tiers: Creators, Voyagers, and a baseline lowest category that we will call Grounded witches. These categories are an important foundation for any would-be comprehensive theory of Umineko so let's spend a few more words on them.
@@ -549,6 +549,8 @@ Maria is likened to a creator because she helped bring Mariage Sorcière into ex
 >At a glance, this magical power is frail. But no matter how many times you multiply 0, you never end up with anything more than 0. However, the 1 she gave birth to will one day surpass even the heavens.
 >
 >She is loyally protected by Beatrice, who understands her true worth. The two of them are members of the same alliance.
+> ———
+> ~ Maria's description in the future fragment.
 ## Of witches and letters
 
 So, we've seen 4 totally different versions of the Rokkenjima murders already, no way Beato is a grounded witch right? By the definitions given just now, she shouldn't be able to span multiple timelines and neither should the other meta characters, so what gives?
@@ -769,7 +771,7 @@ We're not sure this distinction is always consistent in Umineko, but we need to 
 ## Legend of the Golden Witch
 
 This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse
-### [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
+### [[Previous Episodes Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 
 _~ published on 18/04/2025_
 
@@ -819,7 +821,7 @@ In the ??? tea party, Bernkastel has a spat with Beato, then she gives hints to 
 
 This is our original theory for Turn of the Golden Witch.
 
-### [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
+### [[Previous Episodes Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
 
 _~ published on 28/08/2025_
 
@@ -884,7 +886,7 @@ After the retrieval the letters, the legend of the witch has crystallized in the
 
 This is our original theory, and it basically still works.
 
-### [[Long Form Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden witch]]
+### [[Previous Episodes Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden Witch]]
 
 _~ published on 21/01/2026_
 
@@ -991,7 +993,7 @@ In this scenario, Sayo recruits Kyrie by promising a safe future for her daughte
 
 With Krauss on board, recruiting Gohda becomes a trivial matter, so the full list of Sayo’s collaborators in this game is therefore: Genji, Kumasawa, Nanjo, Gohda, Kyrie, Krauss, and X. Sayo gives Maria the letter and umbrella, but this time with the added framing that they came from Kinzo.
 
-The siblings give Krauss an ultimatum: if he does not accept their proposal by 22:00, they will force their way into Kinzo’s study. When the time arrives Krauss, pretends to accept the deal in order to buy some time, and all the siblings agree to testify that they indeed saw Kinzo. It's because of this framing that, from our perspective in purgatory, we are actually shown Kinzo coming down and interacting with everybody.
+The siblings give Krauss an ultimatum: if he does not accept their proposal by 22:00, they will force their way into Kinzo’s study. When the time arrives Krauss, pretends to accept the deal in order to buy some time, and all the siblings agree to testify that they indeed saw Kinzo. It's because of this framing that, from our perspective in Purgatory, we are actually shown Kinzo coming down and interacting with everybody.
 
 Sayo and the other servants then arrive with rifles and kill Natsuhi, Rudolf, Hideyoshi, Eva, and Rosa. From this point on, everyone except the four cousins is in on the plan, and we can see that every scene involving them is altered in some way compared to reality. They interact with dead people and characters who don't exist, and nobody bats an eye at seeing Kanon and Shannon together at the same time.
 
@@ -1011,7 +1013,7 @@ When given the choice between sacrificing yourself, your lover, or everyone else
 > She uses this extraordinary power for playing pranks, mostly. Her specialty is hiding keys and bags during busy mornings.
 > 
 > However, in the context of closed room mysteries, this power becomes an ultimate weapon that can easily strike a finishing blow. Her queen bee strikes are likely to pierce any and all detectives, forcing them to surrender.
-> 
+> ———
 > ~ Gaap
 
 She's extremely hard to place because she's sort of thrown in there at the end without the same unmistakable hints that let us to identify Ronove as Genji and Virgilia as Kumasawa.
@@ -1053,7 +1055,7 @@ X gives battler the letter and confronts him about his sin from 6 years ago, hop
 In this scene X is performing as the witch Beatrice, but that is not her name, her identity, or what Battler knew her as. That's why the red truth insists that Beatrice is not involved in the sin.
 
 > {Battler} __Six years ago, no person called Beatrice existed for me.__
-> 
+> ———
 > __The sin I am now demanding that you remember is not between Ushiromiya Battler and Beatrice.__
 
 Crushed by this realization, X gives up, and tells him to go to the chapel. She then leaves and “removes herself from the gameboard” by killing herself in a hidden place, possibly the secret passage leading to Kuwadorian. This is shown in the Purgatory layer as the Beatrice in regular clothes disappearing while the one in witch clothes takes over. This scene is the greatest reason why X and Sayo need to be separate people.

@@ -57,56 +57,42 @@ Even if the gold does exist, that amount is not easy to move, sell, or utilize. 
 
 Truly, "a magical power that can materialize imaginary precious metals".
 
-Alpha Beatrice eventually dies some time before 1952 under circumstances as of yet unknown. 
+Alpha Beatrice eventually died some time before 1952 under circumstances as of yet unknown. 
 ![Pasted image 20260808111023.png](/img/user/Attachments/Pasted%20image%2020260808111023.png)
 
-Kinzo was distraught by this fact, and he became deeply obsessed with the myth of the witch he had created, so much so that eventually, he came up with an idea to "resurrect" her.
-### 0 Beatrice
-
-The Ushiromiya head eventually bought Rokkenjima, and on it he built the main mansion, as well as a secondary hidden one called Kuwadorian. 
-In the secret mansion he would raise a secluded child, referring to her as Beatrice, treating her as his own possession and shielding her from any knowledge of the outside world. 
-The only people who know about her situation are the higher ranking servants and Nanjo.
-
-This is the Beatrice we see in Rosa's flashback, who died by falling off a cliff in 1968. We'll call her 0 Beatrice, since we don't know her real name or if she ever had one.
-She is the "first" golden witch in the sense that she was created by Kinzo's golden magic, Aka he used his money to will a new witch Beatrice into existence after the previous one had died, just to fulfill his wish of seeing his love reciprocated. After all it's implied that his feeling for Alpha were one sided to the very end.
-
-
-![Pasted image 20260808120412.png](/img/user/Attachments/Pasted%20image%2020260808120412.png)
-![Pasted image 20260808120558.png](/img/user/Attachments/Pasted%20image%2020260808120558.png)
-
+Kinzo was distraught by this fact, and he became deeply obsessed with the myth of the witch he had created, so much so that he came up with an idea to "resurrect" her.
 ### X Beatrice
 
 With Kinzo mourning his beloved for the second time, the supply trips to Kuwadorian stopped completely.
 
 ![Pasted image 20251215223913.png](/img/user/Attachments/Pasted%20image%2020251215223913.png)
 
-Nobody was living there anymore, and in Beato's magical reconstruction the witch's soul now, without a vessel, was reduced to golden butterflies permeating the air of Rokkenjima.
-It would seem for all intents and purposes like he had given up on the project, but this wasn't the end.
+Nobody was living there anymore, and according to Beato's magical reconstruction, her soul was reduced to golden butterflies without a vessel permeating the air of Rokkenjima.
 
-Kinzo, eventually, came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
+It would seem for all intents and purposes like Kinzo had given up on the project, but this wasn't the end. He eventually came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
 
 This girl is our mysterious 19th person X, and since she doesn't have a name either, we deem it fitting to call her X Beatrice. 
 ![X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
 
 
-In Turn of the Golden Witch she is the person that Rosa sees with Maria, and that Kyrie says she talked to (she does appear in more scenes, but those are the only reliable ones for reasons we will not explore now).
+In Turn of the Golden Witch she is the woman who Rosa sees with Maria, and Kyrie says she talked to (she does appear in more scenes, but those are the only reliable ones for reasons we will not explore now).
 In Alliance she makes another appearance as the person who talks to Battler from the balcony at the entrance of the mansion.
 
-We think she exists because the way she is described by Kyrie and shown with Maria and Battler visually distinguishes her from the usual Beatrice. We'll later go to greater lengths to justify her, doing so now would be premature.
+We think she exists as her own entity because the way she is shown and described visually distinguishes her from the usual Beatrice. We'll later go to greater lengths to justify her, doing so now would be premature.
 
 X is very likely the model for the witch's portrait that was hung in the hallway with the epitaph two years ago. Multiple people comment on her looking exactly like the painting, and although Rosa said the same of the "witch of the forest" she met all those years ago, it's reasonable to assume she only remembers her most striking features like the eyes and hair. Most likely, Rosa just filled in the details in her memory when she saw the painting, after being conditioned to expect Beatrice.
 
-Although we're calling her X Beatrice she doesn't become Beatrice right away, because of course Kinzo has learned a lesson from the experiment with 0, and he understands that raising a secluded child like that is risky and unsustainable.
-The family was suspicious, and rumors are spreading about someone else living on the island, if you then consider that she might be older than 0 Beatrice was at the time of her confinement, it just makes more sense to raise her in the orphanage. 
-It's still a controlled environment, but far away from Rokkenjima, and she can still periodically visit Kuwadorian, or even the main mansion itself, through the hidden harbor.
+Although we're calling her X Beatrice she didnt become Beatrice right away, because of course Kinzo learned a lesson from the experiment with 0, and he understood that raising a secluded child like that is risky and unsustainable.
+The family was suspicious, and rumors were spreading about someone else living on the island, if you then consider that X would have been be older than 0 Beatrice was at the time of her confinement, it just made more sense to raise her in the orphanage. 
+It's still a controlled environment, but far away from Rokkenjima, and through the hidden harbor she could still periodically visit Kuwadorian, or even the main mansion itself.
 
-Perhaps because of this less sheltered upbringing, we think X comes to strongly resent Kinzo's expectations. In his eyes she'll eventually fulfill the role of Beatrice like her predecessor, but the resurrection won't be complete until that happens.
+Perhaps because of this less sheltered upbringing, we think X came to strongly resent Kinzo's expectations. In his eyes she was supposed to eventually fulfill the role of Beatrice like her predecessor, but the resurrection wouldn't be complete until then.
 
-The people in Rokkenjima that know about X's existence are the servants and Nanjo, who will function as her doctor since she must remain secret.
+The people in Rokkenjima that know about X's existence are the servants and Nanjo, who served as her doctor since she had to remain secret.
 
-During one of the the family conferences in 1980 somehow Battler accidentally meets X, and in that instance he makes some kind of promise to her.
-To Battler, the promise has no real weight, and he will forget it in the six years that he'll spend away from the family.
-But to X, it's really important, and him forgetting it will eventually break her heart.
+During one of the the family conferences in 1980 somehow Battler accidentally met X, and in that instance he made some kind of promise to her.
+To Battler, the promise had no real weight, and he would forget it in the six years that he spent away from the family.
+But to X, it was really important, and him forgetting it will eventually break her heart.
 ### Kinzo's Furniture
 
 Beyond Kinzo's Beatrice project, another aspect of golden magic can be found in the servants that Kinzo calls his furniture. After all, they're his property, an extension of his wealth.
@@ -146,7 +132,7 @@ Admittedly, this claim is not based on very solid evidence. All we get in terms 
 
 This master could be anybody, it doesn't have to be Alpha, but in trying to fill in the gaps we will go with the option that is the most thematically fulfilling, while also minimizing the number of unknown characters we need to introduce.
 
-So. Alpha Beatrice is an Endless witch. Not necessarily the first endless witch, as the tip "Regarding the Succession of Witches" hints at a long lineage, but she is the first we care about. 
+So. Alpha Beatrice was an Endless witch. Not necessarily the first endless witch, as the tip "Regarding the Succession of Witches" hints at a long lineage, but she is the first we care about. 
 
 > Furthermore, during the story, Beatrice inherited that name along with the position, but that is a very recent innovation. The Predecessor was the original Beatrice, and all Endless Witches before her had different names. After that, it became customary for the name to be inherited as well, and EVA Beatrice followed that tradition when giving ANGE the name of Beatrice.
 
@@ -154,7 +140,6 @@ This paragraph is very confusing, because it seemingly introduces a contradictio
 This leaves us with the most plausible explanation being that Alpha never called herself Beatrice at all, and it's a name given to her by Kinzo.
 
 Either that or Virgilia's teacher isn't Alpha after all.
-
 ### Virgilia
 The equivalence Virgilia = Kumasawa is hinted to in the text very clearly, it is functionally spelled out loud. If her bursting out of Kumasawa in Banquet isn't enough evidence, shall we point at the mackerel joke?
 ![Pasted image 20250413161435.png](/img/user/Attachments/Pasted%20image%2020250413161435.png)

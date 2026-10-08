@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/speculation/witch-of-origins/","contentClasses":"center-headings red-truth red-links blue-truth"}
 ---
 
-Maria's title, expanded upon in [[Tips/Regarding Creators\|Regarding Creators]] and [[Characters/Maria#Alliance\|Maria#Alliance#Tea Party]]
+Maria's title, expanded upon in [[Tips/Regarding Creators\|Regarding Creators]] and her alliance descriptions.
 
 Maria often exhibits neurodivergent traits. This could be a justification for her extremely fervid imagination.
 [[Characters/Beatrice\|Beatrice]] needed someone like Maria to expand her magical compendium. She is the one who populates the endless witch narrative with all sorts of quirky characters, from furniture to demons.

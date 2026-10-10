@@ -5,8 +5,6 @@
 
 ![Mugshots/X Beatrice.png|X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
 
----
-# Theories
 
 This is the human Beatrice in ordinary clothes that is seen in Turn and Alliance.
 - She is an orphan from Fukuin house, Sayo's ally, and the 19th person X on Rokkenjima.
@@ -16,5 +14,4 @@ This is the human Beatrice in ordinary clothes that is seen in Turn and Alliance
 - She was personally hurt by Battler's sin.
 - There's a chance that the character of Gaap represents her.
 
-See [[Final theory for the Umineko question arcs - Endless Speculation#X Beatrice\|this chapter]] of main theory document for all the details
-
+See [[Final theory for the Umineko question arcs - Endless Speculation#X Beatrice\|this chapter]] of main theory document for all the details.

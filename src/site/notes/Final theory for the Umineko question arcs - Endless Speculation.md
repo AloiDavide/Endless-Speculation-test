@@ -23,14 +23,14 @@ Let's answer the greatest question first. What is Beatrice?
 
 > As a witch, Beatrice holds two titles: "Golden" and "Endless".
 > These originally came from separate Magical Compendiums, so it can be said she wields the power of two compendiums.
-> 
+> ———
 > The title of Endless Witch has its foundation in "Endless Creation" and is the root of her unmatched, endless magical power.
 > The title of Golden Witch has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
->  
+> ———
 > These two titles were refined even further with Mariage Sorcière leading to their sublimation into the compendium known as "Endless Realization".
-> 	
-> In that sense, she technically shouldn't be referred as either the Endless Witch or the Golden Witch, but by a new title that is a fusion of the two.
 > 
+> In that sense, she technically shouldn't be referred as either the Endless Witch or the Golden Witch, but by a new title that is a fusion of the two.
+> ———
 >~ [[Tips/Beatrice's Titles\|Beatrice's Titles]]
 
 "Magic in Umineko is the act of holding and perpetrating beliefs." A significant part of this chapter will be dedicated to developing the groundwork to justify this statement, and to explain "Endless Realization".
@@ -57,56 +57,42 @@ Even if the gold does exist, that amount is not easy to move, sell, or utilize. 
 
 Truly, "a magical power that can materialize imaginary precious metals".
 
-Alpha Beatrice eventually dies some time before 1952 under circumstances as of yet unknown. 
+Alpha Beatrice eventually died some time before 1952 under circumstances as of yet unknown. 
 ![Pasted image 20260808111023.png](/img/user/Attachments/Pasted%20image%2020260808111023.png)
 
-Kinzo was distraught by this fact, and he became deeply obsessed with the myth of the witch he had created, so much so that eventually, he came up with an idea to "resurrect" her.
-### 0 Beatrice
-
-The Ushiromiya head eventually bought Rokkenjima, and on it he built the main mansion, as well as a secondary hidden one called Kuwadorian. 
-In the secret mansion he would raise a secluded child, referring to her as Beatrice, treating her as his own possession and shielding her from any knowledge of the outside world. 
-The only people who know about her situation are the higher ranking servants and Nanjo.
-
-This is the Beatrice we see in Rosa's flashback, who died by falling off a cliff in 1968. We'll call her 0 Beatrice, since we don't know her real name or if she ever had one.
-She is the "first" golden witch in the sense that she was created by Kinzo's golden magic, Aka he used his money to will a new witch Beatrice into existence after the previous one had died, just to fulfill his wish of seeing his love reciprocated. After all it's implied that his feeling for Alpha were one sided to the very end.
-
-
-![Pasted image 20260808120412.png](/img/user/Attachments/Pasted%20image%2020260808120412.png)
-![Pasted image 20260808120558.png](/img/user/Attachments/Pasted%20image%2020260808120558.png)
-
+Kinzo was distraught by this fact, and he became deeply obsessed with the myth of the witch he had created, so much so that he came up with an idea to "resurrect" her.
 ### X Beatrice
 
 With Kinzo mourning his beloved for the second time, the supply trips to Kuwadorian stopped completely.
 
 ![Pasted image 20251215223913.png](/img/user/Attachments/Pasted%20image%2020251215223913.png)
 
-Nobody was living there anymore, and in Beato's magical reconstruction the witch's soul now, without a vessel, was reduced to golden butterflies permeating the air of Rokkenjima.
-It would seem for all intents and purposes like he had given up on the project, but this wasn't the end.
+Nobody was living there anymore, and according to Beato's magical reconstruction, her soul was reduced to golden butterflies without a vessel permeating the air of Rokkenjima.
 
-Kinzo, eventually, came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
+It would seem for all intents and purposes like Kinzo had given up on the project, but this wasn't the end. He eventually came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
 
 This girl is our mysterious 19th person X, and since she doesn't have a name either, we deem it fitting to call her X Beatrice. 
 ![X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
 
 
-In Turn of the Golden Witch she is the person that Rosa sees with Maria, and that Kyrie says she talked to (she does appear in more scenes, but those are the only reliable ones for reasons we will not explore now).
+In Turn of the Golden Witch she is the woman who Rosa sees with Maria, and Kyrie says she talked to (she does appear in more scenes, but those are the only reliable ones for reasons we will not explore now).
 In Alliance she makes another appearance as the person who talks to Battler from the balcony at the entrance of the mansion.
 
-We think she exists because the way she is described by Kyrie and shown with Maria and Battler visually distinguishes her from the usual Beatrice. We'll later go to greater lengths to justify her, doing so now would be premature.
+We think she exists as her own entity because the way she is shown and described visually distinguishes her from the usual Beatrice. We'll later go to greater lengths to justify her, doing so now would be premature.
 
 X is very likely the model for the witch's portrait that was hung in the hallway with the epitaph two years ago. Multiple people comment on her looking exactly like the painting, and although Rosa said the same of the "witch of the forest" she met all those years ago, it's reasonable to assume she only remembers her most striking features like the eyes and hair. Most likely, Rosa just filled in the details in her memory when she saw the painting, after being conditioned to expect Beatrice.
 
-Although we're calling her X Beatrice she doesn't become Beatrice right away, because of course Kinzo has learned a lesson from the experiment with 0, and he understands that raising a secluded child like that is risky and unsustainable.
-The family was suspicious, and rumors are spreading about someone else living on the island, if you then consider that she might be older than 0 Beatrice was at the time of her confinement, it just makes more sense to raise her in the orphanage. 
-It's still a controlled environment, but far away from Rokkenjima, and she can still periodically visit Kuwadorian, or even the main mansion itself, through the hidden harbor.
+Although we're calling her X Beatrice she didnt become Beatrice right away, because of course Kinzo learned a lesson from the experiment with 0, and he understood that raising a secluded child like that is risky and unsustainable.
+The family was suspicious, and rumors were spreading about someone else living on the island, if you then consider that X would have been be older than 0 Beatrice was at the time of her confinement, it just made more sense to raise her in the orphanage. 
+It's still a controlled environment, but far away from Rokkenjima, and through the hidden harbor she could still periodically visit Kuwadorian, or even the main mansion itself.
 
-Perhaps because of this less sheltered upbringing, we think X comes to strongly resent Kinzo's expectations. In his eyes she'll eventually fulfill the role of Beatrice like her predecessor, but the resurrection won't be complete until that happens.
+Perhaps because of this less sheltered upbringing, we think X came to strongly resent Kinzo's expectations. In his eyes she was supposed to eventually fulfill the role of Beatrice like her predecessor, but the resurrection wouldn't be complete until then.
 
-The people in Rokkenjima that know about X's existence are the servants and Nanjo, who will function as her doctor since she must remain secret.
+The people in Rokkenjima that know about X's existence are the servants and Nanjo, who served as her doctor since she had to remain secret.
 
-During one of the the family conferences in 1980 somehow Battler accidentally meets X, and in that instance he makes some kind of promise to her.
-To Battler, the promise has no real weight, and he will forget it in the six years that he'll spend away from the family.
-But to X, it's really important, and him forgetting it will eventually break her heart.
+During one of the the family conferences in 1980 somehow Battler accidentally met X, and in that instance he made some kind of promise to her.
+To Battler, the promise had no real weight, and he would forget it in the six years that he spent away from the family.
+But to X, it was really important, and him forgetting it will eventually break her heart.
 ### Kinzo's Furniture
 
 Beyond Kinzo's Beatrice project, another aspect of golden magic can be found in the servants that Kinzo calls his furniture. After all, they're his property, an extension of his wealth.
@@ -146,7 +132,7 @@ Admittedly, this claim is not based on very solid evidence. All we get in terms 
 
 This master could be anybody, it doesn't have to be Alpha, but in trying to fill in the gaps we will go with the option that is the most thematically fulfilling, while also minimizing the number of unknown characters we need to introduce.
 
-So. Alpha Beatrice is an Endless witch. Not necessarily the first endless witch, as the tip "Regarding the Succession of Witches" hints at a long lineage, but she is the first we care about. 
+So. Alpha Beatrice was an Endless witch. Not necessarily the first endless witch, as the tip "Regarding the Succession of Witches" hints at a long lineage, but she is the first we care about. 
 
 > Furthermore, during the story, Beatrice inherited that name along with the position, but that is a very recent innovation. The Predecessor was the original Beatrice, and all Endless Witches before her had different names. After that, it became customary for the name to be inherited as well, and EVA Beatrice followed that tradition when giving ANGE the name of Beatrice.
 
@@ -154,7 +140,6 @@ This paragraph is very confusing, because it seemingly introduces a contradictio
 This leaves us with the most plausible explanation being that Alpha never called herself Beatrice at all, and it's a name given to her by Kinzo.
 
 Either that or Virgilia's teacher isn't Alpha after all.
-
 ### Virgilia
 The equivalence Virgilia = Kumasawa is hinted to in the text very clearly, it is functionally spelled out loud. If her bursting out of Kumasawa in Banquet isn't enough evidence, shall we point at the mackerel joke?
 ![Pasted image 20250413161435.png](/img/user/Attachments/Pasted%20image%2020250413161435.png)
@@ -162,20 +147,20 @@ The equivalence Virgilia = Kumasawa is hinted to in the text very clearly, it is
 
 Kumasawa is the oldest servant of Kinzo, and would have been a young maid when Alpha Beatrice was still alive. It's through this connection that she was taught the ropes of her magic.
 
-Now that she is older, she acts as a motherly figure towards the younger servants, many of whom are orphaned children from Fukuin's house. She playfully calls herself Beatrice in front of them, teaches them the ropes of the job, and as her master once did for her she also teaches them how to deal with the colorful and not always agreeable members of the Ushiromiya family.
+Now that she is older, she acts as a motherly figure towards the younger servants, many of whom are orphaned children from Fukuin's house. She playfully calls herself Beatrice in front of them, teaches them the ropes of the job, and as her master once did for her she also teaches them how to deal with the difficult and not always agreeable members of the Ushiromiya family.
 
-Let's zoom in on a certain clumsy servant, who is predictably bad at her job, and frequently damages and breaks things, as any child would. This servant is Sayo, the real name of the furniture named Shannon.
+Let's zoom in on a certain clumsy young servant, who is predictably bad at her job, and frequently damages and breaks things, as any child would. This servant is Sayo, the real name of the furniture named Shannon.
 
 This flashback below shows us an example of Kumasawa teaching Sayo the techniques of the Endless magic, a way to make your narrative a reality regardless of what originally happened.
 After Sayo breaks a vase, Kumasawa "fixes it with magic".
 
 ![Pasted image 20260830190710.png](/img/user/Attachments/Pasted%20image%2020260830190710.png)
 
-In truth we can reconstruct that she talked to the other servants and convinced them to testify that the vase was broken by a cat.
+In truth we can reconstruct that she simply talked to the other servants and convinced them to testify that the vase was broken by a cat.
 
 This is pretty much all there is to it. Endless magic, at its heart, is telling white lies and cooperating to uphold them. It's a shared narrative that people believe and practice together, and if the magic is internalized as real it can in turn influence the world.
 
-This approach can be applied to more than just a trick to survive on the job, it can also be a form of escapism to help people cope with the reality of their situation.
+This approach can be applied to more than just a trick to not be blamed for your mistakes, it can also be a form of escapism to help people cope with the reality of their situation.
 ### Sayo
 
 From the tea party of Turn we get this description of Shannon.
@@ -185,7 +170,7 @@ From the tea party of Turn we get this description of Shannon.
 > 
 > Though there were a few problems with her initial specifications, she was given a very rare and precious thing: a heart.
 > 
-> It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains within it a strong magic.
+> It seems that, as a result of his long personal experience, Kinzo came to believe that the power created by the heart contains 
 > 
 > In the lengthy span of time following that, she began to mature, becoming exceptionally skilled with powers of a protective or repulsive nature, such as magical barriers.
 > 
@@ -198,13 +183,12 @@ From the tea party of Turn we get this description of Shannon.
 
 We already mentioned how Kinzo sees his servants as his own property and creation, and these descriptions imply a lot of his influence in the education of these kids, but the part about magical barriers also hints at Sayo's affinity for protecting her peers. She is the perfect person to inherit Kumasawa's role and her Endless magic.
 
-However, a few years after Shannon, another orphan was hired as a Servant. His furniture name is Kanon.
+However, a few years after Shannon, another orphan was hired as a servant and given the furniture name of "Kanon".
 
 We believe that Kanon, like Shannon, is also Sayo, just wearing different clothes.
+This insight is one of the most important keys to make sense of the events in Rokkenjima. It's what explains the inconsistent number of people on the island.
 
-This is one of the keys to make sense of the events in Rokkenjima. It's what explains the inconsistent number of people on the island.
-
-Why take on this new identity? We don't quite know for sure. Most likely Kinzo's input has something to do with it.
+Why take on this new identity though? We don't quite know for sure. Most likely Kinzo's input had something to do with it.
 
 > So far, he is the last furniture created by Kinzo.
 > 
@@ -213,47 +197,48 @@ Why take on this new identity? We don't quite know for sure. Most likely Kinzo's
 > Perhaps because Kinzo felt a sense of approaching personal danger related to his fortune as he neared the end of his life, he bestowed Kanon with the rare power to fight and protect.
 > 
 > However, he hasn’t yet matured very far and is unable to properly control his own power and speed.
-> 
+> ———
 > ~ Kanon's description in Episode 2 (outside the gameboard)
 
 This is an aspect of the Golden magic. Kinzo can just decide to impose a new identity on a servant, and in the case of Shannon and Kanon, all it takes is a wig and different clothes to turn into someone else.
 
 We are very well aware that a piece of the puzzle is missing here.
-
-Sayo seems very involved in the two identities. It's not like she's putting up with it because she's forced to. We're not too sure why Kinzo would go out of his way to impose this on one of his servants, but Kanon and Shannon both being Sayo explains so much to make these missing details not enough to discard this insight as a whole.
+Sayo seems very involved in the two identities. It's not like she's putting up with it because she's forced to. We're also not too sure why Kinzo would go out of his way to impose this on one of his servants, but Kanon and Shannon both being Sayo explains so much to make these missing details not enough to discard the insight as a whole.
 
 All the servants on the island know about this. Genji is absorbed by Kinzo's narrative, Kumasawa doesn't really have the ability to do anything about it, and Gohda, when he eventually starts working on Rokkenjima, desperately wants to keep his job, so he puts up with it. The other servants we never see also presumably know.
 
-X, who is another of the orphans, and Sayo are both living quite miserable lives. One is being indoctrinated to eventually become "Beatrice" and couldn't care less about it. The other is a child servant of an extremely abusive family, that has worked for them since when she was six years old, and she too is getting her identity engineered by the patriarch.
+X, who is another of the orphans, and Sayo are both living quite miserable lives growing up. One is being indoctrinated to eventually become "Beatrice" and couldn't care less about it. The other is a child servant of an extremely abusive family, she has worked for them since when she was six years old, and she too is getting her identity engineered by the patriarch.
 
-Sayo, as a servant, often takes care of X and the two are very close. X is aware that that Kinzo's magic isn't "factually" real, but she's used to treat it as such, and Sayo's endless magic represents the positive side of the "magical" coin. In this version of the world shared by just the two of them, Beatrice is a kind Endless witch embodied by Sayo instead of the Golden witch that she is being burdened with.
+Sayo, as a servant, often takes care of X and the two are very close. X is aware that that Kinzo's magic isn't "factually" real, but she's used to treat it as such, and Sayo's endless magic represents the positive side of the "magical" coin. 
+In this version of the world shared by just the two of them, Beatrice is a kind Endless witch embodied by Sayo instead of the Golden witch that she is being burdened with.
 
-Another benefactor of Sayo's magic is Maria, who she can easily empathize with. At one of the family conferences she shows the concept of Endless magic to her, and Maria is immediately charmed by it.
+Another benefactor of the Endless magic is Maria, who Sayo can easily empathize with. At one of the family conferences she shows the concept of Endless magic to her, and Maria is immediately charmed by it.
 
 > The title of Endless Witch has its foundation in "Endless Creation" and is the root of her unmatched, endless magical power.
 ## Mariage Sorciére
 
-Sayo and Maria, with Kumasawa watching over them, spend the days of the yearly conferences talking about witches and how to use magic as positive force in the world to make people happy.
+Sayo and Maria, with Kumasawa watching over them, spend the days of the yearly conferences talking about witches and how to use magic as a positive force in the world to make people happy.
 
-The addition of Maria's creativity will transform their little game into a richer narrative that introduces in Beatrice's setting colorful characters such as Virgilia, Ronove, Gaap, the stakes of purgatory and the Chiester sisters. This is Mariage Sorciére, the little garden of Maria and Sayo.
+The inclusion of Maria's creativity will transform their little game into a richer narrative and introduce in Beatrice's setting such colorful characters as Virgilia, Ronove, Gaap, the stakes of purgatory and the Chiester sisters. This is Mariage Sorciére, the little garden of Maria and Sayo.
 
 > An alliance of witches formed by lady MARIA, the Witch of Origins, and lady Beatrice, the Endless Witch. Together, they created a groundbreaking magical compendium, which brought about immense influx of strength to Beatrice's once-declining magical power.
 > It's probably safe to say that the formation of this alliance allowed Beatrice to gain the endless power in its truest sense.
-> 
+> ———
 > ~ Mariage Sorcière
 
 This setting is steeped in demonology and occult rituals because Maria was also influenced by her grandfather and developed a strong interest in the occult. It's possible she couldn't grasp the distinction between the Golden and Endless aspects of Beatrice's magic, or she chose to incorporate both in their creation. Regardless, the two branches are now united in "endless realization".
 
 > These two titles were refined even further with Mariage Sorcière leading to their sublimation into the compendium known as "Endless Realization".
+> ———
 > ~ Beatrice's Titles
 
 X is not part of this alliance, after all her existence is a secret, but if her story is anything like the one we told, she might not have been too keen on playing witches.
 
-We don't think she and Maria ever actually met, not before the day of the murders anyway, but if they were to meet on that day she would recognize her from the portrait. After all Beatrice is extremely well versed in magic, what reason would the young apprentice have to doubt after seeing her master's true form? This means that for Maria meeting either Sayo or X during the games counts as having met "Beatrice".
+We don't think she and Maria ever actually met, not before the day of the murders anyway, but if they were to meet on that day she would recognize her from the portrait. After all Beatrice is extremely well versed in magic, what reason would the young apprentice have to doubt that she was seeing her master's true form? 
+In practice, this means that for Maria meeting either Sayo or X during the games counts as having met "Beatrice".
 
 An Occam's razor aficionado could point out that our Sayo and X Beatrice have suspiciously similar backstories, but we tried merging them into one person, and it doesn't really fit well.
-For instance in the character descriptions, X and Shannon, which is an aspect of Sayo, are shown with the golden eagle tattoo on different legs, which on its own would be strong enough evidence for us to distinguish them. 
-Later on, after we're done explaining a few other things, we'll build a stronger argument for why they make more sense as two separate people, so let's move on for now.
+Later on, near the end of the theory, after we're done explaining all the events, we'll build a stronger argument for why they make more sense as two separate people, so let's move on for now.
 ## The downward spiral of the Black witch
 
 As the years pass and the children grow up, things don't improve for any of them. Escapism is not really a long term solution to living in an unhealthy environment, and all three of Maria, Sayo and X reach a breaking point.
@@ -269,9 +254,9 @@ Speaking of Ange, during the 1985 family conference, the last one before the tra
 > 
 > ~ Mariage Sorcière
 
-An insinuation of her happiness being just a lie is the last drop for Maria, who starts wishing pain, not happiness, upon others. This is perfectly exemplified by the Chiester sisters characters, originally based on Maria's rabbits figurines that Rosa had gifted her, and now corrupted to represent rifles in the new Mariage Sorciére. 
+An insinuation of her happiness being just a lie is the last drop for Maria, who starts wishing pain, not happiness, upon others. This is perfectly exemplified by the Chiester sisters characters, originally based on Maria's rabbits figurines that Rosa had gifted her, and now corrupted to represent winchester rifles in the new Mariage Sorciére. 
 
-Meanwhile, Kinzo is becoming old. His children didn't satisfy his expectations and he wants to find a method to settle the inheritance problem in a way that benefits the most worthy, in his eyes of course. He commissions the portrait of X, and places an epitaph below it with a riddle that leads to his gold. 
+Meanwhile, Kinzo is becoming old. His children didn't live up to his expectations and he wants to find a method to settle the inheritance problem in a way that benefits the most worthy, in his eyes of course. He commissions the portrait of X, and places an epitaph below it with a riddle that leads to his gold. 
 
 We're sorry to say that we have not solved the riddle. Not even close.
 
@@ -280,13 +265,14 @@ Not long before the murders of Rokkenjima, Kinzo orchestrates a resurrection cer
 We think she's the culprit because of this screen in Banquet, where, considering that the Beatrice wearing this outfit doesn't appear anywhere else in the episode, a plausible reason that comes to mind to show this version of the portrait over the regular one is that it's meant to be a hint.
 ![Pasted image 20260727014855.png](/img/user/Attachments/Pasted%20image%2020260727014855.png)
 
-The dynamics of how it happens are not clear to us... but it's clear that there is enough motivation for her to do so. Kinzo has treated her like a token, projecting his machinations into her. She has enough reasons to hate him.
-For all we know, Kinzo might have even met his end willingly but there really isn't much to go off of.
+The dynamics of how it happens are not clear to us... but she does have a motive. Kinzo has treated her like a token, projecting his machinations onto her. She should have more than enough reasons to hate him.
+
+For all we know, Kinzo might have even met his end willingly, but there really isn't much to go off of other than this paragraph at the beginning of Legend.
 
 ![Pasted image 20260903180342.png](/img/user/Attachments/Pasted%20image%2020260903180342.png)
 
 
-With the help of the other servants they hide the body after taking the family crest ring. Probably not much mourning was done except by Genji, the only person that truly cared about Kinzo... But to him all is according to the plan. after all, to him the Golden witch Beatrice has just began fulfilling the terms of the contract by taking what was owed to her.
+With the help of the other servants they hide Kinzo's body after taking the family crest ring. Probably not much mourning was done except by Genji, the only person that truly cared about Kinzo... But to him all is according to the plan. After all, the Golden witch Beatrice has just began fulfilling the terms of the contract by taking what was owed to her.
 
 As awful as Kinzo was, as abusive as he was, suddenly, X is but an orphan with no caretaker. The only people who even know of her existence are the servants and Nanjo. She is no one, just an anonymous person X. 
 
@@ -479,7 +465,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > Most witches cannot leave their territory at will, but those who can travel freely across the world of Fragments are called Voyagers.
 > 
 > In the story, Bernkastel and Lambdadelta belonged to this special category.
-> 
+> ———
 > ~ Regarding Witches
 
 > Worlds of different fates and circumstances are called Fragments, and witches capable of crossing the ocean of endless Fragments are called Voyagers.
@@ -492,7 +478,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > Their voyage has no destination, and you might even say they’re on a journey to escape a destination.
 > 
 > Witches of an even higher order than Voyagers are called Creators.
-> 
+> ———
 > ~ Regarding Voyagers
 
 > Creators are sacred beings who can create 1 out of the sea of nothingness. They can give birth to 1 from 0, give birth to the endless, and then return it to 0 again in a flash.
@@ -502,7 +488,7 @@ Now, let’s leave the territory of the witch Beatrice and jump into the higher 
 > 
 > All Voyagers fear that the destination of their own journeys is becoming a Creator.
 > As to why they would fear advancing to the status of a higher-order being, only they themselves can comprehend the answer.
-> 
+> ———
 > ~ Regarding Creators
 
 In these three tips, the author goes out of his way to classify witches into three tiers: Creators, Voyagers, and a baseline lowest category that we will call Grounded witches. These categories are an important foundation for any would-be comprehensive theory of Umineko so let's spend a few more words on them.
@@ -549,6 +535,8 @@ Maria is likened to a creator because she helped bring Mariage Sorcière into ex
 >At a glance, this magical power is frail. But no matter how many times you multiply 0, you never end up with anything more than 0. However, the 1 she gave birth to will one day surpass even the heavens.
 >
 >She is loyally protected by Beatrice, who understands her true worth. The two of them are members of the same alliance.
+> ———
+> ~ Maria's description in the future fragment.
 ## Of witches and letters
 
 So, we've seen 4 totally different versions of the Rokkenjima murders already, no way Beato is a grounded witch right? By the definitions given just now, she shouldn't be able to span multiple timelines and neither should the other meta characters, so what gives?
@@ -810,9 +798,11 @@ So, let's present our reconstruction.
 
 In this reconstruction, the identities of all the corpses are accounted for. X's presence is explained by her temporarily assuming the role of Shannon. After all, Kanon is right there in the gardening shed. 
 
-It's important to note that the body in the shed, identified as "Shannon", appears in a scene where literally everyone except Kumasawa is present, whether alive or dead. We find it very difficult to argue that Kumasawa was disguising herself as Shannon there. An old lady shouldn't be able to pass easily for a young woman, even in a shadowy corner with her face hidden. This matters because it brings the number of bodies on Rokkenjima to 17. Apart from details like this, it wouldn't be difficult to argue that X isn't needed for the story to work, the need for a 17th person is hidden in the gaps of every episode in several places.
+It's important to note that the body in the shed, identified as "Shannon", appears in a scene where literally everyone except Kumasawa is present, whether alive or dead. We find it very difficult to argue that Kumasawa was disguising herself as Shannon there. An old lady shouldn't be able to pass easily for a young woman, even in a shadowy corner with her face hidden. 
 
-At the end of Legend, we discover that the bottled letter has been found by the police. After that, in Purgatory, we see the characters engaging in something like a book club discussion of the events of Legend of the Golden Witch, which is explicitly called an episode. Then Beatrice appears and shows magic to everyone. Again, Battler serves as a parallel to the process of trying to understand what happened, because according to Sayo, he's the person who should have understood it in the first place. This is Sayo's Endless magic.
+This matters because it brings the number of humans on Rokkenjima back up to 17. Apart from details like this, it wouldn't be difficult to argue that X isn't needed for the story to work, but the need for a 17th person is hidden in the gaps of every episode in several places.
+
+At the end of Legend, we discover that the bottled letter has been found by the police. Meanwhile in Purgatory, we see the characters engaging in something like a book club discussion of the events of Legend of the Golden Witch, which is explicitly called an episode. Then Beatrice appears and shows magic to everyone. Again, Battler serves as a parallel to the process of trying to understand what happened, because according to Sayo, he's the person who should have understood it in the first place. This is Sayo's Endless magic.
 
 In the ??? tea party, Bernkastel has a spat with Beato, then she gives hints to Battler and by extension to the people trying to solve the mysteries. This is framed to look like she is talking to the reader, after all, the players of the visual novel are trying to understand what happened just as much as the people in the future are.
 
@@ -820,9 +810,8 @@ In the ??? tea party, Bernkastel has a spat with Beato, then she gives hints to 
 
 This is our original theory for Turn of the Golden Witch.
 
-### [[Long Form Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
-
-_~ published on 28/08/2025_
+> [[Previous Episodes Theories/Theory for Turn of the Golden witch\|Theory for Turn of the Golden witch]]
+>_~ published on 28/08/2025_
 
 This one is an improvement on Legend, but it's still fairly contrived in places. There are also a few important differences between it and our current outline, both in what we left out and in what we've changed our minds about.
 
@@ -885,7 +874,7 @@ After the retrieval the letters, the legend of the witch has crystallized in the
 
 This is our original theory, and it basically still works.
 
-### [[Long Form Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden witch]]
+### [[Previous Episodes Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden Witch]]
 
 _~ published on 21/01/2026_
 
@@ -992,7 +981,7 @@ In this scenario, Sayo recruits Kyrie by promising a safe future for her daughte
 
 With Krauss on board, recruiting Gohda becomes a trivial matter, so the full list of Sayo’s collaborators in this game is therefore: Genji, Kumasawa, Nanjo, Gohda, Kyrie, Krauss, and X. Sayo gives Maria the letter and umbrella, but this time with the added framing that they came from Kinzo.
 
-The siblings give Krauss an ultimatum: if he does not accept their proposal by 22:00, they will force their way into Kinzo’s study. When the time arrives Krauss, pretends to accept the deal in order to buy some time, and all the siblings agree to testify that they indeed saw Kinzo. It's because of this framing that, from our perspective in purgatory, we are actually shown Kinzo coming down and interacting with everybody.
+The siblings give Krauss an ultimatum: if he does not accept their proposal by 22:00, they will force their way into Kinzo’s study. When the time arrives Krauss, pretends to accept the deal in order to buy some time, and all the siblings agree to testify that they indeed saw Kinzo. It's because of this framing that, from our perspective in Purgatory, we are actually shown Kinzo coming down and interacting with everybody.
 
 Sayo and the other servants then arrive with rifles and kill Natsuhi, Rudolf, Hideyoshi, Eva, and Rosa. From this point on, everyone except the four cousins is in on the plan, and we can see that every scene involving them is altered in some way compared to reality. They interact with dead people and characters who don't exist, and nobody bats an eye at seeing Kanon and Shannon together at the same time.
 
@@ -1012,7 +1001,7 @@ When given the choice between sacrificing yourself, your lover, or everyone else
 > She uses this extraordinary power for playing pranks, mostly. Her specialty is hiding keys and bags during busy mornings.
 > 
 > However, in the context of closed room mysteries, this power becomes an ultimate weapon that can easily strike a finishing blow. Her queen bee strikes are likely to pierce any and all detectives, forcing them to surrender.
-> 
+> ———
 > ~ Gaap
 
 She's extremely hard to place because she's sort of thrown in there at the end without the same unmistakable hints that let us to identify Ronove as Genji and Virgilia as Kumasawa.
@@ -1054,7 +1043,7 @@ X gives battler the letter and confronts him about his sin from 6 years ago, hop
 In this scene X is performing as the witch Beatrice, but that is not her name, her identity, or what Battler knew her as. That's why the red truth insists that Beatrice is not involved in the sin.
 
 > {Battler} __Six years ago, no person called Beatrice existed for me.__
-> 
+> ———
 > __The sin I am now demanding that you remember is not between Ushiromiya Battler and Beatrice.__
 
 Crushed by this realization, X gives up, and tells him to go to the chapel. She then leaves and “removes herself from the gameboard” by killing herself in a hidden place, possibly the secret passage leading to Kuwadorian. This is shown in the Purgatory layer as the Beatrice in regular clothes disappearing while the one in witch clothes takes over. This scene is the greatest reason why X and Sayo need to be separate people.
@@ -1107,8 +1096,7 @@ If this was a game between us and her, she would have crushed us, we would have 
 Let's say we switched sides, if we were right the witch wins, and it's our victory as well. We can even sponsor her by recognizing her existence, isn't that nice. After all, we are beings of an even higher order. If we made significant mistakes, the stalemate will continue and Beatrice will be left alone to fend for herself. Maybe we can hope in Battler failing as hard as one can, but as things are, the story leaves little to no hope for her.
 
 ![Pasted image 20261004154818.png](/img/user/Attachments/Pasted%20image%2020261004154818.png)
-# Part 6: Tying up the loose ends
-
+# Part 6: Loose ends and final thoughts
 ## 16 or 17 People on Rokkenjima?
 
 After having finally made it to the end, we think it's a good idea to gather all the reasons we think X Beatrice is an unavoidable part of our theory in one place. In many ways, the story would work better with only 16 people on Rokkenjima. X’s character is barely explored, even considering all our speculations, and many solutions become more elegant if we cross one person off the list. For instance, in Alliance, Battler can only find only 16 bodies.

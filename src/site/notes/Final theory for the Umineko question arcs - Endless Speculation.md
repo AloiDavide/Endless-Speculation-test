@@ -759,8 +759,7 @@ We're not sure this distinction is always consistent in Umineko, but we need to 
 This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse
 
 > [[Previous Episodes Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
-> 
-> _~ published on 18/04/2025_
+>_~ published on 18/04/2025_
 
 Ironically, given that we've just distinguished between games and episodes, Legend of the Golden Witch is the one episode that coincides almost exactly with the game it depicts. This is because, before the first bottle surfaced, the conversation surrounding Rokkenjima was strictly materialistic. People treated the unsolved case as a murder mystery and wouldn't assume from the outset that magic was involved.
 
@@ -874,9 +873,8 @@ After the retrieval the letters, the legend of the witch has crystallized in the
 
 This is our original theory, and it basically still works.
 
-### [[Previous Episodes Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden Witch]]
-
-_~ published on 21/01/2026_
+> [[Previous Episodes Theories/Theory for Banquet of the Golden Witch\|Theory for Banquet of the Golden Witch]]
+>_~ published on 21/01/2026_
 
 There's enough wiggle room in Banquet for multiple working solutions, but in our opinion, this reconstruction works best.
 

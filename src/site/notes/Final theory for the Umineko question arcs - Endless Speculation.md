@@ -758,7 +758,7 @@ We're not sure this distinction is always consistent in Umineko, but we need to 
 
 This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse
 
-> [[Theory for Legend of the Golden witch]]
+> [[Previous Episodes Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 > 
 > _~ published on 18/04/2025_
 

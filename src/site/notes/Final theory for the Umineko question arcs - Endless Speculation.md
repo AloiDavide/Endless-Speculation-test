@@ -769,9 +769,10 @@ We're not sure this distinction is always consistent in Umineko, but we need to 
 ## Legend of the Golden Witch
 
 This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse
-### [[Long Form Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 
-_~ published on 18/04/2025_
+> [[Theory for Legend of the Golden witch]]
+> 
+> _~ published on 18/04/2025_
 
 Ironically, given that we've just distinguished between games and episodes, Legend of the Golden Witch is the one episode that coincides almost exactly with the game it depicts. This is because, before the first bottle surfaced, the conversation surrounding Rokkenjima was strictly materialistic. People treated the unsolved case as a murder mystery and wouldn't assume from the outset that magic was involved.
 

@@ -10,7 +10,6 @@
 - [[Mysteries/Episode 1 mysteries/Natsuhi's death in Legend\|Natsuhi's death in Legend]]
 - [[Mysteries/Episode 1 mysteries/Natsuhi's death in the hall\|Natsuhi's death in the hall]]
 - [[Mysteries/Episode 1 mysteries/Rose garden storehouse\|Rose garden storehouse]]
-- [[Mysteries/Episode 1 mysteries/Servants deaths in the parlor\|Servants deaths in the parlor]]
 
 { .block-language-dataview}
 ### Turn

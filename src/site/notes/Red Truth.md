@@ -24,7 +24,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 
 
 ---
-# [[Episodes/Turn of the Golden witch\|Turn of the Golden witch]]
+# Turn of the Golden witch
 
 ## [[Mysteries/Episode 2 mysteries/Crime scene in the chapel\|Crime scene in the chapel]]
 - __When I speak the truth, I will use red__
@@ -69,7 +69,7 @@ Let's begin our comprehensive account of every red truth in the question arcs...
 - __Natsuhi's room was exactly the same just like usual__! __The door and windows were locked from the inside__. __There were no frauds or tricks, no means of secret passage nor places in which to hide__! __[[Characters/Natsuhi\|Natsuhi]]'s own keys was in [[Characters/George\|George]]'s pocket, and the inside of the room was sealed off__. __Only the five master keys were left, and 'Rosa' was holding all of them__! __and let me say this: the parlor's the same__. __The key to the parlor itself is sealed away in the servant's room__. __So unlocking it without a master key is impossible! The definition of a closed room remains the same as always!__ 
 
 ---
-# [[Episodes/Banquet of the Golden witch\|Banquet of the Golden witch]]
+# Banquet of the Golden witch
 ## Before the game starts
 - ([[Characters/The Seven Stakes of Purgatory\|The Seven Stakes of Purgatory]]) __Of all the doors that exist on Rokkenjima, none has a crack trough which a key can slip__.
  __I have the power to speak the truth in red__!!!
@@ -140,7 +140,7 @@ __There are no more then 18 humans on this Rokkenjima__!
 - __A human, with their feet on the ground, held up a weapon and killed with it! Right before his eyes!__
 
 ---
-# [[Episodes/Alliance of the Golden witch\|Alliance of the Golden witch]]
+# Alliance of the Golden witch
 ## [[Characters/Battler\|Battler]]'s sin
 - Battler says __Six years ago, no person called [[Characters/Beatrice\|Beatrice]] existed for me.__
 - __The sin I am now demanding that you remember is not between Ushiromiya Battler and Beatrice.__

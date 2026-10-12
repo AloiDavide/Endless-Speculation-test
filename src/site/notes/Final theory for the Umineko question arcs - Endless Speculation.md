@@ -11,7 +11,7 @@ With this work we aim to present the full extent of our understanding of the phy
 
 I am Crunter the writer, and lead theory-crafter.
 
-and I am Hound Dogs, co-writer, editor, and creator of this site.
+I am Hound Dogs, co-writer, editor, and creator of this site.
 
 We will be presenting our ideas and interpretation in a very matter of fact style, but we won't shy away from bringing up instances where we are not certain of something.
 
@@ -69,7 +69,7 @@ With Kinzo mourning his beloved for the second time, the supply trips to Kuwador
 
 Nobody was living there anymore, and according to Beato's magical reconstruction, her soul was reduced to golden butterflies without a vessel permeating the air of Rokkenjima.
 
-It would seem for all intents and purposes like Kinzo had given up on the project, but this wasn't the end. He eventually came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
+For all intents and purposes, it would seem like he had given up on the project, but this wasn't the end. He eventually came across another child with unusual western traits, blue eyes, and golden blonde hair just like his beloved witch.  We believe she was an orphan at Fukuin house, the orphanage he founded where the younger servants are raised.
 
 This girl is our mysterious 19th person X, and since she doesn't have a name either, we deem it fitting to call her X Beatrice. 
 ![X Beatrice.png](/img/user/Mugshots/X%20Beatrice.png)
@@ -82,8 +82,8 @@ We think she exists as her own entity because the way she is shown and described
 
 X is very likely the model for the witch's portrait that was hung in the hallway with the epitaph two years ago. Multiple people comment on her looking exactly like the painting, and although Rosa said the same of the "witch of the forest" she met all those years ago, it's reasonable to assume she only remembers her most striking features like the eyes and hair. Most likely, Rosa just filled in the details in her memory when she saw the painting, after being conditioned to expect Beatrice.
 
-Although we're calling her X Beatrice she didnt become Beatrice right away, because of course Kinzo learned a lesson from the experiment with 0, and he understood that raising a secluded child like that is risky and unsustainable.
-The family was suspicious, and rumors were spreading about someone else living on the island, if you then consider that X would have been be older than 0 Beatrice was at the time of her confinement, it just made more sense to raise her in the orphanage. 
+Although we're calling her X Beatrice she didnt become Beatrice right away, because of course Kinzo learned a lesson from the experiment with 0, and he understood that raising a secluded child like that was risky and unsustainable.
+At the time the family was already getting suspicious, and rumors were spreading about someone else living on the island, if you then consider that X would have been older than 0 Beatrice was at the time of her confinement, it just made more sense to raise her in the orphanage. 
 It's still a controlled environment, but far away from Rokkenjima, and through the hidden harbor she could still periodically visit Kuwadorian, or even the main mansion itself.
 
 Perhaps because of this less sheltered upbringing, we think X came to strongly resent Kinzo's expectations. In his eyes she was supposed to eventually fulfill the role of Beatrice like her predecessor, but the resurrection wouldn't be complete until then.
@@ -104,7 +104,7 @@ Likewise, although we know almost nothing about Genji's relationship with Kinzo 
 
 > The title of Golden Witch has its foundation in "the Realization of Magic", a magical power that can materialize imaginary precious metals, providing the miracle of manifestation to all less tangible forms of magic.
 
-Overall, we can identify the golden magic branch as Kinzo and Beatrice's absolute authority over all things that belong to the Ushiromiya family head. This power lets them turn false objects or even people into reality by simply flaunting wealth and status, be it real of perceived.
+Overall, we can identify the golden magic branch as Kinzo and Beatrice's absolute authority over all things that belong to the Ushiromiya family head. This power lets them turn false objects or even people into reality by simply flaunting wealth and status, them being real or perceived.
 
 The objects of the magic include the gold, Beatrice herself, the servants, as well as the mansion and the whole island. Likely even Kinzo's heirs (see the [[Tips/Beatrice's Letters/Letter E1-01\|first of Beatrice's letters in legend]]). More or less everything and everyone that was on the island at the time of the tragedy.
 
@@ -205,7 +205,7 @@ This is an aspect of the Golden magic. Kinzo can just decide to impose a new ide
 We are very well aware that a piece of the puzzle is missing here.
 Sayo seems very involved in the two identities. It's not like she's putting up with it because she's forced to. We're also not too sure why Kinzo would go out of his way to impose this on one of his servants, but Kanon and Shannon both being Sayo explains so much to make these missing details not enough to discard the insight as a whole.
 
-All the servants on the island know about this. Genji is absorbed by Kinzo's narrative, Kumasawa doesn't really have the ability to do anything about it, and Gohda, when he eventually starts working on Rokkenjima, desperately wants to keep his job, so he puts up with it. The other servants we never see also presumably know.
+All the servants on the island know about this. Genji is absorbed by Kinzo's narrative, Kumasawa doesn't really have the ability to do anything about it, and what about Gohda?  Since he finally started working on Rokkenjima he's desperate to keep his job, so he simply puts up with it. The other servants we never see also presumably know.
 
 X, who is another of the orphans, and Sayo are both living quite miserable lives growing up. One is being indoctrinated to eventually become "Beatrice" and couldn't care less about it. The other is a child servant of an extremely abusive family, she has worked for them since when she was six years old, and she too is getting her identity engineered by the patriarch.
 
@@ -241,7 +241,7 @@ An Occam's razor aficionado could point out that our Sayo and X Beatrice have su
 Later on, near the end of the theory, after we're done explaining all the events, we'll build a stronger argument for why they make more sense as two separate people, so let's move on for now.
 ## The downward spiral of the Black witch
 
-As the years pass and the children grow up, things don't improve for any of them. Escapism is not really a long term solution to living in an unhealthy environment, and all three of Maria, Sayo and X reach a breaking point.
+As the years pass and the children grow up, things don't improve for any of them. Escapism is not really a long term solution to living in an unhealthy environment, so each one of Maria, Sayo and X, eventually reaches a breaking point.
 
 We know all the details of Maria's struggles from the many scenes in Alliance of Ange reading her diary. She's suffering because she feels like a burden for her mother, who's under immense amounts of financial and societal pressure and is starting to become abusive. 
 In order to cope with this, Maria uses the magic she learned from Sayo.
@@ -274,7 +274,7 @@ For all we know, Kinzo might have even met his end willingly, but there really i
 
 With the help of the other servants they hide Kinzo's body after taking the family crest ring. Probably not much mourning was done except by Genji, the only person that truly cared about Kinzo... But to him all is according to the plan. After all, the Golden witch Beatrice has just began fulfilling the terms of the contract by taking what was owed to her.
 
-As awful as Kinzo was, as abusive as he was, suddenly, X is but an orphan with no caretaker. The only people who even know of her existence are the servants and Nanjo. She is no one, just an anonymous person X. 
+As awful as Kinzo was, as abusive as he was, suddenly X is but an orphan with no caretaker. The only people who even know of her existence are the servants and Nanjo. She is no one, just an anonymous person X. 
 
 She might have regained some freedom, but she has no prospect for the future. It's very likely that if Kinzo's children were to know about her she would be seen as a serious threat to their heritage.
 Luckily Krauss, fearing his embezzlement to be revealed, conspires with the servants, Nanjo, and his wife, to pretend that Kinzo is still alive for the time being. This preserves the status quo, but an investigation by the other siblings into the assets of the family might end up revealing her existence. Being in such a precarious position she hides away in Rokkenjima biding her time.
@@ -336,14 +336,14 @@ Given how badly things are going for everyone... Sayo has become desperate. She 
 X is also the husk of a person. She has lost her will to live and feels so hopeless that she's becoming suicidal. The only hope left to her is the mysterious promise Battler made.
 Maria has the whole situation with her mother, and she's finding it increasingly difficult to stay convinced of her own magical narrative.
 
-The one ace up Sayo's sleeves is access to all the hidden gold. She could use it to bring happiness to everyone... but she chooses not to. Instead, she constructs a much darker, much more elaborate plan.
+The one ace up Sayo's sleeve is access to all the hidden gold. She could use it to bring happiness to everyone... but she chooses not to. Instead, she constructs a much darker, much more elaborate plan.
 
-She might now know how to reach happiness... but she knows who to blame . She knows who is responsible for the awful situation she and everyone she cares about find themselves in.
+She might now know how to reach happiness... but she knows who to blame. She knows who is responsible for the awful situation she and everyone she cares about find themselves in.
 
 It's Kinzo's children and their spouses, who are complicit in abusing the servants and Maria.
 It's Nanjo, for knowing of the situation, and never speaking up about it.
 It's the other servants, for allowing all of this to happen. Godha is too cowardly, too afraid to lose his job to ever say anything, Genji is completely subservient to Kinzo's wishes, and Kumasawa, while being the closest thing to an ally, was never truly trying to get them out of this mess.
-Lastly it's also Kinzo's grandchildren. Every single one for them has been involved with her and X's disillusionment. George is a failed, disappointing, attempt at happiness, Jessica is the symbol of an happiness that is forever out of reach, Battler and his forgotten promise are symbols of false hope, and Ange denied the reality of their golden land when it was still a happy place.
+Lastly it's also Kinzo's grandchildren. Every single one of them has been involved with her and X's disillusionment. George is a failed, disappointing, attempt at happiness, Jessica is the symbol of an happiness that is forever out of reach, Battler and his forgotten promise are symbols of false hope, and Ange denied the reality of their golden land when it was still a happy place.
 Only Maria is a victim just like them, and so she is spared from the Judgement.
 
 Sayo decides that death is the only punishment that everyone involved deserves. After all, if there is no hope in reality, magic is the only realm in which people can find true happiness, true fulfillment. The hell of Rokkenjima is a hotbed of suffering and hurting, and she decides to resolve that situation in the same way she did when playing with Maria. With magic.
@@ -353,7 +353,7 @@ Sayo decides that on the day of the family conference she'll end the lives of ev
 With the power of her endless magic, she will obscure the material events of Rokkenjima, and create a fictional narrative where at the end of the ritual everyone is resurrected in the golden land.
 As long as the events remain hidden and her side of the story becomes publicly known instead, it will become the "truth".
 
-She is filled with resolve. She is filled with *certainty*. But thatalmost wavers when X isn't fully convinced. It seems she is still clinging to one last hope. That year Battler is supposed to attend the family conference for the first time since he made the promise. 
+She is filled with resolve. She is filled with *certainty*. But that almost wavers when X isn't fully convinced. It seems she is still clinging to one last hope. That year Battler is supposed to attend the family conference for the first time since he made the promise. 
 X agrees to the plan, but at the condition that if by any chance Battler is still serious about it, then Sayo will call it off.
 
 ![Pasted image 20261004125426.png](/img/user/Attachments/Pasted%20image%2020261004125426.png)
@@ -378,13 +378,13 @@ With the help of Kawabata, they move about 10% of the gold bars off the island, 
 
 Meanwhile, Genji is still working with Krauss to hide Kinzo's death and is aware of the investigations Krauss made into the financial situations of his siblings.
 
-He relays this information to the Sayo faction, who makes sure to plant the seeds of mistrust at the upcoming family conference. She spreads the rumor that Krauss is embezzling money so that the siblings will try to force that money out of him.
+He relays this information to the Sayo faction, which makes sure to plant the seeds of mistrust at the upcoming family conference. She spreads the rumor that Krauss is embezzling money so that the siblings will try to force that money out of him.
 Who does she contact for this job? Trough her relationship with George, she is told about Okonogi, a somewhat opportunistic man that is climbing the ranks of Hideyoshi's company. She tells him, and makes sure he understands how he could benefit from this.
 
-Arrangements are also made for Krauss to find one single gold ingot. This is important to convince him that the gold does in fact exist, in the hope that he will contract with the siblings in such a way the siblings can wonder why he is so stubbornly insistent to not give up the right to it.
+Arrangements are also made for Krauss to find one single gold ingot. This is important to convince him that the gold does in fact exist, in the hope that he will contract with the siblings in such a way that leaves the siblings wondering why he is so stubbornly insistent to not give up the right to it.
 
-All of this to make sure that every sibling and their partners have a strong incentive to accept a certain proposal: Collaborate with me in this murder plan, and I'll give you a huge pile of money to solve all of your problems. Refuse, and your life is at risk. 
-After all the culprit only really needs one of the Ushiromiya sibilings on their side. If it's not you, it could be one of your brothers and sisters. In this way, even people that might be less Cruel, like Natsuhi, Hideyoshi and Kyrie, have a very good reason to accept. Stick and Carrot.
+All of this to make sure that every sibling and their partners have a strong incentive to accept a certain proposal: "Collaborate with me in this murder plan, and I'll give you a huge pile of money to solve all of your problems. Refuse, and your life is at risk."
+After all the culprit only really needs one of the Ushiromiya sibilings on their side. If it's not you, it could be one of your brothers and sisters. In this way, even people that might be less cruel, like Natsuhi, Hideyoshi and Kyrie, have a very good reason to accept. Stick and carrot.
 
 Let's discuss how the rest of the servants are brought on board, their help is crucial to pull off many of the tricks throughout the episodes.
 Nanjo might not be a servant, but he has a sick niece, and he desperately needs money to save her life.
@@ -412,7 +412,7 @@ As for what the numbers mean (if anything), if the first half of the code really
 
 ### The bottled letters
 
-Then, Sayo writes another even more important set of letters. They're the ones that will be released by Kawabata in the ocean after a certain date. 
+Then, Sayo writes another even more important set of letters. These are the ones that will be released by Kawabata in the ocean after a certain date. 
 According to Ange, these letters are written in the same calligraphy as Beatrice's signature on the Mariage Sorciére contract and the letters with the bank information, and they contain detailed but contradicting accounts of what happened on the island. Their role is to spread the narrative of the witch after the deaths, to make sure that the magic stays "real". For this purpose they all bear the signature of Maria, since she gave the imput to Endless realization, although in practice those signatures were also written by Sayo.
 
 The bottles all contain many plausible what-ifs of how the murders of Rokkenjima could play out on that night. In each one of them Sayo makes different alliances and reacts to different circumstances. Sometimes X plays a significant role, and other times she doesn't, but they all start from the same setup we just described.
@@ -437,8 +437,8 @@ We can theorize this because there isn't a shred of evidence of the mansion stil
 ![Pasted image 20260811002044.png](/img/user/Attachments/Pasted%20image%2020260811002044.png)
 
 
-So, to recap this very simple plan: On the first day, Sayo will approach Maria, and give her a letter sealed with Kinzo's crest. She'll tell Maria that an occult ceremony will occur according to the epitaph, but that by the end of it everyone will be resurrected.
-"Beatrice" will then kill everyone in Rokkenjima, and a tale of the events, will be shared to the outside world. The legend of Beatrice, the witch of Rokkenjima, will be born and spread through the combined power of both Golden and Endless magic so that they may never be forgotten.
+So, to recap this very simple plan: on the first day, Sayo will approach Maria, and give her a letter sealed with Kinzo's crest. She'll tell Maria that an occult ceremony will occur according to the epitaph, but that by the end of it everyone will be resurrected.
+"Beatrice" will then kill everyone in Rokkenjima, and a tale of the events will be shared to the outside world. The legend of Beatrice, the witch of Rokkenjima, will be born and spread through the combined power of both Golden and Endless magic so that they may never be forgotten.
 # Part 3: Umineko When They Cry
 
 Our theory, so far, might explain how the structure of the Rokkenjima murders came to be... but there is an elephant in the room that we still need to address, isn’t there?
@@ -632,7 +632,7 @@ If you're able to mask uncertain information as certain and vice versa, you have
 <b><font color="#00b0f0">Rule Z is the Golden magic.</font></b> The power that Kinzo's legend of the witch holds over all theories and explanations in Rokkenjima. 
 Like it does in Endless Realization, it serves to strengthen rule Y and turn the altered reality based on mutual consent into a forceful one that refuses to be denied.
 
-It's interesting that, after comparing Beato's power to her friend's, who's implied to be a Creator, and doubting if Voyagers should even be allowed to call themselves witches, Bernkaster says this:
+It's interesting that, after comparing Beato's power to her friend's, who's implied to be a Creator, and doubting if Voyagers should even be allowed to call themselves witches, Bernkastel says this:
 
 > Unless I can unravel this rule Z... no, basically it's exactly because I can't unravel it that Beatrice is a witch.
 
@@ -642,7 +642,7 @@ For this reason, even though both of them recognize she did something incredible
 
 Sayo writes the games to follow the rules of her magic to the letter. By doing so, she makes the narrative of the Golden and Endless Witch that emerges from them unshakable.
 
-Captain Kawabata does his part, a fisherman recovers the first bottle containing “Legend of the Golden Witch,” and the police later takes possession of it.
+Captain Kawabata does his part, a fisherman recovers the first bottle containing “Legend of the Golden Witch” and the police later takes possession of it.
 Its contents are published, and the witch’s narrative sets the world ablaze.
 
 From now on, we’ll call the fragments influenced by these letters the “future” fragments.
@@ -696,7 +696,7 @@ Many of Beato’s red truths become crucial hints. She repeatedly accepts losses
 
 Battler is Beato’s opponent because his failure to remember his sin embodies the lack of understanding she wants to overcome. His personality also makes him the perfect skeptic, though we’re sure Bernkastel cries herself to sleep knowing she got stuck with the incompetent one when she could have had Kyrie instead.
 
-This also helps explain why Beato can’t simply tell him the truth. Sayo wrote the letters from a place of hopelessness, and the story deliberately emphasizes that Battler must understand his sin for himself.
+This also helps explain why Beato can’t simply tell him the truth. Sayo wrote the letters from a place of hopelessness, and the story deliberately emphasizes that Battler must understand his sin by himself.
 
 We like to imagine this condition mirrored in the higher world of witches, with Lambdadelta imposing a rule on Beatrice as insurance. Like Ange, Beatrice cannot reveal her true name to Battler. He has to figure it out on his own.
 
@@ -756,7 +756,7 @@ We're not sure this distinction is always consistent in Umineko, but we need to 
 
 ## Legend of the Golden Witch
 
-This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse
+This is our original theory for Legend of the Golden Witch. We'll link it here for whoever is interested, although reading it back makes us cringe somewhat, given the mistakes and the fact that the writing is much worse.
 
 > [[Previous Episodes Theories/Theory for Legend of the Golden witch\|Theory for Legend of the Golden witch]]
 >_~ published on 18/04/2025_
@@ -784,7 +784,7 @@ So, let's present our reconstruction.
 - Eva tries to frame Natsuhi with the receipt trick, but it doesn't work. Thanks, Battler.
 - In the kitchen, Maria tells Battler that Beatrice is right there with them. Of course, she's referring to Sayo.
 - Eva and Hideyoshi feel secure in their deal with Sayo, so they retire to their room.
-- Sayo kills them, then creates the appearance of a closed room by pretending, as Kanon, to find the door closed in an implausible way when they discover the bodies. She and the servants paint the magic symbol, mutilate the bodies and plant the stakes in their heads. There are no witnesses to this scene other than the servants, so the narration is able to offuscate it. The room was never confirmed in red to be a closed room, so it isn't one.
+- Sayo kills them, then creates the appearance of a closed room by pretending, as Kanon, to find the door closed in an implausible way when they discover the bodies. She and the servants paint the magic symbol, mutilate the bodies and plant the stakes in their heads. There are no witnesses to this scene other than the servants, so the narration is able to obfuscate it. The room was never confirmed in red to be a closed room, so it isn't one.
 - With very little time left before the others arrive, Kanon can only leave a letter with "Praise my name" on it instead of a longer one.
 - Sayo rushes to the boiler room, splatters a bag of fake blood on her chest, leaves the stake on the floor and pretends Kanon has been stabbed. Nanjo fakes an attempt at first aid and later declares Kanon dead. The red truth never claims that Kanon was dead, and his corpse isn't mentioned again, so Sayo could have got up and slipped away at any point.
 - All the survivors hide in the study. This time, they've prepared a letter for Genji to keep in his pocket and place on the table when nobody is looking. Maria finds it, and Natsuhi correctly guesses that one of the servants might have put it there. She then kicks them out.

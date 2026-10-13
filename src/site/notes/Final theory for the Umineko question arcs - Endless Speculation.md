@@ -61,6 +61,20 @@ Alpha Beatrice eventually died some time before 1952 under circumstances as of y
 ![Pasted image 20260808111023.png](/img/user/Attachments/Pasted%20image%2020260808111023.png)
 
 Kinzo was distraught by this fact, and he became deeply obsessed with the myth of the witch he had created, so much so that he came up with an idea to "resurrect" her.
+
+### 0 Beatrice
+
+The Ushiromiya head eventually bought Rokkenjima, and on it he built the main mansion, as well as a secondary hidden one called Kuwadorian. 
+In the secret mansion he would raise a secluded child, referring to her as Beatrice, treating her as his own possession and shielding her from any knowledge of the outside world. 
+The only people who knew about her situation were the higher ranking servants and Nanjo.
+
+This is the Beatrice we see in Rosa's flashback, who died by falling off a cliff in 1968. We'll call her 0 Beatrice, since we don't know her real name or if she ever had one.
+She is the "first" golden witch in the sense that she was created by Kinzo's golden magic, Aka he used his money to will a new witch Beatrice into existence after the previous one had died, just to fulfill his wish of seeing his love reciprocated. After all it's implied that his feeling for Alpha were one sided to the very end.
+
+
+![Pasted image 20260808120412.png](/img/user/Attachments/Pasted%20image%2020260808120412.png)
+![Pasted image 20260808120558.png](/img/user/Attachments/Pasted%20image%2020260808120558.png)
+
 ### X Beatrice
 
 With Kinzo mourning his beloved for the second time, the supply trips to Kuwadorian stopped completely.

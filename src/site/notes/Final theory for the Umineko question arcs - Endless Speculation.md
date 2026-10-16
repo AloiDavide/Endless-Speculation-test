@@ -748,7 +748,7 @@ But, information seeps in, especially on such a long time frame, and it's not al
 This will not be the last time we reached a conclusion with the help of outside information. I'm also sure that, sometimes, ideas seeped in through osmosis without us even realizing it. Those cases are impossible to identify. Whenever we can, however, it's fair to point them out.
 
 So, what happened? You see, I, Crunter, watched Higurashi Gou and Sotsu, and in those series there is a character, Eua, who people would constantly point out as a cameo from Umineko. 
-Seeing how people talked about her made me connect the dots, she sounds lik the in universe creator of Umineko. Truly a double curse, not only it may have spoiled us an element of Umineko, but I also watched two seasons of the terrible Higurashi sequel in the process.
+Seeing how people talked about her made me connect the dots and I strongly suspect that she's the in-universe creator of Umineko. Truly a double curse, not only it may have spoiled us an element of Umineko, but I also watched two seasons of the terrible Higurashi sequel in the process.
 
 Regardless, we tank the hit and move forward.
 ### The higherarchy of fiction visualized

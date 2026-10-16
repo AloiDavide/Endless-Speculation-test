@@ -431,8 +431,7 @@ Then, Sayo writes another even more important set of letters. These are the ones
 According to Ange, these letters are written in the same calligraphy as Beatrice's signature on the Mariage Sorciére contract and the letters with the bank information, and they contain detailed but contradicting accounts of what happened on the island. Their role is to spread the narrative of the witch after the deaths, to make sure that the magic stays "real". For this purpose they all bear the signature of Maria, the mother of Endless Realization, although in practice those signatures were also written by Sayo.
 
 The bottles all contain many plausible what-ifs of how the murders of Rokkenjima could play out on that night. In each one of them Sayo makes different alliances and reacts to different circumstances. Sometimes X plays a significant role, and other times she doesn't, but they all start from the same setup we just described.
-But of course, the letters don't contain an explanation of the conspiracy, but the version of the events that the people in the island will experience.
-None of the letters depicts the true events of the Rokkenjima. They were all written before the tragedy takes place.
+But of course, the letters don't contain an explanation of the conspiracy, they depict the murders from the perspective of the victims. Crucially, none of the letters contain the "true" sequence of events that caused all the deaths. They were all written before the tragedy ever took place.
 
 ### The grand finale
 

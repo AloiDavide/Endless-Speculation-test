@@ -784,7 +784,7 @@ So, let's present our reconstruction.
 - When Sayo goes to the guesthouse to tell the cousins that dinner is ready, she stops in the rose garden to give Maria the letter and the umbrella. As in all the following games, the letter is meant to alert the family to the possibility of a 19th person and kick-start the magical narrative. It's not enough to kill everybody, the point is to make a story out of it.
 - Rudolph, knowing something fishy is going on, warns Battler and Kyrie that he might be killed that night.
 - X verifies that Battler doesn't remember his promise. Distraught, she commits suicide.
-- George proposes to Shannon, who intentionally avoids answering. She pockets the ring to it use later.
+- George proposes to Shannon, who intentionally avoids answering. She pockets the ring to use it later.
 - Later that night, while Rudolph, Kyrie, Rosa and Krauss are still arguing, the servants call Gohda to the scene. Sayo then shoots all five of them with her winchester, loaded with 4+1 bullets. 
 - Nobody other than Sayo actually kills anyone in Legend, since **Genji, Kumasawa, and Nanjo are not killers**.
 - Kinzo's body, which was hidden in the boiler room, is burned in the incinerator. Later in the day the stench will fill the mansion, prompting its discovery.

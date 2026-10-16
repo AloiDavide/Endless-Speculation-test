@@ -439,9 +439,9 @@ Prior to the day of the conference Sayo sets up two really powerful bombs: one i
 We already went over how Sayo and X don't plan to leave any survivors, including themselves, but it's entirely possible that they will die before the end of the second day, be it because of a mistake, an accident, or because it would help create the perfect closed room.
 The bombs are a safeguard against randomness, they make sure that everyone will *certainly* die when the time is over, or at least they were supposed to. Of course, Eva was able to make it far enough and survive. The plan was almost perfect but not quite.
 
-This bomb idea might sound ludicrous, and it is. It started as pretty much our only way to explain Battler's death at the end of this episode, where even though he's alone on the island he still gets killed by Beatrice, but it kind of makes more sense than initially thought.
+This bomb idea might sound ludicrous, and it is. It started as pretty much our only way to explain Battler's death at the end of the fourth episode, where even though he's alone on the island he still gets killed by Beatrice, but it kind of makes more sense than we initially thought.
 
-Let's considered why the incident at Rokkenjima was perceived by the police as an accident.
+Let's consider why the incident at Rokkenjima was perceived by the police as an accident.
 We're told that Eva never commented, and at the end of Legend of the Golden witch we learn that the police was unable to identify any bodies except for a piece of Maria's jaw, let alone do any proper autopsies that would have identified the bullet wounds.
 ![Pasted image 20260810235915.png](/img/user/Attachments/Pasted%20image%2020260810235915.png)
 

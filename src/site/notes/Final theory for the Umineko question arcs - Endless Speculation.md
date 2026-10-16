@@ -741,8 +741,7 @@ This would have been the start of a tangent trying to identify this character, w
 
 We, Crunter and Hound, the writers, don't live in a bubble. We live in a world in which sometimes people talk about Umineko, and we can't always dodge the information.
 
-We spent a loooong time writing these theories, *years*. This is mostly because real life got in the way, we found jobs, and we truly didn't have time to go in depth. And, I, Crunter, was adamant about taking this project seriously, I didn't want to create something half baked just because there wasn't enough time to tackle it, I was stubborn. And I felt like we could do it, we could solve Umineko.
-In some periods there wouldn't be an opportunity to dedicate time to the theories, and we just decided to left them on pause, for months. That's why it took so long, most of the time was us not being able to dedicate ourselves to this project.
+We spent a loooong time writing these theories, *years*. This is mostly because real life got in the way, we found jobs, and we truly didn't have time to go in depth. And, I, Crunter, was adamant about taking this project seriously, I didn't want to create something half baked just because there wasn't enough time to tackle it, I was stubborn. And I felt like we could do it, we could solve Umineko, even at the cost of having to put the project on hold for months at a time.
 In retrospect, I don't know if I would insist for being this thorough again, but in some ways it's also a very cherished experience.
 
 But, information seeps in, especially on such a long time frame, and it's not always possible to avoid.

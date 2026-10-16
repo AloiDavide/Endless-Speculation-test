@@ -1019,7 +1019,7 @@ We have two possible candidates, none of them are particularly convincing but he
 
 
 #### X Beatrice
-We've established that she only looks like Beatrice, so she could reasonably have a different persona, and the blonde hair and blue eyes work for her just as well as they do for Jessica. Plus, every time we have mentioned her in the reconstruction, it was as part of a trick to create a closed room.
+We've established that she only looks like Beatrice, so she could reasonably have a different persona, and the blonde hair and blue eyes would point in that direction. Plus, every time we have mentioned her in the reconstruction, it was as part of a trick to create a closed room.
 Although X already shows up in this episode with her appearance from Turn, we can argue that it is just her human design, like how Genji and Ronove coexist in different scenes. The main point against this reading, which almost invalidates it, is that even after X excuses herself from the game board, Gaap is still around none the wiser.
 
 ![Pasted image 20261004132320.png](/img/user/Attachments/Pasted%20image%2020261004132320.png)
@@ -1034,7 +1034,7 @@ We believe in Gaanjo.
 ---
 
 Regardless of her identity, she confronts George and then shoots him dead.
-Assuming Jessica is not Gaap, she also gets to her designated location and is faced with Genji (whose family name is Ronoue), but he's behaving very unlike himself so she's more than a little confused.
+Assuming Jessica is not Gaap (which she can't be without contradicting large chunks of the theory so far), she also gets to her designated location and is faced with Genji, whose family name is Ronoue, but he's behaving very unlike himself so she's more than a little confused.
  ![Pasted image 20240829001540.png](/img/user/Attachments/Pasted%20image%2020240829001540.png)
 
 Jessica chooses to sacrifice herself, and with the promise that no one else will be killed, she is made to describe a magical scene to Battler on the phone. She also tells him about George’s death, which she saw from the window. 

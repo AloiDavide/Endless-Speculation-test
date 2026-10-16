@@ -189,7 +189,7 @@ From the tea party of Turn we get this description of Shannon.
 > In the lengthy span of time following that, she began to mature, becoming exceptionally skilled with powers of a protective or repulsive nature, such as magical barriers.
 > 
 > Because of this, in the realm of barriers alone, she possesses immense, magician-class power.
-> 
+> ———
 > ~ Shannon's description in Episode 2 (outside the gameboard)
 
 
@@ -200,7 +200,8 @@ We already mentioned how Kinzo sees his servants as his own property and creatio
 However, a few years after Shannon, another orphan was hired as a servant and given the furniture name of "Kanon".
 
 We believe that Kanon, like Shannon, is also Sayo, just wearing different clothes.
-This insight is one of the most important keys to make sense of the events in Rokkenjima. It's what explains the inconsistent number of people on the island.
+This insight is one of the most important keys to make sense of the events in Rokkenjima. It's what explains the inconsistent number of people on the island. 
+We came up with this theory after noticing that the two of them are never really shown together in the presence of Battler or other decidedly reliable witnesses.
 
 Why take on this new identity though? We don't quite know for sure. Most likely Kinzo's input had something to do with it.
 
@@ -214,7 +215,7 @@ Why take on this new identity though? We don't quite know for sure. Most likely 
 > ———
 > ~ Kanon's description in Episode 2 (outside the gameboard)
 
-This is an aspect of the Golden magic. Kinzo can just decide to impose a new identity on a servant, and in the case of Shannon and Kanon, all it takes is a wig and different clothes to turn into someone else.
+This is an aspect of the Golden magic. Kinzo can just decide to impose a new identity on a servant, and in the case of Shannon and Kanon, all it takes is a wig and different clothes to turn into someone else. The logistics of it might seem impossible at first glace, but we know there are more servants who take turns coming to the island, so it's not like they would have to work the same shifts most of the time.
 
 We are very well aware that a piece of the puzzle is missing here.
 Sayo seems very involved in the two identities. It's not like she's putting up with it because she's forced to. We're also not too sure why Kinzo would go out of his way to impose this on one of his servants, but Kanon and Shannon both being Sayo explains so much to make these missing details not enough to discard the insight as a whole.

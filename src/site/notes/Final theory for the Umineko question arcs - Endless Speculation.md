@@ -705,9 +705,8 @@ When she wrote the letters, the Paradise she and X hoped for may have been the g
 
 That wish can no longer be fulfilled, Beato’s “Paradise” has instead become a world where the pain of Rokkenjima is understood and acknowledged, and where those who suffered finally receive some measure of true understanding.
 
-The games Beato plays against Battler are difficult, but they aren’t unwinnable. She seems to be leading him toward an understanding of what happened on Rokkenjima, allowing him to reach it on his own.
-Lambdadelta, in her place, might construct something so opaque that it couldn’t be solved using the available information.
-Many of Beato’s red truths become crucial hints. She repeatedly accepts losses she could have avoided, and, through Virgilia, she even helps explain how Endless magic works.
+The games Beato plays against Battler are difficult, but they aren’t unwinnable. She seems to be leading him toward an understanding of what happened on Rokkenjima, allowing him to reach it on his own. Thus, many of Beato’s red truths become crucial hints, she repeatedly accepts losses she could have avoided, and, through Virgilia, she even helps explain how Endless magic works.
+After constructing a scenario so opaque that it couldn’t be solved using the available information, she started giving her opponent all the tools to gather more of it. This is something Lambdadelta would never do in her place.
 
 Battler is Beato’s opponent because his failure to remember his sin embodies the lack of understanding she wants to overcome. His personality also makes him the perfect skeptic, though we’re sure Bernkastel cries herself to sleep knowing she got stuck with the incompetent one when she could have had Kyrie instead.
 

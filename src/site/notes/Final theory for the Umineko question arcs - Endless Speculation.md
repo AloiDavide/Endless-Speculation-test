@@ -712,11 +712,10 @@ Battler is Beato’s opponent because his failure to remember his sin embodies t
 
 This also helps explain why Beato can’t simply tell him the truth. Sayo wrote the letters from a place of hopelessness, and the story deliberately emphasizes that Battler must understand his sin by himself.
 
-We like to imagine this condition mirrored in the higher world of witches, with Lambdadelta imposing a rule on Beatrice as insurance. Like Ange, Beatrice cannot reveal her true name to Battler. He has to figure it out on his own.
+We like to imagine this condition mirrored in the higher world of witches, with Lambdadelta imposing a rule on Beatrice as insurance. Like Ange, Beatrice cannot reveal her true name to Battler.
+This is only possible because, despite her creator-adjacent powers inside her cage, Beatrice is still a temporary witch. She needs Lambda’s approval, which means maintaining the strength of will that fuels the power of certainty. Hoever, by the end of the fourth game that will has been badly shaken.
 
-Despite her creator-adjacent powers inside her cage, Beatrice is still a temporary witch. She needs Lambda’s approval, which means maintaining the strength of will that fuels the power of certainty. By Alliance of the Golden Witch, that will has been badly shaken.
-
-At the end of the episode, Beato despairs at the apparent impossibility of her task. She no longer wants to fight or keep subjecting people to the “hell” of her Golden Land. She seems willing to be forgotten and die without reaching her Paradise but Battler gives her a reason to keep going.
+At the end of Alliance Beato despairs at the apparent impossibility of her task. She no longer wants to fight or keep subjecting people to the “hell” of her Golden Land. She seems willing to be forgotten and die without reaching her Paradise but Battler gives her a reason to keep going.
 
 It’s no coincidence that the question she leaves him with is “Who am I?”
 

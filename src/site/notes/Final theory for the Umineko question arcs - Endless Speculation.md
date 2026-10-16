@@ -1031,11 +1031,11 @@ It certainly wouldn't be the first time in history an old man roleplays as a you
 
 We believe in Gaanjo.
 
----
-
 Regardless of her identity, she confronts George and then shoots him dead.
-Assuming Jessica is not Gaap (which she can't be without contradicting large chunks of the theory so far), she also gets to her designated location and is faced with Genji, whose family name is Ronoue, but he's behaving very unlike himself so she's more than a little confused.
+Jessica also gets to her designated location and is faced with Genji, whose family name is Ronoue, but he's behaving very unlike himself so she's more than a little confused.
  ![Pasted image 20240829001540.png](/img/user/Attachments/Pasted%20image%2020240829001540.png)
+
+We're assuming she's not Gaap because that would contradict large chunks of the theory so far, despite being Sayo's friend and her physical appearance being close enough.
 
 Jessica chooses to sacrifice herself, and with the promise that no one else will be killed, she is made to describe a magical scene to Battler on the phone. She also tells him about George’s death, which she saw from the window. 
 The moment Battler closes the call, Genji shoots Jessica with a shotgun and locks her room as he leaves.
